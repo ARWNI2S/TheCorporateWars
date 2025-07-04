@@ -1,0 +1,5 @@
+# SPL Tokens
+
+The economy of **The Corporate Wars** is built on a tokenized system that integrates the **Solana blockchain** as the foundation for value and traceability of all assets and transactions within the persistent universe. **SPL tokens** serve as the digital representation of wealth, control, and influence, allowing players and corporations to participate in dynamic markets, invest in strategic infrastructures, and compete for control over routes and star systems in a constantly competitive environment.
+
+This model not only sustains exchange and speculation but also incorporates internal mechanisms of economic regulation that balance value creation, capital flow, and market stability. The treasury, staking, and credit systems are integrated as essential components of the financial balance, ensuring that the game’s economy operates under a controlled cycle of wealth issuance and absorption. Thus, progression and success within the universe of **The Corporate Wars** depend not only on strategy and expansion but also on the proper management of resources and the fulfillment of economic obligations imposed by the system itself.

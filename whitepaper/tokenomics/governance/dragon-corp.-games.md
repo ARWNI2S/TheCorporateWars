@@ -1,0 +1,5 @@
+# Dragon Corp. Games
+
+As the founding entity and guarantor of the ecosystem, **Dragon Corp. Games** holds a limited but essential role in the governance of the **The Corporate Wars** universe. Its function is not to intervene in the daily politics or economy of the game but to preserve the structural integrity and stability of the global mechanics that sustain the system. **Dragon Corp.** acts as the supervisor of base contracts, ensuring the correct functioning of the fundamental principles that guarantee balance and sustainability within the ecosystem.
+
+Its involvement focuses on the validation of protocol updates, security audits, and overseeing the compliance with the immutable rules of the game. In this role, **Dragon Corp.** ensures that the emergent dynamics created by players, **GAOs**, and guilds develop within the intended margins, without compromising the coherence or viability of the persistent universe. In doing so, **Dragon Corp.** guarantees that the system remains neutral, functional, and fair, allowing the true economic and political wars to be fought exclusively by the players and their corporations in a robust and competitive environment.

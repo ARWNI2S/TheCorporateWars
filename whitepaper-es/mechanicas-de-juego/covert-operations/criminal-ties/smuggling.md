@@ -1,0 +1,5 @@
+# Contrabando
+
+El contrabando en _The Corporate Wars_ es una consecuencia inevitable de las complejas redes comerciales y las asimetrías legales que existen entre sistemas y Políticas. Mercancías, tecnologías o incluso personas cruzan fronteras bajo condiciones irregulares, sorteando aranceles, bloqueos o normativas que convierten lo cotidiano en ilegal con el simple cambio de jurisdicción. Allí donde las rutas oficiales fallan o se encarecen, surgen corredores alternativos y operadores dispuestos a cubrir la demanda sin hacer demasiadas preguntas.
+
+Las corporaciones más poderosas conocen bien este terreno y, lejos de combatirlo, lo utilizan como una herramienta más en sus estrategias. Desde recursos estratégicos hasta cargamentos de información, todo puede moverse por vías grises cuando resulta más rentable o necesario. A veces es cuestión de acelerar una operación; otras, de mantener el flujo en territorios donde las restricciones convierten en delito lo que en otro lugar sería simple rutina. En ese espacio de ambigüedad, las líneas entre comercio legítimo y tráfico ilícito se desdibujan hasta desaparecer.

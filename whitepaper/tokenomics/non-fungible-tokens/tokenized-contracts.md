@@ -1,0 +1,7 @@
+# Tokenized Contracts
+
+In **The Corporate Wars**, **tokenized contracts** are binding **NFTs** that guarantee the fulfillment of agreements between players, corporations, and political entities within the persistent universe. These contracts formalize everything from loans and insurance to complex trade pacts or exclusivity clauses over resources and strategic routes, functioning as executable guarantees that reinforce legal security and the traceability of each operation.
+
+The tokenization of contracts not only ensures their integrity on the blockchain but also allows for dynamic configuration through forms integrated into the NFT metadata. Players and entities can define specific terms, conditions, timelines, and penalties, generating tailor-made agreements that adapt to the complexity of each operation and the risk assumed by the parties. This flexibility makes contracts powerful tools within the game’s economy, capable of establishing relationships of dependency, exclusivity, or collaboration between actors with diverse interests.
+
+The weight of these tokenized contracts transcends the economic aspect and becomes a key element of gameplay and strategy. Their execution or breach can trigger direct consequences on players' assets, alter the balance of trade routes, or redefine alliances and conflicts on a large scale. In **The Corporate Wars**, contracts are not just narrative elements but living mechanisms that structure the economic and political universe of the game.

@@ -1,0 +1,5 @@
+# Initial Coin Offering
+
+The **Initial Token Offering (ICO)** of **The Corporate Wars** marks the first access window to **MCr** and other fundamental tokenized assets necessary for launching the game’s economy. During this phase, a limited amount of **MCr** will be released at a preferential price, offering participants the opportunity to strategically position themselves in the market before the full opening of the ecosystem. This initial distribution ensures the liquidity needed to activate the first operations, investments, and trade routes.
+
+The funds raised will not only support the living economy and the internal functioning of the financial system, but will also be allocated to the development of the blockchain infrastructure, content creation, the deployment of the first in-game campaigns and contracts, and — as expected — sustaining the team behind the project: developers, artists, musicians, and all the pieces that bring life and shape to this persistent universe. In **The Corporate Wars**, every token issued directly contributes to building a solid economic system, as well as a living, playable, and constantly expanding game.

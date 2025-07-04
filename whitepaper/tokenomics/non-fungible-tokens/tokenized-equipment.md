@@ -1,0 +1,7 @@
+# Tokenized Equipment
+
+**Tokenized Equipment** encompasses all the modules, systems, and technologies that expand or modify the capabilities of a facility, a ship, or even specialized personnel within **The Corporate Wars**. From reactors and defense systems to laboratories, hangars, weaponry, and habitation modules, each piece of equipment is an independent **NFT** that can be installed, exchanged, or transferred based on the strategic needs and economic environment in which each player or corporation operates.
+
+Beyond its tactical function, equipment is also a market in itself and an active source of production for players. Corporations can develop, manufacture, and trade their own modules and technologies, generating income and strengthening their position within the galactic economic network. Investment in research and development (R\&D) will allow players to unlock upgraded versions of equipment, with better performance or unique effects, creating a competitive and constantly evolving technological ecosystem.
+
+The modular logic of this system offers immense strategic depth: facilities — including ships — can be customized to fulfill different roles, optimize performance, or enhance their value in the market. Even specialized personnel can be equipped or technologically upgraded, expanding their skills and impact in critical missions. Thus, equipment becomes a dynamic and valuable element, where the production, improvement, and trade of these tokenized assets define much of the economy and tactical possibilities in **The Corporate Wars**.

@@ -1,0 +1,7 @@
+# Financial Disruption
+
+In **The Corporate Wars**, financial disruption is as lethal a weapon as any combat fleet, designed to break economies, destabilize governments, and ruin rival corporations without firing a single shot. In a scenario where star systems rely on fragile trade routes and interconnected markets, causing the collapse of a credit line, manipulating currency flow, or blocking access to critical resources can trigger the collapse of entire colonies and reshape the interstellar power map.
+
+Such operations are based on the use of insider information, market manipulation, and the creation of artificial crises that erode trust and destroy the economic value of a target. From sabotaging contracts to spreading rumors about insolvencies or deliberately altering prices on key trade routes, each action aims to push the rival into bankruptcy or force them to make desperate decisions. The effects, though subtle at first, amplify over time and distances, spreading like a shockwave through trade routes and dependent systems.
+
+Controlling the flow of capital, restricting access to cargo insurance, or disrupting the funding lines of a rival operation can be more devastating than any direct confrontation. The most powerful corporations not only protect their assets with fleets and mercenaries, but also with economists, financial agents, and networks of influence capable of paralyzing their enemies where it hurts most: in the liquidity and stability of their operations.

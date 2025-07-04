@@ -1,0 +1,5 @@
+# Smuggling
+
+Smuggling in **The Corporate Wars** is an inevitable consequence of the complex trade networks and legal asymmetries that exist between systems and Polities. Goods, technologies, or even people cross borders under irregular conditions, bypassing tariffs, blockades, or regulations that turn the everyday into illegal with the simple change of jurisdiction. Where official routes fail or become too costly, alternative corridors and operators willing to meet demand without asking too many questions emerge.
+
+The most powerful corporations are well-acquainted with this terrain, and rather than fighting it, they use it as another tool in their strategies. From strategic resources to information shipments, everything can be moved through gray channels when it proves more profitable or necessary. Sometimes it's about speeding up an operation; other times, it's about maintaining flow in territories where restrictions turn what would otherwise be routine into a crime. In that space of ambiguity, the lines between legitimate trade and illicit trafficking blur until they disappear.

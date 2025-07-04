@@ -1,0 +1,11 @@
+# Leasing, Lending and Ownership
+
+Corporations in **The Corporate Wars** do not always need to acquire assets permanently; there are multiple mechanisms that allow access to strategic resources without assuming the full burden of ownership. Leasing, loans, and shared ownership are key methods for expanding operations with less financial risk and greater flexibility.
+
+Leasing allows a company to use infrastructure, land, fleets, or equipment without directly purchasing them. Many corporations prefer this option to reduce initial costs or avoid long-term commitments in sectors where demand is volatile. Leasing contracts can apply to both industrial facilities and spacecraft, ensuring operational access without the need to tie up capital in permanent acquisitions.
+
+Asset loans work in a similar manner but are often tied to temporary agreements or specific strategic situations. In some cases, a corporation may receive financing to operate a facility with the possibility of future purchase, while in others, certain assets may be transferred as part of trade agreements, alliances, or even unpaid debts. Interstellar banking and financial consortiums play a key role in granting these loans, establishing conditions that can either benefit or limit a company’s expansion depending on its influence and solvency.
+
+Shared ownership is another alternative for accessing assets without assuming the entire investment. Through partnerships, co-ownership contracts, or strategic consortiums, multiple entities can share the use and management of key infrastructures, such as shipyards, trade stations, or transport networks. While this option allows costs and responsibilities to be shared, it also introduces challenges in decision-making and profit distribution, especially in sectors with conflicting interests.
+
+Each of these strategies offers advantages and disadvantages depending on the context in which they are implemented. While some corporations seek to consolidate their power through full asset acquisition, others prefer to operate with greater agility, ensuring access to resources without committing to permanent investments. In an interstellar market where control of assets defines a company’s influence, the ability to negotiate and optimize the use of these mechanisms can make the difference between success and obsolescence.

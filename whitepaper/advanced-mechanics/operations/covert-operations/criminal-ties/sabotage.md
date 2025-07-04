@@ -1,0 +1,5 @@
+# Sabotage
+
+In **The Corporate Wars**, sabotage is one of the most direct and effective ways to alter the balance of power without the need to deploy military forces. Attacking a rival's infrastructure, assets, or operations from within allows for deep, hard-to-trace damage, affecting production, transportation, or security at the most critical moments. A failure at a fueling station, a malfunction in a cargo ship, or the loss of data at an administrative hub can trigger devastating consequences on an interstellar scale.
+
+These actions are rarely carried out openly. The true value of sabotage lies in its ability to go unnoticed, to sow chaos while everything appears to be a mere accident, a technical failure, or a poor decision. Agents, often infiltrated or hired by third parties, operate quietly, leaving behind economic losses, logistical delays, and internal distrust. In a universe where time and reliability are everything, the shadow of sabotage is a constant threat, always lurking in the spots where a single spark can ignite an uncontrollable fire.

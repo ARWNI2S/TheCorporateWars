@@ -1,0 +1,7 @@
+# Real Estate and Shipyards
+
+Corporations in **The Corporate Wars** can expand their control by acquiring strategic assets in the real estate and shipbuilding sectors. Properties such as industrial complexes, orbital stations, and private ports can be purchased, leased, or developed from scratch, ensuring access to key infrastructures for production and trade. Depending on the star system, the availability of land and buildings varies, with some markets open to foreign investment and others where regulations or government restrictions limit direct acquisition.
+
+In the naval sector, shipyards represent an essential asset for any corporation with interstellar expansion ambitions. Not only can operational facilities be purchased, but it’s also possible to participate in joint development projects with local entities or acquire concessions to operate within public facilities. In some cases, purchasing abandoned or disused shipyards may be a quick way to establish a presence in a system, although this often requires additional investments in modernization and maintenance.
+
+Assets acquired in these markets not only strengthen a company’s operational capacity but also offer long-term strategic opportunities. Owning key infrastructures allows for cost reductions, guarantees autonomy, and consolidates dominance in sectors where access to logistics and mobility are crucial. In a universe where competition for space and resources is constant, securing ownership of these assets can make the difference between success and obsolescence.

@@ -1,0 +1,7 @@
+# Available Labor
+
+The labor market in **The Corporate Wars** is heavily influenced by local conditions — political, economic, and environmental. In systems with strong governments and strict regulations, corporations must adapt to labor laws that may include minimum wages, union rights, and restrictions on hiring foreign workers or implementing automation. In contrast, regions with weaker governmental control offer companies greater flexibility, often at the expense of worker stability and safety.
+
+Environmental conditions play a critical role in labor availability and demand. On worlds with hostile atmospheres, high radiation levels, or limited life support, worker turnover is typically high, and incentives to attract talent must be substantial. In such environments, costs related to safety, habitat maintenance, and risk compensation increase significantly. Conversely, on planets with more favorable conditions, competition among workers is higher, allowing corporations to reduce expenses on wages and benefits.
+
+Ultimately, the balance between labor demand, local conditions, and corporate adaptability defines the viability of the job market in each system. Corporations that successfully optimize their hiring strategies based on these factors will maximize productivity without incurring excessive costs, securing their advantage in the struggle for interstellar economic dominance.
