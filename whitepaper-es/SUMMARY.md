@@ -94,7 +94,7 @@
     * [Supresión](mecanicas-de-juego/covert-operations/criminal-ties/suppression.md)
     * [Pirateria y Terrorismo](mecanicas-de-juego/covert-operations/criminal-ties/piracy-and-terrorism.md)
 
-## Tokenomics
+<!--## Tokenomics
 
 * [In-Game P2E](tokenomics/in-game-p2e.md)
 * [Tokens SPL](tokenomics/tokens-spl/README.md)
@@ -121,7 +121,7 @@
   * [Dragon Corp. Games](tokenomics/gobernanza/dragon-corp.-games.md)
 * [Early Adoption](tokenomics/early-adoption/README.md)
   * [Oferta Incial (ICO)](tokenomics/early-adoption/oferta-incial-ico.md)
-  * [Paquetes de Activos](tokenomics/early-adoption/paquetes-de-activos.md)
+  * [Paquetes de Activos](tokenomics/early-adoption/paquetes-de-activos.md)-->
 
 ***
 

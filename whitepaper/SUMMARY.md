@@ -94,7 +94,7 @@
     * [Suppression](advanced-mechanics/operations/covert-operations/criminal-ties/suppression.md)
     * [Piracy and Terrorism](advanced-mechanics/operations/covert-operations/criminal-ties/piracy-and-terrorism.md)
 
-## Tokenomics
+<!--## Tokenomics
 
 * [In-Game P2E](tokenomics/in-game-p2e.md)
 * [SPL Tokens](tokenomics/spl-tokens/README.md)
@@ -121,7 +121,7 @@
   * [Dragon Corp. Games](tokenomics/governance/dragon-corp.-games.md)
 * [Early Adoption](tokenomics/early-adoption/README.md)
   * [Initial Coin Offering](tokenomics/early-adoption/initial-coin-offering.md)
-  * [Asset Packages](tokenomics/early-adoption/asset-packages.md)
+  * [Asset Packages](tokenomics/early-adoption/asset-packages.md)-->
 
 ***
 
