@@ -127,3 +127,13 @@
 
 * [Roadmap](roadmap/README.md)
   * [Milestones](roadmap/milestones.md)
+
+## Términos de Licencia y Copyright
+
+* [The Corporate Wars](terminos-de-licencia-y-copyright/the-corporate-wars.md)
+
+***
+
+* [Traveller](traveller.md)
+* [Unreal Engine](unreal-engine.md)
+* [Microsoft](microsoft.md)
