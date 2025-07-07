@@ -127,3 +127,11 @@
 
 * [Roadmap](roadmap/README.md)
   * [Milestones](roadmap/milestones.md)
+
+## LICENSE TERMS & COPYRIGHT
+
+* [The Corporate Wars](license-terms-and-copyright/the-corporate-wars.md)
+
+***
+
+* [Traveller](traveller.md)
