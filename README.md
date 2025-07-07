@@ -67,7 +67,6 @@ Unless stated otherwise in subdirectories, code in this repository is released u
 - [Fair Use Policy (Mongoose Publishing)](https://www.mongoosepublishing.com/pages/fair-use-policy)  
 - [Solana Foundation](https://solana.org) – Blockchain platform  
 - [Epic Games – Unreal Engine](https://www.unrealengine.com)  
-- [Microsoft Partner Network](https://partner.microsoft.com)
 
 ---
 
