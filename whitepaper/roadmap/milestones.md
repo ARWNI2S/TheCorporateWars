@@ -6,6 +6,10 @@
 **Document Publication**\
 **31-3-2025** - The arduous task of reflecting the concepts in an intelligible way for most humans is complete.
 
+**Legal Milestone**\
+**4-6-2025** – We received written confirmation from Mongoose Publishing that The Corporate Wars may reference Traveller™ as inspiration under the Fair Use Policy 2025, without infringing copyright or trademarks.
+All third-party licenses (Epic, Unreal Engine, EOS, Solana, Microsoft) have been collected, reviewed, and made public when legally allowed. The legal architecture of the project is now stable and ready for audit, publication, and store compliance.
+
 **Gameplay Prototyping**\
 Currently in process. In this stage, we are developing the basic client gameplay in **Unreal Engine 5**, implementing the macroeconomy on **Solana devnet**, and developing the game’s secure APIs and services.
 
