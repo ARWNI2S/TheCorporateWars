@@ -134,6 +134,6 @@
 
 ***
 
-* [Traveller](traveller.md)
+* [Traveller™](traveller-tm.md)
 * [Unreal Engine](unreal-engine.md)
 * [Microsoft](microsoft.md)
