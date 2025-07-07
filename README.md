@@ -65,7 +65,7 @@ Unless stated otherwise in subdirectories, code in this repository is released u
 
 - [The Corporate Wars](https://www.thecorporatewars.com) – Official website  
 - [Whitepaper](https://alternate-reality-worlds.gitbook.io/the-corporate-wars-whitepaper) – Official documentation  
-- [Fair Use Policy (Mongoose Publishing)](https://www.mongoosepublishing.com/pages/traveller-licensing)
+- [Fair Use Policy](https://www.mongoosepublishing.com/pages/traveller-licensing) - Mongoose Publishing
 - [Traveller RPG](https://www.mongoosepublishing.com/collections/start-here) - The original tabletop Traveller RPG!
 - [Solana Foundation](https://solana.org) – Blockchain platform  
 - [Epic Games – Unreal Engine](https://www.unrealengine.com) - Game Engine
