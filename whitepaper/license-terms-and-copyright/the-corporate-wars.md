@@ -63,6 +63,6 @@ Alternate Reality Worlds does not guarantee the continued availability of servic
 For inquiries regarding licensing, partnerships, intellectual property, or compliance:
 
 **Alternate Reality Worlds - The Corporate Wars - Legal Department**\
-📧 [support@thecorporatewars.com](mailto:support@thecorporatewars.com)
-🌐 [Terms of Use](https://www.thecorporatewars.com/terms-of-use)
+📧 [support@thecorporatewars.com](mailto:support@thecorporatewars.com)  
+🌐 [Terms of Use](https://www.thecorporatewars.com/terms-of-use)  
 🌐 [Privacy Policy](https://www.thecorporatewars.com/privacy-policy)

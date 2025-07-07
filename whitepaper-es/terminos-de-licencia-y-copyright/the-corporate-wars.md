@@ -51,6 +51,6 @@ _The Corporate Wars_ es una obra de ficción. Cualquier parecido con corporacion
 Para consultas relacionadas con licencias, asociaciones, propiedad intelectual o cumplimiento legal:
 
 **Alternate Reality Worlds – The Corporate Wars – Departamento Legal**\
-📧 [support@thecorporatewars.com](mailto:support@thecorporatewars.com)
-🌐 [Condiciones de Uso](https://www.thecorporatewars.com/terms-of-use)
+📧 [support@thecorporatewars.com](mailto:support@thecorporatewars.com)  
+🌐 [Condiciones de Uso](https://www.thecorporatewars.com/terms-of-use)  
 🌐 [Política de Privacidad](https://www.thecorporatewars.com/privacy-policy)

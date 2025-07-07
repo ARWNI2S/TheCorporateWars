@@ -75,7 +75,7 @@ Unless stated otherwise in subdirectories, code in this repository is released u
 ## Contact
 
 **Alternate Reality Worlds – Legal & Development**  
-[support@thecorporatewars.com](mailto:support@thecorporatewars.com)
+[support@thecorporatewars.com](mailto:support@thecorporatewars.com)  
 [www.thecorporatewars.com](https://www.thecorporatewars.com)
 
 The Traveller game in all forms is owned by Mongoose Publishing. Copyright 1977 - 2024 Mongoose Publishing.
