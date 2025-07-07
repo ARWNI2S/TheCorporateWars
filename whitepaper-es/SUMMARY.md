@@ -131,9 +131,7 @@
 ## Términos de Licencia y Copyright
 
 * [The Corporate Wars](terminos-de-licencia-y-copyright/the-corporate-wars.md)
-
-***
-
-* [Traveller™](traveller-tm.md)
-* [Unreal Engine](unreal-engine.md)
-* [Microsoft](microsoft.md)
+* [Traveller™](terminos-de-licencia-y-copyright/traveller-tm.md)
+* [Unreal Engine](terminos-de-licencia-y-copyright/unreal-engine.md)
+* [Microsoft](terminos-de-licencia-y-copyright/microsoft.md)
+* [Solana](terminos-de-licencia-y-copyright/solana.md)
