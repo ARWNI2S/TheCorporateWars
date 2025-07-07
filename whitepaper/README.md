@@ -1,7 +1,8 @@
 ---
-cover: .gitbook/assets/banner-tcw.jpg
+cover: .gitbook/assets/TCW.jpg
 coverY: 0
 layout:
+  width: default
   cover:
     visible: true
     size: full
