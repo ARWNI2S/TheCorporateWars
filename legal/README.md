@@ -29,6 +29,8 @@ The Corporate Wars is developed in full compliance with third-party licensing re
 
 > ℹ️ Additional documents and agreements (e.g., Microsoft Partner status, internal Epic correspondence) are kept on file and available for audit or review upon request.
 
+> This repository contains no copyrighted material from *Traveller™* and no official game rules or assets.
+
 ## Organization and Partner Status
 
 Alternate Reality Worlds is a registered member of the **Microsoft Partner Network** and develops using officially licensed tools such as Visual Studio, Azure, Hyper-V, and SQL Server.
