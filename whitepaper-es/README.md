@@ -35,3 +35,8 @@ En este escenario, la industria, la banca y el comercio no son solo motores de p
 #### Empieza aquí.
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Fundamentos</strong></td><td>Conoce el juego.</td><td><a href=".gitbook/assets/jump_right_in.jpg">jump_right_in.jpg</a></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><strong>Mecanicas de Juego</strong></td><td>Sumejete en el sistema.</td><td><a href=".gitbook/assets/advanced_mechanics.jpg">advanced_mechanics.jpg</a></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><strong>Tokenomics</strong></td><td>Economia P2E In-Game</td><td><a href=".gitbook/assets/tokenomics.jpg">tokenomics.jpg</a></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr></tbody></table>
+
+---
+
+**El juego Traveller, en todas sus formas, es propiedad de Mongoose Publishing.
+Todos los derechos reservados. © 1977–2024 Mongoose Publishing.**

@@ -35,3 +35,8 @@ In this setting, industry, banking, and trade are not just engines of progress �
 #### Jump right in
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Game Basics</strong></td><td>Learn the game.</td><td><a href=".gitbook/assets/jump_right_in.jpg">jump_right_in.jpg</a></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><strong>Advanced Mechanics</strong></td><td>Deep dive into game systems.</td><td><a href=".gitbook/assets/advanced_mechanics.jpg">advanced_mechanics.jpg</a></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><strong>Tokenomics</strong></td><td>In-Game P2E Economy</td><td><a href=".gitbook/assets/tokenomics.jpg">tokenomics.jpg</a></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr></tbody></table>
+
+---
+
+**The Traveller game in all forms is owned by Mongoose Publishing.  
+Copyright © 1977–2024 Mongoose Publishing.**
