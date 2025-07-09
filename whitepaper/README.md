@@ -18,21 +18,18 @@ layout:
     visible: true
 ---
 
-# The Corporate Wars
-
-**The Corporate Wars** transports players to a distant future where humanity has conquered the vastness of the cosmos but remains trapped in an endless struggle for control over markets and information.
-
-It is a real-time strategy game in which players take control of powerful corporations in the far future. **The Corporate Wars** merges economic simulation, resource management, and exploration with innovative P2E mechanics, set in an open-world environment where every small change will directly impact the game’s development.
+**The Corporate Wars** is a real-time strategy game (RTS) set in an open universe inspired by Traveller™, where players take command of interstellar corporations. It combines deep economic simulation, exploration, logistical management, and P2E mechanics within a persistent environment, where every decision has direct consequences on the game’s evolution and systemic balance.
 
 ### The Information Problem
 
-Interstellar distances make instant communication impossible. Radio waves cannot travel faster than light, and messages take years to reach even the nearest star.
+Interstellar distances render instant communication impossible. Radio waves cannot exceed the speed of light, and messages may take years to reach even the nearest star.
 
-This leaves trade routes as the only reliable means of information flow: interstellar ships, equipped with transit capacitors, travel at superluminal speeds, reducing communication latency to the speed of trade routes. The logistical management of interstellar communications is a challenge faced by every civilization in interstellar society and has been the cause of the greatest crises in the galaxy's history.
+This makes trade routes the only reliable medium for information flow. Starships equipped with **jump drives** traverse space via **jump transits**, reducing communication latency to the timescale of transport itself. The logistics of interstellar mail — and the reliability of jump routes — is a structural challenge faced by every high-tech civilization, and has caused some of the greatest crises in galactic history.
 
-It is a fragile framework, balanced between large-scale economic decentralization and local policies, where players must constantly adjust their strategies, overcoming ruthless logistical constraints and facing regulations imposed by interplanetary powers seeking to maintain their influence over interstellar trade.
+This fragile system balances large-scale economic decentralization with local policy constraints. Players must adapt their strategies to overcome ruthless logistical limitations and navigate regulations imposed by interplanetary powers seeking to retain control over commerce and information channels.
 
-In this scenario, industry, banking, and commerce are not just engines of progress but weapons in a covert war for supremacy. From financial manipulation to the political subjugation of key regions, every decision redefines the balance of power. Diplomacy is a mere veil, and information is the most valuable currency in a conflict where the true battlefield is the interstellar economy.
+In this setting, industry, banking, and trade are not just engines of progress — they are weapons in a shadow war for supremacy. From financial manipulation to political subjugation of key regions, every decision redefines the balance of power.
+Diplomacy is a veil, information is currency, and the **interstellar economy**... the true battlefield.
 
 ### Jump right in
 

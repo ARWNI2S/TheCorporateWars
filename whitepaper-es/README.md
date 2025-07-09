@@ -18,21 +18,18 @@ layout:
     visible: true
 ---
 
-# The Corporate Wars
-
-The Corporate Wars transporta a los jugadores a un lejano futuro, donde la humanidad ha conquistado la vastedad del cosmos, pero sigue atrapada en una lucha sin tregua por el control de los mercados y la información.
-
-Se trata de un juego de estrategia en tiempo real, en el que los jugadores toman el control de una corporaciones en el futuro lejano. The Corporate Wars fusiona la simulacion economica, la gestion de recursos y la exploracion, con novedosas mecanicas P2E, en un escenario de mundo abierto, en el que cada pequeño cambio afectará directamente al desarrollo del juego.
+**The Corporate Wars** es un juego de estrategia en tiempo real (RTS) ambientado en un universo abierto inspirado en Traveller™, donde los jugadores lideran corporaciones interestelares. Combina simulación económica, exploración, gestión logística y dinámicas P2E, en un entorno persistente donde cada decisión impacta directamente sobre el desarrollo del juego y el equilibrio del sistema.
 
 ### El Problema de la Información
 
-Las distancias interestelares hacen inviables las comunicaciones instantáneas, las ondas de radio no pueden viajar más rápido que la luz, y los mesajes tardan años en llegar icluso a la estrella más cercana.
+Las distancias interestelares hacen inviables las comunicaciones instantáneas. Las ondas de radio no pueden superar la velocidad de la luz, y los mensajes pueden tardar años en llegar incluso a la estrella más cercana.
 
-Esto deja a las rutas comerciales como el único medio fiable para el flujo de información: las naves interestelares, equipadas con capacitadores de tránsito, se desplazan a velocidades superlumincas, permitiendo reducir la latencia de comunicaciones a la velocidad de las rutas comerciales. La gestion logistica de las comunicaciones interestelares es un problema que enfrentan todas las culturas de la sociedad interestelar, siendo la causa de las mayores crisis de la historia de la galaxia.
+Esto convierte a las rutas comerciales en el único medio fiable para el flujo de información. Las naves equipadas con **reactores de salto** atraviesan el espacio a mediante **saltos interestelares**, reduciendo la latencia comunicacional a la escala de los trayectos de transporte. La logística del correo interestelar —y la fiabilidad de las rutas de salto— es un problema estructural común a todas las civilizaciones de alto nivel tecnológico, y ha sido la causa de algunas de las mayores crisis de la historia de la galaxia.
 
-Se trata de un frágil entramado, equilibrado entre la descentralización económica a gran escala y las politicas locales, donde los jugadores deben ajustar sus estrategias, superando restricciones logísticas despiadadas y afrontando regulaciones impuestas por potencias interplanetarias que buscan mantener su influencia sobre el comercio interestelar.
+Este sistema forma un entramado frágil, equilibrado entre la descentralización económica a gran escala y las políticas locales. Los jugadores deben ajustar sus estrategias superando restricciones logísticas despiadadas y sorteando regulaciones impuestas por potencias interplanetarias que buscan mantener su influencia sobre las rutas de comercio y datos.
 
-En este escenario, la industria, la banca y el comercio no son solo motores de progreso, sino armas en una guerra encubierta por la supremacía. Desde la manipulación financiera hasta la subyugación política de regiones clave, cada decisión redefine el equilibrio de poder. La diplomacia es un velo y la información, la moneda más valiosa en un conflicto donde el verdadero campo de batalla es la economía interestelar.
+En este escenario, la industria, la banca y el comercio no son solo motores de progreso: son armas en una guerra encubierta por la supremacía. Desde la manipulación financiera hasta la subyugación política de regiones clave, cada decisión redefine el equilibrio de poder.
+La diplomacia es un velo, la información es moneda, y la **economía interestelar**... el verdadero campo de batalla.
 
 ### Empieza aquí.
 
