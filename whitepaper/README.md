@@ -38,5 +38,4 @@ In this setting, industry, banking, and trade are not just engines of progress �
 
 ***
 
-> **The Traveller game in all forms is owned by Mongoose Publishing.**\
-> **Copyright © 1977–2024 Mongoose Publishing.**
+> **The Traveller game in all forms is owned by Mongoose Publishing. Copyright © 1977–2024 Mongoose Publishing.**
