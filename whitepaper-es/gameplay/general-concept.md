@@ -33,19 +33,21 @@ Los reactores de salto permiten viajar a otras estrellas en un tiempo relativame
 
 ### MMO
 
-Bla bla bla mmo
+Un universo multijugador masivo donde los jugadores coexisten, colaboran, comercian y compiten en tiempo real. Las decisiones locales pueden escalar a nivel global, alterando mercados, alianzas y balances de poder.
 
 ### RTS
 
-A diferencia de un RTS convencional, TCW opera a multiples escalas, desde la simulacion tactica y la administracion detallada de unidades y recursos locales, a dimensiones estratégicas colaborativas en las que varios jugadores se implican por el control de grandes territorios.
-
-### P2E
-
-
+A diferencia de un RTS convencional, TCW opera a múltiples escalas: desde la simulación táctica y la gestión detallada de unidades y recursos locales, hasta dimensiones estratégicas colaborativas, donde varios jugadores se implican en el control de vastos territorios.
 
 ### Tycoon
 
-Los jugadores no se limitan a gestionar unidades en un campo de batalla: navegan sistemas complejos de **comercio**, **diplomacia**, **espionaje** y **logística**. Administrando cada una de las instalaciones y personal que su corporacion construye o adquiere.
+Los jugadores no se limitan a comandar ejércitos: administran complejos sistemas de **comercio**, **diplomacia**, **espionaje** y **logística**, supervisando instalaciones, personal, y redes de suministro construidas o adquiridas por su corporación.
+
+### P2E
+
+El ecosistema económico incluye modelos Play-to-Earn integrados: recursos tokenizados, contratos dinámicos, participación en gobernanza corporativa y recompensas tanto dentro como fuera del juego.
+
+## SECTION
 
 Cada corporación actúa como un actor soberano, sometido a las mismas limitaciones tecnológicas y retraso informativos que modelan a todas las civilizaciones avanzadas.
 
