@@ -1,4 +1,26 @@
-# El Tercer Censo Estelar
+# Los Cimientos del Universo
+
+El universo de The Corporate Wars, inspirado en Traveller™, no es solo trasfondo: es la infraestructura histórica y conceptual del juego.
+
+Define qué mundos están conectados, qué datos circulan, qué permisos existen, qué civilizaciones alienígenas son conocidas y qué regiones siguen siendo incógnitas.
+
+Sobre esta base se construye un ecosistema persistente donde las decisiones tienen impacto real, acumulado y de largo plazo
+
+Este no es solo un escenario para aventuras: es un campo donde la tecnología, la sociedad, la economía y las motivaciones se entrelazan.
+
+La ciencia tecnológica establece lo posible; la ciencia social da forma a las culturas.
+
+La diversidad tecnológica entre mundos, el carácter cosmopolita del universo, el dominio (relativo) humano, los valores como honor, deber o lealtad, y la ausencia de un principio de no intervención configuran un escenario donde todo está impulsado por la economía.
+
+En este marco, las corporaciones no son simples actores: son los verdaderos personajes.
+
+Dinero, poder e información definen quién asciende y quién cae.
+
+Las reglas son complejas, con intereses superpuestos y capas ocultas.
+
+Y ahí es donde empieza el juego.
+
+## El Tercer Censo Estelar
 
 El universo de The Corporate Wars se sitúa alrededor del 1200 del Calendario Imperial. El Tercer Imperio se extiende a lo largo de más de once mil mundos, bajo la autoridad nominal del Emperador Strephon Aella Alkhalikoi.
 
@@ -6,39 +28,36 @@ En este escenario, la historia conocida ha evitado las fracturas que devastaron 
 
 Es el mismo marco usado en líneas temporales classicas de Traveller™ como MgT, GT y T20, donde el Milieu Imperial sigue su curso, consolidando lo que fue sembrado durante los censos estelares:
 
-* [x] El Primer Censo (First Survey): fué el primer gran esfuerzo exploratorio imperial, donde se catalogaron los mundos habitados, los corredores de salto y las primeras fronteras.
+* [x] El Primer Censo (First Survey): fue el primer gran esfuerzo exploratorio imperial, donde se catalogaron los mundos habitados, los corredores de salto y las primeras fronteras.
 * [x] El Segundo Censo (Second Survey): ha sido una actualización sistemática, que ha redefinido las rutas principales y formalizado las líneas de comercio y contacto.
 * [ ] Y ahora, en el presente, el Tercer Censo Estelar (Third Survey) ha comenzado: una iniciativa monumental del Servicio de Exploración Interestelar Imperial en colaboración con el sector privado, el **Hakyeahtaorl**, la **Driantia Dazhia**, los **Dos Mil Mundos**, e incluso **SolSec**, para cartografiar no solo el espacio conocido, sino también los mundos marginales, las fronteras olvidadas y los enclaves que quedaron atrás en la Larga Noche.
 
 ## Un universo persistente y asimétrico
 
-En The Corporate Wars, este marco no es un simple decorado: es la estructura fundamental del juego. Las megacorporaciones, facciones y alianzas actúan dentro de un entorno:
+El universo de The Corporate Wars no es simplemente un tablero de juego: es un ecosistema dinámico, cambiante y, sobre todo, desigual en términos de información, poder y acceso. Inspirado directamente en el trasfondo de Traveller™, refleja un entorno donde:
 
-Persistente: los datos del universo no se reinician, evolucionan. Cada sistema, mundo o ruta comercial tiene un estado que avanza, se degrada, mejora, colapsa o prospera con el paso del tiempo.
+La información no siempre está actualizada;
 
-Asimétrico: no toda la información está disponible para todos. Los datos sobre sistemas aislados pueden estar desactualizados, reflejando décadas (o siglos) de abandono, censura, interferencia política o pura negligencia del IISS. Este aspecto no es un fallo de diseño, es canon: el espacio es vasto, y ninguna administración puede mantenerlo todo bajo control absoluto.
+Las capas de autoridad se solapan entre Imperio, sistemas locales, facciones alienígenas y corporaciones;
 
-Escalonado en etapas: usando blockchain (Solana) como soporte, el universo se despliega en capas históricas:
+Las decisiones tomadas hoy pueden tener repercusiones registradas y reclamadas años o décadas después.
 
-* Milieu 0 establece la galaxia base.
-* First Survey agrega la capa de exploración inicial.
-* Second Survey marca la consolidación de rutas y nodos clave.
-* Third Survey, en curso, revela y actualiza zonas marginales, abre nuevas oportunidades y genera incertidumbre estratégica.
+Este nivel de persistencia, asincronía y complejidad no es un simple decorado: es la columna vertebral del juego.
 
-## Una galaxia de corporaciones
+Por ello, su implementación técnica requiere soluciones robustas, escalables y auditables.
 
-Desde la perspectiva del juego no hay jugadores-personaje: hay corporaciones. Cada jugador encarna una entidad Tycoon/RTS/MMO que opera como agente económico, militar, político o logístico dentro de un escenario galáctico fragmentado, donde las reglas imperiales coexisten con vacíos legales, poderes locales, intereses alienígenas y márgenes de incertidumbre.
+La elección de usar infraestructura blockchain no es un reclamo comercial, sino una decisión técnica: es el medio idóneo para gestionar registros históricos, gobernanza distribuida, derechos de propiedad y transacciones verificables en el tiempo.
 
-Los jugadores no son héroes, son ejecutivos. No exploran con botas y rifle: despliegan sondas, flotas, contratos, permisos, espionaje económico, campañas de marketing, sabotaje encubierto o tratados multilaterales.
+Sistemas de gobernanza participativa, contratos inteligentes y activos tokenizables permiten representar dentro del juego las estructuras de propiedad, delegación y autoridad que definen el universo Traveller™ desde el Primer Imperio Vilani, pasando por la Larga Noche, hasta el presente.
 
-Y lo hacen en un entorno donde el IISS representa tanto una oportunidad como un desafío:
+### Despliegue por fases: historia y desarrollo
 
-El Third Survey abre rutas, habilita permisos, descubre recursos.
+El despliegue del universo sigue un plan escalonado alineado con las etapas históricas del lore:
 
-Pero también despierta mundos dormidos, reaviva disputas locales y altera el equilibrio de poder.
+Milieu 0: instalación y configuración, limitada a las inmediaciones de Sylea, y el sector Core, sin surveys formales; apenas ecos del pasado imperial.
 
-## El universo Traveller™ como columna vertebral
+First Survey: fase de inicio del despliegue; financiación de infraestructuras planetarias (Resource Units), asignación inicial (vesting) de megacréditos (MCr), aparición de mapas antiguos anteriores al Second Survey, apertura de aventuras centradas en naves y enclaves olvidados.
 
-En este contexto, la línea temporal de Traveller™ no es solo trasfondo: es la infraestructura histórica del juego. Define qué mundos están conectados, qué datos circulan, qué permisos existen, qué civilizaciones alienígenas son conocidas, y qué regiones siguen siendo incógnitas.
+Second Survey: consolidación de rutas comerciales, registro progresivo en el Interstellar Stock Exchange (ISE)—institución histórica que sobrevivió incluso a la Larga Noche—, e implementación gradual de los módulos del juego.
 
-La mecánica de universo persistente aprovecha este legado para crear un ecosistema de juego donde las decisiones corporativas tienen peso real, impacto acumulado y consecuencias a largo plazo. El Tercer Censo Estelar no es solo una fase de exploración: es el telón de fondo de una guerra silenciosa por el dominio económico de la galaxia.
+Third Survey: momento actual del juego, marcado por el lanzamiento en Open Beta o Final Launch, donde el universo persiste como entorno vivo, mutable e interconectado.
