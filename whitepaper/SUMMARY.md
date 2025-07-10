@@ -2,17 +2,24 @@
 
 * [The Corporate Wars](README.md)
 
-## Group 1
+## Gameplay
 
-* [Page 1](group-1/page-1.md)
+* [General Concept](gameplay/general-concept.md)
+* [Main Mechanics](gameplay/main-mechanics.md)
+* [Players](gameplay/players.md)
+* [Persistent Ecosystem](gameplay/persistent-ecosystem.md)
 
-## Group 2
+## Technologies
 
-* [Page 1](group-2/page-1.md)
+* [The Outdated Information Model](technologies/outdated-information-model.md)
+* [Solana Blockchain](technologies/solana-blockchain.md)
+* [Unreal Engine](technologies/unreal-engine.md)
 
-## Group 3
+## Tokenomics
 
-* [Page 1](group-3/page-1.md)
+* [Economic Simulation](tokenomics/economic-simulation.md)
+* [In-Game Governance](tokenomics/ingame-governance.md)
+* [Rethink P2E](tokenomics/rethink-p2e.md)
 
 ***
 
