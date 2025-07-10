@@ -2,6 +2,18 @@
 
 * [The Corporate Wars](README.md)
 
+## Group 1
+
+* [Page 1](group-1/page-1.md)
+
+## Group 2
+
+* [Page 1](group-2/page-1.md)
+
+## Group 3
+
+* [Page 1](group-3/page-1.md)
+
 ***
 
 * [Roadmap](roadmap/README.md)
