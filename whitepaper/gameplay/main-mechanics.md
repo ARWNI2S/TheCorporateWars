@@ -32,7 +32,7 @@ Production is never automatic: every facility comes with yields, maintenance dem
 Technological research unlocks improvements but consumes resources and time, forcing tensions between investing in today or betting on tomorrow.
 {% endhint %}
 
-Every microeconomic action—loading a ship, negotiating a contract, retooling a production line—directly impacts cash flow and operational stability.
+Every microeconomic action â€”loading a ship, negotiating a contract, retooling a production lineâ€” directly impacts cash flow and operational stability.
 
 {% hint style="info" %}
 Players must optimize logistics, maintain profit margins, and compete for niche markets.
@@ -49,7 +49,7 @@ Interstellar exchanges reflect key product trends.
 Trade route bonds finance operations in exchange for future commitments.
 
 {% hint style="info" %}
-Macroeconomic fluctuations—crises, booms, bubbles—shift prices, confidence, and investments, forcing players to read the system pulse to shield or multiply their capital.
+Macroeconomic fluctuations â€”crises, booms, bubblesâ€” shift prices, confidence, and investments, forcing players to read the system pulse to shield or multiply their capital.
 {% endhint %}
 
 {% hint style="success" %}
@@ -93,14 +93,14 @@ As a technological counterweight, blockchain governance audits assets, contracts
 This mechanism distributes control and reinforces ecosystem self-sufficiency, ensuring even in decentralized environments a minimum of coherence and verifiable trust.
 
 {% hint style="info" %}
-Players can join collective decisions, build DAO mechanisms, or—quite literally—hack market trust.
+Players can join collective decisions, build DAO mechanisms, or â€”quite literallyâ€” hack market trust.
 {% endhint %}
 
 ## Diplomacy and Relations
 
 Relations between galactic actors form a tangled web where treaties, alliances, secret pacts, and economic blockades reshape power balances.
 
-Diplomacy is no mere façade; it’s a strategic tool to open markets, gain access to exclusive technologies, or secure key routes.
+Diplomacy is no mere faÃ§ade; it's a strategic tool to open markets, gain access to exclusive technologies, or secure key routes.
 
 Negotiating well can yield long-term gains, but it also breeds dependencies, and any alliance may fracture into threat.
 
@@ -128,25 +128,25 @@ Such actions require specialized resources, planning, and an acceptable risk mar
 
 ### Piracy and Illegality
 
-Piracy is a constant presence along interstellar routes: raiding freighters, sabotaging facilities, or trafficking restricted goods are viable—if dangerous—paths.
+Piracy is a constant presence along interstellar routes: raiding freighters, sabotaging facilities, or trafficking restricted goods are viable â€”if dangerousâ€” paths.
 
 {% hint style="info" %}
 Players who drift into illegal activities must manage underground networks, dodge patrols, and survive in an ecosystem where reputation is everything and alliances are as volatile as they are lucrative.
 {% endhint %}
 
 {% hint style="warning" %}
-Going rogue is no mere “hard mode”; it opens unique narrative paths and mechanics where survival hinges on marginal reputations, shadow contacts, and constant evasion of institutional watchmen.
+Going rogue is no mere "hard mode"; it opens unique narrative paths and mechanics where survival hinges on marginal reputations, shadow contacts, and constant evasion of institutional watchmen.
 {% endhint %}
 
 ## Infrastructure and Logistics
 
-A corporation’s power is built atop its infrastructure.
+A corporation's power is built atop its infrastructure.
 
 Starports, logistical hubs, service stations, maintenance networks, and jump relays sustain the movement of goods, people, and data.
 
 Without this network, even the most ambitious enterprise collapses.
 
-Logistics is not just about efficiency—it is about survival.
+Logistics is not just about efficiency â€”it is about survival.
 
 {% hint style="info" %}
 Players must decide where to invest, how to expand, and which routes to safeguard to keep their networks alive, resilient, and profitable amid external and internal threats.
@@ -158,7 +158,7 @@ Every corporation is a social ecosystem.
 
 Within coexist executives, engineers, workers, unions, shareholders, and, at times, factions with conflicting interests.
 
-Staff morale, internal political disputes, and departmental tensions can boost performance—or sink it.
+Staff morale, internal political disputes, and departmental tensions can boost performance â€”or sink it.
 
 Managing the inside is non-optional: ignore it, and face talent drain, internal sabotage, reputation crises, or operational collapse.
 
@@ -170,7 +170,7 @@ Players must balance productivity, cohesion, and internal ambition.
 
 The universe is indifferent to corporate plans.
 
-Solar storms, gravitational failures, unknown epidemics, archaeological discoveries of extinct civilizations, or first-contact alien encounters can radically alter a region’s outlook.
+Solar storms, gravitational failures, unknown epidemics, archaeological discoveries of extinct civilizations, or first-contact alien encounters can radically alter a region's outlook.
 
 These crises or discoveries are not mere narrative fluff; they impact trade routes, affect morale, trigger mass migrations, or open singular opportunities.
 
