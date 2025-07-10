@@ -2,6 +2,6 @@
 
 En TCW, cada jugador construye su propia historia en un universo vasto, indiferente y lleno de oportunidades.
 
-No hay caminos fijos hacia la victoria: algunos dominarán mercados, otros ganarán guerras, otros tejerán alianzas o reinventarán las reglas.
+No hay caminos fijos hacia la victoria: algunos dominarÃ¡n mercados, otros ganarÃ¡n guerras, otros tejerÃ¡n alianzas o reinventarÃ¡n las reglas.
 
-Pero todos compartirán un mismo desafío: sobrevivir, crecer y dejar su huella en una galaxia donde incluso la información tiene un precio, y las mayores victorias son, a menudo, invisibles.
+Pero todos compartirÃ¡n un mismo desafÃ­o: sobrevivir, crecer y dejar su huella en una galaxia donde incluso la informaciÃ³n tiene un precio, y las mayores victorias son, a menudo, invisibles.
