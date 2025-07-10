@@ -52,3 +52,7 @@ El despliegue del universo sigue un plan escalonado alineado con las etapas hist
 * **Primer Censo (First Survey)**: fase de inicio del despliegue; financiación de infraestructuras planetarias (Resource Units), asignación inicial (vesting) de megacréditos (MCr), aparición de mapas antiguos anteriores al Second Survey, apertura de aventuras centradas en naves y enclaves olvidados.
 * **Segundo Censo (Second Survey)**: consolidación de rutas comerciales, registro progresivo en el Interstellar Stock Exchange (ISE)—institución histórica que sobrevivió incluso a la Larga Noche—, e implementación gradual de los módulos del juego.
 * **Tercer Censo Estelar (Third Survey)**: momento actual del juego, marcado por el lanzamiento en Open Beta o Final Launch, donde el universo persiste como entorno vivo, mutable e interconectado.
+
+{% hint style="warning" %}
+El almacenamiento y despliegue sobre Solana conllevan costes en recursos (por ejemplo, para cuentas, registros y datos on-chain). Por ello, el ritmo de expansión y activación de nuevas fases dependerá de la acogida de la comunidad y de la demanda real de participación, garantizando un crecimiento sostenible y eficiente.
+{% endhint %}
