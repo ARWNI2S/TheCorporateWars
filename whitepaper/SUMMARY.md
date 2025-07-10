@@ -2,6 +2,10 @@
 
 * [The Corporate Wars](README.md)
 
+## Gameplay
+
+* [Corporations](gameplay/corporations.md)
+
 ## Game Basics
 
 * [Corporations](game-basics/corporations/README.md)
@@ -93,35 +97,6 @@
     * [Sabotage](advanced-mechanics/operations/covert-operations/criminal-ties/sabotage.md)
     * [Suppression](advanced-mechanics/operations/covert-operations/criminal-ties/suppression.md)
     * [Piracy and Terrorism](advanced-mechanics/operations/covert-operations/criminal-ties/piracy-and-terrorism.md)
-
-<!--## Tokenomics
-
-* [In-Game P2E](tokenomics/in-game-p2e.md)
-* [SPL Tokens](tokenomics/spl-tokens/README.md)
-  * [MegaCredit \[MCr\]](tokenomics/spl-tokens/megacredit-mcr.md)
-  * [Resource Units \[RUs\]](tokenomics/spl-tokens/resource-units-rus.md)
-  * [Other Currencies](tokenomics/spl-tokens/other-currencies.md)
-  * [Play to Earn](tokenomics/spl-tokens/play-to-earn.md)
-  * [Allocation](tokenomics/spl-tokens/allocation.md)
-* [Treasury](tokenomics/treasury/README.md)
-  * [In-Game Banking](tokenomics/treasury/in-game-banking.md)
-  * [Staking and Vesting](tokenomics/treasury/staking.md)
-  * [Rewards](tokenomics/treasury/rewards.md)
-* [Non Fungible Tokens](tokenomics/non-fungible-tokens/README.md)
-  * [Tokenized Rights](tokenomics/non-fungible-tokens/tokenized-rights.md)
-  * [Tokenized Contracts](tokenomics/non-fungible-tokens/tokenized-contracts.md)
-  * [Tokenized Personnel](tokenomics/non-fungible-tokens/tokenized-personnel.md)
-  * [Tokenized Facilities](tokenomics/non-fungible-tokens/tokenized-facilities.md)
-  * [Tokenized Equipment](tokenomics/non-fungible-tokens/tokenized-equipment.md)
-  * [Tokenized Blueprints](tokenomics/non-fungible-tokens/tokenized-blueprints.md)
-  * [Collectible and Unique](tokenomics/non-fungible-tokens/collectible-and-unique.md)
-* [Governance](tokenomics/governance/README.md)
-  * [Game-driven polities](tokenomics/governance/game-driven-polities.md)
-  * [Guilds and GAOs](tokenomics/governance/guilds-and-gaos.md)
-  * [Dragon Corp. Games](tokenomics/governance/dragon-corp.-games.md)
-* [Early Adoption](tokenomics/early-adoption/README.md)
-  * [Initial Coin Offering](tokenomics/early-adoption/initial-coin-offering.md)
-  * [Asset Packages](tokenomics/early-adoption/asset-packages.md)-->
 
 ***
 
