@@ -23,13 +23,13 @@
 
 ***
 
-* [Roadmap](roadmap/README.md)
-  * [Milestones](roadmap/milestones.md)
+* [Hoja de Ruta](roadmap/README.md)
+  * [Hitos](roadmap/milestones.md)
 
-## Términos de Licencia y Copyright
+## Términos de Licencia y Copyright <a href="#license-terms" id="license-terms"></a>
 
-* [The Corporate Wars](terminos-de-licencia-y-copyright/the-corporate-wars.md)
-* [Traveller™](terminos-de-licencia-y-copyright/traveller-tm.md)
-* [Unreal Engine](terminos-de-licencia-y-copyright/unreal-engine.md)
-* [Microsoft](terminos-de-licencia-y-copyright/microsoft.md)
-* [Solana](terminos-de-licencia-y-copyright/solana.md)
+* [The Corporate Wars](license-terms/tcw.md)
+* [Traveller™](license-terms/traveller.md)
+* [Unreal Engine](license-terms/unreal-engine.md)
+* [Microsoft](license-terms/microsoft.md)
+* [Solana](license-terms/solana.md)
