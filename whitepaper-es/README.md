@@ -20,7 +20,8 @@ layout:
 
 # The Corporate Wars
 
-**The Corporate Wars** es un juego de estrategia en tiempo real (RTS) ambientado en un universo abierto inspirado en Traveller™, donde los jugadores lideran corporaciones interestelares.  
+**The Corporate Wars** es un juego de estrategia en tiempo real (RTS) ambientado en un universo abierto inspirado en Traveller™, donde los jugadores lideran corporaciones interestelares.
+
 Combina simulación económica, exploración, gestión logística y dinámicas P2E, en un entorno persistente donde cada decisión impacta directamente sobre el desarrollo del juego y el equilibrio del sistema.
 
 ### El Problema de la Información

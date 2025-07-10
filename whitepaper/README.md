@@ -20,7 +20,8 @@ layout:
 
 # The Corporate Wars
 
-**The Corporate Wars** is a real-time strategy game (RTS) set in an open universe inspired by Traveller™, where players command interstellar corporations.  
+**The Corporate Wars** is a real-time strategy game (RTS) set in an open universe inspired by Traveller™, where players command interstellar corporations.
+
 It weaves together economic simulation, exploration, logistical mastery, and emergent P2E dynamics, all within a persistent environment where each decision reshapes the system’s delicate balance.
 
 ### The Information Problem
