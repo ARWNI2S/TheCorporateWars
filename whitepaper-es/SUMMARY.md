@@ -7,7 +7,7 @@
 * [Concepto de Juego](gameplay/general-concept.md)
 * [Mecánicas Principales](gameplay/main-mechanics.md)
 * [Jugadores](gameplay/players.md)
-* [Ecosistema Persistente](gameplay/persistent-ecosystem.md)
+* [El Tercer Censo Estelar](gameplay/persistent-ecosystem.md)
 
 ## Tecnologías <a href="#technologies" id="technologies"></a>
 
