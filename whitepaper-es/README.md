@@ -48,9 +48,11 @@ Desde la manipulación financiera hasta la subyugación política de regiones cl
 
 ### Inspirado en Traveller™
 
-**The Corporate Wars** rinde homenaje al legado de Traveller™, uno de los universos de ciencia-ficcion vivos mas ricos y realistas de la historia de los juegos: la inspiración fundamental para construir un universo donde los límites tecnológicos, sociales y económicos moldean cada decisión de los jugadores.
+**The Corporate Wars** se inspira en Traveller™, uno de los universos de ciencia-ficcion vivos mas ricos y realistas de la historia de los juegos: la inspiración fundamental para construir un universo donde los límites tecnológicos, sociales y económicos moldean cada decisión de los jugadores.
 
-Este juego no es una adaptación oficial, pero sí un tributo respetuoso, con una estética y un tono que resonarán entre quienes conocen el universo Traveller y seducirán a quienes lo descubren por primera vez.
+The Corporate Wars se desarrolla bajo los términos de la Fair Use License de Mongoose Publishing / Far Future Enterprises, con quienes mantenemos una relación abierta y cordial para explorar en el futuro una posible oficialización como producto licenciado. Traveller™ y todos los elementos relacionados son propiedad intelectual de Far Future Enterprises.
+
+Por el momento, este proyecto es un homenaje respetuoso y no constituye una adaptación oficial.
 
 ### Empieza aquí.
 
