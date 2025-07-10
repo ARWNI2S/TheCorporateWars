@@ -8,7 +8,7 @@ Es el mismo marco usado en líneas temporales classicas de Traveller™ como MgT
 
 * [x] El Primer Censo (First Survey): el primer gran esfuerzo exploratorio imperial, donde se catalogaron los mundos habitados, los corredores de salto y las primeras fronteras.
 * [x] El Segundo Censo (Second Survey): una actualización sistemática, que redefinió las rutas principales y formalizó las líneas de comercio y contacto.
-* [ ] Y ahora, en el presente, el Tercer Censo Estelar (Third Survey) ha comenzado: una iniciativa monumental del Servicio de Exploración Interestelar Imperial en colaboracion con \[Privateers], \[Zhodani ISS], \[Kkree ISS], \[Aslan IIS] e incluso \[Solomani ISS] para cartografiar no solo el espacio conocido, sino también los mundos marginales, las fronteras olvidadas y los enclaves que quedaron atrás en la larga noche.
+* [ ] Y ahora, en el presente, el Tercer Censo Estelar (Third Survey) ha comenzado: una iniciativa monumental del Servicio de Exploración Interestelar Imperial en colaboración con el sector privado, el **Hakyeahtaorl**, la **Driantia Dazhia**, los **Dos Mil Mundos**, e incluso **SolSec**, para cartografiar no solo el espacio conocido, sino también los mundos marginales, las fronteras olvidadas y los enclaves que quedaron atrás en la Larga Noche.
 
 ## Un universo persistente y asimétrico
 
