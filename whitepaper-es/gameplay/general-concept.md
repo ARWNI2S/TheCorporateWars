@@ -1,5 +1,4 @@
 ---
-icon: eggplant
 cover: ../.gitbook/assets/TCW.jpg
 coverY: 0
 layout:
@@ -49,7 +48,9 @@ La galaxia es un mosaico de versiones locales, una sinfonía desincronizada dond
 
 A diferencia de un RTS convencional, en TCW no existe un control directo y omnisciente sobre todas las operaciones: no dependen únicamente del clic del jugador, sino de la capacidad real de la corporación para ejecutarlas sobre el terreno.
 
+{% hint style="info" %}
 El jugador emite órdenes y diseña estrategias, pero estas se transmiten a través de las rutas de correo interestelar, con los retrasos y limitaciones propios del tránsito físico entre sistemas.
+{% endhint %}
 
 El universo no ofrece datos en tiempo real ni control remoto instantáneo: lo que un jugador sabe depende de los informes recibidos y de las conexiones disponibles.
 
@@ -61,7 +62,9 @@ Sin ellos, las instalaciones y unidades siguen funcionando… pero limitadas a r
 
 Los jugadores no se limitan a comandar ejércitos: administran complejos sistemas de **comercio**, **diplomacia**, **espionaje** y **logística**, supervisando instalaciones, personal y redes de suministro construidas o adquiridas por su corporación.
 
+{% hint style="info" %}
 La sede central de la corporación es el núcleo de decisión. Desde allí se percibe el universo: los datos disponibles reflejan el estado informativo de las regiones conectadas, nunca de la totalidad galáctica.
+{% endhint %}
 
 Gestionar una corporación en TCW implica mucho más que mover mercancías: es navegar un entramado de licencias, concesiones y participaciones que determinan quién puede operar, dónde y bajo qué condiciones.
 
@@ -75,7 +78,9 @@ El ecosistema económico de TCW no gira en torno a recompensas monetizadas ni a 
 
 La integración con blockchain —en concreto, Solana— responde a una necesidad técnica: mantener una red distribuida de mundos que almacenan su estado comprimido y cifrado, con actualizaciones registradas como transacciones en bloque.
 
+{% hint style="success" %}
 Cada mundo actúa como nodo dentro de una red de tráfico interestelar, donde las rutas determinan la latencia y, por tanto, la versión del estado visible desde cualquier otro sistema.
+{% endhint %}
 
 El modelo Play-to-Earn en TCW surge como mecanismo de autosostenibilidad: permite financiar los costes de red, las comisiones por transacción y el mantenimiento de infraestructura, abriendo además la puerta a que la comunidad contribuya al desarrollo futuro del proyecto.
 
