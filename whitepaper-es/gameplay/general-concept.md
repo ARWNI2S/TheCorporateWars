@@ -81,19 +81,10 @@ El modelo Play-to-Earn en TCW surge como mecanismo de autosostenibilidad: permit
 
 Aquí, jugar para ganar no significa extraer valor sin más: significa participar en un ecosistema vivo, donde cada acción ayuda a sostener el universo compartido.
 
-## SECTION
+## Las Guerras Corporativas
 
-Cada corporación actúa como un actor soberano, sometido a las mismas limitaciones tecnológicas y retraso informativos que modelan a todas las civilizaciones avanzadas.
+En TCW, cada jugador construye su propia historia en un universo vasto, indiferente y lleno de oportunidades.
 
-Este hecho convierte el comercio en inteligencia, las líneas de suministro en estructuras de poder, y los movimientos de flotas en declaraciones políticas.
+No hay caminos fijos hacia la victoria: algunos dominarán mercados, otros ganarán guerras, otros tejerán alianzas o reinventarán las reglas.
 
-En TCW, las guerras no se ganan únicamente con fuerza militar, sino con **control del flujo**: de bienes, de créditos, de conocimiento... de **información**.
-
-El juego está diseñado para generar **narrativas emergentes**.\
-Cada acción del jugador - desde establecer rutas comerciales o asegurar recursos raros, hasta manipular gobiernos locales o desplegar agentes encubiertos - resuena hacia afuera, reconfigurando el paisaje económico y político.
-
-La victoria no es fija ni uniforme.\
-Algunos jugadores ascenderán gracias al dominio económico, otros mediante el poder militar, otros mediante negociación astuta o ventaja tecnológica.\
-Pero todos estarán moldeados por el mismo universo: vasto, indiferente y lleno de oportunidades.
-
-> **En The Corporate Wars, las mayores victorias son a menudo invisibles.**
+Pero todos compartirán un mismo desafío: sobrevivir, crecer y dejar su huella en una galaxia donde incluso la información tiene un precio, y las mayores victorias son, a menudo, invisibles.
