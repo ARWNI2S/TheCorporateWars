@@ -2,12 +2,6 @@
 
 * [The Corporate Wars](README.md)
 
-## Gameplay
-
-## Involved Technologies
-
-## Tokenomics
-
 ***
 
 * [Roadmap](roadmap/README.md)
