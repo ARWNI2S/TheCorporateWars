@@ -33,19 +33,17 @@ Los reactores de salto permiten viajar a otras estrellas en un tiempo relativame
 
 ### MMO
 
-TCW es un universo multijugador masivo donde los jugadores coexisten, comercian, colaboran y compiten en tiempo real.  
+TCW es un universo multijugador masivo donde los jugadores coexisten, comercian, colaboran y compiten en tiempo real.
+
 Sin embargo, las comunicaciones están limitadas, y la información disponible para cada jugador depende del mundo desde el que actúa.
 
-En este escenario la intención de los jugadores y su percepción del juego depende de su acceso a las rutas de tránsito interestelar.  
-Cada sede, cada estación, cada enclave colonial percibe la galaxia a través del prisma de los datos que han alcanzado su sistema:  
-notificaciones comerciales con semanas de retraso, despachos diplomáticos envejecidos durante el salto, ecos de conflictos lejanos que tal vez ya se hayan resuelto.
+En este escenario la intención de los jugadores y su percepción del juego depende de su acceso a las rutas de tránsito interestelar.
 
-La galaxia es un mosaico de versiones locales, una sinfonía desincronizada donde el presente absoluto es, por definición, inalcanzable.  
+Cada sede, cada estación, cada enclave colonial percibe la galaxia a través del prisma de los datos que han alcanzado su sistema: _notificaciones comerciales_ con **semanas** de retraso, _despachos diplomáticos_ **vencidos** durante el tránsito, _noticias de conflictos_ lejanos que tal vez ya se hayan **resuelto**.
 
-Así, decisiones tomadas en un puerto estelar menor pueden desatar reacciones en cadena, alterando mercados, alianzas o equilibrios de poder a escala interplanetaria.
-
-En TCW, las maniobras más pequeñas pueden resonar en las fronteras más remotas.  
-Y las más grandes... pasar desapercibidas.
+{% hint style="success" %}
+La galaxia es un mosaico de versiones locales, una sinfonía desincronizada donde el conocimiento absoluto del presente es, por definición, inalcanzable.
+{% endhint %}
 
 ### RTS
 
