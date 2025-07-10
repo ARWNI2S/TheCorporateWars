@@ -54,7 +54,7 @@ Desde la manipulación financiera hasta la subyugación política de regiones cl
 
 The Corporate Wars se desarrolla bajo los términos de la Fair Use License de Mongoose Publishing / Far Future Enterprises, con quienes mantenemos una relación abierta y cordial para explorar en el futuro una posible oficialización como producto licenciado. Traveller™ y todos los elementos relacionados son propiedad intelectual de Far Future Enterprises.
 
-Por el momento, este proyecto es un homenaje respetuoso y no constituye una adaptación oficial.
+Actualmente, este proyecto es un homenaje respetuoso y no constituye una adaptación oficial.
 
 ### Empieza aquí.
 

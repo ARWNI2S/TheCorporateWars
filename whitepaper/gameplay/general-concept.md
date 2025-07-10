@@ -70,7 +70,7 @@ Running a corporation in TCW is much more than moving goods: it's about navigati
 
 These elements are not mere assets: they are dynamic, negotiable, mortgageable, and subject to risk, espionage, or political intervention.
 
-In TCW, leadership is not just about accumulation: it's about building influence, reputation, and power networks in a universe where a single permit can open —or close— entire empires.
+Leadership is not just about accumulation: it's about building influence, reputation, and power networks in a universe where a single permit can open —or close— entire empires.
 
 ### P2E
 
@@ -84,4 +84,4 @@ Each world acts as a node within an interstellar traffic network, where routes d
 
 The Play-to-Earn model in TCW emerges as a mechanism of self-sustainability: it helps finance network costs, transaction fees, and infrastructure maintenance, while opening the door for the community to contribute to the project's future development.
 
-Here, playing to earn does not mean extracting value: it means participating in a living ecosystem, where every action helps sustain the shared universe.
+Here, playing means participating in a living ecosystem, sustaining a universe that waits for no one.

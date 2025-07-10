@@ -70,7 +70,7 @@ Gestionar una corporación en TCW implica mucho más que mover mercancías: es n
 
 Estos elementos no son simples activos: son dinámicos, negociables, hipotecables, y sujetos a riesgo, espionaje o intervención política.
 
-En TCW, dirigir no es solo acumular: es construir influencia, reputación y redes de poder en un universo donde un permiso menor puede abrir –o cerrar– imperios enteros.
+Dirigir no es solo acumular: es construir influencia, reputación y redes de poder en un universo donde un permiso menor puede abrir –o cerrar– imperios enteros.
 
 ### P2E
 
@@ -84,4 +84,4 @@ Cada mundo actúa como nodo dentro de una red de tráfico interestelar, donde la
 
 El modelo Play-to-Earn en TCW surge como mecanismo de autosostenibilidad: permite financiar los costes de red, las comisiones por transacción y el mantenimiento de infraestructura, abriendo además la puerta a que la comunidad contribuya al desarrollo futuro del proyecto.
 
-Aquí, jugar para ganar no significa extraer valor sin más: significa participar en un ecosistema vivo, donde cada acción ayuda a sostener el universo compartido.
+Aquí, jugar es participar en un ecosistema vivo, sosteniendo un universo que no espera a nadie.
