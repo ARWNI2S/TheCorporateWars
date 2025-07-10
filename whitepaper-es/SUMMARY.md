@@ -4,7 +4,7 @@
 
 ## El Juego <a href="#gameplay" id="gameplay"></a>
 
-* [Concepto](gameplay/general-concept.md)
+* [Concepto de Juego](gameplay/general-concept.md)
 * [Mecánicas Principales](gameplay/main-mechanics.md)
 * [Jugadores](gameplay/players.md)
 * [Ecosistema Persistente](gameplay/persistent-ecosystem.md)
