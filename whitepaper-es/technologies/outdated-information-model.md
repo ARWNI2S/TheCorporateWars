@@ -38,15 +38,16 @@ Así, la percepción de A sobre B siempre está desfasada y depende de:
 
 ## Desafíos técnicos
 
-Implementar un modelo de información desfasada en un universo distribuido plantea desafíos únicos, especialmente cuando se busca mantener coherencia, auditabilidad y seguridad en un entorno multijugador masivo.
+Implementar un modelo de información desfasada en un universo distribuido, apoyado en blockchain (Solana), plantea retos técnicos reales que no son simples problemas jugables, sino desafíos de ingeniería profunda:
 
-Entre los principales retos encontramos:
+* **Almacenamiento y crawling eficiente de bloques históricos:** los nodos deben acceder solo a los bloques relevantes para su ventana temporal (T-(n)), evitando recorrer toda la cadena completa. Esto requiere algoritmos eficientes para filtrar, indexar y servir datos históricos a escala masiva.
+* **Bidireccionalidad asimétrica del grafo:** las rutas A → B no siempre son simétricas en tiempo ni en capacidad con B → A. Esto genera caminos de actualización y latencia divergentes que deben ser modelados dinámicamente, afectando tanto a la topología como al cálculo de snapshots visibles.
+* **Limitación de acceso contextual:** aunque los datos están públicos en blockchain, solo deben ser desencriptados y expuestos al backend según los permisos, contexto y posición de cada jugador. Esto exige una capa adicional de cifrado granular y gestión de llaves que no depende solo del on-chain.
+* **Reuso eficiente de PDA en sistemas múltiples:** las percepciones dinámicas asíncronas no solo sirven al jugador, sino que alimentan sistemas secundarios como el Interstellar Stock Exchange (ISE) y la gobernanza multicapa. Esto obliga a diseñar pipelines de datos que puedan servir múltiples dominios sin inconsistencias ni sobrecarga.
+* **Escalabilidad de programas en Solana:** los smart contracts encargados de manejar agregación, filtrado y entrega de datos deben ser capaces de escalar en un entorno con decenas de miles de jugadores y nodos, respetando costes computacionales (gas), límites de throughput y latencias mínimas.
+* **Sincronización blanda de nodos locales:** como no existe estado global instantáneo, los nodos locales necesitan mecanismos de reconciliación y corrección eventual para evitar acumulación de errores o derivaciones prolongadas del estado base.
 
-* **Gestión de latencia heterogénea:** cada ruta A → B tiene una latencia propia, generando múltiples vistas temporales parciales que deben sincronizarse solo hasta el límite permitido.
-* **Integridad de datos:** aunque las transacciones están registradas en blockchain (Solana), los nodos solo deben acceder a los bloques que les corresponden según su posición en el grafo, sin posibilidad de anticipar bloques futuros.
-* **Cifrado selectivo:** los datos en blockchain son accesibles públicamente, pero están encriptados. Solo el backend autorizado puede desencriptar la porción específica del snapshot disponible para cada jugador, asegurando fair play y evitando exploits.
-* **Reutilización de datos contextuales:** las PDA (percepciones dinámicas asíncronas) de rutas y mundos no solo alimentan la capa de juego, sino que se reutilizan como inputs para instrumentos financieros del ISE (Interstellar Stock Exchange) y para mecanismos de gobernanza multicapa, amplificando el impacto técnico del modelo.
-* **Programas Solana especializados:** las soluciones no dependen solo del on-chain, sino de programas (smart contracts) diseñados específicamente para manejar agregación, filtrado, cifrado y entrega de datos, respetando tanto la latencia física como la lógica del ecosistema.
+Estos desafíos no son triviales ni teóricos: son limitaciones presentes que definen cómo puede crecer y operar un sistema como The Corporate Wars a escala real.
 
 ## Ventajas del modelo
 
