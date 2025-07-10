@@ -86,8 +86,6 @@ El modelo Play-to-Earn en TCW surge como mecanismo de autosostenibilidad: permit
 
 Aquí, jugar para ganar no significa extraer valor sin más: significa participar en un ecosistema vivo, donde cada acción ayuda a sostener el universo compartido.
 
-## Las Guerras Corporativas
-
 En TCW, cada jugador construye su propia historia en un universo vasto, indiferente y lleno de oportunidades.
 
 No hay caminos fijos hacia la victoria: algunos dominarán mercados, otros ganarán guerras, otros tejerán alianzas o reinventarán las reglas.
