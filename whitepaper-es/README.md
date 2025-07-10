@@ -20,7 +20,8 @@ layout:
 
 # The Corporate Wars
 
-**The Corporate Wars** es un juego de estrategia en tiempo real (RTS) ambientado en un universo abierto inspirado en Traveller™, donde los jugadores lideran corporaciones interestelares. Combina simulación económica, exploración, gestión logística y dinámicas P2E, en un entorno persistente donde cada decisión impacta directamente sobre el desarrollo del juego y el equilibrio del sistema.
+**The Corporate Wars** es un juego de estrategia en tiempo real (RTS) ambientado en un universo abierto inspirado en Traveller™, donde los jugadores lideran corporaciones interestelares.  
+Combina simulación económica, exploración, gestión logística y dinámicas P2E, en un entorno persistente donde cada decisión impacta directamente sobre el desarrollo del juego y el equilibrio del sistema.
 
 ### El Problema de la Información
 
@@ -30,7 +31,7 @@ Las ondas de radio no pueden superar la velocidad de la luz, y los mensajes pued
 
 Esto convierte a las rutas comerciales en el único medio fiable para el flujo de información.
 
-Las naves equipadas con **reactores de salto** atraviesan el espacio a mediante **saltos interestelares**, reduciendo la latencia de las comunicaciones a la duración de los trayectos de transporte.
+Las naves equipadas con **reactores de salto** atraviesan el espacio mediante **saltos interestelares**, reduciendo la latencia de las comunicaciones a la duración de los trayectos de transporte.
 
 {% hint style="info" %}
 La logística del correo interestelar —y la fiabilidad de las rutas de salto— es un problema estructural común a todas las civilizaciones de alto nivel tecnológico, y ha sido la causa de algunas de las mayores crisis de la historia de la galaxia.
@@ -48,7 +49,7 @@ Desde la manipulación financiera hasta la subyugación política de regiones cl
 
 ### Inspirado en Traveller™
 
-**The Corporate Wars** se inspira en Traveller™, uno de los universos de ciencia-ficcion vivos mas ricos y realistas de la historia de los juegos: la inspiración fundamental para construir un universo donde los límites tecnológicos, sociales y económicos moldean cada decisión de los jugadores.
+**The Corporate Wars** se inspira en Traveller™, uno de los universos de ciencia ficción vivos más ricos y realistas de la historia de los juegos: la inspiración fundamental para construir un universo donde los límites tecnológicos, sociales y económicos moldean cada decisión de los jugadores.
 
 The Corporate Wars se desarrolla bajo los términos de la Fair Use License de Mongoose Publishing / Far Future Enterprises, con quienes mantenemos una relación abierta y cordial para explorar en el futuro una posible oficialización como producto licenciado. Traveller™ y todos los elementos relacionados son propiedad intelectual de Far Future Enterprises.
 
@@ -56,7 +57,7 @@ Por el momento, este proyecto es un homenaje respetuoso y no constituye una adap
 
 ### Empieza aquí.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Fundamentos</strong></td><td>Conoce el juego.</td><td><a href=".gitbook/assets/jump_right_in.jpg">jump_right_in.jpg</a></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><strong>Mecanicas de Juego</strong></td><td>Sumejete en el sistema.</td><td><a href=".gitbook/assets/advanced_mechanics.jpg">advanced_mechanics.jpg</a></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><strong>Tokenomics</strong></td><td>Economia P2E In-Game</td><td><a href=".gitbook/assets/tokenomics.jpg">tokenomics.jpg</a></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Fundamentos</strong></td><td>Conoce el juego.</td><td><a href=".gitbook/assets/jump_right_in.jpg">jump_right_in.jpg</a></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><strong>Mecánicas de Juego</strong></td><td>Sumérgete en el sistema.</td><td><a href=".gitbook/assets/advanced_mechanics.jpg">advanced_mechanics.jpg</a></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><strong>Tokenomics</strong></td><td>Economía P2E in-game</td><td><a href=".gitbook/assets/tokenomics.jpg">tokenomics.jpg</a></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr></tbody></table>
 
 ***
 
