@@ -36,23 +36,26 @@ Así, la percepción de A sobre B siempre está desfasada y depende de:
 * el ritmo de actualización,
 * y la capacidad logística para transportar datos a través del grafo.
 
-## Diseño técnico
+## Desafíos técnicos
 
-Este modelo combina:
+Implementar un modelo de información desfasada en un universo distribuido plantea desafíos únicos, especialmente cuando se busca mantener coherencia, auditabilidad y seguridad en un entorno multijugador masivo.
 
-* **Blockchain Solana**: guarda las transacciones (updates) agregadas, con sellado temporal y trazabilidad.
-* **Rutas físicas (salto interestelar)**: transportan las actualizaciones efectivas entre nodos.
-* **Snapshots locales parciales**: cada nodo mantiene una colección de transacciones visibles hasta su frontera temporal según latencia.
+Entre los principales retos encontramos:
 
-No existe un “estado global instantáneo”:\
-Cada actor toma decisiones y opera con información limitada por las condiciones reales del universo.
+* **Gestión de latencia heterogénea:** cada ruta A → B tiene una latencia propia, generando múltiples vistas temporales parciales que deben sincronizarse solo hasta el límite permitido.
+* **Integridad de datos:** aunque las transacciones están registradas en blockchain (Solana), los nodos solo deben acceder a los bloques que les corresponden según su posición en el grafo, sin posibilidad de anticipar bloques futuros.
+* **Cifrado selectivo:** los datos en blockchain son accesibles públicamente, pero están encriptados. Solo el backend autorizado puede desencriptar la porción específica del snapshot disponible para cada jugador, asegurando fair play y evitando exploits.
+* **Reutilización de datos contextuales:** las PDA (percepciones dinámicas asíncronas) de rutas y mundos no solo alimentan la capa de juego, sino que se reutilizan como inputs para instrumentos financieros del ISE (Interstellar Stock Exchange) y para mecanismos de gobernanza multicapa, amplificando el impacto técnico del modelo.
+* **Programas Solana especializados:** las soluciones no dependen solo del on-chain, sino de programas (smart contracts) diseñados específicamente para manejar agregación, filtrado, cifrado y entrega de datos, respetando tanto la latencia física como la lógica del ecosistema.
 
-## Implicaciones en el juego
+## Ventajas del modelo
 
-Este diseño:
+Este enfoque no es solo una solución técnica: es un pilar que aporta ventajas diferenciadoras a nivel de diseño y experiencia.
 
-* Refuerza la asimetría estratégica: quien tiene mejores rutas o control logístico accede antes a datos clave.
-* Introduce incertidumbre: no todos los eventos recientes son visibles en todos los nodos.
-* Añade capas de juego emergente: manipulación informativa, corredores de datos, brokers de actualización.
+* **Refuerza la asimetría estratégica:** quien tiene mejores rutas o control logístico accede antes a datos clave.
+* **Introduce incertidumbre:** no todos los eventos recientes son visibles en todos los nodos, creando decisiones basadas en probabilidades, no certezas.
+* **Habilita capas de juego emergente:** desde manipulación informativa hasta corredores de datos y brokers de actualización.
+* **Conecta sistemas:** las PDA de rutas y mundos no son datos aislados, sino que alimentan directamente los instrumentos del ISE y las dinámicas de gobernanza multicapa.
+* **Seguridad de fair game:** aunque los datos están en blockchain y son accesibles públicamente, solo el backend autorizado puede desencriptar y exponer la información que cada jugador tiene derecho a ver, evitando leaks, minería de datos externos o abusos.
 
-En resumen, en The Corporate Wars la asincronía no es solo un detalle narrativo: es la base del ecosistema técnico y jugable.
+En resumen, el modelo de información desfasada no es solo una mecánica de juego: es un diseño profundamente interconectado que refuerza la coherencia narrativa, la integridad técnica y la riqueza del ecosistema persistente.
