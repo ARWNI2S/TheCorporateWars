@@ -1,68 +1,72 @@
 # La Blockchain Solana
 
-La elección de Solana como base tecnológica en The Corporate Wars no es casualidad: su diseño arquitectónico resuelve problemas clave para construir un universo persistente, distribuido y asimétrico en el tiempo.
+La elecciÃ³n de Solana como base tecnolÃ³gica en The Corporate Wars no es casualidad: su diseÃ±o arquitectÃ³nico resuelve problemas clave para construir un universo persistente, distribuido y asimÃ©trico en el tiempo.
 
-A continuación, detallamos los motivos, ventajas y desafíos de esta integración.
+A continuaciÃ³n, detallamos los motivos, ventajas y desafÃ­os de esta integraciÃ³n.
 
 ### Proof-of-History y Merkle Trees
 
-Solana implementa un sistema de **proof-of-history (PoH)**, donde cada bloque y transacción queda anclado a una secuencia temporal verificable. Esto permite construir un **versionado de estados diferenciados en el tiempo**, donde cada update de juego contiene un `hash_root` correspondiente a su timestamp.
+Solana implementa un sistema de **proof-of-history (PoH)**, donde cada bloque y transacciÃ³n queda anclado a una secuencia temporal verificable. Esto permite construir un **versionado de estados diferenciados en el tiempo**, donde cada update de juego contiene un `hash_root` correspondiente a su timestamp.
 
-Los Merkle trees permiten comprimir y validar estos estados de forma eficiente, sirviendo como un ledger histórico de cambios que puede ser auditado y referenciado a cualquier momento pasado.
+Los Merkle trees permiten comprimir y validar estos estados de forma eficiente, sirviendo como un ledger histÃ³rico de cambios que puede ser auditado y referenciado a cualquier momento pasado.
 
 ### Programas stateless y claves derivadas
 
 A diferencia de otros ecosistemas, Solana opera con **programas stateless** y almacenamiento basado en claves derivadas.
 
-Esto permite modelar estructuras complejas mediante nomenclaturas implícitas:
-- una `key` principal,
-- asociada a una `foreign key`,
-- define una relación de datos **sin necesidad de SQL ni tablas**.
+Esto permite modelar estructuras complejas mediante nomenclaturas implï¿½citas:
 
-Es, en esencia, un mapa estructural vivo, donde las relaciones están codificadas en el diseño de las claves, reduciendo dependencia de modelos relacionales clásicos.
+* una `key` principal,
+* asociada a una `foreign key`,
+* define una relaciÃ³n de datos **sin necesidad de SQL ni tablas**.
+
+Es, en esencia, un mapa estructural vivo, donde las relaciones estÃ¡n codificadas en el diseÃ±o de las claves, reduciendo dependencia de modelos relacionales clÃ¡sicos.
 
 ### NFTs programables y gobernanza multicapa
 
 Solana permite usar **NFTs programables**, que no se limitan a representar activos simples, sino que permiten construir:
-- contratos personalizables entre partes,
-- gobernanza multicapa condicional,
-- e incluso modelar capas de legalidad e ilegalidad dentro del juego.
 
-Este modelo supera al estándar `Metaplex` tipo ERC-XXX, que, aunque en su momento dominó el ecosistema, ha caído en desuso frente a modelos más avanzados y menos limitados por diseño.
+* contratos personalizables entre partes,
+* gobernanza multicapa condicional,
+* e incluso modelar capas de legalidad e ilegalidad dentro del juego.
 
-Solana no presenta un "ERC estándar" sino un **conjunto de programas reusables** y una infraestructura novedosa, todavía poco explorada en cuanto a sus verdaderas posibilidades.
+Este modelo supera al estÃ¡ndar `Metaplex` tipo ERC-XXX, que, aunque en su momento dominÃ³ el ecosistema, ha caÃ­do en desuso frente a modelos mÃ¡s avanzados y menos limitados por diseÃ±o.
 
-### ¿Qué almacenamos on-chain?
+Solana no presenta un "ERC estÃ¡ndar" sino un **conjunto de programas reusables** y una infraestructura novedosa, todavÃ­a poco explorada en cuanto a sus verdaderas posibilidades.
 
-Solo lo mínimo necesario:
-- lo macro, estructural, poco mutable y de alcance global, vive **on-chain**;
-- lo micro, por jugador, dinámico, derivable desde seeds y de interpretación rápida, vive **off-chain**.
+### Â¿QuÃ© almacenamos on-chain?
+
+Solo lo mÃ­nimo necesario:
+
+* lo macro, estructural, poco mutable y de alcance global, vive **on-chain**;
+* lo micro, por jugador, dinÃ¡mico, derivable desde seeds y de interpretaciÃ³n rÃ¡pida, vive **off-chain**.
 
 En resumen, la blockchain guarda **datos deshidratados y ultracomprimidos**, mientras que el backend mantiene las sesiones vivas, interpretando, hidratando y cacheando lo necesario en tiempo real.
 
 ## Problemas que resuelve
 
-Solana resuelve desafíos que tradicionalmente colapsarían bases de datos no-SQL a gran escala:
+Solana resuelve desafÃ­os que tradicionalmente colapsarÃ­an bases de datos no-SQL a gran escala:
 
-* Seguridad de altísimo grado.
+* Seguridad de altÃ­simo grado.
 * Ledger de versiones en el tiempo, garantizando trazabilidad.
-* Fuente de verdad única: aunque la información esté desfasada, es correcta en algún punto temporal para **todos los jugadores** (clave para mantener coherencia e igualdad estratégica).
-* Complejidad de gobernanza: usando multisig nativo, cuentas firmantes variadas, y contextos de `accounts`, es posible modelar desde simples permisos hasta sistemas de decisión distribuidos.
+* Fuente de verdad Ãºnica: aunque la informaciÃ³n estÃ¡ desfasada, es correcta en algÃºn punto temporal para **todos los jugadores** (clave para mantener coherencia e igualdad estratÃ©gica).
+* Complejidad de gobernanza: usando multisig nativo, cuentas firmantes variadas, y contextos de `accounts`, es posible modelar desde simples permisos hasta sistemas de decisiÃ³n distribuidos.
 
-## Integración práctica con backend y cliente
+## IntegraciÃ³n prÃ¡ctica con backend y cliente
 
-Ejemplo práctico:
+Ejemplo prÃ¡ctico:
 
-La corporación X tiene presencia en los mundos A, B, C y D.
-- A aloja la sede.
-- C y D tienen administradores activos.
-- B tiene instalaciones, pero no observadores activos.
+La corporaciÃ³n X tiene presencia en los mundos A, B, C y D.
 
-El entorno gráfico (ej. Unreal Engine) muestra una perspectiva combinada de A, C y D, pero las órdenes sobre B están limitadas:
-- se pueden emitir,
-- pero no serán efectivas hasta el próximo “correo” o ciclo de sincronización.
+* A aloja la sede.
+* C y D tienen administradores activos.
+* B tiene instalaciones, pero no observadores activos.
 
-Así, aunque se vea el precio óptimo en E desde D, si se envían cargueros desde A, habrá semanas de retraso; solo usando cargueros de D se logra una acción “instantánea”. Además, la orden debe emitirse desde D (con acceso directo a la información de E), aunque el transporte salga físicamente de A.
+El entorno grï¿½fico (ej. Unreal Engine) muestra una perspectiva combinada de A, C y D, pero las ï¿½rdenes sobre B estï¿½n limitadas:
 
-Esta es la complejidad real del comercio interestelar — y por eso recurrimos a blockchain:
-porque el propio modelo de transacciones, con contexto, firmas y timestamps, refleja de forma nativa las restricciones y oportunidades del ecosistema.
+* se pueden emitir,
+* pero no serï¿½n efectivas hasta el prï¿½ximo ï¿½correoï¿½ o ciclo de sincronizaciï¿½n.
+
+Asï¿½, aunque se vea el precio ï¿½ptimo en E desde D, si se envï¿½an cargueros desde A, habrï¿½ semanas de retraso; solo usando cargueros de D se logra una acciï¿½n ï¿½instantï¿½neaï¿½. Ademï¿½s, la orden debe emitirse desde D (con acceso directo a la informaciï¿½n de E), aunque el transporte salga fï¿½sicamente de A.
+
+Esta es la complejidad real del comercio interestelar ï¿½ y por eso recurrimos a blockchain: porque el propio modelo de transacciones, con contexto, firmas y timestamps, refleja de forma nativa las restricciones y oportunidades del ecosistema.

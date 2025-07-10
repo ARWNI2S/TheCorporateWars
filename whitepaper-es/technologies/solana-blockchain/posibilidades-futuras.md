@@ -1,24 +1,30 @@
 # Posibilidades Futuras
 
-La infraestructura basada en blockchain abre la puerta a explorar líneas de desarrollo que trascienden el mero registro de estados. Entre las posibilidades técnicas más avanzadas que consideramos:
+La infraestructura basada en blockchain abre la puerta a explorar lÃ­neas de desarrollo que trascienden el mero registro de estados. Entre las posibilidades tÃ©cnicas mÃ¡s avanzadas que consideramos:
 
-### Líneas temporales alternativas:
-Gracias al versionado intrínseco de Solana (proof-of-history + Merkle trees), es técnicamente posible hacer un **fork en un punto histórico** y generar una línea temporal divergente, creando entornos paralelos.  
-Esto permitiría, en teoría:
-  - crear escenarios tipo “¿qué hubiera pasado si…?”,
-  - experimentar mecánicas de multiverso,
-  - o abrir campañas temporales con reglas alternativas.
+### LÃ­neas temporales alternativas:
 
-### Simulación de viajes en el tiempo (ludificable):
-Aunque no forma parte del canon de Traveller™, explorar las consecuencias técnicas de operar sobre snapshots históricos (lectura, no escritura) permitiría modelar:
-  - misiones que interactúan con datos pasados,
-  - sistemas de previsión probabilística,
-  - o incluso mecánicas de “arqueología de datos”, donde recuperar, reinterpretar o incluso sabotear información pasada altera el presente.
+Gracias al versionado intrÃ­nseco de Solana (proof-of-history + Merkle trees), es tÃ©cnicamente posible hacer un **fork en un punto histÃ³rico** y generar una lÃ­nea temporal divergente, creando entornos paralelos.\
+Esto permitirÃ­a, en teorÃ­a:
 
-### Exploración sci-fi aplicada:
-El ecosistema técnico de The Corporate Wars no se limita a imitar el canon sci-fi clásico, sino que permite plantear preguntas de frontera:
-  - ¿Qué significa manipular consensos distribuidos en un universo persistente?
-  - ¿Hasta dónde puede una blockchain servir no solo como ledger, sino como simulador de posibilidades?
-  - ¿Cómo integrar estas ideas sin romper la coherencia estratégica ni el fair play?
+* crear escenarios tipo "Â¿quÃ© hubiera pasado si...?",
+* experimentar mecÃ¡nicas de multiverso, y universos de bolsillo,
+* o abrir campaÃ±as temporales con reglas alternativas.
 
-Estas líneas no forman parte del diseño base ni del roadmap oficial inmediato, pero son áreas de exploración activa que podrían redefinir el potencial de blockchain en ecosistemas orientados exclusivamente a mundos virtuales.
+### SimulaciÃ³n de viajes en el tiempo (ludificable):
+
+Aunque no forma parte del canon de Travellerâ„¢, explorar las consecuencias tÃ©cnicas de operar sobre snapshots histÃ³ricos, y los forks mencionados antes, permitirÃ­a modelar:
+
+* misiones que interactÃºan con datos pasados,
+* sistemas de previsiÃ³n probabilÃ­stica,
+* o incluso mecÃ¡nicas de "arqueologÃ­a de datos", donde recuperar, reinterpretar o incluso sabotear informaciÃ³n pasada altera el presente.
+
+### ExploraciÃ³n sci-fi aplicada:
+
+El ecosistema tÃ©cnico de The Corporate Wars no se limita a imitar el canon sci-fi clÃ¡sico, sino que permite plantear preguntas de frontera:
+
+* Â¿QuÃ© significa manipular consensos distribuidos en un universo persistente?
+* Â¿Hasta dÃ³nde puede una blockchain servir no solo como ledger, sino como simulador de posibilidades?
+* Â¿CÃ³mo integrar estas ideas sin romper la coherencia estratÃ©gica ni el equilibrio del juego?
+
+Estas lÃ­neas no forman parte del diseÃ±o base ni del roadmap oficial inmediato, pero son Ã¡reas de exploraciÃ³n activa que podrÃ­an redefinir el potencial de blockchain en ecosistemas orientados exclusivamente a mundos virtuales.
