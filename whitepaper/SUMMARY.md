@@ -7,7 +7,7 @@
 * [General Concept](gameplay/general-concept.md)
 * [Main Mechanics](gameplay/main-mechanics.md)
 * [Players](gameplay/players.md)
-* [Persistent Ecosystem](gameplay/persistent-ecosystem.md)
+* [The Foundations of the Universe](gameplay/persistent-ecosystem.md)
 
 ## Technologies
 

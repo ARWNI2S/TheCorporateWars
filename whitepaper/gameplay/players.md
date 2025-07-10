@@ -84,7 +84,7 @@ Controlling access to galactic trade, reducing costs, and establishing exclusive
 
 ## Alliances
 
-In The Corporate Wars, no corporation is forced to operate alone. Alliances — known in-game as guilds — allow players to coordinate efforts, share resources, establish non-aggression pacts, or act as economic and political blocs.
+In The Corporate Wars, no corporation is forced to operate alone. Alliances —known in-game as guilds— allow players to coordinate efforts, share resources, establish non-aggression pacts, or act as economic and political blocs.
 
 These groups can have varied goals: from monopolizing a market sector, imposing trade rules in a region, coordinating frontier system defense, to influencing interplanetary politics through collective governance mechanisms.
 
