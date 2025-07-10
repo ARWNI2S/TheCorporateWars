@@ -85,9 +85,3 @@ Cada mundo actúa como nodo dentro de una red de tráfico interestelar, donde la
 El modelo Play-to-Earn en TCW surge como mecanismo de autosostenibilidad: permite financiar los costes de red, las comisiones por transacción y el mantenimiento de infraestructura, abriendo además la puerta a que la comunidad contribuya al desarrollo futuro del proyecto.
 
 Aquí, jugar para ganar no significa extraer valor sin más: significa participar en un ecosistema vivo, donde cada acción ayuda a sostener el universo compartido.
-
-En TCW, cada jugador construye su propia historia en un universo vasto, indiferente y lleno de oportunidades.
-
-No hay caminos fijos hacia la victoria: algunos dominarán mercados, otros ganarán guerras, otros tejerán alianzas o reinventarán las reglas.
-
-Pero todos compartirán un mismo desafío: sobrevivir, crecer y dejar su huella en una galaxia donde incluso la información tiene un precio, y las mayores victorias son, a menudo, invisibles.
