@@ -1,119 +1,47 @@
 # Simulación Económica
 
-**The Corporate Wars** implementa un sistema de simulación económica interestelar que integra dinámicas locales y globales bajo un marco descentralizado y asincrónico.
+**The Corporate Wars** es un juego de simulación económica en un universo persistente e interconectado.
 
-El modelo refleja las tensiones, ineficiencias y oportunidades propias de una red de mundos interconectados pero desincronizados, ofreciendo a los jugadores un entorno complejo y emergente donde cada decisión tiene impacto a múltiples niveles.
+Aunque su economía no representa la vida real, su comportamiento interno está diseñado para ser realista, creando un ecosistema donde las decisiones de los jugadores, las dinámicas de mercado y las tensiones políticas generan consecuencias emergentes a múltiples niveles.
 
----
-
-## Principios Económicos
-
-El núcleo económico del juego está diseñado para imitar el comportamiento realista de los mercados, donde la coordinación entre actores no depende de una autoridad central, sino de señales distribuidas como los precios.
-
-**The Corporate Wars** simula cómo estas señales surgen, se deforman por retardos informativos y generan oportunidades tanto para la cooperación como para la competencia entre jugadores.
-
-### Modelo hayekiano
-
-Inspirado en los principios económicos de F. A. Hayek, **The Corporate Wars** representa los precios como señales locales de información que permiten a las economías planetarias adaptarse de forma incremental.
-
-No existe un equilibrio global predefinido: cada sistema estelar reacciona a su propia oferta y demanda, generando un entorno donde los ajustes son constantes, parciales y sujetos a las condiciones del entorno.
-
-### Algoritmos locales de oferta y demanda
-
-Los precios en cada mercado se calculan mediante algoritmos explícitos que modelan el desequilibrio entre oferta y demanda.
-
-Esto se formaliza con la expresión 
-
-\[
-P_{t+1} = P_t \times (1 + \alpha \cdot \frac{D - S}{S})
-\]
-
-donde \( D \) representa la demanda, \( S \) la oferta y \( \alpha \) un coeficiente de ajuste.
-
-Esta mecánica garantiza que las fluctuaciones locales tengan un impacto tangible, estimulando reacciones en cadena en los mercados conectados.
-
-### Retrasos informativos
-
-Un elemento clave de la simulación es que la información no viaja instantáneamente entre sistemas.
-
-Los eventos como shocks de oferta, conflictos o innovaciones tecnológicas tardan en reflejarse en sistemas vecinos debido a las limitaciones físicas de las rutas de salto.
-
-Este desfase crea oportunidades temporales para el arbitraje y la especulación, permitiendo a jugadores bien posicionados aprovechar las diferencias de precio antes de que los mercados se ajusten.
+El objetivo no es solo jugar con cifras abstractas, sino enfrentarse a los desafíos de operar en un entorno descentralizado, donde la información llega con retraso, los precios fluctúan localmente y los riesgos sistémicos forman parte natural del universo.
 
 ---
 
-## Arquitectura Económica
+## Limitaciones técnicas y blockchain
 
-La arquitectura económica del juego combina niveles locales y globales, conectando microeconomías planetarias con dinámicas de red a gran escala.
+Para sostener este ecosistema, **The Corporate Wars** utiliza la blockchain de Solana, que permite almacenar datos estructurados en el tiempo mediante su sistema de versionado (proof-of-history).
 
-Esto permite que tanto los jugadores enfocados en operaciones locales como aquellos que buscan influir en tendencias macroeconómicas encuentren espacio para actuar.
+Cada evento relevante —desde el estado de un mercado planetario hasta el resultado de una operación comercial interestelar— queda registrado en un historial verificable, que actúa como columna vertebral del universo persistente.
 
-### Capa microeconómica
+Este diseño no es solo una elección tecnológica: es lo que permite implementar el modelo de información desfasada, una de las bases del universo de **The Corporate Wars**. Gracias al registro estructurado en el tiempo, cada sistema estelar puede operar con los datos disponibles en su propio contexto, reflejando la latencia natural de las rutas interestelares. Esto significa que las decisiones de un jugador no impactan de forma inmediata ni global, sino que se propagan a través del universo siguiendo los mismos límites físicos que afectan al comercio, la diplomacia o la guerra en el juego.
 
-En cada mundo se simulan variables fundamentales que representan población, producción, consumo, PIB y precios locales.
+### Almacenamiento en PDA y sostenibilidad
 
-La producción depende de permisos, tecnología y disponibilidad de recursos, mientras que la logística introduce desafíos de almacenamiento, transporte y perecibilidad.
+Los mundos, rutas y entidades del universo de **The Corporate Wars** se almacenan como Program Derived Accounts (PDA) en Solana.
 
-Esta capa forma la base del ecosistema económico y define las oportunidades inmediatas de los jugadores.
+Cada PDA conlleva un coste conocido como rent, un mecanismo de bloqueo de tokens con valor que asegura que las cuentas activas mantengan su espacio de almacenamiento en la red.
 
-### Capa macroeconómica
+El sistema utiliza cuentas **rent-exempt**, lo que significa que se paga por adelantado el equivalente a aproximadamente dos años de rent, garantizando que los datos permanezcan almacenados indefinidamente aunque no tengan actividad reciente. Este diseño asegura que los datos históricos del universo persistente no se borren por razones técnicas.
 
-Por encima de las microeconomías, la macroeconomía conecta los sistemas mediante rutas interestelares que limitan y condicionan los flujos comerciales.
-
-Los índices sectoriales agregan tendencias globales para productos clave, permitiendo a los jugadores tomar decisiones estratégicas informadas sobre exportación, importación y manipulación de mercados a gran escala.
-
-### Modelo de red (grafo económico)
-
-El comportamiento agregado de la economía interestelar se representa como un grafo donde los nodos (mundos) y las aristas (rutas) transportan no solo mercancías, sino también tensiones económicas.
-
-Las diferencias de riqueza y capacidad generan gradientes que impulsan ciclos de redistribución y amortiguación, creando un entorno sistémico que nunca alcanza el equilibrio absoluto y está siempre en transformación.
+Dentro del modelo económico, los algoritmos que regulan la emisión y circulación de tokens —como MCr y RU— contemplan estos costes operativos. Así, la economía simulada está estrechamente alineada con las necesidades de sostenibilidad del backend, asegurando la viabilidad a largo plazo tanto del juego como de su infraestructura subyacente.
 
 ---
 
-## Mecánicas Emergentes
+## Ecosistema autosostenible
 
-Las mecánicas emergentes del juego nacen de la interacción entre jugadores, mercados y eventos dinámicos.
+La economía de **The Corporate Wars** se construye sobre dos pilares principales: los **MCr (megacréditos)**, que actúan como moneda de referencia interna del universo, y los **RU (Resource Units)**, que representan la riqueza material relativa de cada sistema estelar, incluyendo producción, reservas y capacidad tecnológica. Ambos son componentes puramente virtuales, diseñados para reflejar dinámicas económicas internas sin arrastrar directamente costes del mundo real.
 
-**The Corporate Wars** no presenta un tablero estático, sino un ecosistema vivo donde las decisiones individuales pueden tener repercusiones sistémicas.
+Por fuera del juego, la infraestructura del proyecto se sostiene mediante aportes en **SOL** (la criptomoneda nativa de Solana). Estos aportes no tienen efecto directo en la economía jugable, pero son fundamentales para garantizar la estabilidad y continuidad del universo. Cubren principalmente los costes de almacenamiento en blockchain —manteniendo activos los PDA con rent-exempt—, los servicios backend necesarios para sincronizar las operaciones del juego, la infraestructura en la nube y la remuneración del equipo de desarrollo, diseño, arte y operaciones.
 
-### Mercados dinámicos
+Este diseño separa con claridad los planos de economía virtual y real. Los algoritmos monetarios que operan dentro del juego se encargan de ajustar dinámicamente la oferta de MCr, calibrando su poder adquisitivo frente a un índice agregado de precios interestelares. Esto permite mantener la coherencia interna del universo, reflejando shocks económicos, fluctuaciones de mercado y ciclos macroeconómicos, sin depender de entradas o intervenciones externas.
 
-Los precios fluctúan de forma continua en respuesta a factores locales y globales.
-
-Estas fluctuaciones pueden generar ciclos económicos, burbujas especulativas, recesiones o bonanzas temporales, proporcionando a los jugadores oportunidades y riesgos a partes iguales.
-
-### Rol activo del juego
-
-El propio sistema del juego actúa como participante económico, interviniendo cuando es necesario para estabilizar precios críticos, aplicar impuestos, imponer aranceles o conceder subsidios.
-
-Esta intervención no elimina el riesgo, sino que lo redistribuye, obligando a los jugadores a anticipar no solo el mercado, sino también las respuestas del sistema.
-
-### Riesgo sistémico
-
-Las decisiones acumuladas de los jugadores, combinadas con eventos externos, pueden desatar quiebras locales, efectos dominó en rutas comerciales o incluso crisis macroeconómicas sectoriales.
-
-Este nivel de riesgo sistémico convierte al universo de **The Corporate Wars** en un entorno donde la planificación estratégica y la adaptabilidad son fundamentales para la supervivencia.
+En conjunto, **The Corporate Wars** plantea un modelo autosostenible: las economías locales reaccionan, los balances macro se ajustan, y el ecosistema real garantiza la infraestructura mínima para que todo funcione sin interrupciones. La sostenibilidad no es solo técnica o económica: es también narrativa, dando sentido a la experiencia de los jugadores en un universo que vive, respira y evoluciona de forma autónoma.
 
 ---
 
-## Ejemplo
+Mientras el proyecto permanezca en entorno **DevNet**, todos los sistemas descritos —incluyendo MCr, RU y cualquier otro token o activo virtual— funcionan únicamente como elementos de simulación interna, sin valor económico real fuera del entorno de pruebas. Ninguno de los sistemas activos en esta fase tiene naturaleza comercial ni representa activos financieros o inversiones con valor en el mundo real.
 
-La corporación *Astra Mining* identificó que en el sistema Makinen existía una sobreoferta de lantano, lo que había derrumbado los precios locales, mientras que en Uson la demanda seguía siendo alta.
+Cualquier gasto derivado de operaciones en la red (como fees de blockchain) o aportación voluntaria realizada por participantes se considera un acto personal, participativo y opcional, destinado exclusivamente a cubrir parcialmente costes de desarrollo como infraestructura, backend, arte o programación. Estas contribuciones no otorgan derechos de propiedad, participación, beneficios ni constituyen una venta ni oferta de producto por parte del equipo desarrollador.
 
-Aprovechando esta oportunidad, organizó envíos rápidos desde sus colonias en Abarre y Shigi usando rutas priorizadas.
-
-Inicialmente, esto generó enormes beneficios.
-
-Sin embargo, otros jugadores pronto replicaron la estrategia, lo que provocó una caída brusca de precios en Uson y dejó a Astra Mining con cargamentos sobrevalorados que tuvo que liquidar con pérdidas.
-
-Este caso ilustra cómo la asincronía informativa y la capacidad logística determinan las oportunidades reales, y cómo el exceso de reacción del mercado puede revertir ventajas competitivas en desventajas.
-
----
-
-## Ventajas del Modelo
-
-El modelo económico de **The Corporate Wars** ofrece una simulación realista y sofisticada, que premia el análisis profundo, la planificación estratégica y la capacidad de especulación informada.
-
-El entorno no es determinista ni predecible, sino que surge de las interacciones acumuladas entre actores y sistemas, creando una jugabilidad que refleja la incertidumbre de un universo vivo.
-
-Los jugadores no gestionan simplemente un tablero, sino que navegan en un espacio de oportunidades y riesgos cambiantes, donde cada decisión puede tener consecuencias duraderas.
+**The Corporate Wars** es un proyecto no oficial, pendiente de revisión, inspirado en el universo de Traveller™ y se desarrolla bajo los términos de uso justo (Fair Use) establecidos por Far Future Enterprises. Ninguna parte de este proyecto constituye una comercialización oficial, y todo el contenido relacionado con Traveller™ es utilizado de forma respetuosa, no lucrativa y claramente separada de cualquier actividad económica externa.
