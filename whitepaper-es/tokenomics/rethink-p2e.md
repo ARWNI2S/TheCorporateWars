@@ -8,7 +8,16 @@ Solo aquellas corporaciones capaces de alcanzar **excedentes netos reales**, tra
 
 No es un derecho ni una promesa: es un resultado **excepcional**, que refleja dominio, eficiencia y sostenibilidad.
 
-## Condiciones para retirar MCr
+## Diferencias clave frente a modelos P2E tradicionales
+
+El modelo de **The Corporate Wars** se distingue porque:
+
+* **No entrega rentas pasivas.** No existen recompensas por stakeo prolongado, simple posesión de tokens ni "actividad mínima".
+* **No depende de entradas externas.** La economía es autosostenible: no requiere captar nuevos jugadores para sostener el valor interno.
+* **No garantiza rendimientos.** El rendimiento emerge del éxito corporativo, no de tasas predefinidas ni emisiones automáticas.
+* **Es competitivo.** No todas las corporaciones alcanzarán excedentes; muchas operarán al coste, otras quebrarán, y unas pocas destacarán.
+
+### Condiciones para retirar MCr
 
 Los MegaCréditos (**MCr**) son la unidad monetaria principal de **The Corporate Wars**, respaldada algorítmicamente y equilibrada frente a la actividad econ�mica agregada del juego.
 
@@ -22,15 +31,6 @@ El retiro de MCr hacia fuera del ecosistema está sujeto a las siguientes condic
 {% hint style="warning" %}
 El retiro de MCr no es una función abierta a todos los jugadores ni a todas las corporaciones. Es una **consecuencia** reservada para quienes logren construir organizaciones eficientes, solventes y estratégicamente dominantes.
 {% endhint %}
-
-## Diferencias clave frente a modelos P2E tradicionales
-
-El modelo de **The Corporate Wars** se distingue porque:
-
-* **No entrega rentas pasivas.** No existen recompensas por stakeo prolongado, simple posesión de tokens ni "actividad mínima".
-* **No depende de entradas externas.** La economía es autosostenible: no requiere captar nuevos jugadores para sostener el valor interno.
-* **No garantiza rendimientos.** El rendimiento emerge del éxito corporativo, no de tasas predefinidas ni emisiones automáticas.
-* **Es competitivo.** No todas las corporaciones alcanzarán excedentes; muchas operarán al coste, otras quebrarán, y unas pocas destacarán.
 
 ## Riesgos y limitaciones
 

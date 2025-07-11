@@ -8,7 +8,16 @@ Only those corporations capable of achieving **real net surpluses**, after cover
 
 It is not a right nor a promise: it is an **exceptional** result, reflecting dominance, efficiency, and sustainability.
 
-## Conditions for withdrawing MCr
+## Key differences from traditional P2E models
+
+The **The Corporate Wars** model stands out because:
+
+* **It does not deliver passive income.** There are no rewards for prolonged staking, mere token ownership, or "minimum activity".
+* **It does not depend on external inflows.** The economy is self-sustaining: it does not require attracting new players to maintain internal value.
+* **It does not guarantee returns.** Returns emerge from corporate success, not from predefined rates or automatic emissions.
+* **It is competitive.** Not all corporations will reach surpluses; many will operate at cost, others will go bankrupt, and only a few will stand out.
+
+### Conditions for withdrawing MCr
 
 The MegaCredits (**MCr**) are the main monetary unit of **The Corporate Wars**, algorithmically backed and balanced against the game's aggregated economic activity.
 
@@ -22,15 +31,6 @@ The withdrawal of MCr outside the ecosystem is subject to the following conditio
 {% hint style="warning" %}
 The withdrawal of MCr is not a feature available to all players or corporations. It is a **consequence** reserved for those who manage to build efficient, solvent, and strategically dominant organizations.
 {% endhint %}
-
-## Key differences from traditional P2E models
-
-The **The Corporate Wars** model stands out because:
-
-* **It does not deliver passive income.** There are no rewards for prolonged staking, mere token ownership, or "minimum activity".
-* **It does not depend on external inflows.** The economy is self-sustaining: it does not require attracting new players to maintain internal value.
-* **It does not guarantee returns.** Returns emerge from corporate success, not from predefined rates or automatic emissions.
-* **It is competitive.** Not all corporations will reach surpluses; many will operate at cost, others will go bankrupt, and only a few will stand out.
 
 ## Risks and limitations
 
