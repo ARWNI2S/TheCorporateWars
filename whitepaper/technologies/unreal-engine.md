@@ -1,9 +1,9 @@
 # Unreal Engine
 
-Unreal Engine (UE) es un motor multiplataforma de última generación para desarrollo AAA, simulación y proyectos multicapa como **The Corporate Wars**.
+Unreal Engine (UE) is a next-generation, cross-platform engine for AAA development, simulation, and multi-layered projects like **The Corporate Wars**.
 
 {% hint style="success" %}
-UE ofrece potencia gráfica, modularidad, backend flexible y herramientas de edición personalizadas que permiten a **The Corporate Wars** construir, escalar y distribuir una experiencia de estrategia galáctica persistente, con integración a blockchain y presencia comercial en Epic Games Store.
+UE provides graphical power, modularity, flexible backend, and customizable editor tools that enable **The Corporate Wars** to build, scale, and deliver a persistent galactic strategy experience, with blockchain integration and commercial presence on the Epic Games Store.
 {% endhint %}
 
 ## Key Points
