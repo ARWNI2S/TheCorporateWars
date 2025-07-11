@@ -1,7 +1,5 @@
 # Hayek Money
 
-# Simulación Económica
-
 **The Corporate Wars** implementa un sistema de simulación económica interestelar que integra dinámicas locales y globales bajo un marco descentralizado y asincrónico.
 
 El modelo refleja las tensiones, ineficiencias y oportunidades propias de una red de mundos interconectados pero desincronizados, ofreciendo a los jugadores un entorno complejo y emergente donde cada decisión tiene impacto a múltiples niveles.
