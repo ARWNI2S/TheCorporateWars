@@ -6,7 +6,7 @@ A continuación, detallamos los motivos, ventajas y desafíos de esta integraci�
 
 ### Proof-of-History y Merkle Trees
 
-Solana implementa un sistema de **proof-of-history (PoH)**, donde cada bloque y transacción queda anclado a una secuencia temporal verificable. Esto permite construir un **versionado de estados diferenciados en el tiempo**, donde cada update de juego contiene un `hash_root` correspondiente a su timestamp.
+Solana implementa un sistema de **proof-of-history (PoH)**, donde cada bloque y transacción queda anclado a una secuencia temporal verificable. Esto permite construir un **versionado de estados diferenciados en el tiempo**, donde cada actualización de juego contiene un `hash_root` correspondiente a su marca de tiempo.
 
 Los Merkle trees permiten comprimir y validar estos estados de forma eficiente, sirviendo como un ledger histórico de cambios que puede ser auditado y referenciado a cualquier momento pasado.
 
@@ -14,7 +14,7 @@ Los Merkle trees permiten comprimir y validar estos estados de forma eficiente, 
 
 A diferencia de otros ecosistemas, Solana opera con **programas stateless** y almacenamiento basado en claves derivadas.
 
-Esto permite modelar estructuras complejas mediante nomenclaturas impl�citas:
+Esto permite modelar estructuras complejas mediante nomenclaturas implícitas:
 
 * una `key` principal,
 * asociada a una `foreign key`,
@@ -54,34 +54,38 @@ Solana resuelve desafíos que tradicionalmente colapsarían bases de datos no-SQ
 
 ## Integración práctica con backend y cliente
 
-Ejemplo práctico:
-
+{% hint style="info" %}
 La megacorporación **Helion Dynamics** opera en los sistemas **Ergo (Massilia.Keum.0414)**, **Abarre (Massilia.Keum.0415)**, **Shigi (Massilia.Keum.0314)** y **Uson (Massilia.Keum.0616)**.
 
 * **Ergo:** sede central administrativa y financiera.
 * **Abarre** y **Shigi:** colonias industriales con administradores locales.
 * **Uson:** hub comercial crítico con alto tráfico pero sin administrador residente de Helion Dynamics.
+{% endhint %}
 
-En el entorno gráfico del juego (por ejemplo, Unreal Engine), el jugador ve una perspectiva combinada de los datos disponibles desde Ergo, Abarre y Shigi. Las órdenes hacia Uson pueden emitirse, pero con limitaciones clave:
+En el entorno gráfico del juego, el jugador ve una perspectiva combinada de los datos disponibles desde Ergo, Abarre y Shigi. Las órdenes hacia Uson pueden emitirse, pero con limitaciones clave:
 
-* Las órdenes hacia **Uson (0616)** se registran pero no son **efectivas** hasta que llegue el próximo “correo” (update interestelar sincronizado vía blockchain).
-* Desde **Abarre**, los analistas detectan que en **Makinen (0719)** hay una sobreoferta de Helio-3 a precio bajo.
+* Las órdenes hacia **Uson** se registran pero no son **efectivas** hasta que llegue el próximo “correo” (actualización interestelar sincronizado vía blockchain).
+* Desde **Abarre**, los analistas detectan que en **Makinen (Massilia.Keum.0719)** hay una sobreoferta de Lantano a precio bajo.
 * El jugador decide enviar cargueros:
-  - Si parte de **Abarre**, la acción es inmediata porque la información está disponible localmente.
-  - Si intenta mover cargueros desde **Ergo**, debe asumir:
-    - la latencia del trayecto,
-    - y que la orden, aunque válida, depende de datos que Ergo conoce solo por update retrasado.
+  * Si parte de **Abarre**, la acción es inmediata porque la información está disponible localmente.
+  * Si intenta mover cargueros desde **Ergo**, debe asumir:
+    * la latencia del trayecto,
+    * y que la orden, aunque válida, depende de datos que Ergo conoce solo por actualizaciones retrasadas.
 
 Aquí es donde la blockchain es esencial:
-* La autorizacion para ejecutar ordenes depende contexto, timestamp, y snapshot de datos visibles.
-* El backend del juego hidrata solo la información válida por nodo, manteniendo:
-  - coherencia,
-  - trazabilidad,
-  - y fair play.
+
+* La autorización para ejecutar ordenes depende contexto, maca de tiempo, e instantanea de datos visibles.
+* El backend del juego hidrata solo la información válida por nodo y sesión de juego, manteniendo:
+  * coherencia,&#x20;
+  * trazabilidad,
+  * y fair play.
 
 El resultado: aunque el mapa galáctico muestre un todo integrado, las decisiones estratégicas dependen de:
-- qué mundos tienen datos en tiempo real, y cuales no,
-- qué rutas están optimizadas al flujo de información,
-- y qué capacidades logísticas tiene cada enclave.
 
+* qué mundos tienen datos en tiempo real, y cuales no,
+* qué rutas están optimizadas al flujo de información,
+* y qué capacidades logísticas tiene cada enclave.
+
+{% hint style="success" %}
 Esto reproduce la complejidad real del comercio interestelar — y por eso recurrimos a blockchain, porque sus propias propiedades resuelven de forma nativa restricciones de latencia, firmas, consenso y trazabilidad.
+{% endhint %}
