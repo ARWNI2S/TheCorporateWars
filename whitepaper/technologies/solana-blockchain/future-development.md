@@ -3,25 +3,25 @@
 The blockchain-based infrastructure opens the door to exploring development paths that go far beyond mere state recording. Among the most advanced technical possibilities we are considering:
 
 {% hint style="danger" %}
-These lines are not part of the core design or the immediate official roadmap, but they are areas of active exploration that could redefine blockchain’s potential in ecosystems focused exclusively on virtual worlds.
+These lines are not part of the core design or the immediate official roadmap, but they are areas of active exploration that could redefine blockchain's potential in ecosystems focused exclusively on virtual worlds.
 {% endhint %}
 
 ### Alternative timelines
 
-Thanks to Solana’s intrinsic versioning (proof-of-history + Merkle trees), it is technically possible to **fork at a historical point** and generate a divergent timeline, creating parallel environments.\
+Thanks to Solana's intrinsic versioning (proof-of-history + Merkle trees), it is technically possible to **fork at a historical point** and generate a divergent timeline, creating parallel environments.\
 This would theoretically allow us to:
 
-* create “what if…” scenarios,
-* experiment with multiverse mechanics and pocket universes,
+* create "what if..." scenarios,
+* experiment with multiverse mechanics and **pocket universes**,
 * or launch time-limited campaigns with alternative rulesets.
 
 ### Time travel simulation (gameified)
 
-While not part of the Traveller™ canon, exploring the technical consequences of operating on historical snapshots — and the aforementioned forks — would allow us to model:
+While not part of the Travellerâ„¢ canon, exploring the technical consequences of operating on historical snapshots â€”and the aforementioned forksâ€” would allow us to model:
 
 * missions that interact with past data,
 * probabilistic forecasting systems,
-* or even “data archaeology” mechanics, where recovering, reinterpreting, or even sabotaging past information alters the present.
+* or even â€”_data archaeology_â€” mechanics, where recovering, reinterpreting, or even sabotaging past information alters the present.
 
 ### Applied sci-fi exploration
 
