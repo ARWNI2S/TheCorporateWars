@@ -28,7 +28,7 @@ Inspirado en los principios económicos de F. A. Hayek, **The Corporate Wars** r
 No existe un equilibrio global predefinido: cada sistema estelar reacciona a su propia oferta y demanda, generando un entorno donde los ajustes son constantes, parciales y sujetos a las condiciones del entorno.
 
 {% hint style="success" %}
-Este enfoque encaja perfectamente con la filosofía monetaria del Tercer Imperio, heredera directa de las prácticas vilani de la Ziru Sirka.  
+Este enfoque encaja perfectamente con la filosofía monetaria del Tercer Imperio, heredera directa de las prácticas vilani de la Ziru Sirka.\
 El Imperio no busca imponer un control centralizado absoluto, sino mantener un marco de referencia común —como el MegaCrédito (MCr)— que permita a mundos diversos interactuar, comerciar y competir bajo una misma arquitectura económica.
 {% endhint %}
 
@@ -78,24 +78,26 @@ El sistema natural de **The Corporate Wars** funciona como una red autorregulada
 
 En términos algorítmicos, los precios tienden hacia un valor deseado:
 
-\[
-P_{deseado} = P_{actual} \times (1 + \alpha \cdot \frac{D - S}{S})
-\]
+```
+P_deseado = P_actual × (1 + α × (D - S) / S)
+```
 
 donde:
-- \( D \) es la demanda local,
-- \( S \) es la oferta local,
-- \( \alpha \) es el coeficiente de sensibilidad.
+
+* D es la demanda local,
+* S es la oferta local,
+* α es el coeficiente de sensibilidad.
 
 Además, el modelo incorpora un ajuste de equilibrio distribuido:
 
-\[
-\Delta P = \sum_{n} w_n \cdot (P_n - P_{actual})
-\]
+```
+ΔP = Σ (w_n × (P_n - P_actual))
+```
 
 donde:
-- \( P_n \) son los precios de los nodos vecinos,
-- \( w_n \) es el peso de cada conexión en función del tráfico y la latencia.
+
+* P\_n son los precios de los nodos vecinos,
+* w\_n es el peso de cada conexión en función del tráfico y la latencia.
 
 Esta combinación permite que el sistema mantenga coherencia global sin necesidad de intervención directa ni de supervisión manual, generando un equilibrio que se adapta tanto a los focos de actividad como a los márgenes menos transitados.
 
