@@ -8,6 +8,10 @@ Esto se traduce en un ecosistema de simulación económica donde la estabilidad 
 
 No es un mecanismo jugable directo ni un recurso explotable: es el suelo sobre el que el universo entero respira.
 
+{% hint style="warning" %}
+Este modelo es una interpretación jugable del concepto Hayek Money, adaptado para propósitos de simulación económica interactiva.
+{% endhint %}
+
 {% hint style="danger" %}
 Los tokens estabilizados algorítmicamente son tecnología experimental, en desarrollo, y aunque existe una amplia base teórica, hay pocos ejemplos prácticos.\
 El supuesto "riesgo" de los proyectos de **stablecoin algorítmicas** y similares es, en términos prácticos, comparable al de participar en el mercado de una memecoin: se percibe como mayor porque no existe la capitalización piramidal característica de tokens sin un proyecto con costes reales.
@@ -15,27 +19,60 @@ El supuesto "riesgo" de los proyectos de **stablecoin algorítmicas** y similare
 
 ***
 
-## Flujo y balance
+## Principios Fundamentales
 
-El circuito monetario se mantiene vivo a través de mecanismos de entrada (faucets) y salida (sinks) cuidadosamente integrados:
+El núcleo económico del juego está diseñado para imitar el comportamiento realista de los mercados, donde la coordinación entre actores no depende de una autoridad central, sino de señales distribuidas como los precios.
 
-* Entradas: recompensas sistémicas, incentivos de expansión, emisiones calibradas.
-* Salidas: costes operativos, licencias, sanciones, absorción de liquidez en instrumentos de largo plazo.
+**The Corporate Wars** simula cómo estas señales surgen, se deforman por retardos informativos y generan oportunidades tanto para la cooperación como para la competencia entre jugadores.
 
-Estos flujos no son un simple balance contable: son parte del latido econ�mico del universo, reflejando su dinamismo y su resiliencia.
+### Modelo hayekiano
+
+Inspirado en los principios económicos de F. A. Hayek, **The Corporate Wars** representa los precios como señales locales de información que permiten a las economías planetarias adaptarse de forma incremental.
+
+No existe un equilibrio global predefinido: cada sistema estelar reacciona a su propia oferta y demanda, generando un entorno donde los ajustes son constantes, parciales y sujetos a las condiciones del entorno.
+
+{% hint style="success" %}
+Este enfoque encaja perfectamente con la filosofía monetaria del Tercer Imperio, heredera directa de las prácticas vilani de la Ziru Sirka.  
+El Imperio no busca imponer un control centralizado absoluto, sino mantener un marco de referencia común —como el MegaCrédito (MCr)— que permita a mundos diversos interactuar, comerciar y competir bajo una misma arquitectura económica.
+{% endhint %}
+
+### Flujos de mercado
+
+En el corazón de la economía galáctica están las rutas comerciales, que canalizan no solo mercancías, sino precios, señales, **información**.
+
+Las corrientes económicas que inspiran este modelo —descentralizadas, autorreguladas, alternativas a las escuelas de control centralizado— sostienen que no es necesario intervenir en cada nodo del sistema.
+
+Según Hayek, lo esencial es entender cómo fluyen las señales, cómo interactúan oferta y demanda a lo largo de las rutas comerciales, y cómo ese movimiento constante genera dinámicas agregadas de equilibrio.
+
+En **The Corporate Wars**, este principio se plasma en las rutas interestelares, que actúan como vectores macroeconómicos sobre los mercados locales, propagando tensiones y redistribuyendo desequilibrios.
 
 ***
 
-## Equilibrio y legado
+### Equilibrio sintético
 
-Detr�s de estos sistemas no hay solo algoritmos: hay siglos de filosof�a econ�mica.\
-La antigua noci�n vilani de **ashirmushar irurkhegim** �la armon�a que surge del tejido de voluntades�\
-sigue guiando, aunque invisiblemente, la estabilidad del Imperio.\
-Lo que hoy ajustan las inteligencias distribuidas es, en esencia, el mismo equilibrio que permiti� a las Casas Comerciales mantener su poder durante milenios.
+En el modelo económico de **The Corporate Wars**, los sistemas planetarios se modelan como nodos interconectados a través de rutas comerciales interestelares, formando una red de alta complejidad topológica.
+
+Las alteraciones en cualquier nodo —ya sean productivas, políticas o tecnológicas— modifican los patrones de tráfico asociados a sus rutas, generando eventos que se propagan a través del sistema según la densidad del trafico interestelar.
+
+Este tipo de propagación no persigue homogenizar los estados ni alcanzar un equilibrio uniforme.
+
+Lo que emerge es un **equilibrio sintético**: un estado dinámico de ajuste continuo, en el que las tensiones locales se redistribuyen a través de la red, permitiendo al conjunto mantener un balance operativo óptimo.
+
+A mayor densidad y conectividad, mayor es la capacidad del sistema para absorber perturbaciones locales, amortiguar efectos sistémicos y generar espacio para la aparición de nuevas configuraciones económicas.
 
 ***
 
-## Un suelo para construir
+## Mecanismos de Control
 
-Este marco no promete eliminar la incertidumbre ni blindar a nadie del fracaso.\
-Pero establece un suelo compartido: el lugar desde donde corporaciones, exploradores, estrategas y gobernantes pueden tomar riesgos, construir alianzas y, tal vez, dejar su marca en el tapiz cambiante del universo.
+Los mecanismos de control en **The Corporate Wars** son procesos distribuidos que absorben perturbaciones, redistribuyen tensiones y equilibran flujos de manera continua, presentando interacción a través de eventos locales, noticias sectoriales y propagación de la información entre sistemas.
+
+Estos mecanismos no actúan como intervenciones externas, sino como parte del comportamiento emergente del ecosistema, generando dinámicas que afectan tanto a la estructura económica como a las percepciones locales dentro del universo simulado.
+
+### Flujos de entrada y salida
+
+El equilibrio monetario en **The Corporate Wars** depende de los flujos de entrada y salida de **MCr**, que permiten ajustar dinámicamente la cantidad de moneda circulante en función de las condiciones del mercado.
+
+Las entradas (emisiones, incentivos, recompensas) y las salidas (tasas, licencias, absorciones de liquidez) no tienen impacto aislado: son compensadas por los propios flujos de mercado, que redistribuyen la presión monetaria, contribuyen a mantener el poder adquisitivo del **MCr** en un rango operativo estable y generan eventos jugables que, a su vez, activan nuevos ciclos de entrada y salida.
+
+Este modelo no solo preserva la coherencia del ecosistema económico, sino que lo convierte en un entorno dinámico, donde cada ajuste abre oportunidades, riesgos y decisiones estratégicas.
+
