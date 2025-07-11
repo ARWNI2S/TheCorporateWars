@@ -8,10 +8,6 @@ Esto se traduce en un ecosistema de simulación económica donde la estabilidad 
 
 No es un mecanismo jugable directo ni un recurso explotable: es el suelo sobre el que el universo entero respira.
 
-{% hint style="warning" %}
-Este modelo es una interpretación jugable del concepto Hayek Money, adaptado para propósitos de simulación económica interactiva.
-{% endhint %}
-
 {% hint style="danger" %}
 Los tokens estabilizados algorítmicamente son tecnología experimental, en desarrollo, y aunque existe una amplia base teórica, hay pocos ejemplos prácticos.\
 El supuesto "riesgo" de los proyectos de **stablecoin algorítmicas** y similares es, en términos prácticos, comparable al de participar en el mercado de una memecoin: se percibe como mayor porque no existe la capitalización piramidal característica de tokens sin un proyecto con costes reales.
@@ -76,3 +72,40 @@ Las entradas (emisiones, incentivos, recompensas) y las salidas (tasas, licencia
 
 Este modelo no solo preserva la coherencia del ecosistema económico, sino que lo convierte en un entorno dinámico, donde cada ajuste abre oportunidades, riesgos y decisiones estratégicas.
 
+### Ajustes de precio y zonas inactivas
+
+El sistema natural de **The Corporate Wars** funciona como una red autorregulada:  
+las regiones con alta actividad económica mantienen sus precios ajustados por efecto de los flujos de entrada y salida,  
+mientras que las regiones menos activas se equilibran de manera indirecta, por propagación de señales a través de la red,  
+con retardos y amortiguación según la distancia y la intensidad del tráfico.
+
+En términos algorítmicos, los precios tienden hacia un valor deseado:
+
+\[
+P_{deseado} = P_{actual} \times (1 + \alpha \cdot \frac{D - S}{S})
+\]
+
+donde:
+- \( D \) es la demanda local,
+- \( S \) es la oferta local,
+- \( \alpha \) es el coeficiente de sensibilidad.
+
+Además, el modelo incorpora un ajuste de equilibrio distribuido:
+
+\[
+\Delta P = \sum_{n} w_n \cdot (P_n - P_{actual})
+\]
+
+donde:
+- \( P_n \) son los precios de los nodos vecinos,
+- \( w_n \) es el peso de cada conexión en función del tráfico y la latencia.
+
+Esta combinación permite que el sistema mantenga coherencia global  
+sin necesidad de intervención directa ni de supervisión manual,  
+generando un equilibrio que se adapta tanto a los focos de actividad como a los márgenes menos transitados.
+
+***
+
+{% hint style="warning" %}
+Este modelo es una interpretación jugable del concepto Hayek Money, adaptado para propósitos de simulación económica interactiva.
+{% endhint %}
