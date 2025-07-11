@@ -56,17 +56,32 @@ Solana resuelve desafíos que tradicionalmente colapsarían bases de datos no-SQ
 
 Ejemplo práctico:
 
-La corporación X tiene presencia en los mundos A, B, C y D.
+La megacorporación **Helion Dynamics** opera en los sistemas **Ergo (0414)**, **Abarre (0415)**, **Shigi (0314)** y **Uson (0616)**.
 
-* A aloja la sede.
-* C y D tienen administradores activos.
-* B tiene instalaciones, pero no observadores activos.
+* **Ergo (0414):** sede central administrativa y financiera.
+* **Abarre (0415)** y **Shigi (0314):** colonias industriales con administradores locales.
+* **Uson (0616):** hub comercial crítico con alto tráfico pero sin administrador residente de Helion Dynamics.
 
-El entorno gr�fico (ej. Unreal Engine) muestra una perspectiva combinada de A, C y D, pero las �rdenes sobre B est�n limitadas:
+En el entorno gráfico del juego (por ejemplo, Unreal Engine), el jugador ve una perspectiva combinada de los datos disponibles desde Ergo, Abarre y Shigi. Las órdenes hacia Uson pueden emitirse, pero con limitaciones clave:
 
-* se pueden emitir,
-* pero no ser�n efectivas hasta el pr�ximo �correo� o ciclo de sincronizaci�n.
+* Las órdenes hacia **Uson (0616)** se registran pero no son **efectivas** hasta que llegue el próximo “correo” (update interestelar sincronizado vía blockchain).
+* Desde **Abarre**, los analistas detectan que en **Makinen (0719)** hay una sobreoferta de Helio-3 a precio bajo.
+* El jugador decide enviar cargueros:
+  - Si parte de **Abarre**, la acción es inmediata porque la información está disponible localmente.
+  - Si intenta mover cargueros desde **Ergo**, debe asumir:
+    - la latencia del trayecto,
+    - y que la orden, aunque válida, depende de datos que Ergo conoce solo por update retrasado.
 
-As�, aunque se vea el precio �ptimo en E desde D, si se env�an cargueros desde A, habr� semanas de retraso; solo usando cargueros de D se logra una acci�n �instant�nea�. Adem�s, la orden debe emitirse desde D (con acceso directo a la informaci�n de E), aunque el transporte salga f�sicamente de A.
+Aquí es donde la blockchain es esencial:
+* La autorizacion para ejecutar ordenes depende contexto, timestamp, y snapshot de datos visibles.
+* El backend del juego hidrata solo la información válida por nodo, manteniendo:
+  - coherencia,
+  - trazabilidad,
+  - y fair play.
 
-Esta es la complejidad real del comercio interestelar � y por eso recurrimos a blockchain: porque el propio modelo de transacciones, con contexto, firmas y timestamps, refleja de forma nativa las restricciones y oportunidades del ecosistema.
+El resultado: aunque el mapa galáctico muestre un todo integrado, las decisiones estratégicas dependen de:
+- qué mundos tienen datos en tiempo real, y cuales no,
+- qué rutas están optimizadas al flujo de información,
+- y qué capacidades logísticas tiene cada enclave.
+
+Esto reproduce la complejidad real del comercio interestelar — y por eso recurrimos a blockchain, porque sus propias propiedades resuelven de forma nativa restricciones de latencia, firmas, consenso y trazabilidad.
