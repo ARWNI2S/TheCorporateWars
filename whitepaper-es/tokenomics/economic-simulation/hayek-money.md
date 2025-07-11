@@ -72,12 +72,9 @@ Las entradas (emisiones, incentivos, recompensas) y las salidas (tasas, licencia
 
 Este modelo no solo preserva la coherencia del ecosistema económico, sino que lo convierte en un entorno dinámico, donde cada ajuste abre oportunidades, riesgos y decisiones estratégicas.
 
-### Ajustes de precio y zonas inactivas
+### Propagación Automatizada
 
-El sistema natural de **The Corporate Wars** funciona como una red autorregulada:  
-las regiones con alta actividad económica mantienen sus precios ajustados por efecto de los flujos de entrada y salida,  
-mientras que las regiones menos activas se equilibran de manera indirecta, por propagación de señales a través de la red,  
-con retardos y amortiguación según la distancia y la intensidad del tráfico.
+El sistema natural de **The Corporate Wars** funciona como una red autorregulada: las regiones con alta actividad económica mantienen sus precios ajustados por efecto de los flujos de entrada y salida, mientras que las regiones menos activas se equilibran de manera indirecta, por propagación de señales a través de la red, con retardos y amortiguación según la distancia y la intensidad del tráfico.
 
 En términos algorítmicos, los precios tienden hacia un valor deseado:
 
@@ -100,9 +97,7 @@ donde:
 - \( P_n \) son los precios de los nodos vecinos,
 - \( w_n \) es el peso de cada conexión en función del tráfico y la latencia.
 
-Esta combinación permite que el sistema mantenga coherencia global  
-sin necesidad de intervención directa ni de supervisión manual,  
-generando un equilibrio que se adapta tanto a los focos de actividad como a los márgenes menos transitados.
+Esta combinación permite que el sistema mantenga coherencia global sin necesidad de intervención directa ni de supervisión manual, generando un equilibrio que se adapta tanto a los focos de actividad como a los márgenes menos transitados.
 
 ***
 
