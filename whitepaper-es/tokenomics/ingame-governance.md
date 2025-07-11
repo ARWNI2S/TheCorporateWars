@@ -1,56 +1,97 @@
 # Gobernanza en Juego
 
-La gobernanza en **The Corporate Wars** es uno de los pilares fundamentales del diseño.
+La gobernanza en **The Corporate Wars** no es simplemente un conjunto de reglas: es la arquitectura viva que sostiene el universo, la red de **Políticas** que ejercen poder, autoridad e influencia sobre territorios, poblaciones, activos y actores. 
 
-Atraviesa desde las decisiones individuales de los jugadores hasta las dinámicas colectivas y las estructuras que mantienen unido el universo persistente.
+Cada decisión, cada interacción y cada transacción ocurre dentro de este ecosistema compuesto, donde las **Políticas** no son bloques aislados, sino objetos dinámicos capaces de contener a otros, delegar funciones, asumir responsabilidades y formar alianzas o federaciones.
 
-No es solo un marco de reglas: es la trama sobre la que operan la política, la economía y el poder.
+## **Políticas**: un sistema de sistemas
 
-## Capas de Autoridad
+El universo de juego está estructurado como una jerarquía flexible de polities. Desde la corporación individual, que controla activos y recursos, hasta alianzas interestelares, que dominan las rutas comerciales, cada nivel es un actor autónomo que puede vincularse, subordinarse o confrontarse con otros.
 
-El Tercer Imperio domina el espacio entre los mundos, pero no gobierna cada planeta.
+El Tercer Imperio gobierna el espacio entre los mundos, imponiendo normas de navegación, comercio y seguridad interestelar.
 
-Cada mundo mantiene su propio gobierno local, con leyes, costumbres y estructuras de poder internas.
+Sin embargo, cada planeta mantiene su propio gobierno local, con leyes, costumbres y prioridades propias.
 
-Las corporaciones cruzan esos límites, formando trusts, holdings y consorcios que operan a través de sistemas de propiedad compartida, derechos sobre naves y alianzas de múltiples capas.
+Por debajo, organizaciones, trusts, holdings y corporaciones cruzan fronteras, tejiendo redes de propiedad, influencia y poder que rebasan las jurisdicciones locales.
 
-Este tejido de autoridades superpuestas define qué es posible y qué está fuera del alcance, para individuos y para organizaciones.
+Este modelo no es lineal: es una composicion de Politicas agregadas jerarquicamente, con ambitos, contextos y autonomía variable.
 
 ### Permisos, Licencias y Propiedades
 
-A nivel individual, la autoridad empieza con la propiedad y el uso.
+En el nivel más inmediato, los jugadores actúan como **Políticas** individuales. Tener algo no equivale a tenerlo asegurado: los derechos de propiedad, de uso y de usufructo son entidades separadas.
 
-Poseer algo no significa tener control absoluto: los jugadores pueden delegar, alquilar, hipotecar, ceder temporalmente o incluso perder activos, ya sea por deudas, conflictos o ataques.
+Un jugador puede ceder el uso de una nave sin transferir su propiedad, hipotecar activos para financiar operaciones, o perder control efectivo sobre recursos clave en medio de disputas o asaltos.
 
-La gestión de activos no es estática: forma parte del juego, del riesgo y de la estrategia.
-
-El derecho de uso puede estar separado de la propiedad, y recuperarlo o defenderlo se convierte en parte de la dinámica de gobernanza personal.
+La gestión de activos no es estática: es un juego en sí misma, donde poseer, proteger, delegar o recuperar define no solo la economía del jugador, sino su posición en la red de autoridad que lo rodea.
 
 ### Gobiernos Locales
 
-Por encima de esta capa, los gobiernos locales ejercen autoridad sobre sus sistemas estelares.
+Cada sistema estelar está bajo un gobierno local, que actúa como polity autónomo.
 
-Aunque normalmente están gestionados por la IA, en partidas avanzadas pueden integrar jugadores en sus estructuras.
+Aunque generalmente administrados por la IA, estos gobiernos pueden incluir jugadores que hayan alcanzado suficiente influencia o integración.
 
-Sin embargo, ningún gobierno local es completamente controlado por jugadores: la población civil es un actor independiente que define demandas, tensiones y dinámicas internas.
+Sin embargo, ni siquiera en estos casos los jugadores controlan totalmente el aparato de poder: la población civil, con sus demandas, crisis y aspiraciones, es un actor independiente del sistema.
 
-Los gobiernos locales determinan qué actividades están permitidas o prohibidas, y todos los jugadores, incluso los más poderosos, están supeditados a su marco legal, salvo que logren integrarse en sus estructuras de poder.
+Los gobiernos locales establecen el marco legal, determinan qué se permite y qué se castiga, y funcionan como filtros que modelan la acción de corporaciones, alianzas y actores externos en su espacio.
 
-### Alianzas
+### Agrupaciones de **Políticas**
 
-Las alianzas, son formas agregadas de gobiermo y autoridad, comparables a organizaciones autónomas. Existen en tres categorías principales: comerciales, gubernamentales e institucionales.
+Las agrupaciones de **Políticas** funcionan como redes de coordinación que pueden adoptar formas comerciales, gubernamentales o institucionales.
 
-Las alianzas comerciales funcionan como corporaciones cooperativas y están abiertas a todos los jugadores; además, no es obligatorio que la pertenencia sea pública.
+Las agrupaciones comerciales son las más accesibles para los jugadores, el equivalente a guilds, permitiendo pertenencia múltiple, pública o anónima.
 
-Las alianzas gubernamentales reproducen estructuras estatales, mientras que las institucionales combinan elementos de ambas, actuando como redes de influencia y decisión a gran escala.
+Las agrupaciones gubernamentales e institucionales, en cambio, son **Políticas** puramente administrativas, gestionadas en su núcleo por la IA, pero capaces de admitir otras Politicas como afiliados.
 
-Estas dos últimas son entidades gestionadas por la IA, pero jugadores y otras alianzas pueden afiliarse a ellas, aumentando su alcance y sus posibilidades en el tablero interestelar.
+Estas agrupaciones crean estructuras de autoridad emergente: reparten derechos, coordinan acciones conjuntas, establecen reglas internas y negocian colectivamente en el escenario mayor del juego.
 
-## Un entorno en evolución
+### Grandes Potencias
 
-La gobernanza en TCW no es un sistema cerrado ni una estructura fija.
+El Imperio una de las **Políticas** supremas en términos de alcance e influencia interestelar, pero no es el único gran actor en juego.
 
-Es un entorno en constante evolución, donde las decisiones individuales, las maniobras de las alianzas y los movimientos de las macroestructuras se entrelazan para dar forma a la historia común del universo.
+Existen otras potencias —imperios, confederaciones, coaliciones alienígenas, redes religiosas, bloques corporativos— que disputan regiones enteras de la galaxia y mantienen sistemas de autoridad propios.
 
-Gobernar no es controlar cada pieza: es navegar las capas de autoridad, leer los tiempos y actuar dentro (o a pesar) de los límites que impone el entorno.
+Estas **Políticas** definen reglas, imponen regulaciones regionales y generan tensiones que atraviesan las estructuras menores.
 
+A nivel económico, organismos como el Interstellar Stock Exchange (ISE) coordinan índices financieros y señales de mercado, pero no son la única referencia: mercados regionales, bolsas sectoriales y circuitos alternativos forman parte del ecosistema.
+
+Estas macroestructuras no actúan como árbitros absolutos, sino como centros de gravedad.
+
+Los jugadores no pueden controlarlas directamente, pero pueden influir en sus métricas, alterar sus equilibrios o beneficiarse de sus movimientos.
+
+Las decisiones de estas grandes potencias repercuten en cascada sobre alianzas, corporaciones, gobiernos locales y jugadores individuales, reconfigurando continuamente el escenario estratégico.
+
+***
+
+## Un universo de composición dinámica
+
+La gobernanza en TCW no es solo una cuestión de narrativa o ambientación: es una arquitectura técnica, construida sobre sistemas de composición, agregación y propagación que permiten mantener un universo persistente, distribuido y coherente.
+
+Las **Políticas** —desde jugadores individuales hasta alianzas, gobiernos locales, imperios o entidades económicas— son objetos dinámicos que se componen y descomponen en tiempo real. Estas entidades pueden contener otras, delegar funciones, asumir responsabilidades y negociar interacciones, generando un ecosistema donde la autoridad y la gestión no dependen de jerarquías fijas, sino de estructuras ensambladas dinámicamente.
+
+### Mecanismos de decisión
+
+Cada **Política** toma decisiones internas usando sistemas de voto ponderado, distribución de capital, asignación de derechos de gobierno o control de cuentas.
+
+Estas decisiones se reflejan técnicamente en cuentas específicas dentro de la red Solana, validadas mediante programas especializados y firmas autorizadas.
+
+La blockchain no funciona como un sistema de lógica on-chain, sino como un registro distribuido rápido y eficiente.
+
+Los programas interpretan datos en cuentas, verifican relaciones, validan operaciones y garantizan coherencia entre actores distribuidos.
+
+No hay contratos programables individuales, ni contenedores de lógica: hay estructuras que dependen de claves derivadas, cuentas vinculadas y firmas de contexto.
+
+### Cadenas de autoridad
+
+La autoridad se propaga a través de estructuras jerárquicas y agregadas: gobiernos locales, alianzas, consorcios, imperios.
+
+Técnicamente, estas relaciones se representan como redes de cuentas interconectadas por claves derivadas, donde cada nodo refleja permisos, derechos y afiliaciones dinámicas.
+
+Los programas de validación garantizan que cada operación —una cesión de derechos, una integración de miembros, una concesión de licencia— quede correctamente registrada, y que su impacto pueda rastrearse a través de la red, respetando contexto, latencia y coherencia global.
+
+### Agregación y propagación técnica
+
+El crecimiento de una entidad —al agregar activos, absorber grupos o establecer alianzas— no depende de lógica embebida en objetos, sino de actualizar estructuras distribuidas que reflejan ese cambio.
+
+Solana permite registrar estos movimientos como cambios en cuentas, propagándolos con eficiencia y trazabilidad, incluso en un entorno donde la información física viaja con latencias inevitables.
+
+Así, la gobernanza, la autoridad y la administración en TCW no son conceptos abstractos: son sistemas técnicos sustentados por una red blockchain que permite mantener un universo persistente, distribuido y verificable, sin necesidad de replicar modelos heredados de otras cadenas.
