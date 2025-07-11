@@ -16,7 +16,7 @@ The withdrawal of MCr outside the ecosystem is subject to the following conditio
 
 * **Net surplus:** the corporation must generate profits exceeding operational costs, amortizations, asset maintenance, licenses, fees, and minimum reserves.
 * **Real liquidity:** the available balance must be liquid and free of encumbrances. Committed assets, capital locked in operational staking, or pending guarantees do not count.
-* **Sustainability:** the withdrawal must not endanger the corporation’s operational capacity, as determined by backend automatic calculations (e.g., reserves for payroll cycles, supplies, obligations to community pools).
+* **Sustainability:** the withdrawal must not endanger the corporation's operational capacity, as determined by backend automatic calculations (e.g., reserves for payroll cycles, supplies, obligations to community pools).
 * **On-chain validation:** any withdrawal request undergoes a technical validation process on the Solana network, ensuring traceability, legitimate origin, and compliance with game and governance rules.
 
 {% hint style="warning" %}
@@ -27,14 +27,14 @@ The withdrawal of MCr is not a feature available to all players or corporations.
 
 The **The Corporate Wars** model stands out because:
 
-* **It does not deliver passive income.** There are no rewards for prolonged staking, mere token ownership, or “minimum activity.”
+* **It does not deliver passive income.** There are no rewards for prolonged staking, mere token ownership, or "minimum activity".
 * **It does not depend on external inflows.** The economy is self-sustaining: it does not require attracting new players to maintain internal value.
 * **It does not guarantee returns.** Returns emerge from corporate success, not from predefined rates or automatic emissions.
 * **It is competitive.** Not all corporations will reach surpluses; many will operate at cost, others will go bankrupt, and only a few will stand out.
 
 ## Risks and limitations
 
-* **Internal volatility:** prices, costs, and margins in the **The Corporate Wars** universe are dynamic; today’s surplus may turn into a deficit after a macroeconomic event.
+* **Internal volatility:** prices, costs, and margins in the **The Corporate Wars** universe are dynamic; today's surplus may turn into a deficit after a macroeconomic event.
 * **On-chain operational costs:** withdrawal involves technical fees (computation, transaction, storage) to be covered by the applicant.
 * **Reputational impact:** withdrawing large capital may affect political relationships, alliances, or trust indices in the ISE.
 * **No guaranteed recovery:** an executed withdrawal is irreversible and does not guarantee preferential return to the ecosystem.

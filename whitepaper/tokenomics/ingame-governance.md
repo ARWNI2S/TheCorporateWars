@@ -26,7 +26,7 @@ At the most immediate level, players act as individual **Polities**. Having some
 A player can grant the use of a ship without transferring ownership, mortgage assets to finance operations, or lose effective control over key resources amid disputes or raids.
 {% endhint %}
 
-Asset management is not static: it is a game in itself, where owning, protecting, delegating, or recovering defines not just the player’s economy but their position within the surrounding web of authority.
+Asset management is not static: it is a game in itself, where owning, protecting, delegating, or recovering defines not just the player's economy but their position within the surrounding web of authority.
 
 ### Local Governments
 
@@ -56,7 +56,7 @@ These groupings create emergent authority structures: distributing rights, coord
 
 The Imperium is one of the supreme **Polities** in terms of interstellar reach and influence, but it is not the only major actor at play.
 
-Other powers—empires, confederations, alien coalitions, religious networks, corporate blocs—contest entire regions of the galaxy and maintain their own systems of authority.
+Other powers â€”empires, confederations, alien coalitions, religious networks, corporate blocsâ€” contest entire regions of the galaxy and maintain their own systems of authority.
 
 These **Polities** set rules, impose regional regulations, and generate tensions that ripple through subordinate structures.
 
@@ -74,7 +74,7 @@ The decisions of these major powers cascade through alliances, corporations, loc
 
 Governance in **The Corporate Wars** is not just a matter of narrative or setting: it is a technical architecture, built on systems of composition, aggregation, and propagation that sustain a persistent, distributed, and coherent universe.
 
-**Polities**—from individual players to alliances, local governments, empires, or economic entities—are dynamic objects that assemble and disassemble in real time. These entities can contain others, delegate functions, assume responsibilities, and negotiate interactions, creating an ecosystem where authority and management do not rely on fixed hierarchies but on dynamically assembled structures.
+**Polities** â€”from individual players to alliances, local governments, empires, or economic entitiesâ€” are dynamic objects that assemble and disassemble in real time. These entities can contain others, delegate functions, assume responsibilities, and negotiate interactions, creating an ecosystem where authority and management do not rely on fixed hierarchies but on dynamically assembled structures.
 
 ### Decision mechanisms
 
@@ -93,12 +93,12 @@ Authority propagates through hierarchical and aggregated structures: local gover
 Technically, these relationships are represented as networks of interconnected accounts via program-derived addresses (PDAs), where each node reflects permissions, rights, and dynamic affiliations.
 
 {% hint style="success" %}
-Validation programs ensure that each operation—granting rights, integrating members, issuing licenses—is correctly recorded and that its impact can be traced across the network, respecting context, latency, and global coherence.
+Validation programs ensure that each operation â€”granting rights, integrating members, issuing licensesâ€” is correctly recorded and that its impact can be traced across the network, respecting context, latency, and global coherence.
 {% endhint %}
 
 ### Technical aggregation and propagation
 
-The growth of a **Polity**—by adding assets, absorbing groups, or establishing alliances—does not depend on embedded object logic but on updating distributed structures reflecting that change.
+The growth of a **Polity** â€”by adding assets, absorbing groups, or establishing alliancesâ€” does not depend on embedded object logic but on updating distributed structures reflecting that change.
 
 Solana enables recording these movements as account updates, propagating them efficiently and traceably, integrated within the model of asynchronous information.
 
