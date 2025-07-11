@@ -12,7 +12,8 @@
 ## Technologies
 
 * [The Outdated Information Model](technologies/outdated-information-model.md)
-* [Solana Blockchain](technologies/solana-blockchain.md)
+* [Solana Blockchain](technologies/solana-blockchain/README.md)
+  * [Future Development](technologies/solana-blockchain/future-development.md)
 * [Unreal Engine](technologies/unreal-engine.md)
 
 ## Tokenomics
