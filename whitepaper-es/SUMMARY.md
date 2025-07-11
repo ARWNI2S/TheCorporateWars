@@ -18,7 +18,8 @@
 
 ## Tokenomics
 
-* [Simulación Económica](tokenomics/economic-simulation.md)
+* [Simulación Económica](tokenomics/economic-simulation/README.md)
+  * [Hayek Money](tokenomics/economic-simulation/hayek-money.md)
 * [Gobernanza en juego](tokenomics/ingame-governance.md)
 * [P2E Rediseñado](tokenomics/rethink-p2e.md)
 
