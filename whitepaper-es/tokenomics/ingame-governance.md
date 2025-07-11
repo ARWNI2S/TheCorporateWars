@@ -14,13 +14,17 @@ Sin embargo, cada planeta mantiene su propio gobierno local, con leyes, costumbr
 
 Por debajo, organizaciones, trusts, holdings y corporaciones cruzan fronteras, tejiendo redes de propiedad, influencia y poder que rebasan las jurisdicciones locales.
 
+{% hint style="info" %}
 Este modelo no es lineal: es una composicion de Politicas agregadas jerarquicamente, con ambitos, contextos y autonomía variable.
+{% endhint %}
 
 ### Permisos, Licencias y Propiedades
 
 En el nivel más inmediato, los jugadores actúan como **Políticas** individuales. Tener algo no equivale a tenerlo asegurado: los derechos de propiedad, de uso y de usufructo son entidades separadas.
 
+{% hint style="warning" %}
 Un jugador puede ceder el uso de una nave sin transferir su propiedad, hipotecar activos para financiar operaciones, o perder control efectivo sobre recursos clave en medio de disputas o asaltos.
+{% endhint %}
 
 La gestión de activos no es estática: es un juego en sí misma, donde poseer, proteger, delegar o recuperar define no solo la economía del jugador, sino su posición en la red de autoridad que lo rodea.
 
@@ -32,7 +36,9 @@ Aunque generalmente administrados por la IA, estos gobiernos pueden incluir juga
 
 Sin embargo, ni siquiera en estos casos los jugadores controlan totalmente el aparato de poder: la población civil, con sus demandas, crisis y aspiraciones, es un actor independiente del sistema.
 
+{% hint style="info" %}
 Los gobiernos locales establecen el marco legal, determinan qué se permite y qué se castiga, y funcionan como filtros que modelan la acción de corporaciones, alianzas y actores externos en su espacio.
+{% endhint %}
 
 ### Agrupaciones de **Políticas**
 
@@ -42,7 +48,9 @@ Las agrupaciones comerciales son las más accesibles para los jugadores, el equi
 
 Las agrupaciones gubernamentales e institucionales, en cambio, son **Políticas** puramente administrativas, gestionadas en su núcleo por la IA, pero capaces de admitir otras Politicas como afiliados.
 
+{% hint style="warning" %}
 Estas agrupaciones crean estructuras de autoridad emergente: reparten derechos, coordinan acciones conjuntas, establecen reglas internas y negocian colectivamente en el escenario mayor del juego.
+{% endhint %}
 
 ### Grandes Potencias
 
@@ -54,7 +62,7 @@ Estas **Políticas** definen reglas, imponen regulaciones regionales y generan t
 
 A nivel económico, organismos como el Interstellar Stock Exchange (ISE) coordinan índices financieros y señales de mercado, pero no son la única referencia: mercados regionales, bolsas sectoriales y circuitos alternativos forman parte del ecosistema.
 
-Estas macroestructuras no actúan como árbitros absolutos, sino como centros de gravedad.
+Estas _**macropolíticas**_ no actúan como árbitros absolutos, sino como centros de gravedad.
 
 Los jugadores no pueden controlarlas directamente, pero pueden influir en sus métricas, alterar sus equilibrios o beneficiarse de sus movimientos.
 
@@ -74,7 +82,9 @@ Cada **Política** toma decisiones internas usando sistemas de voto ponderado, d
 
 Estas decisiones se reflejan técnicamente en cuentas específicas dentro de la red Solana, validadas mediante programas especializados y firmas autorizadas.
 
-Los programas interpretan datos en cuentas programables NFT, caracteristicas de la red Solana, que verifican relaciones, validan operaciones y garantizan coherencia entre actores distribuidos.
+{% hint style="success" %}
+Los programas interpretan datos en cuentas programables NFT, características de la red Solana, que verifican relaciones, validan operaciones y garantizan coherencia entre actores distribuidos.
+{% endhint %}
 
 ### Cadenas de autoridad
 
@@ -82,12 +92,14 @@ La autoridad se propaga a través de estructuras jerárquicas y agregadas: gobie
 
 Técnicamente, estas relaciones se representan como redes de cuentas interconectadas por claves derivadas, donde cada nodo refleja permisos, derechos y afiliaciones dinámicas.
 
+{% hint style="success" %}
 Los programas de validación garantizan que cada operación —una cesión de derechos, una integración de miembros, una concesión de licencia— quede correctamente registrada, y que su impacto pueda rastrearse a través de la red, respetando contexto, latencia y coherencia global.
+{% endhint %}
 
 ### Agregación y propagación técnica
 
-El crecimiento de una **Política** —al agregar activos, absorber grupos o establecer alianzas— no depende de lógica embedida en objetos, sino de actualizar estructuras distribuidas que reflejan ese cambio.
+El crecimiento de una **Política** —al agregar activos, absorber grupos o establecer alianzas— no depende de lógica embebida en objetos, sino de actualizar estructuras distribuidas que reflejan ese cambio.
 
-Solana permite registrar estos movimientos como cambios en cuentas, propagándolos con eficiencia y trazabilidad, integrada en el modelo de informacion desfasada.
+Solana permite registrar estos movimientos como cambios en cuentas, propagándolos con eficiencia y trazabilidad, integrada en el modelo de información desfasada.
 
 Así, la gobernanza, la autoridad y la administración no son conceptos abstractos: son sistemas técnicos sustentados por la misma infraestructura que permite mantener un universo persistente, distribuido y verificable, sin necesidad de replicar modelos.
