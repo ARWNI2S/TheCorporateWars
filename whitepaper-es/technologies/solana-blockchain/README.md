@@ -56,11 +56,11 @@ Solana resuelve desafíos que tradicionalmente colapsarían bases de datos no-SQ
 
 Ejemplo práctico:
 
-La megacorporación **Helion Dynamics** opera en los sistemas **Ergo (0414)**, **Abarre (0415)**, **Shigi (0314)** y **Uson (0616)**.
+La megacorporación **Helion Dynamics** opera en los sistemas **Ergo (Massilia.Keum.0414)**, **Abarre (Massilia.Keum.0415)**, **Shigi (Massilia.Keum.0314)** y **Uson (Massilia.Keum.0616)**.
 
-* **Ergo (0414):** sede central administrativa y financiera.
-* **Abarre (0415)** y **Shigi (0314):** colonias industriales con administradores locales.
-* **Uson (0616):** hub comercial crítico con alto tráfico pero sin administrador residente de Helion Dynamics.
+* **Ergo:** sede central administrativa y financiera.
+* **Abarre** y **Shigi:** colonias industriales con administradores locales.
+* **Uson:** hub comercial crítico con alto tráfico pero sin administrador residente de Helion Dynamics.
 
 En el entorno gráfico del juego (por ejemplo, Unreal Engine), el jugador ve una perspectiva combinada de los datos disponibles desde Ergo, Abarre y Shigi. Las órdenes hacia Uson pueden emitirse, pero con limitaciones clave:
 
