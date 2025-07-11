@@ -76,7 +76,7 @@ Aquí es donde la blockchain es esencial:
 
 * La autorización para ejecutar ordenes depende contexto, maca de tiempo, e instantanea de datos visibles.
 * El backend del juego hidrata solo la información válida por nodo y sesión de juego, manteniendo:
-  * coherencia,&#x20;
+  * coherencia,
   * trazabilidad,
   * y fair play.
 
