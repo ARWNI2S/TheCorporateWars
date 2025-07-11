@@ -44,25 +44,49 @@ Así, la economía simulada está estrechamente alineada con las necesidades de 
 
 ## Ecosistema autosostenible
 
-La economía de **The Corporate Wars** se construye sobre dos pilares principales: los **MCr (megacréditos)**, que actúan como moneda de referencia interna del universo, y los **RU (Resource Units)**, que representan la riqueza material relativa de cada sistema estelar, incluyendo producción, reservas y capacidad tecnológica.
+**The Corporate Wars** se construye como un ecosistema económico autosostenible, donde las dinámicas internas del universo —mercados, precios, producción, ciclos macroeconómicos— se ajustan algorítmicamente, sin depender de intervenciones externas para mantener su equilibrio.
 
-Ambos son componentes puramente virtuales, diseñados para reflejar dinámicas económicas internas sin arrastrar directamente costes del mundo real.
+El modelo distingue claramente entre la economía virtual y la infraestructura real que la respalda.
 
-Por fuera del juego, la infraestructura del proyecto se sostiene mediante aportes en **SOL** (la criptomoneda nativa de Solana).
+Dentro del juego, los algoritmos monetarios regulan la oferta y circulación de activos, calibrando su poder adquisitivo frente a un índice agregado de precios interestelares.
 
-Estos aportes no tienen efecto directo en la economía jugable, pero son fundamentales para garantizar la estabilidad y continuidad del universo.
+Por fuera, los costes técnicos —como almacenamiento en blockchain, mantenimiento de cuentas PDA, ejecución de programs y servicios backend— se cubren mediante tesorería en **SOL**, necesaria para garantizar la estabilidad y continuidad operativa del universo.
 
-Cubren principalmente los costes de almacenamiento en blockchain —manteniendo activos los PDA con rent-exempt—, los servicios backend necesarios para sincronizar las operaciones del juego, la infraestructura en la nube y la remuneración del equipo de desarrollo, diseño, arte y operaciones.
+Además de los pilares monetarios principales, existen elementos clave como los instrumentos de propiedad (funcionales, no especulativos), los mercados avanzados del **Interstellar Stock Exchange (ISE)** y los pools de despliegue, que permiten organizar fases de crecimiento, coordinación comunitaria y financiamiento de operaciones.
 
-Este diseño separa con claridad los planos de economía virtual y real.
+### MegaCréditos (MCr)
 
-Los algoritmos monetarios que operan dentro del juego se encargan de ajustar dinámicamente la oferta de MCr, calibrando su poder adquisitivo frente a un índice agregado de precios interestelares.
+El **MCr** es el Token SPL central del sistema, es el equivalente a un millón de Créditos Imperiales (Cr) dentro del juego.
 
-Esto permite mantener la coherencia interna del universo, reflejando shocks económicos, fluctuaciones de mercado y ciclos macroeconómicos, sin depender de entradas o intervenciones externas.
+Funciona como un token interno algorítmico basado en principios Hayek Money, diseñado para mantener un poder adquisitivo estable frente a los precios agregados del mercado galáctico.
 
-En conjunto, **The Corporate Wars** plantea un modelo autosostenible: las economías locales reaccionan, los balances macro se ajustan, y el ecosistema real garantiza la infraestructura mínima para que todo funcione sin interrupciones.
+Los MCr se utilizan para comercio, contratos, licencias, transacciones interestelares y como base de referencia para instrumentos financieros más complejos.
 
-La sostenibilidad no es solo técnica o económica: es también narrativa, dando sentido a la experiencia de los jugadores en un universo que vive, respira y evoluciona de forma autónoma.
+Aunque su uso principal es representar el Cr intrauniverso, su equilibrio final depende de la interacción con la infraestructura en **SOL** que sostiene el ecosistema.
+
+### Unidades de Recursos (RU)
+
+Las **RU (Resource Units)** representan la riqueza agregada de cada sistema estelar.
+
+No son recursos físicos individuales, sino una medida compuesta que integra factores como reservas materiales, capacidad de producción, infraestructura, nivel de vida de la población y estabilidad socioeconómica.
+
+Las RU actúan como instrumento de respaldo planetario, permitiendo estimar no solo el valor material de un mundo, sino su peso económico dentro del conjunto del universo.
+
+Además de su función como indicador macroeconómico, las RU son fundamentales en los procesos internos que gobiernan la expansión del universo: son utilizadas por los programs que construyen y actualizan la fuente de verdad del juego, determinando el peso económico de cada sistema estelar, su impacto al integrarse en la galaxia jugable y los ajustes necesarios en los balances globales.
+
+Así, las RU permiten que el universo se expanda y evolucione de forma coherente, reflejando no solo riqueza acumulada, sino potencial económico activo dentro del ecosistema.
+
+También sirven como base para el diseño de garantías, índices de riesgo y otros cálculos financieros avanzados, vinculando su papel económico con los instrumentos del Interstellar Stock Exchange y la evolución a gran escala del ecosistema.
+
+## Más allá de las rutas comerciales
+
+El modelo económico de **The Corporate Wars** sienta las bases para un entorno dinámico, autosostenible e interconectado, donde monedas como **MCr** y unidades como **RU** no solo estructuran la actividad interna, sino que se vinculan con aspectos mayores: gobernanza corporativa, mercados financieros interestelares y la expansión hacia los bordes civilizados y más allá.
+
+Estos fundamentos abren la puerta a entender cómo operan los algoritmos de ajuste monetario, los instrumentos del Interstellar Stock Exchange y los mecanismos colectivos que darán forma a las próximas fases de despliegue.
+
+Todo ello define no solo el comercio, sino el destino de quienes se atreven a cruzar ambiciones con las ancestrales fuentes de riqueza Vilani del ISE.
+
+Más que un sistema cerrado, este modelo es el inicio de un espacio vivo, competitivo, donde cada decisión puede moldear alianzas, fortunas y legados en el tapiz cambiante del universo.
 
 ***
 
