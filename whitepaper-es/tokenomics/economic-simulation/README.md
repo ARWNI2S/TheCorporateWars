@@ -46,7 +46,9 @@ Así, la economía simulada está estrechamente alineada con las necesidades de 
 
 **The Corporate Wars** se construye como un ecosistema económico autosostenible, donde las dinámicas internas del universo —mercados, precios, producción, ciclos macroeconómicos— se ajustan algorítmicamente, sin depender de intervenciones externas para mantener su equilibrio.
 
+{% hint style="info" %}
 El modelo distingue claramente entre la economía virtual y la infraestructura real que la respalda.
+{% endhint %}
 
 Dentro del juego, los algoritmos monetarios regulan la oferta y circulación de activos, calibrando su poder adquisitivo frente a un índice agregado de precios interestelares.
 
@@ -58,7 +60,9 @@ Además de los pilares monetarios principales, existen elementos clave como los 
 
 El **MCr** es el Token SPL central del sistema, es el equivalente a un millón de Créditos Imperiales (Cr) dentro del juego.
 
+{% hint style="info" %}
 Funciona como un token interno algorítmico basado en principios Hayek Money, diseñado para mantener un poder adquisitivo estable frente a los precios agregados del mercado galáctico.
+{% endhint %}
 
 Los MCr se utilizan para comercio, contratos, licencias, transacciones interestelares y como base de referencia para instrumentos financieros más complejos.
 
@@ -70,7 +74,9 @@ Las **RU (Resource Units)** representan la riqueza agregada de cada sistema este
 
 No son recursos físicos individuales, sino una medida compuesta que integra factores como reservas materiales, capacidad de producción, infraestructura, nivel de vida de la población y estabilidad socioeconómica.
 
+{% hint style="info" %}
 Las RU actúan como instrumento de respaldo planetario, permitiendo estimar no solo el valor material de un mundo, sino su peso económico dentro del conjunto del universo.
+{% endhint %}
 
 Además de su función como indicador macroeconómico, las RU son fundamentales en los procesos internos que gobiernan la expansión del universo: son utilizadas por los programs que construyen y actualizan la fuente de verdad del juego, determinando el peso económico de cada sistema estelar, su impacto al integrarse en la galaxia jugable y los ajustes necesarios en los balances globales.
 
