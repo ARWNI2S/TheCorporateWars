@@ -19,7 +19,7 @@
 ## Tokenomics
 
 * [Economic Model](tokenomics/economic-simulation/README.md)
-  * [Hayek Money](tokenomics/economic-simulation/hayek-money.md)
+  * [Algorithmical Balance](tokenomics/economic-simulation/hayek-money.md)
 * [In-Game Governance](tokenomics/ingame-governance.md)
 * [Rethink P2E](tokenomics/rethink-p2e.md)
 

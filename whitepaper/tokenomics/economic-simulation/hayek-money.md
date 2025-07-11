@@ -1,4 +1,4 @@
-﻿# Algorithmic Stabilization
+# Algorithmical Balance
 
 The interstellar economy of **The Corporate Wars** is built upon advanced algorithmic stabilization mechanisms, inspired by contemporary experiments with algorithmic stablecoins—particularly Hayek Money—and reimagined as centuries of Vilani engineering, refined by the Core AIs.
 
@@ -9,7 +9,7 @@ This translates into an economic simulation ecosystem where monetary stability i
 It is not a direct gameplay mechanism nor an exploitable resource: it is the ground upon which the entire universe breathes.
 
 {% hint style="danger" %}
-Algorithmically stabilized tokens are experimental technology, still under development, and although there is a substantial theoretical foundation, there are few practical examples.  
+Algorithmically stabilized tokens are experimental technology, still under development, and although there is a substantial theoretical foundation, there are few practical examples.\
 The supposed "risk" of **algorithmic stablecoin** projects and similar models is, in practical terms, comparable to participating in the memecoin market: it is perceived as greater because it lacks the pyramid-like capitalization typical of tokens without a project with real operating costs.
 {% endhint %}
 
@@ -28,7 +28,7 @@ Inspired by the economic principles of F. A. Hayek, **The Corporate Wars** portr
 There is no predefined global equilibrium: each star system reacts to its own supply and demand, creating an environment of constant, partial, and condition-dependent adjustments.
 
 {% hint style="success" %}
-This approach fits perfectly with the monetary philosophy of the Third Imperium, a direct heir to the Vilani practices of the Ziru Sirka.  
+This approach fits perfectly with the monetary philosophy of the Third Imperium, a direct heir to the Vilani practices of the Ziru Sirka.\
 The Imperium does not seek to impose absolute centralized control but to maintain a common reference framework—like the MegaCredit (MCr)—that allows diverse worlds to interact, trade, and compete under the same economic architecture.
 {% endhint %}
 
@@ -80,7 +80,6 @@ In algorithmic terms, prices tend toward a desired value:
 
 ```
 P_desired = P_current × (1 + α × (D - S) / S)
-
 ```
 
 where:
@@ -97,8 +96,8 @@ Additionally, the model incorporates a distributed balance adjustment:
 
 where:
 
-* P_n are the prices of neighboring nodes,
-* w_n is the weight of each connection based on traffic and latency.
+* P\_n are the prices of neighboring nodes,
+* w\_n is the weight of each connection based on traffic and latency.
 
 This combination allows the system to maintain global coherence without direct intervention or manual supervision, generating a balance that adapts to both active centers and less trafficked margins.
 
