@@ -14,6 +14,8 @@ Las mecánicas principales reflejan este escenario: no basta con construir, come
 El jugador no controla un imperio omnisciente. Controla una organización con puntos ciegos, dependiente de sus agentes, contratos y flotas para operar en un mapa galáctico fragmentado, donde el presente absoluto nunca es visible y cada decisión tiene ecos que resuenan más allá de lo previsto.
 {% endhint %}
 
+---
+
 ## Economía
 
 La economía interestelar combina interacciones locales con dinámicas de mercado a gran escala, reflejando la complejidad de los sistemas dispersos.
@@ -58,6 +60,8 @@ La banca interestelar actúa como columna vertebral del flujo económico: conced
 
 Sin acceso a financiación, pocas corporaciones sobreviven a las fluctuaciones del mercado, pero endeudarse implica compromisos, intereses y riesgos de intervención por parte de acreedores o instituciones de garantía sectorial.
 
+---
+
 ## Gobernanza
 
 El orden en la galaxia no es uniforme, y las corporaciones deben navegar entre estructuras de autoridad muy distintas.
@@ -95,6 +99,8 @@ Este mecanismo distribuye el control y refuerza la autosuficiencia del ecosistem
 {% hint style="info" %}
 Los jugadores pueden participar en decisiones colectivas, construir mecanismos DAO (organizaciones autónomas) o hackear, literalmente, la confianza del mercado.
 {% endhint %}
+
+---
 
 ## Diplomacia y Relaciones
 
@@ -137,6 +143,8 @@ Los jugadores que se desvían hacia actividades ilegales deben manejar redes cla
 {% hint style="warning" %}
 Convertirse en ilegal no es un simple “modo difícil”: abre rutas narrativas y mecánicas propias, donde la supervivencia depende de reputaciones en los márgenes, contactos en las sombras y una capacidad constante para eludir la vigilancia institucional.
 {% endhint %}
+
+---
 
 ## Infraestructura y Logística
 

@@ -43,6 +43,8 @@ Solo lo mínimo necesario:
 
 En resumen, la blockchain guarda **datos deshidratados y ultracomprimidos**, mientras que el backend mantiene las sesiones vivas, interpretando, hidratando y cacheando lo necesario en tiempo real.
 
+---
+
 ## Problemas que resuelve
 
 Solana resuelve desafíos que tradicionalmente colapsarían bases de datos no-SQL a gran escala:
@@ -51,6 +53,8 @@ Solana resuelve desafíos que tradicionalmente colapsarían bases de datos no-SQ
 * Ledger de versiones en el tiempo, garantizando trazabilidad.
 * Fuente de verdad única: aunque la información está desfasada, es correcta en algún punto temporal para **todos los jugadores** (clave para mantener coherencia e igualdad estratégica).
 * Complejidad de gobernanza: usando multisig nativo, cuentas firmantes variadas, y contextos de `accounts`, es posible modelar desde simples permisos hasta sistemas de decisión distribuidos.
+
+---
 
 ## Integración práctica con backend y cliente
 

@@ -18,6 +18,8 @@ La experiencia de juego no consiste solo en acumular recursos: consiste en const
 
 La corporación es el verdadero personaje, y su historia, suya para escribirla.
 
+---
+
 ## Licencias operativas
 
 Al inicio, cada jugador elige una licencia operativa específica. Esta define en qué sector puede operar, qué oportunidades tiene a su alcance y qué desafíos enfrentará.
@@ -81,6 +83,8 @@ Administración de terminales privadas o incluso de astropuertos completos.
 Controlar el acceso al comercio galáctico, reducir costos y establecer redes logísticas exclusivas.
 
 > Ideal para quienes quieren construir imperios desde la infraestructura economica.
+
+---
 
 ## Alianzas
 

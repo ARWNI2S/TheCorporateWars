@@ -16,6 +16,8 @@ The technological diversity among worlds, the cosmopolitan nature of the univers
 
 In this framework, corporations are not mere actors: they are the true characters... Money, power, and information determine who rises and who falls... The rules are complex, with overlapping interests and hidden layers... And that's where the game begins...
 
+---
+
 ## The Third Survey
 
 The universe of **The Corporate Wars** is set around year 1200 of the **Imperial Calendar**. The **Third Imperium** spans more than _eleven thousand_ worlds, under the nominal authority of **Emperor** _Strephon Aella Alkhalikoi_.
@@ -25,6 +27,8 @@ Known history has avoided the fractures that devastated other timelines: there w
 * [x] **First Survey**: the first major imperial exploratory effort, cataloging inhabited worlds, jump corridors, and initial frontiers.
 * [x] **Second Survey**: a systematic update that redefined major routes and formalized trade and contact lines.
 * [ ] And now, in the present, the **Third Survey** has begun: a monumental initiative of the Imperial Interstellar Scout Service in collaboration with the private sector, the **Hakyeahtaorl**, the **Driantia Dazhia**, the **Two Thousand Worlds**, and even **SolSec**, to map not only known space, but also marginal worlds, forgotten frontiers, and enclaves left behind after the Long Night.
+
+---
 
 ## A Persistent and Asymmetric Universe
 

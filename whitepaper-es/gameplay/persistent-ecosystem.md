@@ -16,6 +16,8 @@ La diversidad tecnológica entre mundos, el carácter cosmopolita del universo, 
 
 En este marco, las corporaciones no son simples actores: son los verdaderos personajes... Dinero, poder e información definen quién asciende y quién cae... Las reglas son complejas, con intereses superpuestos y capas ocultas... Y ahí es donde empieza el juego...
 
+---
+
 ## El Tercer Censo Estelar
 
 El universo de **The Corporate Wars** se sitúa alrededor del 1200 del **Calendario Imperial**. El **Tercer Imperio** se extiende a lo largo de más de _once mil_ mundos, bajo la autoridad nominal del **Emperador&#x20;**_**Strephon** Aella Alkhalikoi_.
@@ -25,6 +27,8 @@ La historia conocida ha evitado las fracturas que devastaron otras lineas tempor
 * [x] **El Primer Censo (First Survey)**: fue el primer gran esfuerzo exploratorio imperial, donde se catalogaron los mundos habitados, los corredores de salto y las primeras fronteras.
 * [x] **El Segundo Censo (Second Survey)**: ha sido una actualización sistemática, que ha redefinido las rutas principales y formalizado las líneas de comercio y contacto.
 * [ ] Y ahora, en el presente, el **Tercer Censo Estelar (Third Survey)** ha comenzado: una iniciativa monumental del Servicio de Exploración Interestelar Imperial en colaboración con el sector privado, el **Hakyeahtaorl**, la **Driantia Dazhia**, los **Dos Mil Mundos**, e incluso **SolSec**, para cartografiar no solo el espacio conocido, sino también los mundos marginales, las fronteras olvidadas y los enclaves que quedaron atrás en la Larga Noche.
+
+---
 
 ## Un universo persistente y asimétrico
 

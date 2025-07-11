@@ -43,6 +43,8 @@ Only what's strictly necessary:
 
 In summary, the blockchain stores **ultracompressed, dehydrated data**, while the backend maintains live sessions, interpreting, hydrating, and caching what's needed in real time.
 
+---
+
 ## Problems it solves
 
 Solana addresses challenges that would traditionally overwhelm large-scale non-SQL databases:
@@ -51,6 +53,8 @@ Solana addresses challenges that would traditionally overwhelm large-scale non-S
 * Time-versioned ledger, ensuring traceability.
 * Single source of truth: even though information is delayed, it is correct at some point in time for **all players** (key to maintaining coherence and strategic fairness).
 * Governance complexity: using native multisig, varied signing accounts, and `account` contexts, it�s possible to model everything from simple permissions to distributed decision systems.
+
+---
 
 ## Practical integration with backend and client
 

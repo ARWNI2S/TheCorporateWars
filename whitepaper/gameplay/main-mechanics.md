@@ -14,6 +14,8 @@ The core mechanics reflect this scenario: it is not enough to build, trade, or c
 The player does not command an omniscient empire. They control an organization with blind spots, dependent on agents, contracts, and fleets to operate across a fragmented galactic map, where absolute present knowledge is never available and every decision carries echoes far beyond what was anticipated.
 {% endhint %}
 
+---
+
 ## Economy
 
 The interstellar economy fuses local interactions with large-scale market dynamics, reflecting the complexity of dispersed systems.
@@ -58,6 +60,8 @@ Interstellar banking forms the backbone of economic flows: it offers credit, man
 
 Without access to financing, few corporations weather market shifts, but debt brings obligations, interest, and the risk of intervention by creditors or sector guarantors.
 
+---
+
 ## Governance
 
 Order across the galaxy is never uniform, and corporations must navigate a patchwork of authorities.
@@ -95,6 +99,8 @@ This mechanism distributes control and reinforces ecosystem self-sufficiency, en
 {% hint style="info" %}
 Players can join collective decisions, build DAO mechanisms, or —quite literally— hack market trust.
 {% endhint %}
+
+---
 
 ## Diplomacy and Relations
 
@@ -137,6 +143,8 @@ Players who drift into illegal activities must manage underground networks, dodg
 {% hint style="warning" %}
 Going rogue is no mere "hard mode"; it opens unique narrative paths and mechanics where survival hinges on marginal reputations, shadow contacts, and constant evasion of institutional watchmen.
 {% endhint %}
+
+---
 
 ## Infrastructure and Logistics
 

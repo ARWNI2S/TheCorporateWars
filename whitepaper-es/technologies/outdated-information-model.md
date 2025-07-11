@@ -20,6 +20,8 @@ El modelo de información desfasada no es un fallo del sistema: **es el sistema*
 A continuación explicamos cómo hemos integrado esta asincronía en el corazón del juego, usando tecnologías distribuidas (como la blockchain Solana) para reflejar un universo donde la sincronización absoluta es inalcanzable.
 {% endhint %}
 
+---
+
 ## Latencia estructural
 
 En The Corporate Wars, la información interestelar no fluye en tiempo real ni de forma global. El universo se estructura como un **grafo dirigido de latencia**, donde cada nodo representa un sistema estelar, y cada arista (ruta de tránsito) introduce un retraso concreto determinado por las limitaciones físicas del viaje interestelar.
@@ -36,6 +38,8 @@ Así, la percepción de A sobre B siempre está desfasada y depende de:
 * el ritmo de actualización,
 * y la capacidad logística para transportar datos a través del grafo.
 
+---
+
 ## Desafíos técnicos
 
 Implementar un modelo de información desfasada en un universo distribuido, apoyado en blockchain (Solana), plantea retos técnicos reales que no son simples problemas jugables, sino desafíos de ingeniería profunda:
@@ -48,6 +52,8 @@ Implementar un modelo de información desfasada en un universo distribuido, apoy
 * **Sincronización blanda de nodos locales:** como no existe estado global instantáneo, los nodos locales necesitan mecanismos de reconciliación y corrección eventual para evitar acumulación de errores o derivaciones prolongadas del estado base.
 
 Estos desafíos no son triviales ni teóricos: son limitaciones presentes que definen cómo puede crecer y operar un sistema como The Corporate Wars a escala real.
+
+---
 
 ## Ventajas del modelo
 

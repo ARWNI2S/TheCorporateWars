@@ -18,6 +18,8 @@ Gameplay is not just about accumulating resources: it’s about building network
 
 The corporation is the true character, and its story is yours to write.
 
+---
+
 ## Operating licenses
 
 At the start, each player selects a specific operating license. This defines the sector they can operate in, the opportunities available, and the challenges they will face.
@@ -81,6 +83,8 @@ Managing private terminals or even full starports.
 Controlling access to galactic trade, reducing costs, and establishing exclusive logistical networks.
 
 > Ideal for those wanting to build empires from economic infrastructure.
+
+---
 
 ## Alliances
 

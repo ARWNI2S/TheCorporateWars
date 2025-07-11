@@ -20,6 +20,8 @@ The outdated information model is not a system flaw: **it is the system**. It de
 Below, we explain how we have integrated this asynchrony at the heart of the game, using distributed technologies (like the Solana blockchain) to reflect a universe where absolute synchronization is unattainable.
 {% endhint %}
 
+---
+
 ## Structural latency
 
 In The Corporate Wars, interstellar information does not flow in real-time nor globally. The universe is structured as a **directed latency graph**, where each node represents a star system, and each edge (transit route) introduces a concrete delay determined by the physical limitations of interstellar travel.
@@ -35,6 +37,8 @@ Thus, A's perception of B is always outdated and depends on:
 * the accumulated delay of available routes,
 * the update rhythm,
 * and the logistical capacity to transport data through the graph.
+
+---
 
 ## Technical challenges
 
@@ -53,6 +57,8 @@ Implementing an outdated information model in a distributed universe backed by b
 * **Soft synchronization of local nodes:** since no global instant state exists, local nodes need reconciliation and eventual correction mechanisms to avoid cumulative errors or prolonged state drift.
 
 These challenges are neither trivial nor theoretical — they are present-day limitations that define how a system like The Corporate Wars can grow and operate at real-world scale.
+
+---
 
 ## Model advantages
 

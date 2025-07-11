@@ -6,6 +6,8 @@ Unreal Engine (UE) es un motor multiplataforma de última generación para desar
 UE ofrece potencia gráfica, modularidad, backend flexible y herramientas de edición personalizadas que permiten a **The Corporate Wars** construir, escalar y distribuir una experiencia de estrategia galáctica persistente, con integración a blockchain y presencia comercial en Epic Games Store.
 {% endhint %}
 
+---
+
 ## Claves relevantes
 
 * **Multiplataforma**: PC, Linux, servidores dedicados.
@@ -23,6 +25,8 @@ Unreal permite desarrollar herramientas de edición personalizadas (editor tools
 ### Integración Web3 (Solana)
 
 Aunque experimental, existen SDKs que permiten integrar wallets, NFTs, tokens SPL y operaciones on-chain, alineándose con la capa blockchain de TCW para registro, gobernanza distribuida o gestión de activos.
+
+---
 
 ## Epic Games Store
 
