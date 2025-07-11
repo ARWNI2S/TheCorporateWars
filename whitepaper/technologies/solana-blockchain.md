@@ -32,16 +32,16 @@ Solana enables the use of **programmable NFTs** that go beyond simple assets, al
 
 This model surpasses the `Metaplex` ERC-XXX-like standard, which once dominated the ecosystem but has fallen out of favor in light of more advanced and less design-limited models.
 
-Solana does not offer a “fixed ERC standard” but rather a **set of reusable programs** and a novel infrastructure, still largely unexplored in terms of its full potential.
+Solana does not offer a "fixed ERC standard" but rather a **set of reusable programs** and a novel infrastructure, still largely unexplored in terms of its full potential.
 
 ### What do we store on-chain?
 
-Only what’s strictly necessary:
+Only what's strictly necessary:
 
 * Macro, structural, slow-changing, globally relevant data lives **on-chain**;
 * Micro, per-player, dynamic, seed-derived, and fast-interpreted data lives **off-chain**.
 
-In summary, the blockchain stores **ultracompressed, dehydrated data**, while the backend maintains live sessions, interpreting, hydrating, and caching what’s needed in real time.
+In summary, the blockchain stores **ultracompressed, dehydrated data**, while the backend maintains live sessions, interpreting, hydrating, and caching what's needed in real time.
 
 ## Problems it solves
 
@@ -50,7 +50,7 @@ Solana addresses challenges that would traditionally overwhelm large-scale non-S
 * Very high-grade security.
 * Time-versioned ledger, ensuring traceability.
 * Single source of truth: even though information is delayed, it is correct at some point in time for **all players** (key to maintaining coherence and strategic fairness).
-* Governance complexity: using native multisig, varied signing accounts, and `account` contexts, it’s possible to model everything from simple permissions to distributed decision systems.
+* Governance complexity: using native multisig, varied signing accounts, and `account` contexts, itï¿½s possible to model everything from simple permissions to distributed decision systems.
 
 ## Practical integration with backend and client
 
@@ -62,7 +62,7 @@ The megacorporation **Helion Dynamics** operates in the systems **Ergo (Massilia
 * **Uson:** critical trade hub with high traffic but no resident Helion Dynamics administrator.
 {% endhint %}
 
-In the game’s graphical environment, the player sees a combined perspective of the data available from Ergo, Abarre, and Shigi. Orders can be issued to Uson, but with key limitations:
+In the game's graphical environment, the player sees a combined perspective of the data available from Ergo, Abarre, and Shigi. Orders can be issued to Uson, but with key limitations:
 
 * Orders toward **Uson** are recorded but not **effective** until the next "mail run" (interstellar update synchronized via blockchain).
 * From **Abarre**, analysts detect an oversupply of Lanthanum at low prices in **Makinen (Massilia.Keum.0719)**.
@@ -87,5 +87,5 @@ The result: even though the galactic map shows an integrated whole, strategic de
 * and what logistical capacities each enclave has.
 
 {% hint style="success" %}
-This reflects the real complexity of interstellar trade — and that’s why we turn to blockchain: because its native properties inherently solve latency, signature, consensus, and traceability constraints.
+This reflects the real complexity of interstellar trade â€”and that's why we turn to blockchain: because its native properties inherently solve latency, signature, consensus, and traceability constraints.
 {% endhint %}
