@@ -13,7 +13,7 @@
 
 * [El Modelo de Información Desfasada](technologies/outdated-information-model.md)
 * [La Blockchain Solana](technologies/solana-blockchain/README.md)
-  * [Posibilidades Futuras](technologies/solana-blockchain/posibilidades-futuras.md)
+  * [Posibilidades Futuras](technologies/solana-blockchain/future-development.md)
 * [Unreal Engine](technologies/unreal-engine.md)
 
 ## Tokenomics
