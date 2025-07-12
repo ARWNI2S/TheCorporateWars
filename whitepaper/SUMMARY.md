@@ -25,8 +25,8 @@
 
 ## Under Development <a href="#roadmap" id="roadmap"></a>
 
-* [Roadmap](roadmap/README.md)
-  * [Milestones](roadmap/milestones.md)
+* [Roadmap](roadmap/roadmap.md)
+* [Milestones](roadmap/milestones.md)
 
 ## License Terms & Copyright <a href="#license-terms" id="license-terms"></a>
 
