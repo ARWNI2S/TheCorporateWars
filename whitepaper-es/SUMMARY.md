@@ -25,8 +25,8 @@
 
 ## Desarrollo <a href="#roadmap" id="roadmap"></a>
 
-* [Hoja de Ruta](roadmap/README.md)
-  * [Hitos](roadmap/milestones.md)
+* [Hoja de Ruta](roadmap/roadmap.md)
+* [Hitos](roadmap/milestones.md)
 
 ## Términos de Licencia y Copyright <a href="#license-terms" id="license-terms"></a>
 
