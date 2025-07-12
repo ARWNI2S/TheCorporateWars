@@ -23,7 +23,7 @@
 * [Gobernanza en juego](tokenomics/ingame-governance.md)
 * [P2E Rediseñado](tokenomics/rethink-p2e.md)
 
-***
+## Desarrollo <a href="#roadmap" id="roadmap"></a>
 
 * [Hoja de Ruta](roadmap/README.md)
   * [Hitos](roadmap/milestones.md)
