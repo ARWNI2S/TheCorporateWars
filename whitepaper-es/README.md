@@ -32,19 +32,29 @@ Combina simulación económica, exploración, gestión logística y dinámicas P
 
 Los jugadores toman el control de una de estas empresas y su objetivo son los beneficios, para ello puede **comerciar** con bienes, construir **infraestructuras**, invertir en el **Mercado de Valores Interestelar**, extraer **recursos**, **fabricar** productos o investigar **tecnologías**; al tiempo que administra **activos**, gestiona **fondos**, busca **financiación**, adquiere **licencias** y permisos, y cumple con las **regulaciones** locales.
 
-### Los Límites tecnológicos.
+### Los Límites Tecnológicos.
 
 Las especies inteligentes de la galaxia disponen de tecnología de **salto**, esto implica que **navíos interestelares** equipados con piezas de ingeniería especializadas conocidas como **reactores de salto** pueden realizar tránsitos hiperlumínicos, reduciendo el tiempo de transporte entre las estrellas, de decenas (o cientos) de años, a unas pocas semanas.
 
-Aunque muchos mundos disponen de esta tecnología y están integrados en la **Sociedad Interestelar**, muchos otros son tecnológicamente dependientes y otros tantos están en vías de desarrollo.
-
-Además, aunque las mercancías saltan entre las estrellas, no se conoce ninguna tecnología capaz de enviar información mas rápido que la luz.
+Aunque los navíos saltan entre las estrellas, no se conoce ninguna tecnología capaz de enviar información mas rápido que la luz.
 
 Las enormes distancias entre las estrellas hace inviable la comunicación instantánea, y los gobiernos y poderes interestelares deben confiar en sistemas físicos de transporte de la información.
 
 Desde líneas de correo automatizadas, hasta cargueros independientes, yates privados y transportes militares, todos los navíos interestelares de la galaxia han formado parte alguna vez del intrincado flujo de mensajería interestelar.
 
 Esto presenta un desafío adicional a los jugadores, que deben manejar la información disponible, que llega a instalaciones en distintos mundos, de forma asimétrica, fragmentada y desactualizada, poniendo a prueba su capacidad para diseñar estrategias comerciales y mantener sistemas logísticos en un entorno donde la "niebla de la guerra" se extiende al conocimiento.
+
+### Los Límites Sociales.
+
+Aunque muchos mundos disponen de esta tecnología y están integrados en la **Sociedad Interestelar**, muchos otros son tecnológicamente dependientes y otros tantos están en vías de desarrollo.
+
+Es un entorno cosmopolita de culturas y gobiernos asimétricos, en el que los sistemas estelares dependen de las líneas de comercio para permanecer en contacto con el resto de la galaxia.
+
+Las estructuras planetarias en los distintos mundos van de colonias aisladas a megaciudades, organizadas socialmente de formas distintas, supeditadas a una compleja estructura de gobierno.
+
+Las fronteras entre imperios son nodos de información, intercambio tecnológico y choque cultural, y los territorios inexplorados presentan nuevas oportunidades de cooperacion, alianza y expansion.
+
+Los jugadores deberán atravesar un entramado legal de compromisos, regulaciones, plazos y permisos; en cumplimiento tanto de las gobernanzas locales, como de las interestelares; cuidando tanto de su imagen publica como de sus relaciones políticas, para extender su influencia por la galaxia.
 
 ***
 
