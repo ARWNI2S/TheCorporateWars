@@ -4,6 +4,6 @@ description: Activos tangibles, materiales y propiedad bajo control corporativo.
 
 # Recursos y Propiedades
 
-Los recursos y propiedades controlados por una corporaci髇 representan su riqueza tangible y su capacidad de generar ingresos. Estos activos incluyen reservas de materias primas, flotas de transporte, complejos industriales y territorios adquiridos a trav閟 de concesiones.
+Los recursos y propiedades controlados por una corporaci贸n representan su riqueza tangible y su capacidad de generar ingresos. Estos activos incluyen reservas de materias primas, flotas de transporte, complejos industriales y territorios adquiridos a trav茅s de concesiones.
 
-Controlar grandes vol鷐enes de recursos permite mantener la producci髇, negociar desde una posici髇 de fuerza y establecer monopolios sobre materiales clave para la econom韆 interestelar. La administraci髇 eficiente de estos activos es fundamental para evitar perdidas por obsolescencia, especulaci髇 o conflictos con otros actores del mercado.
+Controlar grandes vol煤menes de recursos permite mantener la producci贸n, negociar desde una posici贸n de fuerza y establecer monopolios sobre materiales clave para la econom铆a interestelar. La administraci贸n eficiente de estos activos es fundamental para evitar perdidas por obsolescencia, especulaci贸n o conflictos con otros actores del mercado.

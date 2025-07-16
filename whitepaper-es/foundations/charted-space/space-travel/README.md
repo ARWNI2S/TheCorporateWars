@@ -1,15 +1,15 @@
 ---
 description: >-
-  La circulación fluida de personas y bienes a través de las vastas extensiones
+  La circulaciÃ³n fluida de personas y bienes a travÃ©s de las vastas extensiones
   del espacio, conectando mundos y culturas.
 ---
 
-# El Viaje Espacial
+# Viaje Espacial
 
-El viaje espacial es la columna vertebral de la civilización interestelar en The Corporate Wars. La capacidad de mover personas, bienes y datos a través de las vastas extensiones del espacio es lo que mantiene la economía en funcionamiento, permite la expansión territorial y define las relaciones entre mundos y civilizaciones.
+El viaje espacial es la columna vertebral de la civilizaciÃ³n interestelar en The Corporate Wars. La capacidad de mover personas, bienes y datos a travÃ©s de las vastas extensiones del espacio es lo que mantiene la economÃ­a en funcionamiento, permite la expansiÃ³n territorial y define las relaciones entre mundos y civilizaciones.
 
-Dado que las comunicaciones más rápidas que la luz no existen, las naves espaciales son el único medio para transmitir información y coordinar operaciones a gran escala. Cada tránsito entre sistemas es un evento estratégico, donde el tiempo de viaje, las condiciones de navegación y la seguridad de las rutas juegan un papel clave en la estabilidad de las sociedades y el comercio.
+Dado que las comunicaciones mÃ¡s rÃ¡pidas que la luz no existen, las naves espaciales son el Ãºnico medio para transmitir informaciÃ³n y coordinar operaciones a gran escala. Cada trÃ¡nsito entre sistemas es un evento estratÃ©gico, donde el tiempo de viaje, las condiciones de navegaciÃ³n y la seguridad de las rutas juegan un papel clave en la estabilidad de las sociedades y el comercio.
 
-Las rutas espaciales están determinadas por la accesibilidad de los sistemas estelares y la presencia de infraestructuras como puertos espaciales y estaciones de reabastecimiento. Algunas regiones cuentan con corredores bien establecidos, donde el tránsito es frecuente y seguro, mientras que otras son zonas de alto riesgo debido a la actividad pirata, conflictos interestelares o condiciones espaciales peligrosas.
+Las rutas espaciales estÃ¡n determinadas por la accesibilidad de los sistemas estelares y la presencia de infraestructuras como puertos espaciales y estaciones de reabastecimiento. Algunas regiones cuentan con corredores bien establecidos, donde el trï¿½nsito es frecuente y seguro, mientras que otras son zonas de alto riesgo debido a la actividad pirata, conflictos interestelares o condiciones espaciales peligrosas.
 
-Para las corporaciones, dominar el viaje espacial no solo significa optimizar la logística, sino también asegurar el control sobre rutas estratégicas. Acceder a los mejores corredores comerciales, garantizar la protección de sus convoyes y establecer monopolios de transporte puede marcar la diferencia entre una operación rentable y una destinada al fracaso.
+Para las corporaciones, dominar el viaje espacial no solo significa optimizar la logÃ­stica, sino tambiÃ©n asegurar el control sobre rutas estratÃ©gicas. Acceder a los mejores corredores comerciales, garantizar la protecciÃ³n de sus convoyes y establecer monopolios de transporte puede marcar la diferencia entre una operaciÃ³n rentable y una destinada al fracaso.

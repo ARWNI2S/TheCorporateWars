@@ -1,17 +1,17 @@
 ---
 description: >-
-  Transporte comercial, entrega de correo y logística para el comercio
+  Transporte comercial, entrega de correo y logÃ­stica para el comercio
   interestelar y las redes de suministro.
 ---
 
-# Transporte de Mercancías
+# Transporte de MercancÃ­as
 
-El transporte de mercancías es la columna vertebral de la economía interestelar. La capacidad de mover bienes, suministros y personas de manera eficiente define el éxito de cualquier corporación. Empresas especializadas se encargan de conectar mercados, distribuir productos manufacturados y mantener operativas las rutas de comunicaciones clave, gestionando de flotas de cargueros, estaciones de intercambio y redes logísticas.
+El transporte de mercancÃ­as es la columna vertebral de la economÃ­a interestelar. La capacidad de mover bienes, suministros y personas de manera eficiente define el Ã©xito de cualquier corporaciÃ³n. Empresas especializadas se encargan de conectar mercados, distribuir productos manufacturados y mantener operativas las rutas de comunicaciones clave, gestionando de flotas de cargueros, estaciones de intercambio y redes logÃ­sticas.
 
-Las corporaciones deben optimizar sus rutas de transporte, asegurar la protección de sus convoyes y establecer acuerdos comerciales con clientes y socios estratégicos. Una infraestructura de transporte bien gestionada no solo permite el flujo eficiente de bienes, sino que también puede ser utilizada para monopolizar mercados, controlar precios y ejercer influencia sobre economías emergentes.
+Las corporaciones deben optimizar sus rutas de transporte, asegurar la protecciÃ³n de sus convoyes y establecer acuerdos comerciales con clientes y socios estratÃ©gicos. Una infraestructura de transporte bien gestionada no solo permite el flujo eficiente de bienes, sino que tambiÃ©n puede ser utilizada para monopolizar mercados, controlar precios y ejercer influencia sobre economÃ­as emergentes.
 
 ***
 
 {% hint style="warning" %}
-Operar en el comercio y transporte interestelar es la forma mas directa de implicarse en la economía interestelar, es el ámbito mas adecuado para jugadores que prefieren la exploración, la búsqueda de nuevas oportunidades y enfrentar desafíos con recursos limitados.
+Operar en el comercio y transporte interestelar es la forma mas directa de implicarse en la economÃ­a interestelar, es el Ã¡mbito mas adecuado para jugadores que prefieren la exploraciÃ³n, la bÃºsqueda de nuevas oportunidades y enfrentar desafÃ­os con recursos limitados.
 {% endhint %}
