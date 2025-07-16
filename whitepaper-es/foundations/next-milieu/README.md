@@ -20,4 +20,36 @@ layout:
 
 # El Próximo Milieu
 
-Bla
+Es el Año Imperial 1201 en el Tercer Imperio.
+
+Estamos en el año Solar 5637.
+
+Ushar kimegi Imkarsham 5721, iishan Ziru Sirka.
+
+Zhdantl drintiar 6321 tlotl.
+
+Htyao Ftao 3601 Tlaukhu'we'rr.
+
+Es el honorable año 20123 de La Federación.
+
+Vagh'rra! Rroezhakha **100'k'rrr** nurghrra'rrr. 
+
+***
+
+#### Todo fue un sueño
+
+No hubo rebelion, ningun acontecimiento provocó la caida del imperio. Nunca existió ningún "virus", y la única "nueva era" que conozco... es hoy!
+
+***
+
+## Milieu 1.2
+
+The Corporate Wars nos traslada 80 años en el futuro, retomando la linea temporal clásica de Traveller™, apoyandose en la "extended Golden Age" de GURPS.
+
+En este futuro: el Tercer Imperio continua estable, abriendose a relaciones con el Consulado Zhodani y en paz con Solomani; propiciando unas predicciones de estabilidad economica sin precedentes en la historia de la Galaxía.
+
+Fortunas ancestrales de la Nobleza Vilani compiten en el mercado de valores con La Federación, mientras las matriarcas Aslan dan caza a todas las oportunidades al alcance del clan.
+
+Las Extensiones Vargr son aún mas extensas, fusionandose —literalmente— con el Imperio y los Dos Mil Mundos, en un delicado equilibrio de poder, influencia y liderazgo.
+
+Es el año 1201: una "nueva era" :P de oportunidad, expansion, y comprension de la galaxia.
