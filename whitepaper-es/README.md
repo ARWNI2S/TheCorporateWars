@@ -30,7 +30,7 @@ Combina simulación económica, exploración, gestión logística y dinámicas P
 
 **The Corporate Wars** se ambienta en un lejano futuro en el que la humanidad domina las estrellas, coexistiendo con otras formas de vida inteligentes, en un colorido entramado multicultural de Naciones, Alianzas, Imperios, Mundos Soberanos, Instituciones Milenarias, Organizaciones y Empresas Privadas.
 
-Los jugadores toman el control de una de estas empresas y su objetivo son los beneficios, para ello puede **comerciar** con bienes, construir **infraestructuras**, invertir en el **Mercado de Valores Interestelar**, extraer **recursos**, **fabricar** productos o investigar **tecnologías**; al tiempo que administra **activos**, gestiona **fondos**, busca **financiación**, adquiere **licencias** y permisos, y cumple con las **regulaciones** locales.
+> Los jugadores toman el control de una de estas empresas y su objetivo son los beneficios, para ello puede **comerciar** con bienes, construir **infraestructuras**, invertir en el **Mercado de Valores Interestelar**, extraer **recursos**, **fabricar** productos o investigar **tecnologías**; al tiempo que administra **activos**, gestiona **fondos**, busca **financiación**, adquiere **licencias** y permisos, y cumple con las **regulaciones** locales.
 
 ### Los Límites Tecnológicos.
 
@@ -42,7 +42,7 @@ Las enormes distancias entre las estrellas hace inviable la comunicación instan
 
 Desde líneas de correo automatizadas, hasta cargueros independientes, yates privados y transportes militares, todos los navíos interestelares de la galaxia han formado parte alguna vez del intrincado flujo de mensajería interestelar.
 
-Esto presenta un desafío adicional a los jugadores, que deben manejar la información disponible, que llega a instalaciones en distintos mundos, de forma asimétrica, fragmentada y desactualizada, poniendo a prueba su capacidad para diseñar estrategias comerciales y mantener sistemas logísticos en un entorno donde la "niebla de la guerra" se extiende al conocimiento.
+> Esto presenta un desafío adicional a los jugadores, que deben manejar la información disponible, que llega a instalaciones en distintos mundos, de forma asimétrica, fragmentada y desactualizada, poniendo a prueba su capacidad para diseñar estrategias comerciales y mantener sistemas logísticos en un entorno donde la "niebla de la guerra" se extiende al conocimiento.
 
 ### Los Límites Sociales.
 
@@ -54,7 +54,7 @@ Las estructuras planetarias en los distintos mundos van de colonias aisladas a m
 
 Las fronteras entre imperios son nodos de información, intercambio tecnológico y choque cultural, y los territorios inexplorados presentan nuevas oportunidades de cooperacion, alianza y expansion.
 
-Los jugadores deberán atravesar un entramado legal de compromisos, regulaciones, plazos y permisos; en cumplimiento tanto de las gobernanzas locales, como de las interestelares; cuidando tanto de su imagen publica como de sus relaciones políticas, para extender su influencia por la galaxia.
+> Los jugadores deberán atravesar un entramado legal de compromisos, regulaciones, plazos y permisos; en cumplimiento tanto de las gobernanzas locales, como de las interestelares; cuidando tanto de su imagen publica como de sus relaciones políticas, para extender su influencia por la galaxia.
 
 ***
 
@@ -64,11 +64,11 @@ Los jugadores deberán atravesar un entramado legal de compromisos, regulaciones
 
 The Corporate Wars se desarrolla bajo los términos de la Fair Use License de Mongoose Publishing, con quienes mantenemos una relación abierta y cordial para explorar en el futuro una posible oficialización como producto licenciado. Traveller™ y todos los elementos relacionados son propiedad intelectual de Far Future Enterprises.
 
-Actualmente, este proyecto es un homenaje respetuoso y no constituye una adaptación oficial.
+> Actualmente, este proyecto es un homenaje respetuoso y no constituye una adaptación oficial.
 
 ### Empieza aquí.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>El Juego</strong></td><td>Conoce el juego.</td><td><a href=".gitbook/assets/jump_right_in.jpg">jump_right_in.jpg</a></td><td></td><td><a href="gameplay/general-concept.md">general-concept.md</a></td></tr><tr><td><strong>Tecnologías Implicadas</strong></td><td>Sumérgete en los entresijos del sistema.</td><td><a href=".gitbook/assets/advanced_mechanics.jpg">advanced_mechanics.jpg</a></td><td></td><td><a href="tokenomics/rethink-p2e.md">rethink-p2e.md</a></td></tr><tr><td><strong>Tokenomics</strong></td><td>Economía P2E in-game</td><td><a href=".gitbook/assets/tokenomics.jpg">tokenomics.jpg</a></td><td></td><td><a href="tokenomics/economic-simulation/">economic-simulation</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Fundamentos</strong></td><td>El Próximo Milieu</td><td><a href=".gitbook/assets/TCW.jpg">TCW.jpg</a></td><td></td><td><a href="foundations/next-milieu/">next-milieu</a></td></tr><tr><td><strong>El Juego</strong></td><td>Corporaciones y Políticas</td><td><a href=".gitbook/assets/TCW.jpg">TCW.jpg</a></td><td></td><td><a href="tokenomics/rethink-p2e.md">rethink-p2e.md</a></td></tr><tr><td><strong>Tecnología</strong></td><td>El juego desde dentro</td><td><a href=".gitbook/assets/TCW.jpg">TCW.jpg</a></td><td></td><td><a href="tokenomics/economic-simulation/">economic-simulation</a></td></tr></tbody></table>
 
 ***
 

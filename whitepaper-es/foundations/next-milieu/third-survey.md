@@ -1,41 +1,43 @@
 # Tercer Censo
 
-La historia del Imperio esta marcada por etapas de expansion y periodos de estabilidad.
+La historia del Tercer Imperio esta marcada por etapas de expansi贸n y periodos de estabilidad.
 
 El **Primer Censo (First Survey)** fue el primer gran esfuerzo exploratorio imperial, donde se catalogaron los mundos habitados, los corredores de salto y se trazaron las primeras fronteras.
 
-El **Segundo Censo (Second Survey)** ha sido una actualizaci髇 sistem醫ica, que ha redefinido las rutas principales y formalizado las l韓eas de comercio y correo.
+El **Segundo Censo (Second Survey)** ha sido una actualizaci贸n sistem谩tica, que ha redefinido las rutas principales y formalizado las l铆neas de comercio y correo.
 
 Y ahora, en el presente, el **Tercer Censo Estelar (Third Survey)** ha comenzado:
 
-Una iniciativa monumental del Servicio de Exploraci髇 Interestelar Imperial en colaboraci髇 con el sector privado, el **Hakyeahtaorl**, la **Driantia Dazhia**, los **Dos Mil Mundos**, e incluso **SolSec**, para cartografiar no solo el espacio conocido, sino tambi閚 los mundos marginales, las fronteras olvidadas y los enclaves que quedaron atr醩 en la Larga Noche.  
+Una iniciativa monumental del Servicio de Exploraci贸n Interestelar Imperial en colaboraci贸n con el sector privado, el **Hakyeahtaorl**, la **Driantia Dazhia**, los **Dos Mil Mundos**, e incluso **SolSec**, para cartografiar no solo el espacio conocido, sino tambi茅n los mundos marginales, las fronteras olvidadas y los enclaves que quedaron atr谩s en la Larga Noche.
 
-## Servicio de Exploraci髇 Interestelar
+## Servicio de Exploraci贸n Interestelar
 
-Anta駉 cuna de aventureros, hoy el Servicio de Exploraci髇 es una instituci髇 m醩 burocr醫ica. Tras dar por completo el Segundo Censo Estelar, se dedico a fortalecer y modernizar las rutas de Correo Imperial, delegando gran parte de su actividad de campo al sector privado.
+Anta帽o cuna de aventureros, hoy el Servicio de Exploraci贸n es una instituci贸n administrativa y burocr谩tica.
 
-### Editcto Imperial 1143.1
+Tras dar por completo el Segundo Censo Estelar, se dedico a fortalecer y modernizar las rutas de Correo Imperial, delegando gran parte de su actividad de campo al sector privado.
 
-En el a駉 1143 el Primer Edicto Imperial fue la aprobacion y entrada en vigor de licencias privadas de exploracion, emitidas por el Servicio de Exploracion, bajo la Autoridad del Emperador.
+### Edicto Imperial 1143.1
 
-Esta politica formalizo al Servicio de Exploracion Interestelar como una autoridad Imperial, incrementando el alcance y prestigio de la institucion.
+En el a帽o 1143 el Primer Edicto Imperial fue la aprobaci贸n y entrada en vigor de licencias privadas de explorador, emitidas por el Servicio de Exploraci贸n, bajo la Autoridad del Emperador.
+
+Esta pol铆tica formaliz贸 al Servicio de Exploraci贸n Interestelar como una autoridad Imperial, incrementando el alcance y prestigio de la instituci贸n.
 
 En consecuencia, es el sector privado, freelancers especializados y corporaciones, quienes realizan las misiones de reconocimiento y primer contacto en sistemas remotos.
 
-Esto ha llevado al Servicio de Exploraci髇 a establecer un precedente de __negocio atrografico__ mas alla de las fronteras del imperio, desde mercaderes del espacio profundo, a corporaciones Zhodani, clanes Aslan y Vargr, todos han apreciado el __valor__ de comerciar con datos actualizados de la galaxia.
+Esto ha llevado al Servicio de Exploraci贸n a establecer un precedente de **negocio astrogr谩fico** mas all谩 de las fronteras del imperio, desde mercaderes del espacio profundo, a corporaciones Zhodani, clanes Aslan y Vargr, todos han apreciado el **valor** de comerciar con datos actualizados de la galaxia.
 
 ***
 
 ## La Importancia del Tercer Censo
 
-En **The Corporate Wars** el Tercer Censo representa no solo un escenario de trasfondo tematico, sino la filosofia sobre la que se construye el mapa de la Galax韆.
+En **The Corporate Wars** el Tercer Censo representa no solo un escenario de trasfondo tem谩tico, sino la filosof铆a sobre la que se construye el mapa de la Galaxia.
 
-> El Tercer Censo es una base de datos estructural de sistemas estelares y rutas de salto, con datos actualizados periodicamente, almacenada en blockchain, lo cual permite auditoria y acceso distribuido en tiempo real.
+> El Tercer Censo es una base de datos estructural de sistemas estelares y rutas de salto, con datos actualizados peri贸dicamente, almacenada en blockchain, lo cual permite auditoria y acceso distribuido en tiempo real.
 
 Los jugadores obtienen una vista parcial de los datos de la galaxia, dependiendo siempre de dos cosas, las bases de datos disponibles localmente: dispositivos, computadoras navales, mapas estelares; y de las actualizaciones globales: computadoras planetarias, balizas X-Comm o rutas X-Boat, entre otros.
 
-El servidor de juego mantiene un conjunto de datos validos ajustados al punto de vista del jugador, por cada sesion de juego, tomando como fuente de verdad las actualizaciones almacenadas en la blockchain.
+El servidor de juego mantiene un conjunto de datos validos ajustados al punto de vista del jugador, por cada sesi贸n de juego, tomando como fuente de verdad las actualizaciones almacenadas en la blockchain.
 
-> El Tercer Censo es la estructura fundamental sobre la que estan construidos el resto de sistemas del juego.
+> El Tercer Censo es la estructura fundamental sobre la que est谩n construidos el resto de sistemas del juego.
 
-Los jugadores participan, por medio de la exploracion, en el crecimiento de los limites del juego, actualizan datos de mundos aislados y transportan informaci髇 a grandes distancias.
+Los jugadores participan, por medio de la exploraci贸n, en el crecimiento de los limites del juego, actualizan datos de mundos aislados y transportan informaci贸n a grandes distancias.

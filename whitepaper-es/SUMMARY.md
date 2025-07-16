@@ -36,7 +36,7 @@
       * [Sistema de Arquitectura Naval](foundations/charted-space/space-travel/starships/naval-architect.md)
     * [Astropuertos](foundations/charted-space/space-travel/starports.md)
 
-## Game Mechanics <a href="#game-basics" id="game-basics"></a>
+## El Juego <a href="#game-basics" id="game-basics"></a>
 
 * [Corporaciones](game-basics/corporations/README.md)
   * [Operaciones Autorizadas](game-basics/corporations/licensed-operations/README.md)

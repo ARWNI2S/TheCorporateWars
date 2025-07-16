@@ -38,18 +38,18 @@ Vagh'rra! Rroezhakha **100'k'rrr** nurghrra'rrr.
 
 > #### Todo fue un sueño
 >
-> No hubo rebelion, ningun acontecimiento provocó la caida del imperio. Nunca existió ningún "virus", y la única "nueva era" que conozco... es hoy!
+> No hubo rebelión, ningún acontecimiento provocó la caída del imperio. Nunca existió ningún "virus", y la única "nueva era" que conozco... es hoy!
 
 ***
 
 ## Milieu 1.2
 
-The Corporate Wars nos traslada 80 años en el futuro, retomando la linea temporal clásica de Traveller™, apoyandose en la "extended Golden Age" de GURPS.
+The Corporate Wars nos traslada 80 años en el futuro, retomando la línea temporal clásica de Traveller™, apoyándose en la "extended Golden Age" de GURPS.
 
-En este futuro: el Tercer Imperio continua estable, abriendose a relaciones con el Consulado Zhodani y en paz con Solomani; propiciando unas predicciones de estabilidad economica sin precedentes en la historia de la Galaxía.
+En este futuro: el Tercer Imperio continua estable, abriéndose a relaciones con el Consulado Zhodani y en paz con Solomani; propiciando unas predicciones de estabilidad económica sin precedentes en la historia de la Galaxia.
 
 Fortunas ancestrales de la Nobleza Vilani compiten en el mercado de valores con La Federación, mientras las matriarcas Aslan dan caza a todas las oportunidades al alcance del clan.
 
-Las Extensiones Vargr son aún mas extensas, fusionandose —literalmente— con el Imperio y los Dos Mil Mundos, en un delicado equilibrio de poder, influencia y liderazgo.
+Las Extensiones Vargr son aún mas extensas, fusionándose —literalmente— con el Imperio y los Dos Mil Mundos, en un delicado equilibrio de poder, influencia y liderazgo.
 
-Es el año 1201: una "nueva era" :P de oportunidad, expansion, y comprension de la galaxia.
+Es el año 1201: una "nueva era" :P de oportunidad, expansión, y comprensión de la galaxia.
