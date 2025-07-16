@@ -1,21 +1,21 @@
 ---
 description: >-
-  Construction, management, and operation of colonial infrastructures and
-  essential services.
+  Construcción, gestión y operación de infraestructuras coloniales y servicios
+  esenciales.
 ---
 
-# Colonial Services
+# Servicios Coloniales
 
-Developing worlds, newly contacted planets, and fresh colonies require essential infrastructure and services to operate efficiently. Worlds with extreme climates, exotic atmospheres, or scarce resources depend on technological imports, implementation, management, maintenance, and administration of multiple services to ensure the colony’s survival.
+Los mundos en desarrollo, los recién contactados y las nuevas colonias requieren infraestructura y servicios esenciales para operar de manera eficiente. Los mundos con climas extremos, atmosferas exoticas o escasos de recursos requieren de importaciones tecnologicas, implantacion, gestion, mantenimiento y administracion de servicios multiples servicios para garantizar la supervivencia de la colonia.
 
-These services include power supply, waste management, potable water distribution, life support, communications, and logistics, among many other specific needs. Across developed worlds in the galaxy, governments have extensively practiced service outsourcing since the pre-stellar era.
+Estos servicios incluyen suministro de energía, gestión de residuos, distribución de agua potable, soporte vital, comunicaciones y logística, entre otras muchas necesidades especificas. En mundos desarrollados de toda la galaxia, los gobiernos practican extensamente la subcontratacion de servicios desde la era pre-estelar.
 
-Corporations provide these services to independent colonial communities that prefer to focus on their core activities — such as agriculture, industry, or mining — without taking on the burden of administrative and operational management of the colony.
+Las corporaciones ofrecen estos servicios a comunidades coloniales independientes que prefieren centrarse en su actividad principal, como la producción agrícola, industrial o minera, sin asumir la carga de la gestión administrativa y operativa de la colonia.
 
-Corporations operating in this sector act as support providers for settlements, relying on the interstellar market to ensure colonies can focus on their activities without worrying about structural needs. Controlling these services allows corporations to establish dependency relationships with colonies, securing long-term profits and a strategic position within planetary politics.
+Las corporaciones que operan en este sector funcionan como proveedores de soporte para los asentamientos, recurriendo al mercado interestelar para asegurar que las colonias puedan centrarse en su actividad sin preocuparse por las necesidades estructurales. Controlar estos servicios permite a las corporaciones establecer relaciones de dependencia con las colonias, obteniendo beneficios a largo plazo y una posición estratégica dentro de la política planetaria.
 
 ***
 
 {% hint style="success" %}
-Choosing a corporation that operates in the colonial services sector is a suitable option for players who prefer to start the game with strong political relationships and a steady source of income.
+Escoger una corporación que opera en el ámbito de los servicios coloniales es una opción adecuada para jugadores que prefieren empezar el juego con relaciones políticas solidas y una fuente de ingresos constante.
 {% endhint %}

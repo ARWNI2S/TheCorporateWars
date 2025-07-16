@@ -1,3 +1,3 @@
-# Distributed Simulation
+# Simulación Distribuida
 
 Bla

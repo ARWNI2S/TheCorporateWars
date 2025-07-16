@@ -1,3 +1,3 @@
-# Sophont Generation System
+# Sistema de Generación de Sofontes
 
 Bla

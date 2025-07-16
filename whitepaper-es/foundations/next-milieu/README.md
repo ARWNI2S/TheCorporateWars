@@ -18,6 +18,6 @@ layout:
     visible: true
 ---
 
-# The Next Milieu
+# El Próximo Milieu
 
 Bla

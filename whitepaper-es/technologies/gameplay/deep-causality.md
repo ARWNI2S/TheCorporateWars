@@ -1,3 +1,3 @@
-# Interactive Causality
+# Causalidad Interactiva
 
 Bla

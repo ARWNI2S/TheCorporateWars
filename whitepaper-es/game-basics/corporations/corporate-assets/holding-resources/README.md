@@ -1,9 +1,9 @@
 ---
-description: Tangible assets, raw materials, and claims under corporate control.
+description: Activos tangibles, materiales y propiedad bajo control corporativo.
 ---
 
-# Resources and Holdings
+# Recursos y Propiedades
 
-The resources and properties controlled by a corporation represent its tangible wealth and its ability to generate income. These assets include raw material reserves, transport fleets, industrial complexes, and territories acquired through grants.
+Los recursos y propiedades controlados por una corporación representan su riqueza tangible y su capacidad de generar ingresos. Estos activos incluyen reservas de materias primas, flotas de transporte, complejos industriales y territorios adquiridos a través de concesiones.
 
-Controlling large volumes of resources allows a corporation to sustain production, negotiate from a position of strength, and establish monopolies over key materials essential to the interstellar economy. Efficient management of these assets is crucial to avoid losses due to obsolescence, speculation, or conflicts with other market players.
+Controlar grandes volúmenes de recursos permite mantener la producción, negociar desde una posición de fuerza y establecer monopolios sobre materiales clave para la economía interestelar. La administración eficiente de estos activos es fundamental para evitar perdidas por obsolescencia, especulación o conflictos con otros actores del mercado.

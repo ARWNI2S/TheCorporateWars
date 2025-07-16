@@ -1,1 +1,1 @@
-# Galactic Council of Sciences
+# Concilio Galáctico de las Ciencias

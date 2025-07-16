@@ -1,3 +1,3 @@
-# Corporation are Polities
+# Las Corporaciones son Políticas
 
 Bla

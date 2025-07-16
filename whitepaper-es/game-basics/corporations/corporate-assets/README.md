@@ -1,19 +1,19 @@
 ---
 description: >-
-  Infrastructure, holdings, and personnel critical for expansion and
-  sustainability.
+  Infraestructura, activos y personal esenciales para la expansión y
+  sostenibilidad.
 ---
 
-# Corporate Assets
+# Activos Corporativos
 
-A corporation’s assets determine its ability to operate, expand, and exert influence within the interstellar environment. They are the foundation upon which economic, commercial, and military strategies are built, and their proper management is key to long-term sustainability and growth.
+Los activos de una corporación determinan su capacidad de operar, expandirse y ejercer influencia dentro del entorno interestelar. Son los cimientos sobre los que se construyen las estrategias económicas, comerciales y militares, y su correcta gestión es clave para la sostenibilidad y el crecimiento a largo plazo.
 
-Corporations operate across various market sectors that require specific assets to run their operations: facilities, vehicles and machinery, owned resources, warehouses and energy access, licenses, grants, liquidity — as well as workers and specialized personnel.
+Las corporaciones operan en diversos ámbitos del mercado que requieren de activos específicos para desarrollar la operación: instalaciones, vehículos y maquinaria, recursos en propiedad, almacenes y acceso a la energía, licencias, concesiones y liquidez; y también trabajadores y personal especializado.
 
-The variety of available assets is vast, and it is up to the players to develop strategies for acquiring, maintaining, financing, and implementing their corporation’s assets. Over-acquisition can drain capital and hinder short-term operations, while operating without adequate asset reserves can lead to serious problems during periods of scarcity.
+La variedad de activos disponibles es enorme, y depende de los jugadores trazar estrategias de adquisidor, mantenimiento, financiación e implementación de los activos de su corporación. Una sobre adquisición de activos puede descapitalizar la operación a corto plazo, por otro lado, operar sin reservas de activos adecuadas puede provocar problemas en periodos de escasez.
 
 ***
 
 {% hint style="info" %}
-All corporations are assigned an initial asset package, essential for operations. Players can acquire assets on the market, contribute capital (MCr or SOL), or provide non-fungible tokens (NFTs) from their wallets. [Read more...](../../../tokenomics/non-fungible-tokens/)
+Todas las corporaciones tienen asignado un paquete de activos iniciales, imprescindibles para la operacion. Los jugadores pueden adquirir los activos en el mercado, aportar capital (MCr o SOL) o tokens no fungibles (NFT) desde sus billeteras. [Leer más...](../../../tokenomics/tokens-no-fungibles-nft/)
 {% endhint %}

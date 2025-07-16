@@ -1,29 +1,15 @@
 ---
-cover: .gitbook/assets/TCW.jpg
-coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: false
-  description: >- Mapped regions of space, defining the boundaries of exploration, commerce, and civilization.
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+description: >-
+  Regiones cartografiadas del espacio, que definen los límites de la
+  exploración, el comercio y la civilización.
 ---
 
-# The Charted Space
+# El Espacio Conocido
 
-**The Charted Space** is the portion of the galaxy that has been mapped, colonized, or influenced by interstellar civilizations. It is here where exploration, trade, and politics intertwine, defining the balance of power between major powers, corporations, and autonomous entities.
+El Espacio Conocido es la porción de la galaxia que ha sido cartografiada, colonizada o influenciada por civilizaciones interestelares. Es aquí donde la exploración, el comercio y la política se entrelazan, definiendo el equilibrio de poder entre grandes potencias, corporaciones y entidades autónomas.
 
-The extent of Charted Space is not uniform; some regions are densely populated and highly developed, with established trade routes and consolidated infrastructure, while others are contested frontiers where authority is weak and the presence of external actors can shift the balance of power.
+La extensión del Espacio Conocido no es uniforme; algunas regiones están densamente pobladas y altamente desarrolladas, con rutas comerciales establecidas y una infraestructura consolidada, mientras que otras son fronteras en constante disputa, donde la autoridad es débil y la presencia de actores externos puede inclinar la balanza del poder.
 
-Within this territory, players will find key worlds, strategic sectors, and vital trade routes. However, beyond the borders of Charted Space lie unexplored regions, undiscovered systems, and areas where civilization is scarce or nonexistent. Expansion into these territories presents both an opportunity and a challenge — the absence of control can mean either freedom or danger.
+Dentro de este territorio, los jugadores encontrarán mundos clave, sectores estratégicos y rutas de comercio vitales. Sin embargo, más allá de los límites del Espacio Conocido se extienden regiones inexploradas, sistemas aún por descubrir y zonas donde la civilización es escasa o inexistente. La expansión hacia estos territorios representa tanto una oportunidad como un desafío, pues la ausencia de control puede significar tanto libertad como peligro.
 
-Understanding Charted Space is essential for any corporation seeking to grow and consolidate its power in the galaxy. Controlling access to resource-rich regions, dominating trade routes, and establishing enclaves in strategic locations can be the difference between success and obsolescence.
+La comprensión del Espacio Conocido es fundamental para cualquier corporación que aspire a crecer y consolidar su poder en la galaxia. Controlar los accesos a regiones ricas en recursos, dominar rutas comerciales y establecer enclaves en puntos estratégicos puede marcar la diferencia entre el éxito y la obsolescencia.

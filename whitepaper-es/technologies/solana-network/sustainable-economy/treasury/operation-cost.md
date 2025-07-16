@@ -1,3 +1,3 @@
-# Operational Costs
+# Coste Operativo
 
 Bla

@@ -1,3 +1,3 @@
-# Collaborative Individualism
+# Individualismo Colaborativo
 
 Bla

@@ -1,17 +1,17 @@
 ---
 description: >-
-  Planetary systems and celestial bodies forming the foundation of interstellar
-  expansion.
+  Sistemas planetarios y cuerpos celestes que constituyen las bases de la
+  expansión interestelar.
 ---
 
-# Stars and Worlds
+# Mundos y Estrellas
 
-The universe of **The Corporate Wars** is made up of countless planetary systems, each with its own combination of stars, planets, moons, and minor celestial bodies. These systems form the foundation of interstellar expansion, shaping the galaxy's economic, strategic, and political opportunities.
+El universo de The Corporate Wars está compuesto por innumerables sistemas planetarios, cada uno con su propia combinación de estrellas, planetas, lunas y cuerpos celestes menores. Estos sistemas son la base de la expansión interestelar, determinando las oportunidades económicas, estratégicas y políticas de la galaxia.
 
-Stars define the nature of a system. From long-lived red dwarfs to short-lived blue giants, each stellar type influences habitability and available resources. Systems with multiple suns may pose additional challenges for navigation and colonization due to their complex orbits.
+Las estrellas definen la naturaleza de un sistema. Desde enanas rojas longevas hasta gigantes azules de vida corta, cada tipo estelar influye en la habitabilidad y en los recursos disponibles. Sistemas con múltiples soles pueden presentar desafíos adicionales en navegación y colonización debido a sus órbitas complejas.
 
-Habitable worlds are rare and valuable. While many planets can host colonies through terraforming or artificial habitats, finding a world with naturally favorable conditions is a strategic asset. However, habitability isn’t everything — arid, frozen, or gaseous worlds can serve as crucial sources of industrial and energy resources.
+Los mundos habitables son escasos y valiosos. Aunque muchos planetas pueden albergar colonias mediante terraformación o hábitats artificiales, encontrar un mundo con condiciones naturales favorables es un activo estratégico. Sin embargo, la habitabilidad no lo es todo; mundos áridos, congelados o gaseosos pueden ser fuentes cruciales de recursos industriales y energéticos.
 
-Beyond planets, moons and asteroid belts play a key role in the galactic economy. These regions can host mining outposts, space stations, and serve as transit points along trade routes. Many corporations establish operations in these environments, taking advantage of their mineral wealth and strategic locations.
+Más allá de los planetas, las lunas y cinturones de asteroides juegan un papel clave en la economía galáctica. Estas regiones pueden albergar bases mineras, estaciones espaciales y ser puntos de tránsito en rutas comerciales. Muchas corporaciones establecen operaciones en estos entornos, aprovechando su riqueza mineral y su posición estratégica.
 
-Understanding the distribution and characteristics of planetary systems is essential for any corporation seeking expansion. Controlling a system rich in resources or with access to vital trade routes can mean economic dominance in a sector, while choosing a poorly located world could doom an operation to failure.
+Comprender la distribución y características de los sistemas planetarios es esencial para cualquier corporación que busque expandirse. Controlar un sistema con abundantes recursos o acceso a rutas comerciales puede significar el dominio económico en un sector, mientras que elegir un mundo mal ubicado puede condenar una operación al fracaso.

@@ -1,13 +1,13 @@
 ---
 description: >-
-  Interstellar transportation and propulsion technologies enabling galactic
-  mobility.
+  Transporte interestelar y tecnologías de propulsión que permiten la movilidad
+  galáctica.
 ---
 
-# The Jump Drive
+# El Reactor de Salto
 
-Interstellar transportation in **The Corporate Wars** relies on a combination of advanced propulsion technology and starship designs optimized for specific roles. From massive freighters to light exploration vessels, each type of ship plays a vital role in galactic mobility and the inter-system economy.
+El transporte interestelar en The Corporate Wars depende de una combinación de tecnología de propulsión avanzada y diseño de naves optimizado para distintas funciones. Desde cargueros masivos hasta naves de exploración ligera, cada tipo de navío cumple un rol fundamental en la movilidad galáctica y la economía intersistémica.
 
-Reactors are the heart of any ship, determining its speed, range, and operational efficiency. While impulse engines enable navigation within a star system, the interstellar jump capacitor is the only way to travel between stars within manageable timeframes. Access to different levels of propulsion technology defines a fleet’s competitiveness and its ability to operate in trade, warfare, or exploration.
+Los reactores son el corazón de cualquier nave, determinando su velocidad, autonomía y eficiencia operativa. Mientras que los motores de impulso permiten la navegación dentro de un sistema estelar, el capacitador de salto interestelar es la única forma de viajar entre estrellas en tiempos manejables. El acceso a diferentes niveles de tecnología de propulsión define la competitividad de una flota y su capacidad para operar en el comercio, la guerra o la exploración.
 
-Corporations that dominate the manufacturing, maintenance, and supply of reactors and propulsion systems not only control the flow of goods and people across the galaxy but also influence interstellar geopolitics — establishing transportation networks that can either consolidate or destabilize entire regions.
+Las corporaciones que dominan la fabricación, mantenimiento y suministro de reactores y sistemas de impulsión para navíos no solo controlan el flujo de bienes y personas en la galaxia, sino que también influyen en la geopolítica interestelar, estableciendo redes de transporte que pueden consolidar o desestabilizar regiones enteras.

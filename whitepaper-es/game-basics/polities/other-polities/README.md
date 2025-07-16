@@ -1,3 +1,3 @@
-# Other Polities
+# Otras Políticas
 
 Bla

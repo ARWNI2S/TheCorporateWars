@@ -1,3 +1,3 @@
-# MegaCredits
+# MegaCréditos
 
 Bla

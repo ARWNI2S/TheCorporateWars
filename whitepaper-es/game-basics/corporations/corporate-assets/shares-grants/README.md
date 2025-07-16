@@ -1,9 +1,9 @@
 ---
-description: Legal permissions and ownership rights governing operations.
+description: Permisos legales y derechos de propiedad que rigen las operaciones.
 ---
 
-# Grants and Shares
+# Concesiones y Participaciones
 
-Grants and licenses represent exclusive rights granted by regulatory entities or governments, allowing corporations to exploit resources, operate in strategic sectors, or establish facilities in key locations. Obtaining and maintaining these permits is essential to access new economic opportunities and avoid regulatory sanctions.
+Las concesiones y licencias representan derechos exclusivos otorgados por entidades regulatorias o gobiernos, permitiendo a las corporaciones explotar recursos, operar en sectores estratégicos o establecer instalaciones en ubicaciones clave. Obtener y mantener estos permisos es esencial para acceder a nuevas oportunidades económicas y evitar sanciones regulatorias.
 
-Corporations can acquire these rights through negotiations, bidding, or political influence, and controlling them can determine a company’s success or failure in fiercely competitive sectors. The management of grants is a strategic tool, as it allows corporations to block rivals and secure exclusive access to specific markets.
+Las corporaciones pueden adquirir estos derechos mediante negociaciones, licitaciones o influencia política, y su control puede definir el éxito o fracaso de una empresa en sectores donde la competencia es feroz. La administración de concesiones es una herramienta estratégica, ya que permite bloquear a rivales y garantizar el acceso exclusivo a mercados específicos.

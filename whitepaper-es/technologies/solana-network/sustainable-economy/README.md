@@ -1,3 +1,3 @@
-# Self-Sustainable Economy
+# Economía Autosostenible
 
 Bla

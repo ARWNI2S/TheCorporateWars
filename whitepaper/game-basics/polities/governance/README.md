@@ -1,3 +1,3 @@
-# Regulations
+# Laws and Rules
 
 Bla

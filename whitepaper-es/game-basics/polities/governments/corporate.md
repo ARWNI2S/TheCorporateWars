@@ -1,3 +1,3 @@
-# Corporate Government
+# Gobierno Corporativo
 
 Bla

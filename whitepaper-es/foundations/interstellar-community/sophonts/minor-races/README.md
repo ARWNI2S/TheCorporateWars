@@ -18,6 +18,6 @@ layout:
     visible: true
 ---
 
-# Other Sophonts
+# Otros Sofontes
 
 Bla

@@ -1,13 +1,13 @@
 ---
-description: Massive planetary bodies with exploitable atmospheric resources.
+description: Cuerpos planetarios masivos con recursos atmosféricos explotables.
 ---
 
-# Gas Giants
+# Gigantes de Gas
 
-Gas giants are massive planetary bodies composed primarily of hydrogen and helium, with no defined solid surface. Although inhospitable to traditional colonization, these worlds are essential to interstellar infrastructure due to the richness of their atmospheres in exploitable elements.
+Los gigantes de gas son cuerpos planetarios masivos compuestos principalmente de hidrógeno y helio, sin una superficie sólida definida. Aunque inhóspitos para la colonización tradicional, estos mundos son fundamentales para la infraestructura interestelar debido a la riqueza de su atmósfera en elementos explotables.
 
-Operations around gas giants typically focus on fuel extraction — such as refined hydrogen for fusion reactors and other exotic gases used in various industrial and technological applications. Atmospheric harvesting platforms and floating stations allow corporations to collect these resources without the need for surface installations, reducing operational and maintenance costs.
+Las operaciones en gigantes de gas suelen centrarse en la extracción de combustibles, como el hidrógeno refinado para reactores de fusión y otros gases exóticos utilizados en diversas aplicaciones industriales y tecnológicas. Las plataformas de recolección atmosférica y las estaciones flotantes permiten a las corporaciones obtener estos recursos sin necesidad de establecer instalaciones en la superficie, lo que reduce los costos de operación y mantenimiento.
 
-Some gas giants have moons rich in minerals or suitable for colonization, turning them into centers of economic activity within a star system. Additionally, certain gravitational or atmospheric anomalies can make these planets strategic points for trade, fleet transit, or even the development of hidden installations far from the oversight of interstellar powers.
+Algunos gigantes de gas albergan lunas ricas en minerales o con condiciones adecuadas para la colonización, lo que los convierte en centros de actividad económica dentro de un sistema estelar. Además, ciertas anomalías gravitacionales o atmosféricas pueden hacer que estos planetas sean puntos estratégicos para el comercio, el tránsito de flotas o incluso el desarrollo de instalaciones ocultas lejos de la supervisión de las potencias interestelares.
 
-Access to and control over a key gas giant can mean the difference between a stable supply network and costly dependence on external providers. In a universe where mobility is essential, dominating the production and distribution of fuels makes these worlds highly valuable strategic assets.
+El acceso y control sobre un gigante gaseoso clave puede significar la diferencia entre una red de abastecimiento estable y una dependencia costosa de proveedores externos. En un universo donde la movilidad es esencial, dominar la producción y distribución de combustibles convierte a estos mundos en activos de gran valor estratégico.

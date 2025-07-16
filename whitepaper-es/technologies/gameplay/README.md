@@ -1,3 +1,3 @@
-# Homo Ludens
+# Teoría de Juegos
 
 Get

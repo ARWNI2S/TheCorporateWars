@@ -1,9 +1,11 @@
 ---
-description: General workforce and specialized personnel managing assets and operations.
+description: >-
+  Mano de obra general y personal especializado a cargo de la gestión de activos
+  y operaciones.
 ---
 
-# Staff and Crew
+# Personal y Tripulación
 
-Human capital is a critical component in any corporate operation. From executives to factory workers, specialized technicians, and starship crews — every employee plays a role in the company’s sustainability and efficiency.
+El capital humano es un componente crítico en cualquier operación corporativa. Desde directivos hasta trabajadores en fábricas, pasando por técnicos especializados y tripulaciones de naves espaciales, cada empleado juega un rol en la sostenibilidad y eficiencia de la empresa.
 
-Corporations must manage the recruitment, training, and retention of talent, ensuring that each area has the right personnel. Morale, loyalty, and employee training directly impact operational performance, and in times of crisis, having an experienced team can mean the difference between stability and corporate collapse.
+Las corporaciones deben gestionar la contratación, formación y retención de talento, asegurando que cada área cuente con el personal adecuado. La moral, la lealtad y la capacitación de los trabajadores afectan directamente el rendimiento de las operaciones, y en situaciones de crisis, contar con un equipo experimentado puede ser la diferencia entre la estabilidad y el colapso empresarial.

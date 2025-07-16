@@ -11,7 +11,7 @@ description: Technologies Used
 * **SQL Server** as the main relational database
 * **Azure** and **Azure Arc** for scalable cloud and hybrid deployment
 * **Windows 11** for development team machines
-* **Windows Server 2025** for on-premises infrastructure
+* **Windows Server 2025** for local infrastructure
 * **Hyper-V** for local virtualization and distributed node orchestration
 * **Visual Studio 2022** as the primary development environment
 * **Visual Studio Code** with WSL for cross-platform Solana development via Anchor

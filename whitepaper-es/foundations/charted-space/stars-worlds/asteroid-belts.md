@@ -1,13 +1,15 @@
 ---
-description: Clusters of mineral-rich space debris essential for industrial supply chains.
+description: >-
+  Conjuntos de escombros espaciales ricos en minerales, cruciales para las
+  cadenas de suministro industriales.
 ---
 
-# Asteroid Belts
+# Cinturones de Asteroides
 
-Asteroid belts are regions within a star system filled with rocky and metallic fragments — remnants of planetary formation. Though inhospitable to life, these debris fields are vital to the interstellar economy, as they contain high concentrations of minerals essential for manufacturing and the construction of space infrastructure.
+Los cinturones de asteroides son regiones de un sistema estelar repletas de fragmentos de roca y metal, remanentes de la formación planetaria. Aunque inhóspitos para la vida, estos campos de escombros son vitales para la economía interestelar, ya que contienen una gran concentración de minerales esenciales para la manufactura y la construcción de infraestructura espacial.
 
-Corporations exploit these belts through mining stations and automated extraction fleets that process asteroids in search of valuable materials such as heavy metals, rare earth elements, and compounds used in advanced technologies. Due to the lack of significant gravity, mining in these environments is more efficient than planetary extraction, allowing resources to be transported with lower energy costs.
+Las corporaciones explotan estos cinturones mediante estaciones mineras y flotas de extracción automatizadas, que procesan los asteroides en busca de materiales valiosos como metales pesados, tierras raras y compuestos utilizados en tecnologías avanzadas. Debido a la falta de gravedad significativa, la minería en estos entornos es más eficiente que la extracción planetaria, permitiendo transportar los recursos con menor costo energético.
 
-Beyond their industrial value, asteroid belts also serve as strategic points for hidden bases, pirate havens, or covert military installations. Their fragmented composition and countless moving objects make detection and access difficult, turning them into ideal territories for operations beyond the oversight of major powers.
+Además de su valor industrial, los cinturones de asteroides también sirven como puntos estratégicos para bases ocultas, refugios de piratas o instalaciones militares encubiertas. Su composición fragmentaria y sus innumerables objetos en movimiento dificultan la detección y el acceso, convirtiéndolos en territorios ideales para operaciones fuera de la supervisión de las grandes potencias.
 
-Control over a key asteroid belt can grant a corporation a significant advantage in the trade of critical materials, ensuring a steady supply for industrial expansion and starship production. In a universe where resources define power, these regions represent both a source of immense wealth and a potential battleground for control over their vast resources.
+El control sobre un cinturón de asteroides clave puede otorgar a una corporación una ventaja significativa en el comercio de materiales críticos, asegurando un suministro constante para la expansión industrial y la producción de flotas espaciales. En un universo donde los recursos definen el poder, estas regiones representan tanto una fuente de riqueza como un escenario de disputas por el control de sus vastos recursos.

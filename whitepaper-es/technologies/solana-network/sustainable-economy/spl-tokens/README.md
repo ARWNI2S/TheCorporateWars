@@ -1,3 +1,3 @@
-# SPL Tokens
+# Tokens SPL
 
 Bla

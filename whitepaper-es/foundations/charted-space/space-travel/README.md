@@ -1,15 +1,15 @@
 ---
 description: >-
-  The seamless circulation of people and goods through the vast reaches of
-  space, bridging wordls and cultures.
+  La circulación fluida de personas y bienes a través de las vastas extensiones
+  del espacio, conectando mundos y culturas.
 ---
 
-# Space Travel
+# El Viaje Espacial
 
-Space travel is the backbone of interstellar civilization in **The Corporate Wars**. The ability to move people, goods, and data across the vast expanses of space is what keeps the economy running, enables territorial expansion, and defines relationships between worlds and civilizations.
+El viaje espacial es la columna vertebral de la civilización interestelar en The Corporate Wars. La capacidad de mover personas, bienes y datos a través de las vastas extensiones del espacio es lo que mantiene la economía en funcionamiento, permite la expansión territorial y define las relaciones entre mundos y civilizaciones.
 
-Since faster-than-light communication does not exist, starships are the only means of transmitting information and coordinating large-scale operations. Every transit between systems is a strategic event, where travel time, navigation conditions, and route security play a crucial role in the stability of societies and commerce.
+Dado que las comunicaciones más rápidas que la luz no existen, las naves espaciales son el único medio para transmitir información y coordinar operaciones a gran escala. Cada tránsito entre sistemas es un evento estratégico, donde el tiempo de viaje, las condiciones de navegación y la seguridad de las rutas juegan un papel clave en la estabilidad de las sociedades y el comercio.
 
-Space routes are determined by the accessibility of star systems and the presence of infrastructure such as spaceports and refueling stations. Some regions feature well-established corridors with frequent and secure traffic, while others are high-risk zones due to pirate activity, interstellar conflicts, or hazardous space conditions.
+Las rutas espaciales están determinadas por la accesibilidad de los sistemas estelares y la presencia de infraestructuras como puertos espaciales y estaciones de reabastecimiento. Algunas regiones cuentan con corredores bien establecidos, donde el tránsito es frecuente y seguro, mientras que otras son zonas de alto riesgo debido a la actividad pirata, conflictos interestelares o condiciones espaciales peligrosas.
 
-For corporations, mastering space travel means not only optimizing logistics but also securing control over strategic routes. Accessing the best trade corridors, ensuring the protection of their convoys, and establishing transportation monopolies can be the difference between a profitable operation and one doomed to failure.
+Para las corporaciones, dominar el viaje espacial no solo significa optimizar la logística, sino también asegurar el control sobre rutas estratégicas. Acceder a los mejores corredores comerciales, garantizar la protección de sus convoyes y establecer monopolios de transporte puede marcar la diferencia entre una operación rentable y una destinada al fracaso.

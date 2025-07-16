@@ -1,78 +1,68 @@
-﻿# The Outdated Information Model
+# El Modelo de Información Desfasada
 
-In an Imperium of over eleven thousand worlds, where jump ships are the arteries connecting scattered civilizations, information **never** arrives instantly.
+En un Imperio de más de once mil mundos, donde las naves de salto son las arterias que conectan civilizaciones dispersas, la información **nunca** llega de forma instantanea.
 
-No matter how advanced the technology, no civilization of the Third Imperium — nor any known faction — has found a way to overcome one fundamental law of the known universe:
+Por muy avanzada que sea la tecnología, ninguna civilización del Tercer Imperio —ni de cualquier otra facción conocida— ha encontrado forma de superar una ley fundamental del universo conocido:
 
-> **Information cannot travel faster than light.**
+> **La información no puede viajar más rápido que la luz.**
 
-Interstellar communications rely on physical couriers: messengers, freighters, probes, diplomatic vessels. Dispatches, stock prices, military reports, and even simple local news traverse the jump corridors encapsulated in physical units, subject to the same limitations as any material cargo.
+Las comunicaciones interestelares dependen de emisarios físicos: mensajeros, cargueros, sondas, naves diplomáticas. Los despachos, las cotizaciones bursátiles, los informes militares y hasta las simples noticias locales cruzan los corredores de salto encapsulados en unidades físicas, sujetas a las mismas limitaciones que cualquier carga material.
 
-This introduces **structural latencies**:
+Esto introduce **latencias estructurales**:
 
-* A message from the Core sector to the margins of the Imperium can take weeks or months.
-* Decisions are made based on outdated data.
-* Opportunities and threats may have already vanished by the time the information arrives.
+* Un mensaje del sector Core a los márgenes del Imperio puede tardar semanas o meses.
+* Las decisiones se toman con base en datos antiguos.
+* Las oportunidades y amenazas pueden haberse desvanecido cuando la información llega.
 
-The outdated information model is not a system flaw: **it is the system**. It defines strategies, conditions logistics, and shapes the very social, political, and economic fabric of the galaxy. And in _The Corporate Wars_, this model is not just flavor — it is the backbone of the technical design that sustains the persistent ecosystem.
+El modelo de información desfasada no es un fallo del sistema: **es el sistema**. Define las estrategias, condiciona la logística y da forma al propio tejido social, político y económico de la galaxia. Y en _The Corporate Wars_, este modelo no es un detalle de color: es la columna vertebral del diseño técnico que sostiene el ecosistema persistente.
 
 {% hint style="info" %}
-Below, we explain how we have integrated this asynchrony at the heart of the game, using distributed technologies (like the Solana blockchain) to reflect a universe where absolute synchronization is unattainable.
+A continuación explicamos cómo hemos integrado esta asincronía en el corazón del juego, usando tecnologías distribuidas (como la blockchain Solana) para reflejar un universo donde la sincronización absoluta es inalcanzable.
 {% endhint %}
 
----
+***
 
-## Structural latency
+## Latencia estructural
 
-In The Corporate Wars, interstellar information does not flow in real-time nor globally. The universe is structured as a **directed latency graph**, where each node represents a star system, and each edge (transit route) introduces a concrete delay determined by the physical limitations of interstellar travel.
+En The Corporate Wars, la información interestelar no fluye en tiempo real ni de forma global. El universo se estructura como un **grafo dirigido de latencia**, donde cada nodo representa un sistema estelar, y cada arista (ruta de tránsito) introduce un retraso concreto determinado por las limitaciones físicas del viaje interestelar.
 
-Each route A → B implies an intrinsic latency. Although global transactions are registered on blockchain, each node can only perceive and operate with the blocks corresponding to its visibility window:
+Cada ruta A → B implica una latencia intrínseca. Aunque las transacciones globales se registran en blockchain, cada nodo solo puede percibir y operar con los bloques correspondientes a su ventana de visibilidad:
 
-* The blockchain stores transactions ordered over time (T, T-1, T-2, ..., T-N).
-* Node A only has access to B’s transactions up to block **T-(n)**, where **n** represents the route delay.
-* Subsequent blocks remain invisible until the physical data “arrives” via transit routes.
+* La blockchain guarda las transacciones en ordenados en el tiempo (T, T-1, T-2, ..., T-N).
+* El nodo A tiene acceso a las transacciones de B únicamente hasta el bloque **T-(n)**, donde **n** representa el retraso de la ruta.
+* Bloques posteriores no son visibles hasta que los datos físicos "llegan" a través de las rutas de tránsito.
 
-Thus, A's perception of B is always outdated and depends on:
+Así, la percepción de A sobre B siempre está desfasada y depende de:
 
-* the accumulated delay of available routes,
-* the update rhythm,
-* and the logistical capacity to transport data through the graph.
+* el retraso acumulado por las rutas disponibles,
+* el ritmo de actualización,
+* y la capacidad logística para transportar datos a través del grafo.
 
----
+***
 
-## Technical challenges
+## Desafíos técnicos
 
-Implementing an outdated information model in a distributed universe backed by blockchain (Solana) introduces real technical challenges that go far beyond gameplay mechanics — they are deep engineering hurdles:
+Implementar un modelo de información desfasada en un universo distribuido, apoyado en blockchain (Solana), plantea retos técnicos reales que no son simples problemas jugables, sino desafíos de ingeniería profunda:
 
-* **Efficient storage and crawling of historical blocks:** nodes must access only the blocks relevant to their temporal window (T-(n)), avoiding full-chain traversal. This requires efficient algorithms to filter, index, and serve historical data at massive scale.
+* **Almacenamiento y crawling eficiente de bloques históricos:** los nodos deben acceder solo a los bloques relevantes para su ventana temporal (T-(n)), evitando recorrer toda la cadena completa. Esto requiere algoritmos eficientes para filtrar, indexar y servir datos históricos a escala masiva.
+* **Bidireccionalidad asimétrica del grafo:** las rutas A → B no siempre son simétricas en tiempo ni en capacidad con B → A. Esto genera caminos de actualización y latencia divergentes que deben ser modelados dinámicamente, afectando tanto a la topología como al cálculo de snapshots visibles.
+* **Limitación de acceso contextual:** aunque los datos están públicos en blockchain, solo deben ser desencriptados y expuestos al backend según los permisos, contexto y posición de cada jugador. Esto exige una capa adicional de cifrado granular y gestión de llaves que no depende solo del on-chain.
+* **Reuso eficiente de PDA en sistemas múltiples:** las percepciones dinámicas asíncronas no solo sirven al jugador, sino que alimentan sistemas secundarios como el Interstellar Stock Exchange (ISE) y la gobernanza multicapa. Esto obliga a diseñar pipelines de datos que puedan servir múltiples dominios sin inconsistencias ni sobrecarga.
+* **Escalabilidad de programas en Solana:** los smart contracts encargados de manejar agregación, filtrado y entrega de datos deben ser capaces de escalar en un entorno con decenas de miles de jugadores y nodos, respetando costes computacionales (gas), límites de throughput y latencias mínimas.
+* **Sincronización blanda de nodos locales:** como no existe estado global instantáneo, los nodos locales necesitan mecanismos de reconciliación y corrección eventual para evitar acumulación de errores o derivaciones prolongadas del estado base.
 
-* **Asymmetric bidirectionality in the graph:** routes A → B are not always symmetric in time or capacity with B → A. This generates divergent update paths and latencies that must be modeled dynamically, affecting both topology and snapshot calculations.
+Estos desafíos no son triviales ni teóricos: son limitaciones presentes que definen cómo puede crecer y operar un sistema como The Corporate Wars a escala real.
 
-* **Contextual access limitation:** although data is publicly available on blockchain, it must only be decrypted and exposed by the backend according to each player’s permissions, context, and node position. This demands an additional layer of granular encryption and key management beyond the on-chain layer.
+***
 
-* **Efficient reuse of PDA across systems:** dynamic asynchronous perceptions (PDA) not only serve players but also feed secondary systems like the Interstellar Stock Exchange (ISE) and multilayer governance. This requires designing data pipelines that serve multiple domains without inconsistencies or overload.
+## Ventajas del modelo
 
-* **Scalability of Solana programs:** the smart contracts handling data aggregation, filtering, and delivery must scale in an environment with tens of thousands of players and nodes, respecting computational costs (gas), throughput limits, and minimum latencies.
+Este enfoque no es solo una solución técnica: es un pilar que aporta ventajas diferenciadoras a nivel de diseño y experiencia.
 
-* **Soft synchronization of local nodes:** since no global instant state exists, local nodes need reconciliation and eventual correction mechanisms to avoid cumulative errors or prolonged state drift.
+* **Refuerza la asimetría estratégica:** quien tiene mejores rutas o control logístico accede antes a datos clave.
+* **Introduce incertidumbre:** no todos los eventos recientes son visibles en todos los nodos, creando decisiones basadas en probabilidades, no certezas.
+* **Habilita capas de juego emergente:** desde manipulación informativa hasta corredores de datos y brokers de actualización.
+* **Conecta sistemas:** las PDA de rutas y mundos no son datos aislados, sino que alimentan directamente los instrumentos del ISE y las dinámicas de gobernanza multicapa.
+* **Seguridad de fair game:** aunque los datos están en blockchain y son accesibles públicamente, solo el backend autorizado puede desencriptar y exponer la información que cada jugador tiene derecho a ver, evitando leaks, minería de datos externos o abusos.
 
-These challenges are neither trivial nor theoretical — they are present-day limitations that define how a system like The Corporate Wars can grow and operate at real-world scale.
-
----
-
-## Model advantages
-
-This approach is not just a technical solution — it is a pillar that brings distinctive advantages in terms of design and experience.
-
-* **Strengthens authentic strategic asymmetry:** not all players access the same data at the same time; those who manage their routes and logistical networks better gain real advantages.
-
-* **Introduces tactical uncertainty:** decisions are made based on partial, outdated information, creating an ecosystem where risk and interpretation are central.
-
-* **Enables deep emergent gameplay:** the model allows phenomena such as information manipulation, data brokers, update corridors, and parallel intelligence markets.
-
-* **Connects systems:** route and world PDAs are not isolated data points — they directly feed financial instruments (ISE) and multilayer governance dynamics, multiplying their relevance.
-
-* **Fair game security:** although data is on-chain and publicly accessible, only the authorized backend can decrypt and expose the information each player is entitled to, preventing leaks, unauthorized data mining, or abuse.
-
-In summary, the outdated information model is not just a gameplay mechanic — it is a deeply interconnected design that reinforces narrative coherence, technical integrity, and the richness of the persistent ecosystem.
-
+En resumen, el modelo de información desfasada no es solo una mecánica de juego: es un diseño profundamente interconectado que refuerza la coherencia narrativa, la integridad técnica y la riqueza del ecosistema persistente.

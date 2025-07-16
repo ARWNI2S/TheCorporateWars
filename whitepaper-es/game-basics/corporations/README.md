@@ -1,17 +1,17 @@
 ---
 description: >-
-  Shaping the future through strategy, expansion, and management in an evolving
-  interstellar economy.
+  Forjando el futuro a través de la estrategia, la expansión y la gestión en una
+  economía interestelar en constante evolución.
 cover: ../../.gitbook/assets/banner-board.jpg
 coverY: 0
 ---
 
-# Corporations
+# Corporaciones
 
-In a setting where instant communication is not viable, corporations represent the core of economic activity, interstellar expansion, and resource management. They are both engines of development and weapons of influence, used to shape the balance of power across the galaxy.
+En un entorno donde las comunicaciones instantáneas no son viables, las corporaciones representan el núcleo de la actividad económica, la expansión interestelar y la gestión de recursos. Son tanto motores de desarrollo como armas de influencia, utilizadas para moldear el equilibrio de poder en la galaxia.
 
-Players can own and manage their own corporations, expanding their influence through various strategies — from resource exploitation, manufacturing, and goods trading to providing security or financial services. Every business decision has consequences for the interstellar economy, political relations, and territorial control.
+Los jugadores pueden poseer y gestionar sus propias corporaciones, expandiendo su influencia a través de diversas estrategias, desde la explotación de recursos, manufactura y comercio de bienes, hasta servicios seguridad o financieros. Cada decisión empresarial tiene repercusiones en la economía interestelar, las relaciones políticas y el control territorial.
 
-Players must constantly assess their economic strategies and political relationships. Whether operating a planet or commanding an independent fleet, the success of their corporation depends as much on internal management as on their ability to thrive in the markets, navigating the challenges imposed by governments and regulatory entities.
+Los jugadores deberán evaluar constantemente sus estrategias económicas y sus relaciones políticas, sea operando un mundo, o mediante una flota independiente, el éxito de su corporación depende tanto de su gestión interna como de su capacidad para tener éxito en los mercados, sorteando los desafíos impuestos por gobiernos y entidades reguladoras.
 
-Corporations have the power to define the future of the galaxy — through cooperation, ruthless competition, or strategic market manipulation. The key to success lies in a combination of business vision, aggressive tactics, and adaptability in a constantly changing universe.
+Las corporaciones tienen el poder de definir el futuro de la galaxia, ya sea mediante la cooperación, la competencia despiadada o la manipulación estratégica del mercado. La clave del éxito reside en una combinación de visión empresarial, tácticas agresivas y adaptabilidad ante un universo en constante cambio.

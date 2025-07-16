@@ -15,7 +15,7 @@ Sin embargo, cada planeta mantiene su propio gobierno local, con leyes, costumbr
 Por debajo, organizaciones, trusts, holdings y corporaciones cruzan fronteras, tejiendo redes de propiedad, influencia y poder que rebasan las jurisdicciones locales.
 
 {% hint style="info" %}
-Este modelo no es lineal: es una composicion de Politicas agregadas jerarquicamente, con ambitos, contextos y autonomía variable.
+Este modelo no es lineal: es una composicion de Políticas agregadas jerarquicamente, con ambitos, contextos y autonomía variable.
 {% endhint %}
 
 ### Permisos, Licencias y Propiedades
@@ -46,7 +46,7 @@ Las agrupaciones de **Políticas** funcionan como redes de coordinación que pue
 
 Las agrupaciones comerciales son las más accesibles para los jugadores, el equivalente a guilds, permitiendo pertenencia múltiple, pública o anónima.
 
-Las agrupaciones gubernamentales e institucionales, en cambio, son **Políticas** puramente administrativas, gestionadas en su núcleo por la IA, pero capaces de admitir otras Politicas como afiliados.
+Las agrupaciones gubernamentales e institucionales, en cambio, son **Políticas** puramente administrativas, gestionadas en su núcleo por la IA, pero capaces de admitir otras Políticas como afiliados.
 
 {% hint style="warning" %}
 Estas agrupaciones crean estructuras de autoridad emergente: reparten derechos, coordinan acciones conjuntas, establecen reglas internas y negocian colectivamente en el escenario mayor del juego.

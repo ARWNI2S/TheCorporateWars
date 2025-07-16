@@ -1,3 +1,3 @@
-# Psicohistory
+# Psicohistoria
 
 Bla

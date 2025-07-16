@@ -1,19 +1,19 @@
 ---
 description: >-
-  Processing, fabrication, assembly, and mass production of industrial and
-  consumer goods
+  Procesamiento, fabricación, ensamblaje y producción en masa de bienes
+  industriales y de consumo.
 ---
 
-# Manufacturing
+# Manufactura
 
-Manufacturing is the process by which raw materials are transformed into finished products — from consumer goods to industrial equipment and spacecraft. It is a core activity for the economic growth of any corporation, enabling production scaling, revenue generation, and the strengthening of internal infrastructure.
+La Manufactura o fabricación, es el proceso mediante el cual las materias primas se convierten en productos terminados, desde bienes de consumo hasta equipamiento industrial y naves espaciales. Es una actividad central para el desarrollo económico de cualquier corporación, ya que permite escalar la producción, generar ingresos y fortalecer la infraestructura interna.
 
-Corporations build and optimize factories, assembly lines, and distribution centers. They must efficiently manage the production chain, ensuring a constant flow of resources from grant exploitation to the delivery of the final product.
+Las corporaciones construyen y optimizan fábricas, líneas de ensamblaje y centros de distribución. Deben gestionar eficientemente la cadena de producción, asegurando un flujo constante de recursos desde la explotación de concesiones hasta la entrega del producto final.
 
-Factors such as automation, specialization, and logistics play a key role in the competitiveness of a manufacturing corporation. Those capable of establishing efficient and well-integrated production can dominate entire markets, influence the interstellar economy, and solidify their position as indispensable players in **The Corporate Wars**.
+Factores como la automatización, la especialización y la logística juegan un papel clave en la competitividad de una corporación manufacturera. Aquellas que logren establecer una producción eficiente y bien integrada pueden dominar mercados enteros, influir en la economía interestelar y consolidar su posición como actores imprescindibles en The Corporate Wars.
 
 ***
 
 {% hint style="success" %}
-Corporations starting their operations in the manufacturing sector must balance supply with product demand to succeed. They are suitable for players who prefer generating technology as a source of income rather than relying on it in the long term.
+Las corporaciones que inician su actividad en el sector de la manufactura deben equilibrar los suministros con la demanda de productos para tener exito. Son adecuadas para jugadores que prefieren generar tecnologia como fuente de ingresos a depender de ella a largo plazo.
 {% endhint %}

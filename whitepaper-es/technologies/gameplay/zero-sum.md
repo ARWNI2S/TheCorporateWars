@@ -1,3 +1,3 @@
-# Zero Sum Economy Game
+# Juego Economico de Suma Cero
 
 Bla

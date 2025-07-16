@@ -1,3 +1,3 @@
-# Game Treasury
+# Tesorería
 
 Bla

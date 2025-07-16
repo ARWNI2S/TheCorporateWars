@@ -1,3 +1,3 @@
-# Public Image
+# Imagen Pública
 
 Bla

@@ -1,3 +1,3 @@
-# Community-Driven Deployment
+# Despliegue Communitario
 
 Bla

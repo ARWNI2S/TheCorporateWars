@@ -1,3 +1,3 @@
-# Solomani Sphere
+# Esfera Solomani
 
 Bla

@@ -1,3 +1,3 @@
-# Guilds
+# Clanes y Alianzas
 
 Bla

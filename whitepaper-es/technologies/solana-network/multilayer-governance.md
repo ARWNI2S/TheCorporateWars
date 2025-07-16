@@ -1,3 +1,3 @@
-# Governance Layers
+# Capas de Governanza
 
 Bla
