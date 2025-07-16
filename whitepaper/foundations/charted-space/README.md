@@ -8,7 +8,7 @@ layout:
     size: full
   title:
     visible: false
-  description: >- Mapped regions of space, defining the boundaries of exploration, commerce, and civilization.
+  description: Mapped regions of space, defining the boundaries of exploration, commerce, and civilization.
     visible: true
   tableOfContents:
     visible: true
