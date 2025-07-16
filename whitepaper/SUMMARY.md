@@ -85,7 +85,7 @@
     * [The Vargr Extents](game-basics/polities/alliegances/vargr-extents/README.md)
       * [Corsair Packs](game-basics/polities/alliegances/vargr-extents/vargr-corsair.md)
     * [Tlaukhu](game-basics/polities/alliegances/aslan-hierate/README.md)
-      * [Ahriy�i](game-basics/polities/alliegances/aslan-hierate/matriarchs.md)
+      * [Ahriy'i](game-basics/polities/alliegances/aslan-hierate/matriarchs.md)
       * [Iloahktahe](game-basics/polities/alliegances/aslan-hierate/outcast-clans.md)
     * [Two Thousand Worlds](game-basics/polities/alliegances/two-thousand-worlds/README.md)
       * [Bioengineering](game-basics/polities/alliegances/two-thousand-worlds/bioengineering.md)
@@ -105,7 +105,7 @@
 
 ## Tecnologies Involved <a href="#technologies" id="technologies"></a>
 
-* [Homo Ludens](technologies/gameplay/README.md)
+* [Game Theory](technologies/gameplay/README.md)
   * [Zero Sum Economy Game](technologies/gameplay/zero-sum.md)
   * [Collaborative Individualism](technologies/gameplay/compete-collaborate.md)
   * [Interactive Causality](technologies/gameplay/deep-causality.md)
@@ -138,7 +138,7 @@
 * [Roadmap](roadmap/README.md)
 * [Historical Deployment Stages](roadmap/deployment/README.md)
   * [Milieu 0](roadmap/deployment/first-survey.md)
-  * [Traveller�](roadmap/deployment/second-survey.md)
+  * [Traveller™](roadmap/deployment/second-survey.md)
   * [The Corporate Wars](roadmap/deployment/third-survey.md)
 * [Milestones](roadmap/milestones.md)
 * [Future Development](roadmap/future-development.md)
