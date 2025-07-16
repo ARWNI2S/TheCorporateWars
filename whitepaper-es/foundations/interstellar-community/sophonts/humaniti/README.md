@@ -4,12 +4,12 @@ coverY: 0
 layout:
   width: default
   cover:
-    visible: true
+    visible: false
     size: full
   title:
-    visible: false
+    visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -18,6 +18,6 @@ layout:
     visible: true
 ---
 
-# Hum·nidos
+# Hum√°nidos
 
 Bla
