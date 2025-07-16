@@ -1,10 +1,10 @@
 ---
-cover: .gitbook/assets/TCW.jpg
+cover: ../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
   width: default
   cover:
-    visible: false
+    visible: true
     size: full
   title:
     visible: true
@@ -36,7 +36,7 @@ Vagh'rra! Rroezhakha **100'k'rrr** nurghrra'rrr.
 
 ***
 
-> #### It was all a dream
+> **It was all a dream**
 >
 > There was no rebellion, no event triggered the fall of the Imperium. There never was any "virus", and the only "new era" I know... is today!
 
@@ -44,13 +44,12 @@ Vagh'rra! Rroezhakha **100'k'rrr** nurghrra'rrr.
 
 ## Milieu 1.2
 
-**The Corporate Wars** takes us 80 years into the future, picking up the classic Traveller™ timeline, leaning on the "extended Golden Age" from GURPS.
+**The Corporate Wars** takes us 80 years into the future, picking up the classic Travellerï¿½ timeline, leaning on the "extended Golden Age" from GURPS.
 
 In this future: the Third Imperium remains stable, opening relations with the Zhodani Consulate and at peace with the Solomani; paving the way for economic stability predictions unprecedented in the history of the Galaxy.
 
-Ancestral fortunes of the Vilani Nobility compete in the stock market with the Federation, while Aslan matriarchs hunt down every opportunity within the clan’s reach.
+Ancestral fortunes of the Vilani Nobility compete in the stock market with the Federation, while Aslan matriarchs hunt down every opportunity within the clanï¿½s reach.
 
 The Vargr Extents are even more extensive, literally merging with the Imperium and the Two Thousand Worlds, in a delicate balance of power, influence, and leadership.
 
 It is the year 1201: a "new era" :P of opportunity, expansion, and understanding of the galaxy.
-
