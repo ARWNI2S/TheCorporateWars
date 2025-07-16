@@ -1,41 +1,42 @@
 # Unreal Engine
 
-Unreal Engine (UE) es un motor multiplataforma de última generación para desarrollo AAA, simulación y proyectos multicapa como **The Corporate Wars**.
+Unreal Engine (UE) is a next-generation, cross-platform engine for AAA development, simulation, and multi-layered projects like **The Corporate Wars**.
 
 {% hint style="success" %}
-UE ofrece potencia gráfica, modularidad, backend flexible y herramientas de edición personalizadas que permiten a **The Corporate Wars** construir, escalar y distribuir una experiencia de estrategia galáctica persistente, con integración a blockchain y presencia comercial en Epic Games Store.
+UE provides graphical power, modularity, flexible backend, and customizable editor tools that enable **The Corporate Wars** to build, scale, and deliver a persistent galactic strategy experience, with blockchain integration and commercial presence on the Epic Games Store.
 {% endhint %}
 
 ---
 
-## Claves relevantes
+## Key Points
 
-* **Multiplataforma**: PC, Linux, servidores dedicados.
-* **Modularidad**: activa solo lo necesario para optimizar recursos.
-* **Blueprints + C++**: programación visual rápida y control total al nivel de código.
+* **Multiplatform**: PC, Linux, dedicated servers.
+* **Modularity**: only activates needed systems, optimizing resources.
+* **Blueprints + C++**: fast visual programming + full code control.
 
-### Backend y arquitectura
+### Backend & Architecture
 
-UE permite arquitectura cliente-servidor con servidores dedicados Unreal o propios (custom backend), clave para un RTS persistente como TCW donde no es necesario matchmaking clásico, pero sí control del estado mundial y sincronización.
+UE allows client-server architecture with dedicated Unreal servers or custom backend, key for a persistent RTS like TCW where classic matchmaking is unnecessary but world state control and synchronization are essential.
 
-### Herramientas editoriales personalizadas
+### Custom Editor Tools
 
-Unreal permite desarrollar herramientas de edición personalizadas (editor tools, runtime editors, plugins) para construir, modificar y mantener sistemas dinámicos. En TCW, estas herramientas son fundamentales para generar y gestionar la galaxia persistente, poblarla de entidades, eventos y ecosistemas que evolucionan en tiempo real.
+Unreal enables development of custom editor tools (editor tools, runtime editors, plugins) to build, modify, and maintain dynamic systems. In TCW, these tools are fundamental to generate and manage the persistent galaxy, populating it with entities, events, and ecosystems evolving in real time.
 
-### Integración Web3 (Solana)
+### Web3 Integration (Solana)
 
-Aunque experimental, existen SDKs que permiten integrar wallets, NFTs, tokens SPL y operaciones on-chain, alineándose con la capa blockchain de TCW para registro, gobernanza distribuida o gestión de activos.
+Though experimental, there are SDKs enabling wallet integration, NFTs, SPL tokens, and on-chain operations, aligning with TCW�s blockchain layer for registry, distributed governance, or asset management.
 
 ---
 
 ## Epic Games Store
 
-**The Corporate Wars** podrá distribuirse en Epic Games Store, aprovechando:
+**The Corporate Wars** will be distributed on Epic Games Store, leveraging:
 
-* Venta directa del juego o paquetes especiales.
-* Acceso opcional a microtransacciones.
-* Exposición en un marketplace global, aunque no sea el canal principal.
+* Direct game or special package sales.
+* Optional access to microtransactions.
+* Exposure on a global marketplace, though not the primary channel.
 
-### Marketplace y comunidad
+### Marketplace & Community
 
-El Unreal Marketplace ofrece assets, plugins y herramientas útiles para acelerar desarrollo. La comunidad Epic brinda soporte, documentación y ejemplos para optimizar el trabajo del equipo.
+The Unreal Marketplace offers assets, plugins, and tools to accelerate development. The Epic community provides support, documentation, and examples to optimize the team�s work.
+
