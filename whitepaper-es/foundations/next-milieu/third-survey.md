@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/tcw-wip-banner.jpg
+coverY: 0
+---
+
 # Tercer Censo
 
 La historia del Tercer Imperio esta marcada por etapas de expansión y periodos de estabilidad.

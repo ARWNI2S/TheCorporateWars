@@ -1,10 +1,10 @@
 ---
-cover: ../../.gitbook/assets/TCW.jpg
+cover: ../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
   width: default
   cover:
-    visible: false
+    visible: true
     size: full
   title:
     visible: true
@@ -36,7 +36,7 @@ Vagh'rra! Rroezhakha **100'k'rrr** nurghrra'rrr.
 
 ***
 
-> #### Todo fue un sueño
+> **Todo fue un sueño**
 >
 > No hubo rebelión, ningún acontecimiento provocó la caída del imperio. Nunca existió ningún "virus", y la única "nueva era" que conozco... es hoy!
 
