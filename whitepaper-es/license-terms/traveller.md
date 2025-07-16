@@ -44,7 +44,7 @@ Por ello, su difusión está **amparada bajo la política de “Fair Use 2025”
 
 ### Compromiso futuro
 
-**Alternate Reality Worlds** manifiesta su intención de convertir _The Corporate Wars_ en un **producto oficial con licencia Traveller™,** en coordinación con los titulares actuales.
+**Alternate Reality Worlds** manifiesta su intención de convertir _**The Corporate Wars**_ en un **producto oficial con licencia Traveller™,** en coordinación con los titulares actuales.
 
 El proyecto se ha diseñado expresamente para ser compatible con esa futura relación, y se actualizará conforme a las indicaciones de los titulares si así se solicita.
 

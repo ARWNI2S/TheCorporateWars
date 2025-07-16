@@ -41,6 +41,6 @@ The withdrawal of MCr is not a feature available to all players or corporations.
 
 ## Summary
 
-The rethinked P2E model of The Corporate Wars is not a token distribution system: it is a structural framework where value arises from interaction, competition, and efficiency. Only those corporations that manage to generate net, free, and sustainable surpluses can, under technical validation, withdraw MCr outside the game.
+The rethinked P2E model of **The Corporate Wars** is not a token distribution system: it is a structural framework where value arises from interaction, competition, and efficiency. Only those corporations that manage to generate net, free, and sustainable surpluses can, under technical validation, withdraw MCr outside the game.
 
 The real challenge is not extracting value: it is **building an organization capable of consistently generating it** without compromising its survival in a universe that does not forgive mistakes.

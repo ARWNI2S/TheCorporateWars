@@ -1,6 +1,6 @@
 # Los Cimientos del Universo
 
-El universo de The Corporate Wars, inspirado en Traveller™, no es solo trasfondo: es la infraestructura histórica y conceptual del juego.
+El universo de **The Corporate Wars**, inspirado en Traveller™, no es solo trasfondo: es la infraestructura histórica y conceptual del juego.
 
 Define qué mundos están conectados, qué datos circulan, qué permisos existen, qué civilizaciones alienígenas son conocidas y qué regiones siguen siendo incógnitas.
 
@@ -32,7 +32,7 @@ La historia conocida ha evitado las fracturas que devastaron otras lineas tempor
 
 ## Un universo persistente y asimétrico
 
-El universo de The Corporate Wars no es simplemente un tablero de juego: es un ecosistema dinámico, cambiante y, sobre todo, desigual en términos de información, poder y acceso. Inspirado directamente en el trasfondo de Traveller™, refleja un entorno donde:
+El universo de **The Corporate Wars** no es simplemente un tablero de juego: es un ecosistema dinámico, cambiante y, sobre todo, desigual en términos de información, poder y acceso. Inspirado directamente en el trasfondo de Traveller™, refleja un entorno donde:
 
 * La información no siempre está actualizada;
 * Las capas de autoridad se solapan entre Imperio, sistemas locales, facciones alienígenas y corporaciones;

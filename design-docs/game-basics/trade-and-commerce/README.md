@@ -4,7 +4,7 @@ description: The exchange of goods, services, and wealth across interstellar mar
 
 # Trade and Commerce
 
-Trade is the driving force of interstellar civilization in **The Corporate Wars**. The ability to exchange goods, services, and wealth between systems defines the growth of corporations and the stability of interplanetary societies. From highly regulated markets to free trade enclaves, each region of the galaxy presents unique opportunities and challenges for those seeking to profit from the constant flow of resources.
+Trade is the driving force of the Interstellar Community in **The Corporate Wars**. The ability to exchange goods, services, and wealth between systems defines the growth of corporations and the stability of interplanetary societies. From highly regulated markets to free trade enclaves, each region of the galaxy presents unique opportunities and challenges for those seeking to profit from the constant flow of resources.
 
 Interstellar markets operate within a complex framework where supply and demand are influenced by transportation availability, political stability, and regulations imposed by governments and trade institutions. Some zones are dominated by corporate monopolies, while others allow open competition, fostering a dynamic ecosystem where players can influence prices and the availability of key goods.
 

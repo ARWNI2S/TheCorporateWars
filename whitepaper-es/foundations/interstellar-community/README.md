@@ -1,7 +1,5 @@
 ---
-description: >-
-  Las diversas civilizaciones, avances tecnol�gicos y sistemas de gobierno que
-  dan forma a la sociedad interestelar.
+description: Las diversas civilizaciones, avances tecnol�gicos y sistemas de gobierno que dan forma a la Comunidad Interestelar.
 ---
 
 # La Comunidad Interestelar

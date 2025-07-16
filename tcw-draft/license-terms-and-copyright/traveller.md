@@ -44,7 +44,7 @@ As such, its distribution is **covered under the “Fair Use 2025” policy** pu
 
 ### Future Licensing Commitment
 
-**Alternate Reality Worlds** expresses its intent to make _The Corporate Wars_ an **officially licensed Traveller™ product**, in coordination with the current rights holders.
+**Alternate Reality Worlds** expresses its intent to make _**The Corporate Wars**_ an **officially licensed Traveller™ product**, in coordination with the current rights holders.
 
 The project has been expressly designed to be compatible with such a future relationship and will be updated in accordance with the rights holders’ guidance, if so requested.
 

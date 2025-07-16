@@ -6,7 +6,7 @@ description: >-
 
 # Space Travel
 
-Space travel is the backbone of interstellar civilization in **The Corporate Wars**. The ability to move people, goods, and data across the vast expanses of space is what keeps the economy running, enables territorial expansion, and defines relationships between worlds and civilizations.
+Space travel is the backbone of the Interstellar Community in **The Corporate Wars**. The ability to move people, goods, and data across the vast expanses of space is what keeps the economy running, enables territorial expansion, and defines relationships between worlds and civilizations.
 
 Since faster-than-light communication does not exist, starships are the only means of transmitting information and coordinating large-scale operations. Every transit between systems is a strategic event, where travel time, navigation conditions, and route security play a crucial role in the stability of societies and commerce.
 

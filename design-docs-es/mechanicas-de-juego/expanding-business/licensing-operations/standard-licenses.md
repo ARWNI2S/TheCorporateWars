@@ -6,7 +6,7 @@ description: >-
 
 # Permisos Estándar
 
-Los permisos estándar en _The Corporate Wars_ son autorizaciones básicas que permiten a una corporación operar dentro de su marco inicial y expandirse fácilmente a actividades comunes dentro del mercado. Desde su fundación, cada empresa recibe una licencia que le otorga acceso a ciertos sectores, y mientras sus operaciones se mantengan dentro de estos límites, la obtención de nuevos permisos es un proceso simple y automático.
+Los permisos estándar en _**The Corporate Wars**_ son autorizaciones básicas que permiten a una corporación operar dentro de su marco inicial y expandirse fácilmente a actividades comunes dentro del mercado. Desde su fundación, cada empresa recibe una licencia que le otorga acceso a ciertos sectores, y mientras sus operaciones se mantengan dentro de estos límites, la obtención de nuevos permisos es un proceso simple y automático.
 
 Estos permisos cubren actividades consideradas esenciales para el comercio y la producción, incluyendo aquellas que, aunque no formen parte del núcleo inicial de una corporación, son lo suficientemente comunes como para no requerir aprobaciones adicionales o trámites excesivos. Siempre que se cumplan los requisitos establecidos, las autorizaciones se conceden sin obstáculos regulatorios ni necesidad de negociaciones prolongadas.
 

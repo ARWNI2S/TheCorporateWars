@@ -1,6 +1,6 @@
 # Arrendamiento, Préstamos y Propiedad
 
-Las corporaciones en _The Corporate Wars_ no siempre necesitan adquirir activos de forma permanente; existen múltiples mecanismos que permiten acceder a recursos estratégicos sin asumir la carga total de la propiedad. El arrendamiento, los préstamos y la propiedad compartida son métodos clave para expandir operaciones con menor riesgo financiero y mayor flexibilidad.
+Las corporaciones en _**The Corporate Wars**_ no siempre necesitan adquirir activos de forma permanente; existen múltiples mecanismos que permiten acceder a recursos estratégicos sin asumir la carga total de la propiedad. El arrendamiento, los préstamos y la propiedad compartida son métodos clave para expandir operaciones con menor riesgo financiero y mayor flexibilidad.
 
 El arrendamiento permite a una empresa utilizar infraestructuras, terrenos, flotas o equipos sin necesidad de comprarlos directamente. Muchas corporaciones prefieren esta opción para reducir costos iniciales o evitar compromisos a largo plazo en sectores donde la demanda es volátil. Contratos de leasing pueden aplicarse tanto a instalaciones industriales como a naves espaciales, asegurando acceso operativo sin la necesidad de inmovilizar capital en adquisiciones permanentes.
 

@@ -4,7 +4,7 @@ description: Cuerpos celestes que albergan diversos entornos y oportunidades.
 
 # Planetas y Lunas
 
-Los mundos son la base de la civilización interestelar en The Corporate Wars. Desde mundos fértiles y habitables hasta desiertos tóxicos y lunas heladas, cada cuerpo celeste presenta su propio conjunto de oportunidades y desafíos para la expansión, la explotación de recursos y el establecimiento de colonias.
+Los mundos son la base de la Comunidad Interestelar en **The Corporate Wars**. Desde mundos fértiles y habitables hasta desiertos tóxicos y lunas heladas, cada cuerpo celeste presenta su propio conjunto de oportunidades y desafíos para la expansión, la explotación de recursos y el establecimiento de colonias.
 
 Algunos mundos ofrecen condiciones naturales favorables para la vida, permitiendo el desarrollo de sociedades sin infraestructuras avanzadas, mientras que otros requieren la implementación de hábitats presurizados, trasformación parcial o tecnología especializada para sostener asentamientos. A pesar de sus diferencias, todos los mundos tienen un valor estratégico determinado por su ubicación, accesibilidad y riqueza de recursos.
 

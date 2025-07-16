@@ -17,5 +17,5 @@ description: Technologies Used
 This setup provides enterprise-grade reliability, scalability, and maintainability.\
 Microsoft®, Azure®, Visual Studio® and related logos and names are registered trademarks of **Microsoft Corporation**.
 
-**Alternate Reality Worlds is a registered member of the Microsoft Partner Network.** While _The Corporate Wars_ is developed independently, its infrastructure is built using officially licensed Microsoft technologies under partner access rights.\
+**Alternate Reality Worlds is a registered member of the Microsoft Partner Network.** While _**The Corporate Wars**_ is developed independently, its infrastructure is built using officially licensed Microsoft technologies under partner access rights.\
 This document and project are not endorsed by Microsoft Corporation.

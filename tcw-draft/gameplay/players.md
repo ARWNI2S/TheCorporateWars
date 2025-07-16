@@ -8,7 +8,7 @@ But all will face the same challenge: to survive, grow, and leave their mark in 
 
 ### Corporations as characters
 
-In The Corporate Wars, players do not embody individuals but entire corporations: living entities combining economic power, political influence, and strategic ambition.
+In **The Corporate Wars**, players do not embody individuals but entire corporations: living entities combining economic power, political influence, and strategic ambition.
 
 {% hint style="info" %}
 From the moment of creation, each corporation defines its identity through initial operating licenses, choosing a role on the vast galactic stage.
@@ -88,7 +88,7 @@ Controlling access to galactic trade, reducing costs, and establishing exclusive
 
 ## Alliances
 
-In The Corporate Wars, no corporation is forced to operate alone. Alliances —known in-game as guilds— allow players to coordinate efforts, share resources, establish non-aggression pacts, or act as economic and political blocs.
+In **The Corporate Wars**, no corporation is forced to operate alone. Alliances —known in-game as guilds— allow players to coordinate efforts, share resources, establish non-aggression pacts, or act as economic and political blocs.
 
 These groups can have varied goals: from monopolizing a market sector, imposing trade rules in a region, coordinating frontier system defense, to influencing interplanetary politics through collective governance mechanisms.
 

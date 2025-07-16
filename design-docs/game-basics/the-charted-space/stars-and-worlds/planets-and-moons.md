@@ -4,7 +4,7 @@ description: Celestial bodies hosting diverse environments and opportunities.
 
 # Planets and Moons
 
-Worlds are the foundation of interstellar civilization in **The Corporate Wars**. From fertile, habitable planets to toxic deserts and frozen moons, each celestial body presents its own set of opportunities and challenges for expansion, resource exploitation, and colony establishment.
+Worlds are the foundation of the Interstellar Community in **The Corporate Wars**. From fertile, habitable planets to toxic deserts and frozen moons, each celestial body presents its own set of opportunities and challenges for expansion, resource exploitation, and colony establishment.
 
 Some worlds offer naturally favorable conditions for life, allowing societies to develop without the need for advanced infrastructure, while others require the implementation of pressurized habitats, partial terraforming, or specialized technology to sustain settlements. Despite their differences, all worlds hold strategic value determined by their location, accessibility, and resource wealth.
 

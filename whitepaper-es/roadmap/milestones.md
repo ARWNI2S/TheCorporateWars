@@ -16,7 +16,7 @@ _**31-3-2025**_ - completada la ardua tarea de reflejar los conceptos de forma i
 {% step %}
 #### Hito Legal
 
-_**4-6-2025**_ - Recibimos confirmación por escrito de Mongoose Publishing autorizando que The Corporate Wars haga referencia a Traveller™ como inspiración, dentro del marco de la Fair Use Policy 2025, sin infringir derechos de autor ni marcas registradas.  
+_**4-6-2025**_ - Recibimos confirmación por escrito de Mongoose Publishing autorizando que **The Corporate Wars** haga referencia a Traveller™ como inspiración, dentro del marco de la Fair Use Policy 2025, sin infringir derechos de autor ni marcas registradas.  
 Todas las licencias de terceros (Epic, Unreal Engine, EOS, Solana, Microsoft) han sido recopiladas, revisadas y publicadas cuando la legalidad lo permite. La arquitectura legal del proyecto está consolidada y lista para auditorías, publicación y cumplimiento normativo en tiendas.
 {% endstep %}
 
@@ -41,6 +41,6 @@ Inicio del desarrollo comercial del producto, lanzamiento de ICO y contratos de 
 {% step %}
 #### Betatest
 
-Lanzamiento en Epic Games, gameplay completos, sin DLC, sin Pay to Win, sin marketplaces exclusivos, solo The Corporate Wars, instalar, vincular wallet, y a recapitalizar la empresa desde el dia 0 porque no has entendido de que va esto.
+Lanzamiento en Epic Games, gameplay completos, sin DLC, sin Pay to Win, sin marketplaces exclusivos, solo **The Corporate Wars**, instalar, vincular wallet, y a recapitalizar la empresa desde el dia 0 porque no has entendido de que va esto.
 {% endstep %}
 {% endstepper %}

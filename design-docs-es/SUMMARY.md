@@ -1,6 +1,6 @@
 # Table of contents
 
-* [The Corporate Wars](README.md)
+* [**The Corporate Wars**](README.md)
 
 ## Fundamentos
 

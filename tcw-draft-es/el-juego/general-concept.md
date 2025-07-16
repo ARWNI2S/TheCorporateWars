@@ -27,7 +27,7 @@ layout:
 {% hint style="info" %}
 El universo se rige por una verdad fundamental:
 
-Los reactores de salto permiten viajar a otras estrellas en un tiempo relativamente breve, pero ningún aparato _conocido_ puede transmitir un mensaje más rápido que la velocidad de la luz.
+Los impulsores de salto permiten viajar a otras estrellas en un tiempo relativamente breve, pero ningún aparato _conocido_ puede transmitir un mensaje más rápido que la velocidad de la luz.
 {% endhint %}
 
 ### MMO

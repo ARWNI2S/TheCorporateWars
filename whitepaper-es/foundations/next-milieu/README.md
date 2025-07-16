@@ -44,7 +44,7 @@ Vagh'rra! Rroezhakha **100'k'rrr** nurghrra'rrr.
 
 ## Milieu 1.2
 
-The Corporate Wars nos traslada 80 años en el futuro, retomando la línea temporal clásica de Traveller™, apoyándose en la "extended Golden Age" de GURPS.
+**The Corporate Wars** nos traslada 80 años en el futuro, retomando la línea temporal clásica de Traveller™, apoyándose en la "extended Golden Age" de GURPS.
 
 En este futuro: el Tercer Imperio continua estable, abriéndose a relaciones con el Consulado Zhodani y en paz con Solomani; propiciando unas predicciones de estabilidad económica sin precedentes en la historia de la Galaxia.
 

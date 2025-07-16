@@ -1,6 +1,6 @@
 # Table of contents
 
-* [The Corporate Wars](README.md)
+* [**The Corporate Wars**](README.md)
 
 ## Gameplay
 
@@ -30,7 +30,7 @@
 
 ## License Terms & Copyright
 
-* [The Corporate Wars](license-terms-and-copyright/tcw.md)
+* [**The Corporate Wars**](license-terms-and-copyright/tcw.md)
 * [Traveller™](license-terms-and-copyright/traveller.md)
 * [Unreal Engine](license-terms-and-copyright/unreal-engine.md)
 * [Microsoft](license-terms-and-copyright/microsoft.md)

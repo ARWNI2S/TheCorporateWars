@@ -9,4 +9,4 @@ description: Copyright © Epic Games, Inc. All rights reserved
 This project is being prepared for submission to the **Epic Games Indie Game Program**, and all use of Unreal Engine complies with the Unreal Engine End User License Agreement (EULA) and Epic’s licensing terms.
 
 Unreal Engine © Epic Games, Inc. All rights reserved.\
-The Corporate Wars is an independent production. It is not affiliated with, endorsed by, or produced in collaboration with Epic Games. Revenue share obligations and commercial distribution terms will be fulfilled as defined by the Unreal Engine EULA and Indie Program guidelines.
+**The Corporate Wars** is an independent production. It is not affiliated with, endorsed by, or produced in collaboration with Epic Games. Revenue share obligations and commercial distribution terms will be fulfilled as defined by the Unreal Engine EULA and Indie Program guidelines.

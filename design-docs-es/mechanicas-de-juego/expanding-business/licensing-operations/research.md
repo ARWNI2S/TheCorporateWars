@@ -1,6 +1,6 @@
 # Investigación
 
-La investigación en _The Corporate Wars_ es una actividad altamente regulada, no solo por su impacto en el desarrollo tecnológico, sino también por sus implicaciones legales y culturales dentro de cada sistema estelar. Obtener permiso para llevar a cabo proyectos de investigación no es un simple trámite administrativo, sino un proceso que varía en función del entorno político, económico y social del mundo donde se pretende operar.
+La investigación en _**The Corporate Wars**_ es una actividad altamente regulada, no solo por su impacto en el desarrollo tecnológico, sino también por sus implicaciones legales y culturales dentro de cada sistema estelar. Obtener permiso para llevar a cabo proyectos de investigación no es un simple trámite administrativo, sino un proceso que varía en función del entorno político, económico y social del mundo donde se pretende operar.
 
 En sistemas con restricciones comerciales o una fuerte identidad cultural, la innovación puede ser vista como una amenaza a la estabilidad, lo que dificulta la obtención de permisos para laboratorios, centros de desarrollo o proyectos de experimentación avanzada. En estos casos, las autoridades pueden imponer severas limitaciones al acceso a ciertos campos científicos, ya sea para preservar su hegemonía tecnológica, evitar disrupciones en su orden social o simplemente frenar el avance de intereses extranjeros en su territorio.
 

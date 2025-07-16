@@ -36,6 +36,6 @@ Inicio del desarrollo comercial del producto, lanzamiento de ICO y contratos de 
 {% step %}
 ### Betatest
 
-Lanzamiento en Epic Games, gameplay completos, sin DLC, sin Pay to Win, sin marketplaces exclusivos, solo The Corporate Wars, instalar, vincular wallet, y a recapitalizar la empresa desde el dia 0 porque no has entendido de que va esto.
+Lanzamiento en Epic Games, gameplay completos, sin DLC, sin Pay to Win, sin marketplaces exclusivos, solo **The Corporate Wars**, instalar, vincular wallet, y a recapitalizar la empresa desde el dia 0 porque no has entendido de que va esto.
 {% endstep %}
 {% endstepper %}

@@ -6,7 +6,7 @@ description: >-
 
 # The Charted Space
 
-**The Charted Space** is the portion of the galaxy that has been mapped, colonized, or influenced by interstellar civilizations. It is here where exploration, trade, and politics intertwine, defining the balance of power between major powers, corporations, and autonomous entities.
+**The Charted Space** is the portion of the galaxy that has been mapped, colonized, or influenced by Interstellar Communitys. It is here where exploration, trade, and politics intertwine, defining the balance of power between major powers, corporations, and autonomous entities.
 
 The extent of Charted Space is not uniform; some regions are densely populated and highly developed, with established trade routes and consolidated infrastructure, while others are contested frontiers where authority is weak and the presence of external actors can shift the balance of power.
 

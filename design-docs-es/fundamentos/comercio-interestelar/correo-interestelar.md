@@ -6,7 +6,7 @@ description: >-
 
 # Correo Interestelar
 
-El correo interestelar es el único medio confiable para la transmisión de información entre sistemas estelares, debido a la ausencia de comunicaciones más rápidas que la luz en The Corporate Wars. En una galaxia donde el tiempo y la distancia dictan la velocidad de los negocios y la diplomacia, el transporte físico de datos, contratos, órdenes gubernamentales y correspondencia personal es una industria fundamental.
+El correo interestelar es el único medio confiable para la transmisión de información entre sistemas estelares, debido a la ausencia de comunicaciones más rápidas que la luz en **The Corporate Wars**. En una galaxia donde el tiempo y la distancia dictan la velocidad de los negocios y la diplomacia, el transporte físico de datos, contratos, órdenes gubernamentales y correspondencia personal es una industria fundamental.
 
 Las flotas de mensajería interestelar operan a través de redes logísticas optimizadas, utilizando corredores de salto eficientes y puertos espaciales estratégicos para minimizar los retrasos en la entrega. Algunas rutas están bien establecidas, con servicios de mensajería regulares que garantizan un flujo constante de información entre los principales centros económicos y políticos de la galaxia. Otras, en cambio, dependen de transportistas independientes y corredores poco seguros, donde la información puede verse comprometida por piratas, embargos o interferencias de entidades rivales.
 

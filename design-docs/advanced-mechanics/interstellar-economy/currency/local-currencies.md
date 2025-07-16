@@ -9,5 +9,5 @@ For corporations operating across multiple systems, managing local currencies in
 ***
 
 {% hint style="warning" %}
-Local currencies are not SPL tokens, but a value that determines the exchange rate between the local economy and the interstellar economy. On the other hand, star systems with economies integrated into interstellar society have such high exchange rates and inflation that they abandon the use of local currencies in favor of Credit.
+Local currencies are not SPL tokens, but a value that determines the exchange rate between the local economy and the interstellar economy. On the other hand, star systems with economies integrated into Interstellar Community have such high exchange rates and inflation that they abandon the use of local currencies in favor of Credit.
 {% endhint %}

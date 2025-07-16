@@ -9,5 +9,5 @@ Para las corporaciones que operan en múltiples sistemas, el manejo de las moned
 ***
 
 {% hint style="warning" %}
-Las divisas locales no son tokens spl, sino un valor que determina la tasa de cambio entre la economía local y la economía interestelar. Por otro lado, los sistemas estelares con economías integradas en la sociedad interestelar, presentan tasas de cambio e inflación tan elevadas, que abandonan el uso de las divisas locales en favor del Crédito.
+Las divisas locales no son tokens spl, sino un valor que determina la tasa de cambio entre la economía local y la economía interestelar. Por otro lado, los sistemas estelares con economías integradas en la Comunidad Interestelar, presentan tasas de cambio e inflación tan elevadas, que abandonan el uso de las divisas locales en favor del Crédito.
 {% endhint %}

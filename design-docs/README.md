@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# The Corporate Wars
+# **The Corporate Wars**
 
 **The Corporate Wars** transports players to a distant future where humanity has conquered the vastness of the cosmos but remains trapped in an endless struggle for control over markets and information.
 
@@ -27,7 +27,7 @@ It is a real-time strategy game in which players take control of powerful corpor
 
 Interstellar distances make instant communication impossible. Radio waves cannot travel faster than light, and messages take years to reach even the nearest star.
 
-This leaves trade routes as the only reliable means of information flow: interstellar ships, equipped with transit capacitors, travel at superluminal speeds, reducing communication latency to the speed of trade routes. The logistical management of interstellar communications is a challenge faced by every civilization in interstellar society and has been the cause of the greatest crises in the galaxy's history.
+This leaves trade routes as the only reliable means of information flow: interstellar ships, equipped with transit capacitors, travel at superluminal speeds, reducing communication latency to the speed of trade routes. The logistical management of interstellar communications is a challenge faced by every civilization in Interstellar Community and has been the cause of the greatest crises in the galaxy's history.
 
 It is a fragile framework, balanced between large-scale economic decentralization and local policies, where players must constantly adjust their strategies, overcoming ruthless logistical constraints and facing regulations imposed by interplanetary powers seeking to maintain their influence over interstellar trade.
 

@@ -8,7 +8,7 @@ Pero todos compartirán un mismo desafío: sobrevivir, crecer y dejar su huella 
 
 ### Las corporaciones como protagonistas
 
-En The Corporate Wars, los jugadores no interpretan individuos, sino corporaciones enteras: entidades vivas que combinan poder económico, influencia política y ambición estratégica.
+En **The Corporate Wars**, los jugadores no interpretan individuos, sino corporaciones enteras: entidades vivas que combinan poder económico, influencia política y ambición estratégica.
 
 {% hint style="info" %}
 Desde el momento de su creación, cada corporación define su identidad a través de las licencias operativas iniciales, eligiendo un rol en el vasto tablero galáctico.
@@ -88,7 +88,7 @@ Controlar el acceso al comercio galáctico, reducir costos y establecer redes lo
 
 ## Alianzas
 
-En The Corporate Wars, ninguna corporación está obligada a operar sola. Las alianzas —conocidas en el lenguaje del juego como guilds— permiten a jugadores coordinar esfuerzos, compartir recursos, establecer pactos de no agresión o actuar como bloques económicos y políticos.
+En **The Corporate Wars**, ninguna corporación está obligada a operar sola. Las alianzas —conocidas en el lenguaje del juego como guilds— permiten a jugadores coordinar esfuerzos, compartir recursos, establecer pactos de no agresión o actuar como bloques económicos y políticos.
 
 Estos grupos pueden tener objetivos muy diversos: desde monopolizar un sector de mercado, imponer reglas comerciales en una región, coordinar la defensa de sistemas fronterizos, hasta influir en la política interplanetaria mediante mecanismos de gobernanza colectiva.
 

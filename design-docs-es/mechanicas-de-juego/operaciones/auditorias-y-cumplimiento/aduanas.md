@@ -1,6 +1,6 @@
 # Aduanas
 
-Las aduanas representan la forma más común y frecuente de inspección y regulación en _The Corporate Wars_, afectando directamente el comercio interestelar y la logística corporativa. Cada sistema estelar con un gobierno establecido impone controles sobre las mercancías que entran y salen, regulando el flujo de bienes, imponiendo aranceles y asegurando que ninguna carga prohibida o peligrosa cruce sus fronteras sin supervisión.
+Las aduanas representan la forma más común y frecuente de inspección y regulación en _**The Corporate Wars**_, afectando directamente el comercio interestelar y la logística corporativa. Cada sistema estelar con un gobierno establecido impone controles sobre las mercancías que entran y salen, regulando el flujo de bienes, imponiendo aranceles y asegurando que ninguna carga prohibida o peligrosa cruce sus fronteras sin supervisión.
 
 Para las corporaciones, las aduanas pueden ser un obstáculo burocrático o una herramienta de control sobre sus competidores. En sistemas con normativas estrictas, el despacho de mercancías puede implicar extensos trámites, pagos de derechos de importación y verificaciones exhaustivas que retrasan las operaciones. En contraste, en zonas con menor regulación o puertos comerciales más permisivos, los controles pueden ser mínimos o directamente evitables mediante los contactos adecuados.
 

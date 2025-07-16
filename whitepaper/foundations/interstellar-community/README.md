@@ -1,7 +1,5 @@
 ---
-description: >-
-  The diverse civilizations, technological advancements, and governing systems
-  shaping interstellar society.
+description: The diverse civilizations, technological advancements, and governing systems shaping Interstellar Community.
 ---
 
 # The Interstellar Community

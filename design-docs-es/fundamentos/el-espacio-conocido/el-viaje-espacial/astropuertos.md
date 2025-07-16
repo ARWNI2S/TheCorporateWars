@@ -6,7 +6,7 @@ description: >-
 
 # Astropuertos
 
-Los astropuertos son los nodos esenciales del viaje espacial en The Corporate Wars. Más que simples instalaciones de aterrizaje, son centros neurálgicos donde las naves se reabastecen, los contratos se negocian y las civilizaciones interactúan. Desde estaciones orbitales de alta tecnología hasta rudimentarios puestos en la superficie de mundos remotos, cada astropuerto tiene un papel en la red de comercio y transporte interestelar.
+Los astropuertos son los nodos esenciales del viaje espacial en **The Corporate Wars**. Más que simples instalaciones de aterrizaje, son centros neurálgicos donde las naves se reabastecen, los contratos se negocian y las civilizaciones interactúan. Desde estaciones orbitales de alta tecnología hasta rudimentarios puestos en la superficie de mundos remotos, cada astropuerto tiene un papel en la red de comercio y transporte interestelar.
 
 La calidad y capacidad de un astropuerto determinan su relevancia dentro de la economía galáctica. Algunos son enclaves de lujo, con instalaciones para la élite de la galaxia, mientras que otros son puntos de tránsito peligrosos, donde piratas y comerciantes dudosos se mezclan en busca de oportunidades. En todos los casos, estos lugares son fundamentales para la actividad económica y política de un sistema.
 

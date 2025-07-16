@@ -10,7 +10,7 @@ This folder contains relevant legal documents, licensing terms, and permissions 
 
 ## Included Documents
 
-The Corporate Wars is developed in full compliance with third-party licensing requirements. For transparency, we include the following documents:
+**The Corporate Wars** is developed in full compliance with third-party licensing requirements. For transparency, we include the following documents:
 
 - [`Traveller Fair Use Policy (2025)`](licenses/Traveller_2300AD_Twilight_2000_Fair_Use_Policy_2025.pdf)  
   Official policy published by Mongoose Publishing. Supports our usage of *Traveller™* as an artistic and narrative inspiration.

@@ -1,6 +1,6 @@
 # Solana Blockchain
 
-The choice of Solana as the technological foundation in The Corporate Wars is no coincidence: its architectural design solves key challenges in building a persistent, distributed, and temporally asymmetric universe.
+The choice of Solana as the technological foundation in **The Corporate Wars** is no coincidence: its architectural design solves key challenges in building a persistent, distributed, and temporally asymmetric universe.
 
 Below, we detail the reasons, advantages, and challenges of this integration.
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [The Corporate Wars](README.md)
+* [**The Corporate Wars**](README.md)
 
 ## Los Cimientos del Universo <a href="#foundations" id="foundations"></a>
 
@@ -22,7 +22,7 @@
       * [Sistema de Generación de Sofontes](foundations/interstellar-community/sophonts/minor-races/sophont-generation.md)
   * [Niveles Tecnológicos](foundations/interstellar-community/tech-levels/README.md)
     * [Pre-Estelar](foundations/interstellar-community/tech-levels/pre-stellar.md)
-    * [Tecno Cero](foundations/interstellar-community/tech-levels/tech-zero.md)
+    * [Nivel Cero](foundations/interstellar-community/tech-levels/tech-zero.md)
 * [El Espacio Conocido](foundations/charted-space/README.md)
   * [Estrellas y Mundos](foundations/charted-space/stars-worlds/README.md)
     * [Planetas y Lunas](foundations/charted-space/stars-worlds/planets-moons/README.md)
@@ -31,7 +31,7 @@
     * [Gigantes de Gas](foundations/charted-space/stars-worlds/gas-giants.md)
     * [Cinturones de Asteroides](foundations/charted-space/stars-worlds/asteroid-belts.md)
   * [Viaje Espacial](foundations/charted-space/space-travel/README.md)
-    * [El Reactor de Salto](foundations/charted-space/space-travel/jump-drive.md)
+    * [El Impulsor de Salto](foundations/charted-space/space-travel/jump-drive.md)
     * [Astronaves y Espacionaves](foundations/charted-space/space-travel/starships/README.md)
       * [Sistema de Arquitectura Naval](foundations/charted-space/space-travel/starships/naval-architect.md)
     * [Astropuertos](foundations/charted-space/space-travel/starports.md)
@@ -139,13 +139,13 @@
 * [Despliegue Histórico](roadmap/deployment/README.md)
   * [Milieu 0](roadmap/deployment/first-survey.md)
   * [Traveller™](roadmap/deployment/second-survey.md)
-  * [The Corporate Wars](roadmap/deployment/third-survey.md)
+  * [**The Corporate Wars**](roadmap/deployment/third-survey.md)
 * [Hitos](roadmap/milestones.md)
 * [Posibilidades Futuras](roadmap/future-development.md)
 
 ## Términos de Licencia y Copyright <a href="#license-terms" id="license-terms"></a>
 
-* [The Corporate Wars](license-terms/README.md)
+* [**The Corporate Wars**](license-terms/README.md)
 * [Traveller™](license-terms/traveller.md)
 * [Unreal Engine](license-terms/unreal-engine.md)
 * [Microsoft](license-terms/microsoft.md)

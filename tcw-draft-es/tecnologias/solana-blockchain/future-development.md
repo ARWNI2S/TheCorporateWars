@@ -25,7 +25,7 @@ Aunque no forma parte del canon de Traveller™, explorar las consecuencias téc
 
 ### Exploración sci-fi aplicada:
 
-El ecosistema técnico de The Corporate Wars no se limita a imitar el canon sci-fi clásico, sino que permite plantear preguntas de frontera:
+El ecosistema técnico de **The Corporate Wars** no se limita a imitar el canon sci-fi clásico, sino que permite plantear preguntas de frontera:
 
 * ¿Qué significa manipular consensos distribuidos en un universo persistente?
 * ¿Hasta dónde puede una blockchain servir no solo como ledger, sino como simulador de posibilidades?

@@ -6,7 +6,7 @@ description: >-
 
 # Mundos y Estrellas
 
-El universo de The Corporate Wars está compuesto por innumerables sistemas planetarios, cada uno con su propia combinación de estrellas, planetas, lunas y cuerpos celestes menores. Estos sistemas son la base de la expansión interestelar, determinando las oportunidades económicas, estratégicas y políticas de la galaxia.
+El universo de **The Corporate Wars** está compuesto por innumerables sistemas planetarios, cada uno con su propia combinación de estrellas, planetas, lunas y cuerpos celestes menores. Estos sistemas son la base de la expansión interestelar, determinando las oportunidades económicas, estratégicas y políticas de la galaxia.
 
 Las estrellas definen la naturaleza de un sistema. Desde enanas rojas longevas hasta gigantes azules de vida corta, cada tipo estelar influye en la habitabilidad y en los recursos disponibles. Sistemas con múltiples soles pueden presentar desafíos adicionales en navegación y colonización debido a sus órbitas complejas.
 

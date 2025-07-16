@@ -1,6 +1,6 @@
 # La Blockchain Solana
 
-La elección de Solana como base tecnológica en The Corporate Wars no es casualidad: su diseño arquitectónico resuelve problemas clave para construir un universo persistente, distribuido y asimétrico en el tiempo.
+La elección de Solana como base tecnológica en **The Corporate Wars** no es casualidad: su diseño arquitectónico resuelve problemas clave para construir un universo persistente, distribuido y asimétrico en el tiempo.
 
 A continuación, detallamos los motivos, ventajas y desafíos de esta integración.
 

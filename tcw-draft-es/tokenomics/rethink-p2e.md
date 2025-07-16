@@ -41,6 +41,6 @@ El retiro de MCr no es una función abierta a todos los jugadores ni a todas las
 
 ## Resumen
 
-El modelo P2E rediseñado de The Corporate Wars no es un sistema de reparto de tokens: es un marco estructural donde el valor surge de la interacción, competencia y eficiencia. Solo aquellas corporaciones que logren generar excedentes netos, libres y sostenibles pueden, bajo validación técnica, retirar MCr fuera del juego.
+El modelo P2E rediseñado de **The Corporate Wars** no es un sistema de reparto de tokens: es un marco estructural donde el valor surge de la interacción, competencia y eficiencia. Solo aquellas corporaciones que logren generar excedentes netos, libres y sostenibles pueden, bajo validación técnica, retirar MCr fuera del juego.
 
 El verdadero desafío no es extraer valor: es **construir una organización capaz de generarlo consistentemente** sin comprometer su supervivencia en un universo que no perdona errores.

@@ -1,4 +1,4 @@
-# The Corporate Wars
+# **The Corporate Wars**
 
 **The Corporate Wars** is a large-scale economic and strategic simulation video game set in a distant future inspired by the classic *Traveller™* universe.
 
@@ -24,14 +24,14 @@ Inspired by the tone and aesthetic of *Traveller™*, but entirely original in mec
 
 > **This is a pre-commercial project currently under active development.**
 >
-> The Corporate Wars is not yet monetized, distributed, or publicly playable.  
+> **The Corporate Wars** is not yet monetized, distributed, or publicly playable.  
 > All content in this repository and its submodules is **work-in-progress** and may change frequently.
 
 ---
 
 ## Legal & Licensing
 
-The Corporate Wars is an independent project **inspired by *Traveller™***.
+**The Corporate Wars** is an independent project **inspired by *Traveller™***.
 
 > *Traveller* is a registered trademark owned by **Mongoose Publishing**.  
 > Copyright © 1977–2025 Mongoose Publishing.  
@@ -63,7 +63,7 @@ Unless stated otherwise in subdirectories, code in this repository is released u
 
 ## Related Resources
 
-- [The Corporate Wars](https://www.thecorporatewars.com) – Official website  
+- [**The Corporate Wars**](https://www.thecorporatewars.com) – Official website  
 - [Whitepaper](https://alternate-reality-worlds.gitbook.io/the-corporate-wars-whitepaper) – Official documentation  
 - [Fair Use Policy](https://www.mongoosepublishing.com/pages/traveller-licensing) - Mongoose Publishing
 - [Traveller RPG](https://www.mongoosepublishing.com/collections/start-here) - The original tabletop Traveller RPG!

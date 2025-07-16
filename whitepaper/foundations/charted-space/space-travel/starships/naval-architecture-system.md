@@ -1,2 +1,0 @@
-# Naval Architecture System
-

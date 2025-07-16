@@ -1,6 +1,6 @@
 # Propiedades
 
-Las corporaciones en _The Corporate Wars_ poseen una amplia gama de propiedades que van más allá de edificios e instalaciones. Sus activos pueden incluir flotas de naves espaciales, territorios en planetas estratégicos, concesiones mineras en asteroides, derechos sobre rutas comerciales y participación en mercados financieros a través de acciones y valores. Estas propiedades no solo representan riqueza, sino también influencia y control dentro de la economía interestelar.
+Las corporaciones en _**The Corporate Wars**_ poseen una amplia gama de propiedades que van más allá de edificios e instalaciones. Sus activos pueden incluir flotas de naves espaciales, territorios en planetas estratégicos, concesiones mineras en asteroides, derechos sobre rutas comerciales y participación en mercados financieros a través de acciones y valores. Estas propiedades no solo representan riqueza, sino también influencia y control dentro de la economía interestelar.
 
 Poseer una flota de naves espaciales es una de las inversiones más estratégicas para cualquier corporación. Las naves pueden ser cargueros dedicados al comercio, escoltas armadas para proteger activos, o incluso plataformas móviles de producción. En muchos casos, las corporaciones prefieren arrendar sus naves a terceros o establecer contratos de leasing, permitiendo el uso sin transferir la propiedad. De esta manera, aseguran ingresos constantes mientras evitan los riesgos operativos directos.
 

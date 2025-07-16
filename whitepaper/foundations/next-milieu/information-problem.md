@@ -1,6 +1,8 @@
-# The Information Problem
+---
+description: Across interstellar distances, instant communication is impossible.
+---
 
-Across interstellar distances, instant communication is impossible.
+# The Information Problem
 
 Radio waves cannot exceed the speed of light; messages may take years to reach even the nearest star.
 
@@ -21,3 +23,11 @@ In this setting, industry, banking, and trade are not just engines of progress —
 From financial manipulation to political subjugation of key regions, every decision redefines the balance of power.
 
 > Diplomacy is a veil, information is currency, and the **interstellar economy**... the true battlefield.
+
+## But... That was 80 years ago
+
+Although almost a century has passed, the problem of information has no practical solution.
+
+The mail lines have been reinforced, the trade routes expanded, and improvements have been implemented in the navigation beacons.
+
+In spite of everything, the logistical and technological limitations continue being the same, and the Interstellar Community trusts in the effectiveness and efficiency of the traditional systems: decentralized government, finance, and authority.

@@ -18,6 +18,6 @@ Esta arquitectura proporciona fiabilidad, escalabilidad y mantenibilidad a nivel
 
 Microsoft®, Azure®, Visual Studio® y los logotipos y nombres relacionados son marcas registradas de **Microsoft Corporation**.
 
-**Alternate Reality Worlds** es miembro registrado del **Microsoft Partner Network**. Aunque _The Corporate Wars_ es un desarrollo independiente, su infraestructura se basa en tecnologías Microsoft licenciadas oficialmente bajo derechos de acceso asociados a dicha membresía.
+**Alternate Reality Worlds** es miembro registrado del **Microsoft Partner Network**. Aunque _**The Corporate Wars**_ es un desarrollo independiente, su infraestructura se basa en tecnologías Microsoft licenciadas oficialmente bajo derechos de acceso asociados a dicha membresía.
 
 Este documento y proyecto no están avalados ni patrocinados por **Microsoft Corporation**.

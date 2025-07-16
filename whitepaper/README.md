@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# The Corporate Wars
+# **The Corporate Wars**
 
 **The Corporate Wars** is a real-time strategy game (RTS) set in an open universe inspired by Traveller™, where players command interstellar corporations.
 
@@ -46,7 +46,7 @@ This presents an additional challenge to players, who must handle the available 
 
 ### Social Limits
 
-Although many worlds possess this technology and are integrated into **Interstellar Society**, many others are technologically dependent, and many more are in the process of development.
+Although many worlds possess this technology and are integrated into **Interstellar Community**, many others are technologically dependent, and many more are in the process of development.
 
 It is a cosmopolitan environment of asymmetric cultures and governments, where star systems depend on trade routes to stay connected with the rest of the galaxy.
 
@@ -63,7 +63,7 @@ Players will have to navigate a legal web of commitments, regulations, deadlines
 **The Corporate Wars** pays homage to the legacy of Traveller™, one of the richest and most enduring science-fiction universes ever created:\
 a foundational inspiration in crafting a setting where technological, social, and economic limits define every player’s decisions.
 
-The Corporate Wars is developed under the Fair Use License of Mongoose Publishing / Far Future Enterprises, with whom we maintain an open and cordial relationship regarding potential future licensing as an official product.\
+**The Corporate Wars** is developed under the Fair Use License of Mongoose Publishing / Far Future Enterprises, with whom we maintain an open and cordial relationship regarding potential future licensing as an official product.\
 Traveller™ and all related elements are the intellectual property of Far Future Enterprises.
 
 At present, this project stands as a respectful tribute, not an official adaptation.

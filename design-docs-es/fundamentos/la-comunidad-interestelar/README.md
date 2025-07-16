@@ -1,7 +1,7 @@
 ---
 description: >-
   Las diversas civilizaciones, avances tecnológicos y sistemas de gobierno que
-  dan forma a la sociedad interestelar.
+  dan forma a la Comunidad Interestelar.
 ---
 
 # La Comunidad Interestelar

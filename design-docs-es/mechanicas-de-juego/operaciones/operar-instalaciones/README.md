@@ -1,6 +1,6 @@
 # Operar Instalaciones
 
-Las instalaciones son el pilar operativo de cualquier corporación en _The Corporate Wars_. Desde fábricas de producción hasta astropuertos estratégicos, cada infraestructura define la capacidad de expansión y dominio del mercado. Operar instalaciones no solo implica construirlas, sino mantenerlas, optimizarlas y protegerlas para garantizar su funcionamiento en un entorno competitivo.
+Las instalaciones son el pilar operativo de cualquier corporación en _**The Corporate Wars**_. Desde fábricas de producción hasta astropuertos estratégicos, cada infraestructura define la capacidad de expansión y dominio del mercado. Operar instalaciones no solo implica construirlas, sino mantenerlas, optimizarlas y protegerlas para garantizar su funcionamiento en un entorno competitivo.
 
 Cada tipo de instalación cumple un rol específico: centros de producción fabrican bienes, infraestructura comercial y logística maneja el transporte y almacenamiento, laboratorios de I+D desarrollan nuevas tecnologías, y bases espaciales y astilleros aseguran el control en las rutas interestelares.
 

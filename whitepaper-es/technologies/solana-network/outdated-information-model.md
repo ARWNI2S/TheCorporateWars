@@ -14,7 +14,7 @@ Esto introduce **latencias estructurales**:
 * Las decisiones se toman con base en datos antiguos.
 * Las oportunidades y amenazas pueden haberse desvanecido cuando la información llega.
 
-El modelo de información desfasada no es un fallo del sistema: **es el sistema**. Define las estrategias, condiciona la logística y da forma al propio tejido social, político y económico de la galaxia. Y en _The Corporate Wars_, este modelo no es un detalle de color: es la columna vertebral del diseño técnico que sostiene el ecosistema persistente.
+El modelo de información desfasada no es un fallo del sistema: **es el sistema**. Define las estrategias, condiciona la logística y da forma al propio tejido social, político y económico de la galaxia. Y en _**The Corporate Wars**_, este modelo no es un detalle de color: es la columna vertebral del diseño técnico que sostiene el ecosistema persistente.
 
 {% hint style="info" %}
 A continuación explicamos cómo hemos integrado esta asincronía en el corazón del juego, usando tecnologías distribuidas (como la blockchain Solana) para reflejar un universo donde la sincronización absoluta es inalcanzable.
@@ -24,7 +24,7 @@ A continuación explicamos cómo hemos integrado esta asincronía en el corazón
 
 ## Latencia estructural
 
-En The Corporate Wars, la información interestelar no fluye en tiempo real ni de forma global. El universo se estructura como un **grafo dirigido de latencia**, donde cada nodo representa un sistema estelar, y cada arista (ruta de tránsito) introduce un retraso concreto determinado por las limitaciones físicas del viaje interestelar.
+En **The Corporate Wars**, la información interestelar no fluye en tiempo real ni de forma global. El universo se estructura como un **grafo dirigido de latencia**, donde cada nodo representa un sistema estelar, y cada arista (ruta de tránsito) introduce un retraso concreto determinado por las limitaciones físicas del viaje interestelar.
 
 Cada ruta A → B implica una latencia intrínseca. Aunque las transacciones globales se registran en blockchain, cada nodo solo puede percibir y operar con los bloques correspondientes a su ventana de visibilidad:
 
@@ -51,7 +51,7 @@ Implementar un modelo de información desfasada en un universo distribuido, apoy
 * **Escalabilidad de programas en Solana:** los smart contracts encargados de manejar agregación, filtrado y entrega de datos deben ser capaces de escalar en un entorno con decenas de miles de jugadores y nodos, respetando costes computacionales (gas), límites de throughput y latencias mínimas.
 * **Sincronización blanda de nodos locales:** como no existe estado global instantáneo, los nodos locales necesitan mecanismos de reconciliación y corrección eventual para evitar acumulación de errores o derivaciones prolongadas del estado base.
 
-Estos desafíos no son triviales ni teóricos: son limitaciones presentes que definen cómo puede crecer y operar un sistema como The Corporate Wars a escala real.
+Estos desafíos no son triviales ni teóricos: son limitaciones presentes que definen cómo puede crecer y operar un sistema como **The Corporate Wars** a escala real.
 
 ***
 

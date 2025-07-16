@@ -14,7 +14,7 @@ This introduces **structural latencies**:
 * Decisions are made based on outdated data.
 * Opportunities and threats may have already vanished by the time the information arrives.
 
-The outdated information model is not a system flaw: **it is the system**. It defines strategies, conditions logistics, and shapes the very social, political, and economic fabric of the galaxy. And in _The Corporate Wars_, this model is not just flavor — it is the backbone of the technical design that sustains the persistent ecosystem.
+The outdated information model is not a system flaw: **it is the system**. It defines strategies, conditions logistics, and shapes the very social, political, and economic fabric of the galaxy. And in _**The Corporate Wars**_, this model is not just flavor — it is the backbone of the technical design that sustains the persistent ecosystem.
 
 {% hint style="info" %}
 Below, we explain how we have integrated this asynchrony at the heart of the game, using distributed technologies (like the Solana blockchain) to reflect a universe where absolute synchronization is unattainable.
@@ -24,7 +24,7 @@ Below, we explain how we have integrated this asynchrony at the heart of the gam
 
 ## Structural latency
 
-In The Corporate Wars, interstellar information does not flow in real-time nor globally. The universe is structured as a **directed latency graph**, where each node represents a star system, and each edge (transit route) introduces a concrete delay determined by the physical limitations of interstellar travel.
+In **The Corporate Wars**, interstellar information does not flow in real-time nor globally. The universe is structured as a **directed latency graph**, where each node represents a star system, and each edge (transit route) introduces a concrete delay determined by the physical limitations of interstellar travel.
 
 Each route A → B implies an intrinsic latency. Although global transactions are registered on blockchain, each node can only perceive and operate with the blocks corresponding to its visibility window:
 
@@ -51,7 +51,7 @@ Implementing an outdated information model in a distributed universe backed by b
 * **Scalability of Solana programs:** the smart contracts handling data aggregation, filtering, and delivery must scale in an environment with tens of thousands of players and nodes, respecting computational costs (gas), throughput limits, and minimum latencies.
 * **Soft synchronization of local nodes:** since no global instant state exists, local nodes need reconciliation and eventual correction mechanisms to avoid cumulative errors or prolonged state drift.
 
-These challenges are neither trivial nor theoretical — they are present-day limitations that define how a system like The Corporate Wars can grow and operate at real-world scale.
+These challenges are neither trivial nor theoretical — they are present-day limitations that define how a system like **The Corporate Wars** can grow and operate at real-world scale.
 
 ***
 

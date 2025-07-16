@@ -14,7 +14,7 @@ _**31-3-2025**_ - The arduous task of reflecting the concepts in an intelligible
 {% step %}
 #### Legal Milestone
 
-_**4-6-2025**_ – We received written confirmation from Mongoose Publishing that The Corporate Wars may reference Traveller™ as inspiration under the Fair Use Policy 2025, without infringing copyright or trademarks.
+_**4-6-2025**_ – We received written confirmation from Mongoose Publishing that **The Corporate Wars** may reference Traveller™ as inspiration under the Fair Use Policy 2025, without infringing copyright or trademarks.
 All third-party licenses (Epic, Unreal Engine, EOS, Solana, Microsoft) have been collected, reviewed, and made public when legally allowed. The legal architecture of the project is now stable and ready for audit, publication, and store compliance.
 {% endstep %}
 

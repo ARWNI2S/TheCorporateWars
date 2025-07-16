@@ -18,7 +18,7 @@ layout:
 
 # Negocios en Expansión
 
-El crecimiento es la única estrategia viable para una corporación que aspire a la supremacía en _The Corporate Wars_. Las actividades empresariales no pueden permanecer estáticas; deben expandirse constantemente para asegurar su competitividad y su permanencia en el mercado. Ya sea aumentando su capacidad de producción, diversificando sus operaciones o asegurando nuevas concesiones en sistemas estratégicos, la expansión es tanto una necesidad como una oportunidad.
+El crecimiento es la única estrategia viable para una corporación que aspire a la supremacía en _**The Corporate Wars**_. Las actividades empresariales no pueden permanecer estáticas; deben expandirse constantemente para asegurar su competitividad y su permanencia en el mercado. Ya sea aumentando su capacidad de producción, diversificando sus operaciones o asegurando nuevas concesiones en sistemas estratégicos, la expansión es tanto una necesidad como una oportunidad.
 
 La consolidación del negocio no siempre se limita a una sola industria. Las corporaciones más exitosas buscan integrarse vertical y horizontalmente, adquiriendo proveedores clave, estableciendo nuevas rutas comerciales o invirtiendo en sectores emergentes antes que la competencia. En algunos casos, la expansión ocurre mediante la compra directa de activos y la absorción de empresas menores, mientras que en otros, se logra a través de alianzas estratégicas o licencias que permiten operar en mercados regulados sin la necesidad de inversiones masivas.
 

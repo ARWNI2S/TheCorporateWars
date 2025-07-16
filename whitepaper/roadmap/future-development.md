@@ -25,7 +25,7 @@ While not part of the Traveller™ canon, exploring the technical consequences o
 
 ### Applied sci-fi exploration
 
-The technical ecosystem of The Corporate Wars is not limited to mimicking classic sci-fi canon; it enables us to raise cutting-edge questions:
+The technical ecosystem of **The Corporate Wars** is not limited to mimicking classic sci-fi canon; it enables us to raise cutting-edge questions:
 
 * What does it mean to manipulate distributed consensus in a persistent universe?
 * How far can a blockchain serve not just as a ledger, but as a simulator of possibilities?

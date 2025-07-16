@@ -1,12 +1,14 @@
-# El Problema de la Información
+---
+description: Las distancias interestelares hacen inviables las comunicaciones instantáneas.
+---
 
-Las distancias interestelares hacen inviables las comunicaciones instantáneas.
+# El Problema de la Información
 
 Las ondas de radio no pueden superar la velocidad de la luz, y los mensajes pueden tardar años en llegar incluso a la estrella más cercana.
 
 Esto convierte a las rutas comerciales en el único medio fiable para el flujo de información.
 
-Las naves equipadas con **reactores de salto** atraviesan el espacio mediante **saltos interestelares**, reduciendo la latencia de las comunicaciones a la duración de los trayectos de transporte.
+Las naves equipadas con **impulsores de salto** atraviesan el espacio mediante **saltos interestelares**, reduciendo la latencia de las comunicaciones a la duración de los trayectos de transporte.
 
 {% hint style="info" %}
 La logística del correo interestelar —y la fiabilidad de las rutas de salto— es un problema estructural común a todas las civilizaciones de alto nivel tecnológico, y ha sido la causa de algunas de las mayores crisis de la historia de la galaxia.
@@ -28,4 +30,4 @@ Aunque ha pasado casi un siglo, el problema de la información no tiene una solu
 
 Se han reforzado las líneas de correo, ampliado las rutas comerciales e implementado mejoras en las balizas de navegación.
 
-> Los modelos de fabricación estándar mantienen los Clase A3 de salto 1 baratos y aun hay Auroras de enlace en servicio, aunque la mayoría lo hacen en el sector privado.
+A pesar de todo, las limitaciones logisticas y teconologicas continuan siendo las mismas, y la Comunidad Interestelar confia en la efectividad y eficiencia de los sistemas tradicionales: gobierno, finanzas y autoridad descentralizadas.

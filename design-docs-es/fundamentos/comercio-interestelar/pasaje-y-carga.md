@@ -4,7 +4,7 @@ description: Bienes y personas transportados a través de las estrellas.
 
 # Pasaje y Carga
 
-El transporte de bienes y personas es una de las actividades económicas más fundamentales en The Corporate Wars. Las corporaciones y operadores independientes compiten por mover cargamentos valiosos y viajeros a lo largo de la galaxia, asegurando el flujo de productos esenciales y conectando civilizaciones a través de las estrellas.
+El transporte de bienes y personas es una de las actividades económicas más fundamentales en **The Corporate Wars**. Las corporaciones y operadores independientes compiten por mover cargamentos valiosos y viajeros a lo largo de la galaxia, asegurando el flujo de productos esenciales y conectando civilizaciones a través de las estrellas.
 
 El transporte de carga incluye desde materias primas extraídas en cinturones de asteroides hasta productos manufacturados listos para su distribución en mercados interestelares. La eficiencia de una flota de transporte y la seguridad de las rutas comerciales determinan el costo y la disponibilidad de estos bienes. Las corporaciones que controlan el acceso a estos corredores pueden imponer tarifas, bloquear competidores o garantizar el abastecimiento en sistemas estratégicos.
 

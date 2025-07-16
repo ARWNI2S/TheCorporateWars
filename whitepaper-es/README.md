@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# The Corporate Wars
+# **The Corporate Wars**
 
 **The Corporate Wars** es un juego de simulación estratégica económica en tiempo real, ambientado en un universo abierto inspirado en Traveller™, donde los jugadores lideran corporaciones interestelares.
 
@@ -34,7 +34,7 @@ Combina simulación económica, exploración, gestión logística y dinámicas P
 
 ### Los Límites Tecnológicos.
 
-Las especies inteligentes de la galaxia disponen de tecnología de **salto**, esto implica que **navíos interestelares** equipados con piezas de ingeniería especializadas conocidas como **reactores de salto** pueden realizar tránsitos hiperlumínicos, reduciendo el tiempo de transporte entre las estrellas, de decenas (o cientos) de años, a unas pocas semanas.
+Las especies inteligentes de la galaxia disponen de tecnología de **salto**, esto implica que **navíos interestelares** equipados con piezas de ingeniería especializadas conocidas como **impulsores de salto** pueden realizar tránsitos hiperlumínicos, reduciendo el tiempo de transporte entre las estrellas, de decenas (o cientos) de años, a unas pocas semanas.
 
 Aunque los navíos saltan entre las estrellas, no se conoce ninguna tecnología capaz de enviar información mas rápido que la luz.
 
@@ -46,7 +46,7 @@ Desde líneas de correo automatizadas, hasta cargueros independientes, yates pri
 
 ### Los Límites Sociales.
 
-Aunque muchos mundos disponen de esta tecnología y están integrados en la **Sociedad Interestelar**, muchos otros son tecnológicamente dependientes y otros tantos están en vías de desarrollo.
+Aunque muchos mundos disponen de esta tecnología y están integrados en la **Comunidad Interestelar**, muchos otros son tecnológicamente dependientes y otros tantos están en vías de desarrollo.
 
 Es un entorno cosmopolita de culturas y gobiernos asimétricos, en el que los sistemas estelares dependen de las líneas de comercio para permanecer en contacto con el resto de la galaxia.
 
@@ -62,7 +62,7 @@ Las fronteras entre imperios son nodos de información, intercambio tecnológico
 
 **The Corporate Wars** se inspira en Traveller™, uno de los universos de ciencia ficción vivos más ricos y realistas de la historia de los juegos: la inspiración fundamental para construir un universo donde los límites tecnológicos, sociales y económicos moldean cada decisión de los jugadores.
 
-The Corporate Wars se desarrolla bajo los términos de la Fair Use License de Mongoose Publishing, con quienes mantenemos una relación abierta y cordial para explorar en el futuro una posible oficialización como producto licenciado. Traveller™ y todos los elementos relacionados son propiedad intelectual de Far Future Enterprises.
+**The Corporate Wars** se desarrolla bajo los términos de la Fair Use License de Mongoose Publishing, con quienes mantenemos una relación abierta y cordial para explorar en el futuro una posible oficialización como producto licenciado. Traveller™ y todos los elementos relacionados son propiedad intelectual de Far Future Enterprises.
 
 > Actualmente, este proyecto es un homenaje respetuoso y no constituye una adaptación oficial.
 
