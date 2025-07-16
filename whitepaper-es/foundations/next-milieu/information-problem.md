@@ -21,3 +21,11 @@ En este escenario, la industria, la banca y el comercio no son solo motores de p
 Desde la manipulación financiera hasta la subyugación política de regiones clave, cada decisión redefine el equilibrio de poder.
 
 > La diplomacia es un velo, la información es moneda, y la **economía interestelar**… el verdadero campo de batalla.
+
+## Pero... Eso fue hace 80 años
+
+Aunque ha pasado casi un siglo, el problema de la información no tiene una solución práctica.
+
+Se han reforzado las líneas de correo, ampliado las rutas comerciales e implementado mejoras en las balizas de navegación.
+
+> Los modelos de fabricación estandar mantienen los Clase A3 de salto 1 baratos y aun hay Auroras de enlace en servicio, aunque la mayoria lo hacen en el sector privado.
