@@ -32,13 +32,13 @@ Htyao Ftao 3601 Tlaukhu'we'rr.
 
 Es el honorable año 20123 de La Federación.
 
-Vagh'rra! Rroezhakha **100'k'rrr** nurghrra'rrr. 
+Vagh'rra! Rroezhakha **100'k'rrr** nurghrra'rrr.
 
 ***
 
-#### Todo fue un sueño
-
-No hubo rebelion, ningun acontecimiento provocó la caida del imperio. Nunca existió ningún "virus", y la única "nueva era" que conozco... es hoy!
+> #### Todo fue un sueño
+>
+> No hubo rebelion, ningun acontecimiento provocó la caida del imperio. Nunca existió ningún "virus", y la única "nueva era" que conozco... es hoy!
 
 ***
 
