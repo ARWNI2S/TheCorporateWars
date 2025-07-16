@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Expansion Business
 
 The importance of the different worlds determines how they connect to each other, drawing the routes of interstellar transit.

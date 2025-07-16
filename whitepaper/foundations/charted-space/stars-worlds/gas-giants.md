@@ -1,5 +1,6 @@
 ---
 description: Massive planetary bodies with exploitable atmospheric resources.
+coverY: 0
 ---
 
 # Gas Giants

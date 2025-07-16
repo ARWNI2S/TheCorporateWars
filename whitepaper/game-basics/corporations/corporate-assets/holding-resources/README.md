@@ -1,5 +1,6 @@
 ---
 description: Tangible assets, raw materials, and claims under corporate control.
+coverY: 0
 ---
 
 # Resources and Holdings

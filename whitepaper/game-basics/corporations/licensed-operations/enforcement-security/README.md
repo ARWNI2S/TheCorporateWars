@@ -2,6 +2,7 @@
 description: >-
   Protection and regulated enforcement solutions for strategic, tactical, and
   private security operations.
+coverY: 0
 ---
 
 # Enforcement and Security

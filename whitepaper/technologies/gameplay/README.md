@@ -1,3 +1,7 @@
-# Homo Ludens
+---
+coverY: 0
+---
+
+# Game Theory
 
 Get

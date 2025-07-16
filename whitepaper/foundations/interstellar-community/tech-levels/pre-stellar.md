@@ -1,5 +1,6 @@
 ---
 description: Lacking of starfaring capabilities, confined to their homeworld starsystem.
+coverY: 0
 ---
 
 # Pre-Stellar

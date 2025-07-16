@@ -1,5 +1,6 @@
 ---
 description: Operational hubs and production centers essential for expansion and logistics.
+coverY: 0
 ---
 
 # Facilities

@@ -2,6 +2,7 @@
 description: >-
   Construction, management, and operation of colonial infrastructures and
   essential services.
+coverY: 0
 ---
 
 # Colonial Services

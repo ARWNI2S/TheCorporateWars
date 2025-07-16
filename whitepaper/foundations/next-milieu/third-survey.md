@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Third Survey
 
 The history of the Third Imperium is marked by stages of expansion and periods of stability.
@@ -34,7 +38,7 @@ In **The Corporate Wars**, the Third Survey represents not only a thematic backg
 
 > The Third Survey is a structural database of stellar systems and jump routes, with periodically updated data, stored on blockchain, which allows auditing and distributed real-time access.
 
-Players obtain a partial view of the galaxy's data, always depending on two things: the databases available locally — devices, ship computers, star maps; and the global updates — planetary computers, X-Comm beacons, or X-Boat routes, among others.
+Players obtain a partial view of the galaxy's data, always depending on two things: the databases available locally ï¿½ devices, ship computers, star maps; and the global updates ï¿½ planetary computers, X-Comm beacons, or X-Boat routes, among others.
 
 The game server maintains a set of valid data adjusted to the player's point of view for each game session, taking as a source of truth the updates stored on the blockchain.
 

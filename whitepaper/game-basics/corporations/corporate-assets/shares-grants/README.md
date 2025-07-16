@@ -1,5 +1,6 @@
 ---
 description: Legal permissions and ownership rights governing operations.
+coverY: 0
 ---
 
 # Grants and Shares

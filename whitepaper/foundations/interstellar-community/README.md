@@ -1,5 +1,8 @@
 ---
-description: The diverse civilizations, technological advancements, and governing systems shaping Interstellar Community.
+description: >-
+  The diverse civilizations, technological advancements, and governing systems
+  shaping Interstellar Community.
+coverY: 0
 ---
 
 # The Interstellar Community
@@ -14,6 +17,6 @@ Major powers administer vast territories through local authorities with a certai
 
 Controlling these routes and optimizing response times is key to economic and political success.
 
-War, trade, and diplomacy depend on each actor’s ability to manage their transportation and communication networks, turning logistics into a fundamental strategic element.
+War, trade, and diplomacy depend on each actorï¿½s ability to manage their transportation and communication networks, turning logistics into a fundamental strategic element.
 
 Those who dominate interstellar mobility will consolidate their power and shape the future of the galaxy.

@@ -1,5 +1,8 @@
 ---
-description: Societies without advanced technology, reliant on primitive or rudimentary tools.
+description: >-
+  Societies without advanced technology, reliant on primitive or rudimentary
+  tools.
+coverY: 0
 ---
 
 # Tech Zero

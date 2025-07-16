@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Algorithmical Balance
 
 The interstellar economy of **The Corporate Wars** is built upon advanced algorithmic stabilization mechanisms, inspired by contemporary experiments with algorithmic stablecoins—particularly Hayek Money—and reimagined as centuries of Vilani engineering, refined by the Core AIs.

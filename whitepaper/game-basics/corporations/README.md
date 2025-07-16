@@ -7,7 +7,7 @@ coverY: 0
 layout:
   width: default
   cover:
-    visible: false
+    visible: true
     size: full
   title:
     visible: true

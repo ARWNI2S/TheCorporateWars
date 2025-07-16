@@ -1,5 +1,8 @@
 ---
-description: Planetary systems and celestial bodies forming the foundation of interstellar expansion.
+description: >-
+  Planetary systems and celestial bodies forming the foundation of interstellar
+  expansion.
+coverY: 0
 ---
 
 # Stars and Worlds

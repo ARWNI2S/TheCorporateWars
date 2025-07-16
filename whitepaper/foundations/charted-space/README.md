@@ -1,5 +1,8 @@
 ---
-description: Mapped regions of space, defining the boundaries of exploration, commerce, and civilization.
+description: >-
+  Mapped regions of space, defining the boundaries of exploration, commerce, and
+  civilization.
+coverY: 0
 ---
 
 # The Charted Space

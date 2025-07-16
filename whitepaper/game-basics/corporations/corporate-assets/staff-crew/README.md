@@ -1,5 +1,6 @@
 ---
 description: General workforce and specialized personnel managing assets and operations.
+coverY: 0
 ---
 
 # Staff and Crew

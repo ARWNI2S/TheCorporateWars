@@ -1,5 +1,8 @@
 ---
-description: The seamless circulation of people and goods through the vast reaches of space, bridging wordls and cultures.
+description: >-
+  The seamless circulation of people and goods through the vast reaches of
+  space, bridging wordls and cultures.
+coverY: 0
 ---
 
 # Space Travel

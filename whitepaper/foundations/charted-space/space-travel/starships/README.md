@@ -1,5 +1,8 @@
 ---
-description: Interstellar transportation and propulsion technologies enabling galactic mobility.
+description: >-
+  Interstellar transportation and propulsion technologies enabling galactic
+  mobility.
+coverY: 0
 ---
 
 # Starships and Spacecraft

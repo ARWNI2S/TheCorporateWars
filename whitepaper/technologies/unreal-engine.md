@@ -6,7 +6,7 @@ Unreal Engine (UE) is a next-generation, cross-platform engine for AAA developme
 UE provides graphical power, modularity, flexible backend, and customizable editor tools that enable **The Corporate Wars** to build, scale, and deliver a persistent galactic strategy experience, with blockchain integration and commercial presence on the Epic Games Store.
 {% endhint %}
 
----
+***
 
 ## Key Points
 
@@ -24,9 +24,9 @@ Unreal enables development of custom editor tools (editor tools, runtime editors
 
 ### Web3 Integration (Solana)
 
-Though experimental, there are SDKs enabling wallet integration, NFTs, SPL tokens, and on-chain operations, aligning with TCW’s blockchain layer for registry, distributed governance, or asset management.
+Though experimental, there are SDKs enabling wallet integration, NFTs, SPL tokens, and on-chain operations, aligning with TCW's blockchain layer for registry, distributed governance, or asset management.
 
----
+***
 
 ## Epic Games Store
 
@@ -38,5 +38,4 @@ Though experimental, there are SDKs enabling wallet integration, NFTs, SPL token
 
 ### Marketplace & Community
 
-The Unreal Marketplace offers assets, plugins, and tools to accelerate development. The Epic community provides support, documentation, and examples to optimize the team’s work.
-
+The Unreal Marketplace offers assets, plugins, and tools to accelerate development. The Epic community provides support, documentation, and examples to optimize the team's work.

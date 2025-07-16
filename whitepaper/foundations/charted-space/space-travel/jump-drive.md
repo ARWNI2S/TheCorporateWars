@@ -1,5 +1,8 @@
 ---
-description: The Jump Drive is a technology that allows specialized vessels to create directed hyperspace.
+description: >-
+  The Jump Drive is a technology that allows specialized vessels to create
+  directed hyperspace.
+coverY: 0
 ---
 
 # The Jump Drive
