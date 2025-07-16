@@ -1,4 +1,4 @@
-# Milestones
+# Hitos
 
 {% stepper %}
 {% step %}

@@ -10,6 +10,8 @@ La infraestructura y el backend de **The Corporate Wars** están construidos sob
 * **ASP.NET Core** para aplicaciones web y APIs
 * **SQL Server** como base de datos relacional principal
 * **Azure** y **Azure Arc** para un despliegue híbrido y escalable en la nube
+* **Windows 11** para los equipos de los desarrolladores
+* **Windows Server 2025** para la infraestructura local
 * **Hyper-V** para virtualización local y orquestación de nodos distribuidos
 * **Visual Studio 2022** como entorno de desarrollo principal
 * **Visual Studio Code** con **WSL** para desarrollo multiplataforma en **Solana** mediante Anchor

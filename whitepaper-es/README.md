@@ -20,39 +20,49 @@ layout:
 
 # The Corporate Wars
 
-**The Corporate Wars** es un juego de estrategia en tiempo real (RTS) ambientado en un universo abierto inspirado en Traveller™, donde los jugadores lideran corporaciones interestelares.
+**The Corporate Wars** es un juego de simulación estratégica económica en tiempo real, ambientado en un universo abierto inspirado en Traveller™, donde los jugadores lideran corporaciones interestelares.
 
 Combina simulación económica, exploración, gestión logística y dinámicas P2E, en un entorno persistente donde cada decisión impacta directamente sobre el desarrollo del juego y el equilibrio del sistema.
 
-### El Problema de la Información
+***
 
-Las distancias interestelares hacen inviables las comunicaciones instantáneas.
+## El Lejano Futuro
 
-Las ondas de radio no pueden superar la velocidad de la luz, y los mensajes pueden tardar años en llegar incluso a la estrella más cercana.
+**The Corporate Wars** se ambienta en un lejano futuro en el que la humanidad domina las estrellas, coexistiendo con otras formas de vida inteligentes, en un colorido entramado multicultural de Naciones, Alianzas, Imperios, Mundos Soberanos, Instituciones Milenarias, Organizaciones y Empresas Privadas.
 
-Esto convierte a las rutas comerciales en el único medio fiable para el flujo de información.
+Los jugadores toman el control de una de estas empresas y su objetivo son los beneficios, para ello puede **comerciar** con bienes, construir **infraestructuras**, invertir en el **Mercado de Valores Interestelar**, extraer **recursos**, **fabricar** productos o investigar **tecnologías**; al tiempo que administra **activos**, gestiona **fondos**, busca **financiación**, adquiere **licencias** y permisos, y cumple con las **regulaciones** locales.
 
-Las naves equipadas con **reactores de salto** atraviesan el espacio mediante **saltos interestelares**, reduciendo la latencia de las comunicaciones a la duración de los trayectos de transporte.
+### Los Límites Tecnológicos.
 
-{% hint style="info" %}
-La logística del correo interestelar —y la fiabilidad de las rutas de salto— es un problema estructural común a todas las civilizaciones de alto nivel tecnológico, y ha sido la causa de algunas de las mayores crisis de la historia de la galaxia.
-{% endhint %}
+Las especies inteligentes de la galaxia disponen de tecnología de **salto**, esto implica que **navíos interestelares** equipados con piezas de ingeniería especializadas conocidas como **reactores de salto** pueden realizar tránsitos hiperlumínicos, reduciendo el tiempo de transporte entre las estrellas, de decenas (o cientos) de años, a unas pocas semanas.
 
-Este sistema forma un entramado frágil, equilibrado entre la descentralización económica a gran escala y las políticas locales.
+Aunque los navíos saltan entre las estrellas, no se conoce ninguna tecnología capaz de enviar información mas rápido que la luz.
 
-Los jugadores deben ajustar sus estrategias superando restricciones logísticas despiadadas y sorteando regulaciones impuestas por potencias interplanetarias que buscan mantener su influencia sobre las rutas de comercio y datos.
+Las enormes distancias entre las estrellas hace inviable la comunicación instantánea, y los gobiernos y poderes interestelares deben confiar en sistemas físicos de transporte de la información.
 
-En este escenario, la industria, la banca y el comercio no son solo motores de progreso: son armas en una guerra encubierta por la supremacía.
+Desde líneas de correo automatizadas, hasta cargueros independientes, yates privados y transportes militares, todos los navíos interestelares de la galaxia han formado parte alguna vez del intrincado flujo de mensajería interestelar.
 
-Desde la manipulación financiera hasta la subyugación política de regiones clave, cada decisión redefine el equilibrio de poder.
+Esto presenta un desafío adicional a los jugadores, que deben manejar la información disponible, que llega a instalaciones en distintos mundos, de forma asimétrica, fragmentada y desactualizada, poniendo a prueba su capacidad para diseñar estrategias comerciales y mantener sistemas logísticos en un entorno donde la "niebla de la guerra" se extiende al conocimiento.
 
-> La diplomacia es un velo, la información es moneda, y la **economía interestelar**... el verdadero campo de batalla.
+### Los Límites Sociales.
+
+Aunque muchos mundos disponen de esta tecnología y están integrados en la **Sociedad Interestelar**, muchos otros son tecnológicamente dependientes y otros tantos están en vías de desarrollo.
+
+Es un entorno cosmopolita de culturas y gobiernos asimétricos, en el que los sistemas estelares dependen de las líneas de comercio para permanecer en contacto con el resto de la galaxia.
+
+Las estructuras planetarias en los distintos mundos van de colonias aisladas a megaciudades, organizadas socialmente de formas distintas, supeditadas a una compleja estructura de gobierno.
+
+Las fronteras entre imperios son nodos de información, intercambio tecnológico y choque cultural, y los territorios inexplorados presentan nuevas oportunidades de cooperacion, alianza y expansion.
+
+Los jugadores deberán atravesar un entramado legal de compromisos, regulaciones, plazos y permisos; en cumplimiento tanto de las gobernanzas locales, como de las interestelares; cuidando tanto de su imagen publica como de sus relaciones políticas, para extender su influencia por la galaxia.
+
+***
 
 ### Inspirado en Traveller™
 
 **The Corporate Wars** se inspira en Traveller™, uno de los universos de ciencia ficción vivos más ricos y realistas de la historia de los juegos: la inspiración fundamental para construir un universo donde los límites tecnológicos, sociales y económicos moldean cada decisión de los jugadores.
 
-The Corporate Wars se desarrolla bajo los términos de la Fair Use License de Mongoose Publishing / Far Future Enterprises, con quienes mantenemos una relación abierta y cordial para explorar en el futuro una posible oficialización como producto licenciado. Traveller™ y todos los elementos relacionados son propiedad intelectual de Far Future Enterprises.
+The Corporate Wars se desarrolla bajo los términos de la Fair Use License de Mongoose Publishing, con quienes mantenemos una relación abierta y cordial para explorar en el futuro una posible oficialización como producto licenciado. Traveller™ y todos los elementos relacionados son propiedad intelectual de Far Future Enterprises.
 
 Actualmente, este proyecto es un homenaje respetuoso y no constituye una adaptación oficial.
 
