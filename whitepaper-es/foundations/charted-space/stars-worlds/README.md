@@ -1,8 +1,11 @@
 ---
-description: Sistemas planetarios y cuerpos celestes que constituyen las bases de la expansión interestelar.
+description: >-
+  Sistemas planetarios y cuerpos celestes que constituyen las bases de la
+  expansión interestelar.
+coverY: 0
 ---
 
-# Mundos y Estrellas
+# Estrellas y Mundos
 
 El universo de **The Corporate Wars** está compuesto por innumerables sistemas planetarios, cada uno con su propia combinación de estrellas, planetas, lunas y cuerpos menores.
 

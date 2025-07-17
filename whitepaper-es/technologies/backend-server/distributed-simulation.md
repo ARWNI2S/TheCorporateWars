@@ -1,3 +1,7 @@
-# Simulación Distribuida
+---
+coverY: 0
+---
+
+# SimulaciÃ³n Distribuida
 
 Bla

@@ -1,5 +1,8 @@
 ---
-description: Sociedades sin tecnología avanzada, dependientes de herramientas primitivas o rudimentarias.
+description: >-
+  Sociedades sin tecnología avanzada, dependientes de herramientas primitivas o
+  rudimentarias.
+coverY: 0
 ---
 
 # Nivel Cero

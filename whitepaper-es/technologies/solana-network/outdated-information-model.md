@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # El Modelo de Información Desfasada
 
 En un Imperio de más de once mil mundos, donde las naves de salto son las arterias que conectan civilizaciones dispersas, la información **nunca** llega de forma instantanea.

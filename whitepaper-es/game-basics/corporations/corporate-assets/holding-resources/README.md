@@ -1,5 +1,6 @@
 ---
 description: Activos tangibles, materiales y propiedad bajo control corporativo.
+coverY: 0
 ---
 
 # Recursos y Propiedades

@@ -1,5 +1,6 @@
 ---
 description: Cuerpos celestes que albergan diversos entornos y oportunidades.
+coverY: 0
 ---
 
 # Planetas y Lunas

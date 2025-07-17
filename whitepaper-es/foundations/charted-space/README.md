@@ -1,5 +1,8 @@
 ---
-description: Regiones cartografiadas del espacio, que definen los límites de la exploración, el comercio y la civilización.
+description: >-
+  Regiones cartografiadas del espacio, que definen los límites de la
+  exploración, el comercio y la civilización.
+coverY: 0
 ---
 
 # El Espacio Conocido

@@ -1,3 +1,7 @@
-# Imagen Pública
+---
+coverY: 0
+---
+
+# Imagen PÃºblica
 
 Bla

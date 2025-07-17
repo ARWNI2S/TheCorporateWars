@@ -1,3 +1,7 @@
-# Otras Políticas
+---
+coverY: 0
+---
+
+# Otras PolÃ­ticas
 
 Bla

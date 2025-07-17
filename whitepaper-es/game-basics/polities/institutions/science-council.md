@@ -1,1 +1,6 @@
-# Concilio Gal·ctico de las Ciencias
+---
+coverY: 0
+---
+
+# Concilio Gal√°ctico de las Ciencias
+

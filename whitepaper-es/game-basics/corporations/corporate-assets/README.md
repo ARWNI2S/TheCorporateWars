@@ -2,6 +2,7 @@
 description: >-
   Infraestructura, activos y personal esenciales para la expansión y
   sostenibilidad.
+coverY: 0
 ---
 
 # Activos Corporativos

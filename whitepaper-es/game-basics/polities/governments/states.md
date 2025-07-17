@@ -1,3 +1,7 @@
-# Estados y Soberanía
+---
+coverY: 0
+---
+
+# Estados y SoberanÃ­a
 
 Bla

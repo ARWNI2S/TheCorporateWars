@@ -1,3 +1,7 @@
-# Teoría de Juegos
+---
+coverY: 0
+---
+
+# TeorÃ­a de Juegos
 
 Get

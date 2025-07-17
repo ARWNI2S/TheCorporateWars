@@ -1,3 +1,7 @@
-# Sistema de Generación de Sofontes
+---
+coverY: 0
+---
+
+# Sistema de GeneraciÃ³n de Sofontes
 
 Bla

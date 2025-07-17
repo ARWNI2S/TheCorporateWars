@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Blockchain Stateless
 
 La elección de Solana como base tecnológica en **The Corporate Wars** no es casualidad: su diseño arquitectónico resuelve problemas clave para construir un universo persistente, distribuido y asimétrico en el tiempo.

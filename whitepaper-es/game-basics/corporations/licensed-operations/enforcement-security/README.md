@@ -2,6 +2,7 @@
 description: >-
   Soluciones de protección y aplicación regulada de la ley para operaciones de
   seguridad estratégicas, tácticas y privadas.
+coverY: 0
 ---
 
 # Policía y Seguridad
@@ -17,4 +18,3 @@ Una corporación de seguridad bien gestionada puede no solo salvaguardar activos
 {% hint style="danger" %}
 Operar en el ámbito de policía y seguridad implica muy altos riesgos financieros, incluyendo la destrucción de propiedades y personal. Este mercado es adecuado para jugadores pacientes, con objetivos a largo plazo y capaces de minimizar el riesgo al participar en conflictos de terceros.
 {% endhint %}
-

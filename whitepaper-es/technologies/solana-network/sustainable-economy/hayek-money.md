@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Estabilización Algorítmica
 
 La economía interestelar de **The Corporate Wars** descansa sobre mecanismos de estabilización algorítmica avanzados, inspirados en los experimentos contemporáneos con stablecoins algorítmicas, en particular Hayek Money, y reinterpretados como siglos de ingeniería Vilani, refinados por las IAs de Core.

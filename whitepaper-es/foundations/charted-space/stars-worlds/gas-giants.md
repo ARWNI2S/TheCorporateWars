@@ -1,5 +1,6 @@
 ---
 description: Cuerpos planetarios masivos con recursos atmosféricos explotables.
+coverY: 0
 ---
 
 # Gigantes de Gas

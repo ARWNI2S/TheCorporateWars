@@ -1,5 +1,6 @@
 ---
 description: Permisos legales y derechos de propiedad que rigen las operaciones.
+coverY: 0
 ---
 
 # Concesiones y Participaciones

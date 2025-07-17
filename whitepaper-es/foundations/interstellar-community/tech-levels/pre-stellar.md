@@ -1,5 +1,8 @@
 ---
-description: Carentes de capacidad para viajar entre las estrellas, confinadas a sus sistemas estelares de origen.
+description: >-
+  Carentes de capacidad para viajar entre las estrellas, confinadas a sus
+  sistemas estelares de origen.
+coverY: 0
 ---
 
 # Pre-Estelar

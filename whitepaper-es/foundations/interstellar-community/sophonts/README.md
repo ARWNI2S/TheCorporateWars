@@ -1,21 +1,24 @@
 ---
-description: Civilizaciones y especies que participan en el panorama político-económico interestelar.
+description: >-
+  Civilizaciones y especies que participan en el panorama polï¿½tico-econï¿½mico
+  interestelar.
+coverY: 0
 ---
 
 # Sofontes
 
-Las sociedades interestelares están compuestas por múltiples civilizaciones y especies inteligentes, conocidas colectivamente como _sofontes_.
+Las sociedades interestelares estï¿½n compuestas por mï¿½ltiples civilizaciones y especies inteligentes, conocidas colectivamente como _sofontes_.
 
-Estas entidades varían en su desarrollo tecnológico, estructura política, cultura y forma de expansión en la galaxia.
+Estas entidades varï¿½an en su desarrollo tecnolï¿½gico, estructura polï¿½tica, cultura y forma de expansiï¿½n en la galaxia.
 
-Algunas han construido vastos imperios burocráticos, mientras que otras operan como redes descentralizadas de comercio, exploración o dominio territorial.
+Algunas han construido vastos imperios burocrï¿½ticos, mientras que otras operan como redes descentralizadas de comercio, exploraciï¿½n o dominio territorial.
 
-La interacción entre los sofontes define el equilibrio de poder en la galaxia, afectando directamente la economía, la política y la seguridad.
+La interacciï¿½n entre los sofontes define el equilibrio de poder en la galaxia, afectando directamente la economï¿½a, la polï¿½tica y la seguridad.
 
-Además, las diferencias biológicas e ideológicas entre los sofontes impactan la economía.
+Ademï¿½s, las diferencias biolï¿½gicas e ideolï¿½gicas entre los sofontes impactan la economï¿½a.
 
-Algunas especies poseen necesidades industriales y logísticas específicas, lo que genera oportunidades comerciales únicas para el suministro de bienes, tecnología y servicios.
+Algunas especies poseen necesidades industriales y logï¿½sticas especï¿½ficas, lo que genera oportunidades comerciales ï¿½nicas para el suministro de bienes, tecnologï¿½a y servicios.
 
-Por otro lado, las tensiones entre facciones o especies pueden desembocar en guerras frías económicas o conflictos abiertos en los que las corporaciones pueden intervenir, ya sea como mediadoras, proveedoras de seguridad o incluso instigadoras de desestabilización con fines lucrativos.
+Por otro lado, las tensiones entre facciones o especies pueden desembocar en guerras frï¿½as econï¿½micas o conflictos abiertos en los que las corporaciones pueden intervenir, ya sea como mediadoras, proveedoras de seguridad o incluso instigadoras de desestabilizaciï¿½n con fines lucrativos.
 
-En este entorno, entender a los sofontes no es solo una cuestión de diplomacia, sino una ventaja estratégica para expandir operaciones y consolidar poder en la galaxia.
+En este entorno, entender a los sofontes no es solo una cuestiï¿½n de diplomacia, sino una ventaja estratï¿½gica para expandir operaciones y consolidar poder en la galaxia.

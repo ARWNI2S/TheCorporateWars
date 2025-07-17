@@ -1,5 +1,8 @@
 ---
-description: Transporte interestelar y tecnologías de propulsión que permiten la movilidad galáctica.
+description: >-
+  Transporte interestelar y tecnologías de propulsión que permiten la movilidad
+  galáctica.
+coverY: 0
 ---
 
 # Astronaves y Espacionaves

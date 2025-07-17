@@ -1,5 +1,6 @@
 ---
 description: Definiendo el alcance operativo inicial y las oportunidades estratégicas.
+coverY: 0
 ---
 
 # Operaciones Autorizadas

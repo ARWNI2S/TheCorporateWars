@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # El Negocio de la Expansión
 
 La importancia de los distintos mundos determina como se conectan entre si, dibujando las rutas de transito interestelar.

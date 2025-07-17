@@ -1,3 +1,7 @@
-# La Federación
+---
+coverY: 0
+---
+
+# La FederaciÃ³n
 
 Bla

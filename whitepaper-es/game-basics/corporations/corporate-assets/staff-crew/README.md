@@ -2,6 +2,7 @@
 description: >-
   Mano de obra general y personal especializado a cargo de la gestión de activos
   y operaciones.
+coverY: 0
 ---
 
 # Personal y Tripulación

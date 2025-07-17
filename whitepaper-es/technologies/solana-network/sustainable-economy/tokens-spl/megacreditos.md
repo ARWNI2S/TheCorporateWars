@@ -1,2 +1,6 @@
-# MegaCr�ditos
+---
+coverY: 0
+---
+
+# MegaCréditos
 

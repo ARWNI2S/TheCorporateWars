@@ -72,6 +72,7 @@
       * [Mercado de Valores](game-basics/corporations/corporate-assets/shares-grants/share-market.md)
       * [Grandes Inversiones](game-basics/corporations/corporate-assets/shares-grants/high-finance.md)
 * [Políticas](game-basics/polities/README.md)
+  * [Las Corporaciones son Políticas](game-basics/polities/players.md)
   * [Lealtades](game-basics/polities/alliegances/README.md)
     * [El Tercer Imperio](game-basics/polities/alliegances/third-imperium/README.md)
       * [Nobleza](game-basics/polities/alliegances/third-imperium/nobiliti.md)
@@ -100,7 +101,6 @@
     * [Concilio Galáctico de las Ciencias](game-basics/polities/institutions/science-council.md)
     * [Mercado de Valores Interestelar](game-basics/polities/institutions/ise.md)
   * [Otras Políticas](game-basics/polities/other-polities/README.md)
-    * [Las Corporaciones son Políticas](game-basics/polities/other-polities/players.md)
     * [Clanes y Alianzas](game-basics/polities/other-polities/guilds.md)
 
 ## Tecnología Implicada <a href="#technologies" id="technologies"></a>

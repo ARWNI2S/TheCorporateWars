@@ -1,5 +1,8 @@
 ---
-description: El Impulsor de Salto es una tecnología que permite a navíos especializados crear un espacio hiperdimensional direccionado.
+description: >-
+  El Impulsor de Salto es una tecnología que permite a navíos especializados
+  crear un espacio hiperdimensional direccionado.
+coverY: 0
 ---
 
 # El Impulsor de Salto

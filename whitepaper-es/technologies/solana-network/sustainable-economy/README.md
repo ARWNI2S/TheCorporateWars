@@ -1,3 +1,7 @@
-# Economía Autosostenible
+---
+coverY: 0
+---
+
+# EconomÃ­a Autosostenible
 
 Bla
