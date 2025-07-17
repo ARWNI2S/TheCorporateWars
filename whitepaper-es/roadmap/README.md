@@ -1,3 +1,23 @@
+---
+cover: ../.gitbook/assets/tcw-roadmap.jpg
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Hoja de Ruta
 
 El desarrollo de _**The Corporate Wars**_ sigue una hoja de ruta centrada en la integración progresiva y ortogonal de sistemas complejos que conforman el núcleo de la experiencia de juego. La prioridad es desplegar un prototipo funcional de la **economía central**, donde la gobernanza, las recompensas y la interacción con los tokens establecen desde el inicio el marco sobre el que se construirán el resto de mecánicas y dinámicas de juego. Esta primera etapa permitirá validar los flujos económicos y ajustar el equilibrio antes de expandir la experiencia hacia la simulación táctica y la gestión de activos.
