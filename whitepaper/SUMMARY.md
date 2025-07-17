@@ -6,7 +6,8 @@
 
 * [Roadmap](roadmap/README.md)
 * [Historical Deployment Stages](roadmap/deployment/README.md)
-  * [Milieu 0](roadmap/deployment/first-survey.md)
+  * [Milieu 0](roadmap/deployment/first-survey/README.md)
+    * [Exploration and Expansion](roadmap/deployment/first-survey/explore-expand.md)
   * [Traveller™](roadmap/deployment/second-survey.md)
   * [The Corporate Wars](roadmap/deployment/third-survey.md)
 * [Milestones](roadmap/milestones.md)
