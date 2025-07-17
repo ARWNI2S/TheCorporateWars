@@ -45,3 +45,37 @@ En esta etapa el sistema financiero interestelar simula:
 - las grandes fortunas de la _nobleza_.
 
 > Esto no es una propuesta de inversión, sino de participación en un sistema de juego funcional y emergente, en una etapa temprana de su desarrollo.
+
+### _Políticas_ de Milieu 0
+
+El sistema de _políticas_, ya estructurado, permite:
+- la creación de las _Lealtades_ principales y _políticas_ interestelares,
+- la creación de _gobiernos_ afiliadas a _Lealtades_,
+- la creación de _megacorporaciones_ como agregados de _políticas_,
+- y la creación de _corporaciones_ individuales.
+
+Estas _políticas_ persistirán como entidades de juego historicas, fuera del control directo de los jugadores, pero con un impacto directo en las mecanicas relacionadas con _lealtades_, _gobiernos_, _leyes_ y _economía_ de grandes territorios.
+
+### Exploración y Expansión
+
+Los diversos aportes al sistema económico construyen una red de mundos y rutas de salto alrededor de Sylea.
+
+
+
+Los RU se distribuyen en el sistema de forma equilibrada, acumulandose en los mundos de forma progresiva.
+
+
+
+Las primeras etapas estan destinadas unicamente a Sylea, reforzando su posicion como Capital del Imperio. 
+
+Las RU acumuladas implican SOL en tesoreria, lo cual permite el despliegue de rutas como PDA, pero para desplegar la ruta primero necesitamos un destino, por lo que es respnsabilidad del "stack syleano" pagar los rent de las pda de los mundos y turas a su alrededor.
+
+Esto nos permite sentar las bases del proceso de exploracion de nevos sectores de la galaxia y simular la expansion del imperio y las rutas interestelares.
+
+
+
+
+
+
+
+Cada mundo representa un nodo y cada ruta una arista en una red neural asimetrica bidireccional.

@@ -7,7 +7,7 @@
 * [Hoja de Ruta](roadmap/README.md)
 * [Despliegue Histórico](roadmap/deployment/README.md)
   * [Milieu 0](roadmap/deployment/first-survey/README.md)
-    * [Exploración y Expansión](roadmap/deployment/first-survey/explore-expand.md)
+    * [Políticas Implementadas](roadmap/deployment/first-survey/ready-polities.md)
   * [Traveller™](roadmap/deployment/second-survey.md)
   * [The Corporate Wars](roadmap/deployment/third-survey.md)
 * [Hitos](roadmap/milestones.md)
