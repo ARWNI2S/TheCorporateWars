@@ -1,5 +1,6 @@
 ---
 description: Cuerpos celestes que albergan diversos entornos y oportunidades.
+cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

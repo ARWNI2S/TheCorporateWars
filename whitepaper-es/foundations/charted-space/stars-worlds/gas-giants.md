@@ -1,5 +1,6 @@
 ---
 description: Cuerpos planetarios masivos con recursos atmosféricos explotables.
+cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

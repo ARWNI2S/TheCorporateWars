@@ -1,5 +1,6 @@
 ---
 description: Defining initial operational scope and strategic opportunities.
+cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

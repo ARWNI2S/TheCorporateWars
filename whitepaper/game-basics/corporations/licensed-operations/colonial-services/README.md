@@ -2,6 +2,7 @@
 description: >-
   Construction, management, and operation of colonial infrastructures and
   essential services.
+cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

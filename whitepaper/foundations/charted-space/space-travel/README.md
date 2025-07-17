@@ -2,6 +2,7 @@
 description: >-
   The seamless circulation of people and goods through the vast reaches of
   space, bridging wordls and cultures.
+cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

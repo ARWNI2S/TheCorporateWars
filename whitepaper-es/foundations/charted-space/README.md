@@ -2,6 +2,7 @@
 description: >-
   Regiones cartografiadas del espacio, que definen los límites de la
   exploración, el comercio y la civilización.
+cover: ../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

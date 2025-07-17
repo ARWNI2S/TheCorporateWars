@@ -2,6 +2,7 @@
 description: >-
   Planetary systems and celestial bodies forming the foundation of interstellar
   expansion.
+cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

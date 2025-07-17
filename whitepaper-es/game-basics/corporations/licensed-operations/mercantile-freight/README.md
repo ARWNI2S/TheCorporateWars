@@ -2,6 +2,7 @@
 description: >-
   Transporte comercial, entrega de correo y logística para el comercio
   interestelar y las redes de suministro.
+cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

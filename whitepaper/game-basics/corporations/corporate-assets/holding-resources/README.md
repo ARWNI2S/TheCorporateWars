@@ -1,5 +1,6 @@
 ---
 description: Tangible assets, raw materials, and claims under corporate control.
+cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

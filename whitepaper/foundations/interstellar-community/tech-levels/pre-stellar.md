@@ -1,5 +1,6 @@
 ---
 description: Lacking of starfaring capabilities, confined to their homeworld starsystem.
+cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

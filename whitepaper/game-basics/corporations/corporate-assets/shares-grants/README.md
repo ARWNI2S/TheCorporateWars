@@ -1,5 +1,6 @@
 ---
 description: Legal permissions and ownership rights governing operations.
+cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

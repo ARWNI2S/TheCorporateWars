@@ -2,6 +2,7 @@
 description: >-
   Sistemas planetarios y cuerpos celestes que constituyen las bases de la
   expansión interestelar.
+cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

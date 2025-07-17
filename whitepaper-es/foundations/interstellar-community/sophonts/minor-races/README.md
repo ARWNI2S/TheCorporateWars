@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/TCW.jpg
+cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
   width: default

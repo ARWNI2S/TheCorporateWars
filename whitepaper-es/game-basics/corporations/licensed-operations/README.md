@@ -1,5 +1,6 @@
 ---
 description: Definiendo el alcance operativo inicial y las oportunidades estratégicas.
+cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

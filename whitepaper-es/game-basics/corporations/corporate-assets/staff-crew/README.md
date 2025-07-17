@@ -2,6 +2,7 @@
 description: >-
   Mano de obra general y personal especializado a cargo de la gestión de activos
   y operaciones.
+cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

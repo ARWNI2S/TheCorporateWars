@@ -2,6 +2,7 @@
 description: >-
   Transporte interestelar y tecnologías de propulsión que permiten la movilidad
   galáctica.
+cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

@@ -2,6 +2,7 @@
 description: >-
   Civilizaciones y especies que participan en el panorama pol�tico-econ�mico
   interestelar.
+cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

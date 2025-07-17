@@ -2,6 +2,7 @@
 description: >-
   Mapped regions of space, defining the boundaries of exploration, commerce, and
   civilization.
+cover: ../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

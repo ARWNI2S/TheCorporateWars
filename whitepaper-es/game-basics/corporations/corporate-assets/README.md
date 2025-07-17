@@ -2,6 +2,7 @@
 description: >-
   Infraestructura, activos y personal esenciales para la expansión y
   sostenibilidad.
+cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

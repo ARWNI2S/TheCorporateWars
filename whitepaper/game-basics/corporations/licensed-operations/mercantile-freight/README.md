@@ -2,6 +2,7 @@
 description: >-
   Commercial transportation, mail delivery, and logistics for interstellar trade
   and supply networks.
+cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

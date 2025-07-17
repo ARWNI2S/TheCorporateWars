@@ -1,5 +1,6 @@
 ---
 description: Activos tangibles, materiales y propiedad bajo control corporativo.
+cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

@@ -2,6 +2,7 @@
 description: >-
   Societies without advanced technology, reliant on primitive or rudimentary
   tools.
+cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

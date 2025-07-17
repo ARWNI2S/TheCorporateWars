@@ -1,5 +1,6 @@
 ---
 description: Massive planetary bodies with exploitable atmospheric resources.
+cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

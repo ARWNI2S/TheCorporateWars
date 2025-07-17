@@ -2,6 +2,7 @@
 description: >-
   Interstellar transportation and propulsion technologies enabling galactic
   mobility.
+cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

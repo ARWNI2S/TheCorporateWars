@@ -1,5 +1,6 @@
 ---
 description: General workforce and specialized personnel managing assets and operations.
+cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

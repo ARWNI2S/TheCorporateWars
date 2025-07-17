@@ -2,6 +2,7 @@
 description: >-
   Civilizations and species participating in the interstellar economic and
   political landscape.
+cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

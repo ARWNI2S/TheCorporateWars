@@ -2,6 +2,7 @@
 description: >-
   Infrastructure, holdings, and personnel critical for expansion and
   sustainability.
+cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

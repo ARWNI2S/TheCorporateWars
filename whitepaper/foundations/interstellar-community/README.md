@@ -2,6 +2,7 @@
 description: >-
   The diverse civilizations, technological advancements, and governing systems
   shaping Interstellar Community.
+cover: ../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

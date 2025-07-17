@@ -1,5 +1,6 @@
 ---
 description: Permisos legales y derechos de propiedad que rigen las operaciones.
+cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

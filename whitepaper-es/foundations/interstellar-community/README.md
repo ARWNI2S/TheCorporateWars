@@ -2,6 +2,7 @@
 description: >-
   Las diversas civilizaciones, avances tecnológicos y sistemas de gobierno que
   dan forma a la Comunidad Interestelar.
+cover: ../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 

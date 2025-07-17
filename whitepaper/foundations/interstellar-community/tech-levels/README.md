@@ -2,6 +2,7 @@
 description: >-
   A classification of civilizations based on their technological capabilities
   and development.
+cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 
