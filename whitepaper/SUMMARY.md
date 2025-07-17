@@ -31,8 +31,8 @@
     * [Gas Giants](foundations/charted-space/stars-worlds/gas-giants.md)
     * [Asteroid Belts](foundations/charted-space/stars-worlds/asteroid-belts.md)
   * [Space Travel](foundations/charted-space/space-travel/README.md)
-    * [The Jump Drive](foundations/charted-space/space-travel/jump-drive.md)
     * [Starships and Spacecraft](foundations/charted-space/space-travel/starships/README.md)
+      * [The Jump Drive](foundations/charted-space/space-travel/starships/jump-drive.md)
       * [Naval Architecture System](foundations/charted-space/space-travel/starships/naval-architecture-system.md)
     * [Starports](foundations/charted-space/space-travel/starports.md)
 
