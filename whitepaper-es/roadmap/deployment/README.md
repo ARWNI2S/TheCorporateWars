@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/tcw-deploment.jpg
+cover: ../../.gitbook/assets/tcw-deployment.jpg
 coverY: 0
 ---
 
