@@ -2,6 +2,7 @@
 description: >-
   Soluciones de protección y aplicación regulada de la ley para operaciones de
   seguridad estratégicas, tácticas y privadas.
+cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 
