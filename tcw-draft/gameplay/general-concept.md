@@ -68,7 +68,7 @@ The corporate headquarters is the core of decision-making. From there, the unive
 
 Running a corporation in TCW is much more than moving goods: it's about navigating a web of licenses, concessions, and shares that determine who can operate, where, and under what conditions.
 
-These elements are not mere assets: they are dynamic, negotiable, mortgageable, and subject to risk, espionage, or political intervention.
+These elements are not mere assets: they are dynamic, negotiable, mortgageable, and subject to risk, espionage, or polítical intervention.
 
 Leadership is not just about accumulation: it's about building influence, reputation, and power networks in a universe where a single permit can open —or close— entire empires.
 

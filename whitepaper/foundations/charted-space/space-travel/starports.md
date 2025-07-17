@@ -16,7 +16,7 @@ The quality and capacity of a starport determine its importance within the galac
 
 Some are luxurious enclaves with facilities catering to the galaxy’s elite, while others are dangerous transit points where pirates and dubious traders mingle in search of opportunities.
 
-In all cases, these places are vital to a system’s economic and political activity.
+In all cases, these places are vital to a system’s economic and polítical activity.
 
 For corporations, controlling or influencing a starport means dominating the flow of goods and passengers, imposing tariffs, ensuring operational security, and restricting competitors’ access.
 

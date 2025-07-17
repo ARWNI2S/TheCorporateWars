@@ -64,7 +64,11 @@ Las fronteras entre imperios son nodos de información, intercambio tecnológico
 
 **The Corporate Wars** se desarrolla bajo los términos de la Fair Use License de Mongoose Publishing, con quienes mantenemos una relación abierta y cordial para explorar en el futuro una posible oficialización como producto licenciado. Traveller™ y todos los elementos relacionados son propiedad intelectual de Far Future Enterprises.
 
-> Actualmente, este proyecto es un homenaje respetuoso y no constituye una adaptación oficial.
+> Actualmente, este proyecto es un homenaje a los 50 años de Traveller™ y no constituye una adaptación oficial.
+
+> En respetuoso homenaje a Andrew Boulton (1969 - 2012).  
+> Este proyecto, dio sus primeros pasos con su inestimable apoyo en las redes.  
+> _We, as Citizens of the Imperium, miss you._
 
 ### Empieza aquí.
 

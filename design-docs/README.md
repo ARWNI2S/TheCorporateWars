@@ -31,7 +31,7 @@ This leaves trade routes as the only reliable means of information flow: interst
 
 It is a fragile framework, balanced between large-scale economic decentralization and local policies, where players must constantly adjust their strategies, overcoming ruthless logistical constraints and facing regulations imposed by interplanetary powers seeking to maintain their influence over interstellar trade.
 
-In this scenario, industry, banking, and commerce are not just engines of progress but weapons in a covert war for supremacy. From financial manipulation to the political subjugation of key regions, every decision redefines the balance of power. Diplomacy is a mere veil, and information is the most valuable currency in a conflict where the true battlefield is the interstellar economy.
+In this scenario, industry, banking, and commerce are not just engines of progress but weapons in a covert war for supremacy. From financial manipulation to the polítical subjugation of key regions, every decision redefines the balance of power. Diplomacy is a mere veil, and information is the most valuable currency in a conflict where the true battlefield is the interstellar economy.
 
 ### Jump right in
 

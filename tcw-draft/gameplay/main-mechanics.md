@@ -4,7 +4,7 @@ In the galaxy, corporations are not mere commercial entities: they are fundament
 
 From free traders to institutionalized megacorporations, these organizations weave networks of production, transportation, financing, and power that span entire sectors.
 
-Each corporation combines resources, technology, personnel, and political capital to expand, consolidate, or simply survive in an environment where slow communications, economic rivalries, and diplomatic tensions are the norm.
+Each corporation combines resources, technology, personnel, and polítical capital to expand, consolidate, or simply survive in an environment where slow communications, economic rivalries, and diplomatic tensions are the norm.
 
 {% hint style="success" %}
 The core mechanics reflect this scenario: it is not enough to build, trade, or conquer; players must manage logistical chains, secure strategic information, maintain efficient command structures, and negotiate permits, concessions, and alliances across multiple levels.
@@ -70,7 +70,7 @@ From local governments to complex interstellar entities, guilds, and consortia, 
 
 ### Authority and Government
 
-The legal and political framework is no decoration; it defines what can and cannot be done.
+The legal and polítical framework is no decoration; it defines what can and cannot be done.
 
 Each world, sector, or alliance enforces its own laws on trade, trafficking, weapons, technology, biotechnology, AI, or slavery, among others.
 
@@ -78,7 +78,7 @@ Each world, sector, or alliance enforces its own laws on trade, trafficking, wea
 Guilds act as interplanetary organizations able to grant exclusive licenses, impose sanctions, or mediate disputes.
 {% endhint %}
 
-Human, alien, or hybrid cultures add layers of social and political complexity that shape every corporate move.
+Human, alien, or hybrid cultures add layers of social and polítical complexity that shape every corporate move.
 
 Interstellar alliances introduce yet another layer of rules and restrictions.
 
@@ -166,7 +166,7 @@ Every corporation is a social ecosystem.
 
 Within coexist executives, engineers, workers, unions, shareholders, and, at times, factions with conflicting interests.
 
-Staff morale, internal political disputes, and departmental tensions can boost performance —or sink it.
+Staff morale, internal polítical disputes, and departmental tensions can boost performance —or sink it.
 
 Managing the inside is non-optional: ignore it, and face talent drain, internal sabotage, reputation crises, or operational collapse.
 
@@ -187,4 +187,4 @@ Surviving corporations are those that understand the frontier thrives on unpredi
 ***
 
 > Each of these layers interweaves into a persistent ecosystem where nothing happens in isolation.\
-> Corporations operate on a dynamic board where every economic, political, military, or social decision sends ripples far beyond what was anticipated.
+> Corporations operate on a dynamic board where every economic, polítical, military, or social decision sends ripples far beyond what was anticipated.

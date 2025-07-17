@@ -2,6 +2,17 @@
 
 * [The Corporate Wars](README.md)
 
+## Proceso de Desarrollo <a href="#roadmap" id="roadmap"></a>
+
+* [Hoja de Ruta](roadmap/README.md)
+* [Despliegue Histórico](roadmap/deployment/README.md)
+  * [Milieu 0](roadmap/deployment/first-survey/README.md)
+    * [Exploración y Expansion](roadmap/deployment/first-survey/explore-expand.md)
+  * [Traveller™](roadmap/deployment/second-survey.md)
+  * [The Corporate Wars](roadmap/deployment/third-survey.md)
+* [Hitos](roadmap/milestones.md)
+* [Posibilidades Futuras](roadmap/future-development.md)
+
 ## Los Cimientos del Universo <a href="#foundations" id="foundations"></a>
 
 * [El Próximo Milieu](foundations/next-milieu/README.md)
@@ -44,7 +55,7 @@
       * [Licencia de Libre Comercio](game-basics/corporations/licensed-operations/trade-commerce/free-trader.md)
     * [Servicios Coloniales](game-basics/corporations/licensed-operations/colonial-services/README.md)
       * [Imagen Pública](game-basics/corporations/licensed-operations/colonial-services/social-relations.md)
-      * [Relaciones Gubernamentales](game-basics/corporations/licensed-operations/colonial-services/political-relations.md)
+      * [Relaciones Gubernamentales](game-basics/corporations/licensed-operations/colonial-services/polítical-relations.md)
     * [Policía y Seguridad](game-basics/corporations/licensed-operations/enforcement-security/README.md)
       * [CCAOC](game-basics/corporations/licensed-operations/enforcement-security/COACC.md)
     * [Explotación de Concesiones](game-basics/corporations/licensed-operations/grant-exploitation/README.md)
@@ -132,16 +143,6 @@
   * [Simulación Distribuida](technologies/backend-server/distributed-simulation.md)
   * [AI LOD](technologies/backend-server/ai-lod.md)
   * [Servicios Solana](technologies/backend-server/solana-rpc.md)
-
-## Proceso de Desarrollo <a href="#roadmap" id="roadmap"></a>
-
-* [Hoja de Ruta](roadmap/README.md)
-* [Despliegue Histórico](roadmap/deployment/README.md)
-  * [Milieu 0](roadmap/deployment/first-survey.md)
-  * [Traveller™](roadmap/deployment/second-survey.md)
-  * [The Corporate Wars](roadmap/deployment/third-survey.md)
-* [Hitos](roadmap/milestones.md)
-* [Posibilidades Futuras](roadmap/future-development.md)
 
 ## Términos de Licencia y Copyright <a href="#license-terms" id="license-terms"></a>
 

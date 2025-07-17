@@ -2,6 +2,16 @@
 
 * [The Corporate Wars](README.md)
 
+## Development Roadmap <a href="#roadmap" id="roadmap"></a>
+
+* [Roadmap](roadmap/README.md)
+* [Historical Deployment Stages](roadmap/deployment/README.md)
+  * [Milieu 0](roadmap/deployment/first-survey.md)
+  * [Traveller™](roadmap/deployment/second-survey.md)
+  * [The Corporate Wars](roadmap/deployment/third-survey.md)
+* [Milestones](roadmap/milestones.md)
+* [Future Development](roadmap/future-development.md)
+
 ## The Foundations of the Universe <a href="#foundations" id="foundations"></a>
 
 * [The Next Milieu](foundations/next-milieu/README.md)
@@ -44,7 +54,7 @@
       * [Free Trader License](game-basics/corporations/licensed-operations/trade-commerce/free-trader.md)
     * [Colonial Services](game-basics/corporations/licensed-operations/colonial-services/README.md)
       * [Public Image](game-basics/corporations/licensed-operations/colonial-services/social-relations.md)
-      * [Govern Relationship](game-basics/corporations/licensed-operations/colonial-services/political-relations.md)
+      * [Govern Relationship](game-basics/corporations/licensed-operations/colonial-services/polítical-relations.md)
     * [Enforcement and Security](game-basics/corporations/licensed-operations/enforcement-security/README.md)
       * [COACC](game-basics/corporations/licensed-operations/enforcement-security/COACC.md)
     * [Grant Exploitation](game-basics/corporations/licensed-operations/grant-exploitation/README.md)
@@ -132,16 +142,6 @@
   * [Distributed Simulation](technologies/backend-server/distributed-simulation.md)
   * [AI LOD](technologies/backend-server/ai-lod.md)
   * [Solana Services](technologies/backend-server/solana-rpc.md)
-
-## Development Roadmap <a href="#roadmap" id="roadmap"></a>
-
-* [Roadmap](roadmap/README.md)
-* [Historical Deployment Stages](roadmap/deployment/README.md)
-  * [Milieu 0](roadmap/deployment/first-survey.md)
-  * [Traveller™](roadmap/deployment/second-survey.md)
-  * [The Corporate Wars](roadmap/deployment/third-survey.md)
-* [Milestones](roadmap/milestones.md)
-* [Future Development](roadmap/future-development.md)
 
 ## License Terms & Copyright <a href="#license-terms" id="license-terms"></a>
 

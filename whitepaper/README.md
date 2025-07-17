@@ -30,7 +30,7 @@ It weaves together economic simulation, exploration, logistical mastery, and eme
 
 **The Corporate Wars** is set in a far future where humanity dominates the stars, coexisting with other intelligent life forms in a colorful multicultural web of Nations, Alliances, Empires, Sovereign Worlds, Millennia-Old Institutions, Organizations, and Private Companies.
 
-Players take control of one of these companies, and their goal is profit. To achieve this, they can **trade** goods, build **infrastructure**, invest in the **Interstellar Stock Market**, extract **resources**, **manufacture** products, or research **technologies**; while at the same time managing **assets**, handling **funds**, seeking **financing**, acquiring **licenses** and permits, and complying with local **regulations**.
+> Players take control of one of these companies, and their goal is profit. To achieve this, they can **trade** goods, build **infrastructure**, invest in the **Interstellar Stock Market**, extract **resources**, **manufacture** products, or research **technologies**; while at the same time managing **assets**, handling **funds**, seeking **financing**, acquiring **licenses** and permits, and complying with local **regulations**.
 
 ### Technological Limits
 
@@ -54,7 +54,7 @@ Planetary structures on different worlds range from isolated colonies to megacit
 
 The borders between empires are nodes of information, technological exchange, and cultural clash, and unexplored territories present new opportunities for cooperation, alliance, and expansion.
 
-Players will have to navigate a legal web of commitments, regulations, deadlines, and permits; complying with both local and interstellar governance; taking care of both their public image and their political relationships, to extend their influence across the galaxy.
+> Players will have to navigate a legal web of commitments, regulations, deadlines, and permits; complying with both local and interstellar governance; taking care of both their public image and their polítical relationships, to extend their influence across the galaxy.
 
 ***
 
@@ -66,7 +66,11 @@ a foundational inspiration in crafting a setting where technological, social, an
 **The Corporate Wars** is developed under the Fair Use License of Mongoose Publishing / Far Future Enterprises, with whom we maintain an open and cordial relationship regarding potential future licensing as an official product.\
 Traveller™ and all related elements are the intellectual property of Far Future Enterprises.
 
-At present, this project stands as a respectful tribute, not an official adaptation.
+> At present, this project stands as a respectful tribute, not an official adaptation.
+
+> In respectful tribute to Andrew Boulton (1969–2012).  
+> This project took its first steps thanks to his invaluable encouragement and presence online.
+> _We, as Citizens of the Imperium, miss you._
 
 ### Jump right in
 

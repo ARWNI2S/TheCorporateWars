@@ -2,7 +2,7 @@
 
 **The Corporate Wars** is an economic simulation game set in a persistent, interconnected universe.
 
-Although its economy does not represent real life, its internal behavior is designed to be realistic, creating an ecosystem where player decisions, market dynamics, and political tensions generate emergent consequences on multiple levels.
+Although its economy does not represent real life, its internal behavior is designed to be realistic, creating an ecosystem where player decisions, market dynamics, and polítical tensions generate emergent consequences on multiple levels.
 
 {% hint style="info" %}
 The goal is not just to play with abstract numbers, but to face the challenges of operating in a decentralized environment, where information arrives with delays, prices fluctuate locally, and systemic risks are a natural part of the universe.

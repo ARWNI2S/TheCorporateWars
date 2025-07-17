@@ -53,7 +53,7 @@ In **The Corporate Wars**, this principle is embodied in interstellar routes, ac
 
 In the economic model of **The Corporate Wars**, planetary systems are modeled as nodes interconnected through interstellar trade routes, forming a network of high topological complexity.
 
-Alterations at any node—whether productive, political, or technological—modify the traffic patterns of its routes, generating events that propagate across the system according to the density of interstellar traffic.
+Alterations at any node—whether productive, polítical, or technological—modify the traffic patterns of its routes, generating events that propagate across the system according to the density of interstellar traffic.
 
 This type of propagation does not seek to homogenize states or achieve uniform equilibrium.
 

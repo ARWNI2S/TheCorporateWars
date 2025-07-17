@@ -8,7 +8,7 @@ description: >-
 
 Starports are the essential hubs of space travel in **The Corporate Wars**. More than simple landing facilities, they are nerve centers where ships refuel, contracts are negotiated, and civilizations interact. From high-tech orbital stations to rudimentary outposts on the surfaces of remote worlds, each starport plays a role in the vast network of interstellar trade and transportation.
 
-The quality and capacity of a starport determine its importance within the galactic economy. Some are luxurious enclaves with facilities catering to the galaxy’s elite, while others are dangerous transit points where pirates and dubious traders mingle in search of opportunities. In all cases, these places are vital to a system’s economic and political activity.
+The quality and capacity of a starport determine its importance within the galactic economy. Some are luxurious enclaves with facilities catering to the galaxy’s elite, while others are dangerous transit points where pirates and dubious traders mingle in search of opportunities. In all cases, these places are vital to a system’s economic and polítical activity.
 
 For corporations, controlling or influencing a starport means dominating the flow of goods and passengers, imposing tariffs, ensuring operational security, and restricting competitors’ access. Companies with the resources to develop or manage these logistical nodes can consolidate their power and monopolize key sectors of galactic trade.
 

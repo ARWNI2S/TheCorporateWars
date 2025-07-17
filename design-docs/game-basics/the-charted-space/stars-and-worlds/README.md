@@ -6,7 +6,7 @@ description: >-
 
 # Stars and Worlds
 
-The universe of **The Corporate Wars** is made up of countless planetary systems, each with its own combination of stars, planets, moons, and minor celestial bodies. These systems form the foundation of interstellar expansion, shaping the galaxy's economic, strategic, and political opportunities.
+The universe of **The Corporate Wars** is made up of countless planetary systems, each with its own combination of stars, planets, moons, and minor celestial bodies. These systems form the foundation of interstellar expansion, shaping the galaxy's economic, strategic, and polítical opportunities.
 
 Stars define the nature of a system. From long-lived red dwarfs to short-lived blue giants, each stellar type influences habitability and available resources. Systems with multiple suns may pose additional challenges for navigation and colonization due to their complex orbits.
 

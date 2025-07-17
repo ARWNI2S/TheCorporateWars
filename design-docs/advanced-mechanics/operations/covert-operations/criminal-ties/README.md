@@ -1,6 +1,6 @@
 # Criminal Ties
 
-In **The Corporate Wars**, criminal ties are a natural extension of covert operations, where corporations and Polities turn to illegal actors to carry out tasks that are too dirty or compromising to take on openly. Smuggling networks, crime syndicates, and groups of covert operatives become key pieces in the power machinery, operating in the shadows to alter the political and economic balance of entire regions.
+In **The Corporate Wars**, criminal ties are a natural extension of covert operations, where corporations and Polities turn to illegal actors to carry out tasks that are too dirty or compromising to take on openly. Smuggling networks, crime syndicates, and groups of covert operatives become key pieces in the power machinery, operating in the shadows to alter the polítical and economic balance of entire regions.
 
 These relationships are not mere convenience pacts, but structured alliances where organized crime becomes the enforcer of larger strategies. Corporate cartels finance and protect space pirates, employ professional saboteurs, and maintain smuggling channels that allow them to move goods, technology, or personnel through blockades and hostile borders. In return, criminal networks gain access to resources, protection from the law, and the ability to expand their influence under the complicit gaze of their sponsors.
 

@@ -1,7 +1,7 @@
 ---
 description: >-
   Civilizations and species participating in the interstellar economic and
-  political landscape.
+  polítical landscape.
 cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
@@ -10,7 +10,7 @@ coverY: 0
 
 Interstellar societies are composed of multiple civilizations and intelligent species, collectively known as _sophonts_.
 
-These entities vary in technological development, political structure, culture, and methods of expansion throughout the galaxy.
+These entities vary in technological development, polítical structure, culture, and methods of expansion throughout the galaxy.
 
 Some have built vast bureaucratic empires, while others operate as decentralized networks focused on trade, exploration, or territorial dominance.
 

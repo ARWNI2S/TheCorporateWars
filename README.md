@@ -8,7 +8,7 @@ Developed by **Alternate Reality Worlds**, this project combines worldbuilding, 
 
 ## Concept
 
-The game simulates a persistent world with its own population, production chains, political systems, and market dynamics. Players act as stakeholders in corporations, governments, or factions competing over limited resources, technological dominance, and influence.
+The game simulates a persistent world with its own population, production chains, polítical systems, and market dynamics. Players act as stakeholders in corporations, governments, or factions competing over limited resources, technological dominance, and influence.
 
 Inspired by the tone and aesthetic of *Traveller™*, but entirely original in mechanics and structure, the game leverages:
 

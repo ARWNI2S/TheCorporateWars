@@ -38,13 +38,13 @@ Starships equipped with **jump drives** traverse the void in **jump transits**, 
 The logistics of interstellar mail — and the reliability of jump routes — is a structural challenge faced by every high-tech civilization, and has caused some of the greatest crises in galactic history.
 {% endhint %}
 
-This intricate network balances large-scale economic decentralization with local political constraints.
+This intricate network balances large-scale economic decentralization with local polítical constraints.
 
 Players must adapt their strategies to survive ruthless logistical limitations and navigate the complex regulations imposed by interstellar powers eager to secure their hold over commerce and data flows.
 
 In this setting, industry, banking, and trade are not just engines of progress — they are weapons in a shadow war for supremacy.
 
-From financial manipulation to political subjugation of key regions, every decision redefines the balance of power.
+From financial manipulation to polítical subjugation of key regions, every decision redefines the balance of power.
 
 > Diplomacy is a veil, information is currency, and the **interstellar economy**... the true battlefield.
 

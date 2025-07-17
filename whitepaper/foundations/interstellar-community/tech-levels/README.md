@@ -20,7 +20,7 @@ The existence of multiple technological levels creates asymmetric power dynamics
 
 Corporations play a key role in this equation, acting as catalysts for development by providing technology and resources in exchange for strategic concessions.
 
-Likewise, they can also hinder the progress of certain worlds to maintain a commercial or political advantage.
+Likewise, they can also hinder the progress of certain worlds to maintain a commercial or polítical advantage.
 
 In a universe where access to information and mobility defines power, a society�s technology level is the determining factor that shapes its influence in the galaxy.
 

@@ -29,7 +29,7 @@ Las distancias interestelares hacen inviables las comunicaciones instantáneas, 
 
 Esto deja a las rutas comerciales como el único medio fiable para el flujo de información: las naves interestelares, equipadas con capacitadores de tránsito, se desplazan a velocidades superlumincas, permitiendo reducir la latencia de comunicaciones a la velocidad de las rutas comerciales. La gestion logistica de las comunicaciones interestelares es un problema que enfrentan todas las culturas de la Comunidad Interestelar, siendo la causa de las mayores crisis de la historia de la galaxia.
 
-Se trata de un frágil entramado, equilibrado entre la descentralización económica a gran escala y las politicas locales, donde los jugadores deben ajustar sus estrategias, superando restricciones logísticas despiadadas y afrontando regulaciones impuestas por potencias interplanetarias que buscan mantener su influencia sobre el comercio interestelar.
+Se trata de un frágil entramado, equilibrado entre la descentralización económica a gran escala y las políticas locales, donde los jugadores deben ajustar sus estrategias, superando restricciones logísticas despiadadas y afrontando regulaciones impuestas por potencias interplanetarias que buscan mantener su influencia sobre el comercio interestelar.
 
 En este escenario, la industria, la banca y el comercio no son solo motores de progreso, sino armas en una guerra encubierta por la supremacía. Desde la manipulación financiera hasta la subyugación política de regiones clave, cada decisión redefine el equilibrio de poder. La diplomacia es un velo y la información, la moneda más valiosa en un conflicto donde el verdadero campo de batalla es la economía interestelar.
 

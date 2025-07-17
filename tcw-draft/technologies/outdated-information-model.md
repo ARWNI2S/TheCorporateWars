@@ -14,7 +14,7 @@ This introduces **structural latencies**:
 * Decisions are made based on outdated data.
 * Opportunities and threats may have already vanished by the time the information arrives.
 
-The outdated information model is not a system flaw: **it is the system**. It defines strategies, conditions logistics, and shapes the very social, political, and economic fabric of the galaxy. And in _**The Corporate Wars**_, this model is not just flavor — it is the backbone of the technical design that sustains the persistent ecosystem.
+The outdated information model is not a system flaw: **it is the system**. It defines strategies, conditions logistics, and shapes the very social, polítical, and economic fabric of the galaxy. And in _**The Corporate Wars**_, this model is not just flavor — it is the backbone of the technical design that sustains the persistent ecosystem.
 
 {% hint style="info" %}
 Below, we explain how we have integrated this asynchrony at the heart of the game, using distributed technologies (like the Solana blockchain) to reflect a universe where absolute synchronization is unattainable.

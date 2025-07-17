@@ -1,5 +1,5 @@
 ---
-description: Copyright © 1977-2025 Moongoose Publishing. Todos los Derechos Reservados.
+description: Copyright © 1977-2025 Mongoose Publishing. Todos los Derechos Reservados.
 ---
 
 # Traveller™

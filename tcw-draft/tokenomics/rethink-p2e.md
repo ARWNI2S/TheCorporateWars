@@ -36,7 +36,7 @@ The withdrawal of MCr is not a feature available to all players or corporations.
 
 * **Internal volatility:** prices, costs, and margins in the **The Corporate Wars** universe are dynamic; today's surplus may turn into a deficit after a macroeconomic event.
 * **On-chain operational costs:** withdrawal involves technical fees (computation, transaction, storage) to be covered by the applicant.
-* **Reputational impact:** withdrawing large capital may affect political relationships, alliances, or trust indices in the ISE.
+* **Reputational impact:** withdrawing large capital may affect polítical relationships, alliances, or trust indices in the ISE.
 * **No guaranteed recovery:** an executed withdrawal is irreversible and does not guarantee preferential return to the ecosystem.
 
 ## Summary

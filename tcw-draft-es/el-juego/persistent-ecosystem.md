@@ -22,7 +22,7 @@ En este marco, las corporaciones no son simples actores: son los verdaderos pers
 
 El universo de **The Corporate Wars** se sitúa alrededor del 1200 del **Calendario Imperial**. El **Tercer Imperio** se extiende a lo largo de más de _once mil_ mundos, bajo la autoridad nominal del **Emperador&#x20;**_**Strephon** Aella Alkhalikoi_.
 
-La historia conocida ha evitado las fracturas que devastaron otras lineas temporales: no ha habido Rebelión, ni Virus, ni la devastación de la Nueva Era. El universo es un espacio lleno de tensiones, ambiciones y retos, pero mantiene la continuidad estructural de las líneas temporales clásicas de Traveller™ como Moongoose, GT y T20, donde el Milieu Imperial sigue su curso, consolidando lo que se proyectó durante los censos estelares:
+La historia conocida ha evitado las fracturas que devastaron otras lineas temporales: no ha habido Rebelión, ni Virus, ni la devastación de la Nueva Era. El universo es un espacio lleno de tensiones, ambiciones y retos, pero mantiene la continuidad estructural de las líneas temporales clásicas de Traveller™ como Mongoose, GT y T20, donde el Milieu Imperial sigue su curso, consolidando lo que se proyectó durante los censos estelares:
 
 * [x] **El Primer Censo (First Survey)**: fue el primer gran esfuerzo exploratorio imperial, donde se catalogaron los mundos habitados, los corredores de salto y las primeras fronteras.
 * [x] **El Segundo Censo (Second Survey)**: ha sido una actualización sistemática, que ha redefinido las rutas principales y formalizado las líneas de comercio y contacto.

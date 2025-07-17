@@ -1,6 +1,6 @@
 # Research
 
-Research in **The Corporate Wars** is a highly regulated activity, not only due to its impact on technological development but also because of its legal and cultural implications within each star system. Obtaining permission to conduct research projects is not a mere administrative procedure; it is a process that varies depending on the political, economic, and social environment of the world where the corporation intends to operate.
+Research in **The Corporate Wars** is a highly regulated activity, not only due to its impact on technological development but also because of its legal and cultural implications within each star system. Obtaining permission to conduct research projects is not a mere administrative procedure; it is a process that varies depending on the polítical, economic, and social environment of the world where the corporation intends to operate.
 
 In systems with commercial restrictions or a strong cultural identity, innovation may be seen as a threat to stability, making it difficult to obtain permits for laboratories, development centers, or advanced experimentation projects. In these cases, authorities may impose severe limitations on access to certain scientific fields, either to preserve technological hegemony, prevent disruptions to the social order, or simply slow down the progress of foreign interests in their territory.
 

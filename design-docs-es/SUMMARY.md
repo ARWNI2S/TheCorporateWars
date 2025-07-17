@@ -116,7 +116,7 @@
   * [Diseños Tokenizados](tokenomics/tokens-no-fungibles-nft/disenos-tokenizados.md)
   * [Coleccionables y Únicos](tokenomics/tokens-no-fungibles-nft/coleccionables-y-unicos.md)
 * [Gobernanza](tokenomics/gobernanza/README.md)
-  * [Políticas Dirigidas por el Juego](tokenomics/gobernanza/politicas-dirigidas-por-el-juego.md)
+  * [Políticas Dirigidas por el Juego](tokenomics/gobernanza/políticas-dirigidas-por-el-juego.md)
   * [Gremios y GAOs](tokenomics/gobernanza/gremios-y-gaos.md)
   * [Dragon Corp. Games](tokenomics/gobernanza/dragon-corp.-games.md)
 * [Early Adoption](tokenomics/early-adoption/README.md)

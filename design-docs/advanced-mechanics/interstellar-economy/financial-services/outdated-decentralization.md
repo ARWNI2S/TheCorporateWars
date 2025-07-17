@@ -1,6 +1,6 @@
 # Outdated Decentralization
 
-In an environment where information is only current within the star system where it resides, decentralization is not a strategy but a consequence of technological limitations. News, economic data, and political decisions travel alongside commerce — at the speed of the ships carrying interstellar mail. As a result, each system operates with outdated knowledge about the others, depending entirely on the frequency and speed of trade routes.
+In an environment where information is only current within the star system where it resides, decentralization is not a strategy but a consequence of technological limitations. News, economic data, and polítical decisions travel alongside commerce — at the speed of the ships carrying interstellar mail. As a result, each system operates with outdated knowledge about the others, depending entirely on the frequency and speed of trade routes.
 
 This information delay can cause overlaps and contradictions, with faster ships delivering recent updates while others transport already obsolete reports. Heavily trafficked systems enjoy better information flow, while frontier regions remain in a constant state of uncertainty.
 

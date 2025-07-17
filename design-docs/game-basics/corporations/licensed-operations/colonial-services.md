@@ -17,5 +17,5 @@ Corporations operating in this sector act as support providers for settlements, 
 ***
 
 {% hint style="success" %}
-Choosing a corporation that operates in the colonial services sector is a suitable option for players who prefer to start the game with strong political relationships and a steady source of income.
+Choosing a corporation that operates in the colonial services sector is a suitable option for players who prefer to start the game with strong polítical relationships and a steady source of income.
 {% endhint %}
