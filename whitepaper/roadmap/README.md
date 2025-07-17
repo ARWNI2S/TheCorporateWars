@@ -20,8 +20,20 @@ layout:
 
 # Roadmap
 
-The development of **The Corporate Wars** follows a roadmap focused on the progressive and orthogonal integration of complex systems that form the core of the gameplay experience. The priority is to deploy a functional prototype of the central economy, where governance, rewards, and interaction with tokens establish the framework upon which the rest of the game mechanics and dynamics will be built. This first stage will allow for the validation of economic flows and the adjustment of balance before expanding the experience into tactical simulation and asset management.
+The development of **The Corporate Wars** follows a roadmap focused on the progressive and orthogonal integration of complex systems that form the core of the gameplay experience.
 
-Building on this solid economic foundation, the project will progress by gradually incorporating game systems, with a special focus on strategic interaction, infrastructure building, and control of trade routes within a persistent and dynamic universe. The integration of the client on **Unreal Engine 5** will allow for scaling the visual and tactical complexity of gameplay, while backend systems manage persistence and transactions transparently for the player. Each system added will be functional and complete in itself, avoiding partial dependencies and facilitating iterative adjustments to mechanics and balance.
+The priority is to deploy a functional prototype of the central economy, where governance, rewards, and interaction with tokens establish the framework upon which the rest of the game mechanics and dynamics will be built.
 
-The public deployment of gameplay will occur once the economy, governance, and initial strategic interactions are fully operational and balanced. From that point on, **The Corporate Wars** will evolve as a living universe, where the competition for economic, political, and territorial control will be the primary driver of the experience. Subsequent expansions will incorporate new layers of complexity and emerging possibilities, always maintaining the coherence and strength of the system that underpins the interstellar corporate war.
+This first stage will allow for the validation of economic flows and the adjustment of balance before expanding the experience into tactical simulation and asset management.
+
+Building on this solid economic foundation, the project will progress by gradually incorporating game systems, with a special focus on strategic interaction, infrastructure building, and control of trade routes within a persistent and dynamic universe.
+
+The integration of the client on **Unreal Engine 5** will allow for scaling the visual and tactical complexity of gameplay, while backend systems manage persistence and transactions transparently for the player.
+
+Each system added will be functional and complete in itself, avoiding partial dependencies and facilitating iterative adjustments to mechanics and balance.
+
+The public deployment of gameplay will occur once the economy, governance, and initial strategic interactions are fully operational and balanced.
+
+From that point on, **The Corporate Wars** will evolve as a living universe, where the competition for economic, political, and territorial control will be the primary driver of the experience.
+
+Subsequent expansions will incorporate new layers of complexity and emerging possibilities, always maintaining the coherence and strength of the system that underpins the interstellar corporate war.
