@@ -1,8 +1,3 @@
----
-cover: ../../.gitbook/assets/tcw-deployment.jpg
-coverY: 0
----
-
 # Despliegue Histórico
 
 **The Corporate Wars** est� inspirado en Traveller�, y a lo largo del dise�o y los primeros desarrollos hemos ido notando los grandes paralelismos �impl�citos o subjetivos� que comparte con ciertos aspectos tecnol�gicos presentes en ese universo.
