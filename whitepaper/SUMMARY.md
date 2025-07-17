@@ -7,6 +7,7 @@
 * [Roadmap](roadmap/README.md)
 * [Historical Deployment Stages](roadmap/deployment/README.md)
   * [Milieu 0](roadmap/deployment/first-survey/README.md)
+    * [Deployed Polities](roadmap/deployment/first-survey/ready-polities.md)
   * [Traveller™](roadmap/deployment/second-survey.md)
   * [The Corporate Wars](roadmap/deployment/third-survey.md)
 * [Milestones](roadmap/milestones.md)
