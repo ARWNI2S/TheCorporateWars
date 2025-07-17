@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# **The Corporate Wars**
+# The Corporate Wars
 
 **The Corporate Wars** es un juego de simulación estratégica económica en tiempo real, ambientado en un universo abierto inspirado en Traveller™, donde los jugadores lideran corporaciones interestelares.
 
@@ -66,9 +66,9 @@ Las fronteras entre imperios son nodos de información, intercambio tecnológico
 
 > Actualmente, este proyecto es un homenaje a los 50 años de Traveller™ y no constituye una adaptación oficial.
 
-> En respetuoso homenaje a Andrew Boulton (1969 - 2012).  
-> Este proyecto, dio sus primeros pasos con su inestimable apoyo en las redes.  
-> _We, as Citizens of the Imperium, miss you._
+> En respetuoso homenaje a Andrew Boulton (1969 - 2012).\
+> Este proyecto, dio sus primeros pasos con su inestimable apoyo en las redes.\
+> &#xNAN;_&#x57;e, as Citizens of the Imperium, miss you._
 
 ### Empieza aquí.
 
