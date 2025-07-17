@@ -1,3 +1,23 @@
+---
+cover: ../.gitbook/assets/tcw-roadmap.jpg
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Roadmap
 
 The development of **The Corporate Wars** follows a roadmap focused on the progressive and orthogonal integration of complex systems that form the core of the gameplay experience. The priority is to deploy a functional prototype of the central economy, where governance, rewards, and interaction with tokens establish the framework upon which the rest of the game mechanics and dynamics will be built. This first stage will allow for the validation of economic flows and the adjustment of balance before expanding the experience into tactical simulation and asset management.
