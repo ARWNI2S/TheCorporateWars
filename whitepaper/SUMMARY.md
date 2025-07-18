@@ -42,7 +42,12 @@
 ## Game Mechanics <a href="#game-basics" id="game-basics"></a>
 
 * [Gameplay](game-basics/how-to-play/README.md)
-
+  * [MMORTS](game-basics/how-to-play/mmo-rts/README.md)
+    * [Explore and Trade](game-basics/how-to-play/mmo-rts/explore-trade.md)
+    * [Adventure and Conflict](game-basics/how-to-play/mmo-rts/adventure-conflict.md)
+  * [Tycoon](game-basics/how-to-play/tycoon/README.md)
+    * [Manage and Develop](game-basics/how-to-play/tycoon/manage-develop.md)
+  * [Polities and Governance](game-basics/how-to-play/polities-governance.md)
 * [Corporations](game-basics/corporations/README.md)
   * [Licensed Operations](game-basics/corporations/licensed-operations/README.md)
     * [Trade and Commerce](game-basics/corporations/licensed-operations/trade-commerce/README.md)
