@@ -9,9 +9,9 @@ Once a cradle of adventurers, today the Exploration Service is an administrative
 
 After fully completing the Second Survey, it dedicated itself to strengthening and modernizing the Imperial Mail routes, delegating much of its field activity to the private sector.
 
-### Imperial Edict 1143.1
+### Imperial Edict 1183.1
 
-In the year 1143, the First Imperial Edict was the approval and entry into force of private explorer licenses, issued by the Exploration Service under the Authority of the Emperor.
+In the year 1183, the First Imperial Edict was the approval and entry into force of private explorer licenses, issued by the Exploration Service under the Authority of the Emperor.
 
 This policy formalized the Interstellar Exploration Service as an Imperial authority, increasing the reach and prestige of the institution.
 
