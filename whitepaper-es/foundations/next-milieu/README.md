@@ -48,7 +48,7 @@ Vagh'rra! Rroezhakha **100'k'rrr** nurghrra'rrr.
 
 En este futuro: el Tercer Imperio continua estable, abriéndose a relaciones con el Consulado Zhodani y en paz con Solomani; propiciando unas predicciones de estabilidad económica sin precedentes en la historia de la Galaxia.
 
-Fortunas ancestrales de la Nobleza Vilani compiten en el mercado de valores con La Federación, mientras las matriarcas Aslan dan caza a todas las oportunidades al alcance del clan.
+Fortunas ancestrales de la Nobiliti Vilani compiten en el mercado de valores con La Federación, mientras las matriarcas Aslan dan caza a todas las oportunidades al alcance del clan.
 
 Las Extensiones Vargr son aún mas extensas, fusionándose —literalmente— con el Imperio y los Dos Mil Mundos, en un delicado equilibrio de poder, influencia y liderazgo.
 

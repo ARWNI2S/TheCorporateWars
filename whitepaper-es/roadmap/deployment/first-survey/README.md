@@ -42,7 +42,7 @@ En esta etapa el sistema financiero interestelar simula:
 - las participaciones en _megacorporaciones_, _corporaciones_ y otras _políticas_.
 - los grandes depositos de la _Banca Imperial_, 
 - las _Opciones de Ruta_ del _Mercado de Valores Interestelar_
-- las grandes fortunas de la _nobleza_.
+- las grandes fortunas de la _Nobiliti_.
 
 > Esto no es una propuesta de inversión, sino de participación en un sistema de juego funcional y emergente, en una etapa temprana de su desarrollo.
 
