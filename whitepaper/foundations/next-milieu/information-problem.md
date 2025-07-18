@@ -26,10 +26,3 @@ From financial manipulation to polítical subjugation of key regions, every deci
 
 > Diplomacy is a veil, information is currency, and the **interstellar economy**... the true battlefield.
 
-## But... That was 80 years ago
-
-Although almost a century has passed, the problem of information has no practical solution.
-
-The mail lines have been reinforced, the trade routes expanded, and improvements have been implemented in the navigation beacons.
-
-In spite of everything, the logistical and technological limitations continue being the same, and the Interstellar Community trusts in the effectiveness and efficiency of the traditional systems: decentralized government, finance, and authority.

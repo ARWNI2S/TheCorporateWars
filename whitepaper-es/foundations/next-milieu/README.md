@@ -22,13 +22,15 @@ layout:
 
 Es el Año Imperial 1201 en el Tercer Imperio.
 
-Estamos en el año Solar 5637.
+Zhdantl drintiar 3509 tlotl.
 
-Ushar kimegi Imkarsham 5721, iishan Ziru Sirka.
+Htyao Ftao 3745 Tlaukhu'we'rr.
 
-Zhdantl drintiar 6321 tlotl.
+Ushar kimegi Imkarsham 3996, iishan Ziru Sirka.
 
-Htyao Ftao 3601 Tlaukhu'we'rr.
+Estamos en el año Solar 5723.
+
+T’t’kha rra 7788 K’reek kharr.
 
 Es el honorable año 20123 de La Federación.
 

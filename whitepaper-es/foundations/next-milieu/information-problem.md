@@ -41,10 +41,3 @@ Desde la manipulación financiera hasta la subyugación política de regiones cl
 
 > La diplomacia es un velo, la información es moneda, y la **economía interestelar**… el verdadero campo de batalla.
 
-## Pero... Eso fue hace 80 años
-
-Aunque ha pasado casi un siglo, el problema de la información no tiene una solución práctica.
-
-Se han reforzado las líneas de correo, ampliado las rutas comerciales e implementado mejoras en las balizas de navegación.
-
-A pesar de todo, las limitaciones logisticas y teconologicas continuan siendo las mismas, y la Comunidad Interestelar confia en la efectividad y eficiencia de los sistemas tradicionales: gobierno, finanzas y autoridad descentralizadas.

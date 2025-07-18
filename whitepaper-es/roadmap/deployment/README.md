@@ -1,6 +1,6 @@
 # Despliegue Histórico
 
-**The Corporate Wars** est� inspirado en Traveller�, y a lo largo del dise�o y los primeros desarrollos hemos ido notando los grandes paralelismos �impl�citos o subjetivos� que comparte con ciertos aspectos tecnol�gicos presentes en ese universo.
+**The Corporate Wars** est� inspirado en Traveller™, y a lo largo del dise�o y los primeros desarrollos hemos ido notando los grandes paralelismos �impl�citos o subjetivos� que comparte con ciertos aspectos tecnol�gicos presentes en ese universo.
 
 > La m�xima �**All is driven by economics**� resuena mientras dise�o un sistema de red neural para un juego de econom�a de suma cero, y un susurro me recuerda que esa misma red coincide con la descripci�n de la econom�a a gran escala del Tercer Imperio.\
 > �As� no se puede trabajar! ;)\
