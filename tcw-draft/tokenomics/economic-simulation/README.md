@@ -38,7 +38,7 @@ This design ensures that the historical data of the persistent universe is not l
 
 Within the economic model, the algorithms regulating the issuance and circulation of tokens —such as MCr and RU— account for these operational costs.
 
-Thus, the simulated economy is closely aligned with the backend�s sustainability needs, ensuring the long-term viability of both the game and its underlying infrastructure.
+Thus, the simulated economy is closely aligned with the backend's sustainability needs, ensuring the long-term viability of both the game and its underlying infrastructure.
 
 ***
 

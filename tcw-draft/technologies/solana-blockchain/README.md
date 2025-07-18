@@ -52,7 +52,7 @@ Solana addresses challenges that would traditionally overwhelm large-scale non-S
 * Very high-grade security.
 * Time-versioned ledger, ensuring traceability.
 * Single source of truth: even though information is delayed, it is correct at some point in time for **all players** (key to maintaining coherence and strategic fairness).
-* Governance complexity: using native multisig, varied signing accounts, and `account` contexts, it�s possible to model everything from simple permissions to distributed decision systems.
+* Governance complexity: using native multisig, varied signing accounts, and `account` contexts, it's possible to model everything from simple permissions to distributed decision systems.
 
 ***
 

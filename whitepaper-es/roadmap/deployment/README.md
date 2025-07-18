@@ -15,12 +15,12 @@ El plan de despliegue se dise�� inicialmente para soportar la provisi�n de
 La idea original era desplegar los mundos progresivamente, autofinanciando al principio el despliegue de un sector o subsector, y abriendo luego la expansi�n a la comunidad: ofreci�ndoles participar de alg�n modo, tanto en el despliegue de la galaxia como en el respaldo de la econom�a del juego.
 
 > ...y ah�, en ese momento, la expansi�n de _Milieu 0_ (_T4_), con su 'minijuego' de la _First Survey_. �Zas! En toda la boca!\
-> ...m�s o menos algo as�. :P\
+> ...más o menos algo así. :P\
 > �ManOguaR
 
 El dise�o de los sistemas de juego se fue definiendo progresivamente, incorporando sistemas agregados de gobernanza, el uso de �rboles hist�ricos para acceder a la informaci�n desfasada, la econom�a de suma cero y los sistemas de estabilizaci�n algor�tmica.
 
-Al mismo tiempo, [Mongoose Publishing](http://www.mongoosepublishing.com/) nos notific� su punto de vista positivo respecto al proyecto, lo que hizo que todo cobrara mucho m�s sentido.
+Al mismo tiempo, [Mongoose Publishing](http://www.mongoosepublishing.com/) nos notific� su punto de vista positivo respecto al proyecto, lo que hizo que todo cobrara mucho más sentido.
 
 Es por ello que hemos dise�ado un despliegue en etapas, alineado con la cronolog�a del Tercer Imperio, desde _Milieu 0_ hasta la l�nea temporal de _**The Corporate Wars**_ actual.
 

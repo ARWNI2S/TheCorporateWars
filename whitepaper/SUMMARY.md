@@ -31,9 +31,12 @@
     * [Gas Giants](foundations/charted-space/stars-worlds/gas-giants.md)
     * [Asteroid Belts](foundations/charted-space/stars-worlds/asteroid-belts.md)
   * [Space Travel](foundations/charted-space/space-travel/README.md)
+    * [The Jump Drive](foundations/charted-space/space-travel/jump-drive.md)
     * [Starships and Spacecraft](foundations/charted-space/space-travel/starships/README.md)
-      * [The Jump Drive](foundations/charted-space/space-travel/starships/jump-drive.md)
-      * [Naval Architecture System](foundations/charted-space/space-travel/starships/naval-architecture-system.md)
+      * [Naval Architecture System](foundations/charted-space/space-travel/starships/naval-architect.md)
+    * [Rutas de Salto](foundations/charted-space/space-travel/jump-routes/README.md)
+      * [Rutas Comerciales](foundations/charted-space/space-travel/jump-routes/trade-routes.md)
+      * [Corredores de Información](foundations/charted-space/space-travel/jump-routes/x-boat.md)
     * [Starports](foundations/charted-space/space-travel/starports.md)
 
 ## Game Mechanics <a href="#game-basics" id="game-basics"></a>

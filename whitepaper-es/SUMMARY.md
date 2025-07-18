@@ -31,9 +31,12 @@
     * [Gigantes de Gas](foundations/charted-space/stars-worlds/gas-giants.md)
     * [Cinturones de Asteroides](foundations/charted-space/stars-worlds/asteroid-belts.md)
   * [Viaje Espacial](foundations/charted-space/space-travel/README.md)
+    * [El Impulsor de Salto](foundations/charted-space/space-travel/jump-drive.md)
     * [Astronaves y Espacionaves](foundations/charted-space/space-travel/starships/README.md)
-      * [El Impulsor de Salto](foundations/charted-space/space-travel/starships/jump-drive.md)
       * [Sistema de Arquitectura Naval](foundations/charted-space/space-travel/starships/naval-architect.md)
+    * [Rutas de Salto](foundations/charted-space/space-travel/jump-routes/README.md)
+      * [Rutas Comerciales](foundations/charted-space/space-travel/jump-routes/trade-routes.md)
+      * [Corredores de Información](foundations/charted-space/space-travel/jump-routes/x-boat.md)
     * [Astropuertos](foundations/charted-space/space-travel/starports.md)
 
 ## El Juego <a href="#game-basics" id="game-basics"></a>
