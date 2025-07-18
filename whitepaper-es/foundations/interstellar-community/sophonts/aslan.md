@@ -5,4 +5,14 @@ coverY: 0
 
 # Aslan
 
-Bla
+Los **Aslan** son una de las potencias mayores de la galaxia, conocidos por su estructura social jerárquica y profundamente territorial.
+
+Originarios del planeta _Kuzu_, los Aslan forman el **Tlaukhu** (_Jerarcado Aslan_), una red de clanes gobernados por **Ahriy'i** (_matriarcas_), donde el honor, la expansión territorial y el linaje son pilares fundamentales.
+
+La sociedad Aslan distingue claramente entre géneros: los machos son guerreros, exploradores y 'políticos', mientras que las hembras manejan la economía, la tecnología y la administración.
+
+Esta dualidad ha permitido al _Jerarcado_ expandirse agresivamente mientras mantiene una estructura interna eficiente.
+
+Para el Imperio y otros poderes, los Aslan son tanto rivales como aliados ocasionales, guiados por códigos de honor que definen todas sus interacciones.
+
+Orgullo, tradición y hambre de nuevos mundos caracterizan a los Aslan, quienes ven la expansión como un derecho natural y un deber ancestral.

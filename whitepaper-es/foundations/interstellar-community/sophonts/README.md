@@ -8,18 +8,14 @@ coverY: 0
 
 # Sofontes
 
-Las sociedades interestelares est�n compuestas por m�ltiples civilizaciones y especies inteligentes, conocidas colectivamente como _sofontes_.
+Las sociedades interestelares están compuestas por especies inteligentes, conocidas colectivamente como _sofontes_ (de _sophont_, “ser consciente”).
 
-Estas entidades var�an en su desarrollo tecnol�gico, estructura pol�tica, cultura y forma de expansi�n en la galaxia.
+Estas entidades varían en su desarrollo evolutivo, cultural y tecnológico, generando políticas únicas en gobierno y forma de expansión por la galaxia.
 
-Algunas han construido vastos imperios burocr�ticos, mientras que otras operan como redes descentralizadas de comercio, exploraci�n o dominio territorial.
+La interacción entre los sofontes define el equilibrio de poder en la galaxia, afectando directamente la economía, la política y la seguridad.
 
-La interacci�n entre los sofontes define el equilibrio de poder en la galaxia, afectando directamente la econom�a, la pol�tica y la seguridad.
+Algunas especies poseen necesidades industriales y logísticas específicas, creando oportunidades comerciales únicas en el suministro de bienes, tecnología y servicios.
 
-Adem�s, las diferencias biol�gicas e ideol�gicas entre los sofontes impactan la econom�a.
+Por otro lado, las tensiones entre facciones o especies pueden desembocar en guerras frías económicas o conflictos abiertos en los que las corporaciones pueden intervenir, ya sea como mediadoras, proveedoras de seguridad o incluso instigadoras de desestabilización con fines lucrativos.
 
-Algunas especies poseen necesidades industriales y log�sticas espec�ficas, lo que genera oportunidades comerciales �nicas para el suministro de bienes, tecnolog�a y servicios.
-
-Por otro lado, las tensiones entre facciones o especies pueden desembocar en guerras fr�as econ�micas o conflictos abiertos en los que las corporaciones pueden intervenir, ya sea como mediadoras, proveedoras de seguridad o incluso instigadoras de desestabilizaci�n con fines lucrativos.
-
-En este entorno, entender a los sofontes no es solo una cuesti�n de diplomacia, sino una ventaja estrat�gica para expandir operaciones y consolidar poder en la galaxia.
+> Entender a los sofontes no es solo una cuestión de diplomacia, sino una ventaja estratégica para expandir operaciones y consolidar poder en la galaxia.

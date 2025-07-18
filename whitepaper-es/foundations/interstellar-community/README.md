@@ -8,16 +8,16 @@ coverY: 0
 
 # La Comunidad Interestelar
 
-Múltiples civilizaciones, gobiernos y razas coexisten en una comunidad que abarca centenares de parsec, en un equilibrio de poder afectado por las limitaciones de la comunicación interestelar.
+Múltiples civilizaciones, gobiernos y razas coexisten en una comunidad que abarca centenares de parsecs, unidas en un equilibrio precario donde las limitaciones de comunicación y transporte definen tanto las oportunidades como los desafíos.
 
-Sin una infraestructura de transmisión instantánea de datos, el único medio de comunicación más rápido que la luz es el salto interestelar, lo que convierte a los navíos con capacidad de transito en los principales vectores de información, comercio y diplomacia.
+Las tecnologías varían entre regiones, los avances tecnológicos son dispares entre mundos y el progreso conjunto depende de la capacidad para gestionar redes de transporte y comunicación.
 
-Para sostenerse, las sociedades han desarrollado redes logísticas eficientes, sistemas de relevos de mensajería y modelos de gobernanza descentralizados que permiten la sincronización de mercados y el control político a gran escala.
+> Aquellos que dominan la movilidad interestelar pueden consolidar su poder y definir el futuro de la galaxia.
+
+## Cosmópolis
 
 Las grandes potencias administran vastos territorios mediante autoridades locales con cierto grado de autonomía, mientras que las corporaciones han optimizado la movilidad de bienes e información para operar en un entorno de constantes retrasos en la comunicación.
 
-Controlar estas rutas y optimizar los tiempos de respuesta es clave para el éxito económico y político.
+Para sostenerse, las sociedades han desarrollado redes logísticas eficientes, sistemas de relevos de mensajería y modelos de gobernanza descentralizados que permiten la sincronización de mercados y el control político a gran escala.
 
-La guerra, el comercio y la diplomacia dependen de la capacidad de cada actor para gestionar sus redes de transporte y comunicación, convirtiendo la logística en un elemento estratégico fundamental.
-
-Aquellos que dominen la movilidad interestelar podrán consolidar su poder y definir el futuro de la galaxia.
+Desde la Nobiliti de Core hasta los orgullosos Aslan del Jerarcado, los intrigantes Zhodani y los audaces _comerciantes_ Solomani, cada cultura aporta su historia y visión al tapiz galáctico.

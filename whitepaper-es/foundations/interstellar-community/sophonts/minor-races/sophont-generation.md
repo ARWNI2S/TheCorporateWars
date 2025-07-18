@@ -5,4 +5,10 @@ coverY: 0
 
 # Sistema de Generación de Sofontes
 
-Bla
+La exploración de mundos viene acompañada de primeros contactos, encuentros inesperados y descubrimientos de especies hasta ahora desconocidas.
+
+El universo de juego cuenta con un sistema dedicado a la creación de sofontes: especies inteligentes generadas con parámetros culturales, tecnológicos y sociales adaptados al marco del juego.
+
+A medida que se amplía el mapa de la galaxia, cada nuevo rincón explorado trae consigo culturas únicas, desafíos impredecibles y oportunidades inesperadas, enriqueciendo el contenido y la experiencia de juego.
+
+Gracias a este enfoque, cada sofonte creado se integrado de manera orgánica al ecosistema galáctico, permitiendo que su cultura, economía y relaciones sean creíbles y jugables dentro del universo de **The Corporate Wars**.

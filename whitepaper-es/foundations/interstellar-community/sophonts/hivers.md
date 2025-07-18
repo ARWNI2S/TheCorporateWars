@@ -3,6 +3,20 @@ cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 
-# Hivers
+# La Colmena
 
-Bla
+De entre los sofontes de la galaxia, los mas _alienígenas_ son **La Colmena**.
+
+Conocidos principalmente como miembros fundadores de **La Federación**, La Colmena es una raza enigmática pero diplomáticamente accesible: suelen aparecer en delegaciones Federales, tripulaciones comerciales y embajadas mixtas.
+
+Físicamente, los individuos de La Colmena presentan cuerpos simétricos radiales con múltiples miembros flexibles, cubiertos de una resistente cutícula quitinosa.
+
+Sus sentidos son múltiples y distribuidos, incluyendo ojos compuestos, antenas sensoriales y órganos especializados difíciles de comparar con los de Humaniti.
+
+Carecen de rostro reconocible, lo que refuerza la percepción de su alteridad.
+
+Sus movimientos deliberados, su lenguaje basado en señales químicas, y su aparente falta de emociones visibles los hacen aún más extraños a ojos humanos.
+
+Sin embargo, destacan por su curiosidad, su habilidad para el comercio y la diplomacia, y su incansable interés por interactuar con otras especies.
+
+Pese a su apariencia, para muchos sofontes La Colmena representa un socio valioso y un miembro respetado de la comunidad galáctica.

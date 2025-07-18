@@ -1,23 +1,23 @@
 ---
 description: >-
-  The diverse civilizations, technological advancements, and governing systems
-  shaping Interstellar Community.
+  The various civilizations, technological advances, and systems of government
+  that shape the Interstellar Community.
 cover: ../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 
 # The Interstellar Community
 
-Multiple civilizations, governments, and species coexist in a community spanning thousands of light-years, balanced by the limitations of interstellar communication.
+Multiple civilizations, governments, and species coexist within a community spanning hundreds of parsecs, united in a delicate balance where the limitations of communication and transportation define both opportunities and challenges.
 
-Without an infrastructure for instant data transmission, the only faster-than-light means of communication is interstellar jump travel, making ships with transit capability the primary vectors of information, trade, and diplomacy.
+Technologies vary between regions, technological progress is uneven across worlds, and collective advancement depends on the ability to manage transportation and communication networks.
 
-To survive, societies have developed efficient logistical networks, relay messaging systems, and decentralized governance models that allow market synchronization and large-scale polítical control.
+> Those who master interstellar mobility can consolidate their power and shape the future of the galaxy.
 
-Major powers administer vast territories through local authorities with a certain degree of autonomy, while corporations have optimized the movement of goods and information to operate within an environment of constant communication delays.
+## Cosmopolis
 
-Controlling these routes and optimizing response times is key to economic and polítical success.
+The great powers administer vast territories through local authorities with varying degrees of autonomy, while corporations have optimized the movement of goods and information to operate in an environment of constant communication delays.
 
-War, trade, and diplomacy depend on each actor�s ability to manage their transportation and communication networks, turning logistics into a fundamental strategic element.
+To endure, societies have developed efficient logistical networks, relay messaging systems, and decentralized governance models that enable the synchronization of markets and large-scale political control.
 
-Those who dominate interstellar mobility will consolidate their power and shape the future of the galaxy.
+From Core Nobiliti to the proud Aslan Hierate, the enigmatic Zhodani, and the bold Solomani _traders_, each culture brings its own history and vision to the galactic tapestry.
