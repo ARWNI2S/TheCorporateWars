@@ -41,6 +41,8 @@
 
 ## El Juego <a href="#game-basics" id="game-basics"></a>
 
+* [Jugabilidad](game-basics/how-to-play/README.md)
+
 * [Corporaciones](game-basics/corporations/README.md)
   * [Operaciones Autorizadas](game-basics/corporations/licensed-operations/README.md)
     * [Comercio](game-basics/corporations/licensed-operations/trade-commerce/README.md)

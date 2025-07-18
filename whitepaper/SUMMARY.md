@@ -41,6 +41,8 @@
 
 ## Game Mechanics <a href="#game-basics" id="game-basics"></a>
 
+* [Gameplay](game-basics/how-to-play/README.md)
+
 * [Corporations](game-basics/corporations/README.md)
   * [Licensed Operations](game-basics/corporations/licensed-operations/README.md)
     * [Trade and Commerce](game-basics/corporations/licensed-operations/trade-commerce/README.md)
