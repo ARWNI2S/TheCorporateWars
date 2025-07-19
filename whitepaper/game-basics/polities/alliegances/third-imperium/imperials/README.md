@@ -1,6 +1,7 @@
 ---
-cover: ../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../../../../.gitbook/assets/tcw-imperium.jpg
 coverY: 0
 ---
 
 # Imperial Institutions
+
