@@ -21,10 +21,10 @@
   - [X] Niveles Tecnológicos
     - [X] Pre-Estelar
     - [X] Nivel Cero
-- [ ] El Espacio Conocido
-  - [ ] Estrellas y Mundos
-    - [ ] Planetas y Lunas
-      - [ ] Auditar Mundos
+- [X] El Espacio Conocido
+  - [X] Estrellas y Mundos
+    - [X] Planetas y Lunas
+      - [X] Auditar Mundos
       - [ ] Entornos Hostiles
     - [ ] Gigantes de Gas
     - [ ] Cinturones de Asteroides
@@ -123,11 +123,11 @@
 
 ## Tecnología Implicada
 
-- [ ] Teoría de Juegos
-  - [ ] Juego Económico de Suma Cero
-  - [ ] Individualismo Colaborativo
-  - [ ] Causalidad Interactiva
-  - [ ] Despliegue Comunitario
+- [X] Teoría de Juegos
+  - [X] Juego Económico de Suma Cero
+  - [X] Individualismo Colaborativo
+  - [X] Causalidad Interactiva
+  - [X] Despliegue Comunitario
 - [ ] Blockchain Stateless
   - [ ] Base de Datos del Tercer Censo
   - [ ] El Modelo de Información Desfasada
@@ -145,7 +145,7 @@
       - [ ] Otras Divisas
     - [ ] Mercado del Juego
     - [ ] Mercados Externos
-- [ ] Unreal Engine
+- [X] Unreal Engine
 - [ ] Servicios Propios
   - [ ] Simulación Distribuida
   - [ ] AI LOD
@@ -160,14 +160,14 @@
   - [ ] Traveller™
   - [ ] The Corporate Wars
 - [ ] Hitos
-- [ ] Posibilidades Futuras
+- [X] Posibilidades Futuras
 
 ## Términos de Licencia y Copyright
 
-- [ ] The Corporate Wars
-- [ ] Traveller™
-- [ ] Unreal Engine
-- [ ] Microsoft
-- [ ] Solana
+- [X] The Corporate Wars
+- [X] Traveller™
+- [X] Unreal Engine
+- [X] Microsoft
+- [X] Solana
 
 de sophont, “ser consciente” a entrada tipo lore.

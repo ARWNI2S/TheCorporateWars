@@ -21,10 +21,10 @@
   - [X] Technological Levels
     - [X] Pre-Stellar
     - [X] Tech Zero
-- [ ] The Charted Space
-  - [ ] Stars and Worlds
-    - [ ] Planets and Moons
-      - [ ] World Survey
+- [X] The Charted Space
+  - [X] Stars and Worlds
+    - [X] Planets and Moons
+      - [X] World Survey
       - [ ] Hostile Environments
     - [ ] Gas Giants
     - [ ] Asteroid Belts
@@ -123,11 +123,11 @@
 
 ## Technologies Involved
 
-- [ ] Game Theory
-  - [ ] Zero-Sum Economic Game
-  - [ ] Collaborative Individualism
-  - [ ] Interactive Causality
-  - [ ] Community-Driven Deployment
+- [X] Game Theory
+  - [X] Zero-Sum Economic Game
+  - [X] Collaborative Individualism
+  - [X] Interactive Causality
+  - [X] Community-Driven Deployment
 - [ ] Stateless Blockchain
   - [ ] Third Survey Database
   - [ ] The Outdated Information Model
@@ -145,7 +145,7 @@
       - [ ] Other Currencies
     - [ ] Game Marketplace
     - [ ] External Markets
-- [ ] Unreal Engine
+- [X] Unreal Engine
 - [ ] Custom Services
   - [ ] Distributed Simulation
   - [ ] AI LOD
@@ -160,12 +160,12 @@
   - [ ] Traveller™
   - [ ] The Corporate Wars
 - [ ] Milestones
-- [ ] Future Development
+- [X] Future Development
 
 ## License Terms & Copyright
 
-- [ ] The Corporate Wars
-- [ ] Traveller™
-- [ ] Unreal Engine
-- [ ] Microsoft
-- [ ] Solana
+- [X] The Corporate Wars
+- [X] Traveller™
+- [X] Unreal Engine
+- [X] Microsoft
+- [X] Solana
