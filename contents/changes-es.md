@@ -1,0 +1,173 @@
+- [X] The Corporate Wars
+
+## Los Cimientos del Universo
+
+- [X] El Próximo Milieu
+  - [ ] El Problema de la Información
+  - [ ] Tercer Censo
+  - [ ] El Negocio de la Expansión
+- [ ] La Comunidad Interestelar
+  - [ ] Sofontes
+    - [ ] Humaniti
+      - [ ] Vilani
+      - [ ] Zhodani
+      - [ ] Solomani
+    - [ ] Vargr
+    - [ ] Aslan
+    - [ ] K'kree
+    - [ ] Hivers
+    - [ ] Otros Sofontes
+      - [ ] Sistema de Generación de Sofontes
+  - [ ] Niveles Tecnológicos
+    - [ ] Pre-Estelar
+    - [ ] Nivel Cero
+- [ ] El Espacio Conocido
+  - [ ] Estrellas y Mundos
+    - [ ] Planetas y Lunas
+      - [ ] Auditar Mundos
+      - [ ] Entornos Hostiles
+    - [ ] Gigantes de Gas
+    - [ ] Cinturones de Asteroides
+  - [ ] Viaje Espacial
+    - [ ] El Impulsor de Salto
+    - [ ] Astronaves y Espacionaves
+      - [ ] Sistema de Arquitectura Naval
+    - [ ] Rutas de Salto
+      - [ ] Rutas Comerciales
+      - [ ] Corredores de Información
+    - [ ] Astropuertos
+
+## El Juego
+
+- [ ] Jugabilidad
+  - [ ] MMORTS
+    - [ ] Exploración y Comercio
+    - [ ] Aventura y Conflicto
+  - [ ] Tycoon
+    - [ ] Gestión y Desarrollo
+  - [ ] Políticas y Gobernanza
+- [ ] Corporaciones
+  - [ ] Operaciones Autorizadas
+    - [ ] Comercio
+      - [ ] Licencia de Libre Comercio
+    - [ ] Servicios Coloniales
+      - [ ] Imagen Pública
+      - [ ] Relaciones Gubernamentales
+    - [ ] Policía y Seguridad
+      - [ ] CCAOC
+    - [ ] Explotación de Concesiones
+      - [ ] Industria Minera
+      - [ ] Agricultura y Ganadería
+    - [ ] Manufactura
+      - [ ] Materiales
+      - [ ] Productos
+        - [ ] CFMES
+    - [ ] Transporte de Mercancías
+      - [ ] Agentes y Corredores
+      - [ ] Importación y Exportación
+  - [ ] Activos Corporativos
+    - [ ] Instalaciones
+      - [ ] Fuerza Laboral
+      - [ ] Maquinaria y Mejoras
+      - [ ] Instalaciones Orbitales
+    - [ ] Personal y Tripulación
+      - [ ] Carreras Profesionales
+      - [ ] Cargos Avanzados
+    - [ ] Recursos y Propiedades
+      - [ ] Administración Eficiente
+    - [ ] Concesiones y Participaciones
+      - [ ] Concesiones de Terreno
+      - [ ] Mercado de Valores
+      - [ ] Grandes Inversiones
+- [ ] Políticas
+  - [ ] Las Corporaciones son Políticas
+  - [ ] Lealtades
+    - [ ] El Tercer Imperio
+      - [ ] Instituciones Imperiales
+        - [ ] Armada Imperial
+        - [ ] Servicio Imperial de Exploración Interestelar
+        - [ ] Autoridad Astroportuaria
+        - [ ] Ministerio de Justicia Imperial
+        - [ ] Departamento de Seguridad Imperial
+        - [ ] Tesorería Imperial
+        - [ ] Ministerio de Comercio Imperial
+        - [ ] Instituto de Investigación y Desarrollo Imperial
+        - [ ] Universidad Imperial
+      - [ ] Nobiliti
+      - [ ] Ziru Sirka
+    - [ ] Driantia Zhdantia
+      - [ ] Driantia Dazhia
+      - [ ] Tavrchedl'
+    - [ ] Esfera Solomani
+      - [ ] Concilio de Terra
+      - [ ] SolSec
+    - [ ] Las Extensiones Vargr
+      - [ ] Clanes Corsarios
+    - [ ] Tlaukhu
+      - [ ] Ahriy'i
+      - [ ] Iloahktahe
+    - [ ] Los Dos Mil Mundos
+      - [ ] Bioingeniería
+    - [ ] La Federación
+      - [ ] Psicohistoria
+  - [ ] Gobiernos
+    - [ ] Estados y Soberanía
+    - [ ] Gobierno Corporativo
+  - [ ] Reglas y Leyes
+    - [ ] Cumplimiento
+  - [ ] Instituciones Establecidas
+    - [ ] Concilio Galáctico de las Ciencias
+    - [ ] Mercado de Valores Interestelar
+  - [ ] Otras Políticas
+    - [ ] Clanes y Alianzas
+
+## Tecnología Implicada
+
+- [ ] Teoría de Juegos
+  - [ ] Juego Económico de Suma Cero
+  - [ ] Individualismo Colaborativo
+  - [ ] Causalidad Interactiva
+  - [ ] Despliegue Comunitario
+- [ ] Blockchain Stateless
+  - [ ] Base de Datos del Tercer Censo
+  - [ ] El Modelo de Información Desfasada
+  - [ ] Capas de Gobernanza
+  - [ ] Economía Autosostenible
+    - [ ] Estabilización Algorítmica
+    - [ ] Sistemas Financieros
+    - [ ] Tesorería
+      - [ ] Coste Operativo
+      - [ ] Financiación del Desarrollo
+      - [ ] Fondos de Liquidez
+    - [ ] Tokens SPL
+      - [ ] Unidades de Recursos
+      - [ ] MegaCréditos
+      - [ ] Otras Divisas
+    - [ ] Mercado del Juego
+    - [ ] Mercados Externos
+- [ ] Unreal Engine
+- [ ] Servicios Propios
+  - [ ] Simulación Distribuida
+  - [ ] AI LOD
+  - [ ] Servicios Solana
+
+## Proceso de Desarrollo
+
+- [ ] Hoja de Ruta
+- [ ] Despliegue Histórico
+  - [ ] Milieu 0
+    - [ ] Políticas Implementadas
+  - [ ] Traveller™
+  - [ ] The Corporate Wars
+- [ ] Hitos
+- [ ] Posibilidades Futuras
+
+## Términos de Licencia y Copyright
+
+- [ ] The Corporate Wars
+- [ ] Traveller™
+- [ ] Unreal Engine
+- [ ] Microsoft
+- [ ] Solana
+
+de sophont, “ser consciente” a entrada tipo lore.

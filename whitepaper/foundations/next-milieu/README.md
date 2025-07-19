@@ -36,11 +36,11 @@ Vagh'rra! Rroezhakha **100'k'rrr** nurghrra'rrr.
 
 ***
 
-> **It was all a dream**
+> _**It was all a dream**_
 >
 > There was no rebellion, no event triggered the fall of the Imperium. There never was any "virus", and the only "new era" I know... is today!
 
-## Milieu 1.2
+## Milieu 1.2?
 
 **The Corporate Wars** takes us 80 years into the future, picking up the classic Traveller™ timeline, leaning on the "extended Golden Age" from GURPS.
 

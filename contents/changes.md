@@ -1,0 +1,171 @@
+- [X] The Corporate Wars
+
+## The Foundations of the Universe
+
+- [X] The Next Milieu
+  - [ ] The Information Problem
+  - [ ] Third Survey
+  - [ ] Expansion Business
+- [ ] The Interstellar Community
+  - [ ] Sophonts
+    - [ ] Humaniti
+      - [ ] Vilani
+      - [ ] Zhodani
+      - [ ] Solomani
+    - [ ] Vargr
+    - [ ] Aslan
+    - [ ] K'kree
+    - [ ] Hivers
+    - [ ] Other Sophonts
+      - [ ] Sophont Generation System
+  - [ ] Technological Levels
+    - [ ] Pre-Stellar
+    - [ ] Tech Zero
+- [ ] The Charted Space
+  - [ ] Stars and Worlds
+    - [ ] Planets and Moons
+      - [ ] World Survey
+      - [ ] Hostile Environments
+    - [ ] Gas Giants
+    - [ ] Asteroid Belts
+  - [ ] Space Travel
+    - [ ] The Jump Drive
+    - [ ] Starships and Spacecraft
+      - [ ] Naval Architecture System
+    - [ ] Jump Routes
+      - [ ] Trade Routes
+      - [ ] Information Lanes
+    - [ ] Starports
+
+## Game Mechanics
+
+- [ ] Gameplay
+  - [ ] MMORTS
+    - [ ] Explore and Trade
+    - [ ] Adventure and Conflict
+  - [ ] Tycoon
+    - [ ] Manage and Develop
+  - [ ] Polities and Governance
+- [ ] Corporations
+  - [ ] Licensed Operations
+    - [ ] Trade and Commerce
+      - [ ] Free Trader License
+    - [ ] Colonial Services
+      - [ ] Public Image
+      - [ ] Govern Relationship
+    - [ ] Enforcement and Security
+      - [ ] COACC
+    - [ ] Grant Exploitation
+      - [ ] Ore Mining Industry
+      - [ ] Farming and Livestock
+    - [ ] Manufacturing
+      - [ ] Raw Materials
+      - [ ] Trade Goods
+        - [ ] QREBS
+    - [ ] Mercantile and Freight
+      - [ ] Route Brokers
+      - [ ] Import-Export
+  - [ ] Corporate Assets
+    - [ ] Facilities
+      - [ ] Labor Force
+      - [ ] Equipment Improvements
+      - [ ] Orbital Facilities
+    - [ ] Staff and Crew
+      - [ ] Character Careers
+      - [ ] Advanced Careers
+    - [ ] Resources and Holdings
+      - [ ] Efficient Management
+    - [ ] Grants and Shares
+      - [ ] Land Grants
+      - [ ] Share Market
+      - [ ] High Finance
+- [ ] Polities
+  - [ ] Corporations are Polities
+  - [ ] Allegiances
+    - [ ] Third Imperium
+      - [ ] Imperial Institutions
+        - [ ] Imperial Navy
+        - [ ] Imperial Interstellar Scout Service
+        - [ ] Starport Authority
+        - [ ] Imperial Ministry of Justice
+        - [ ] Bureau of Imperial Security
+        - [ ] Imperial Treasury
+        - [ ] Imperial Ministry of Commerce
+        - [ ] Imperial Research and Development Institute
+        - [ ] Imperial University
+      - [ ] Nobiliti
+      - [ ] Ziru Sirka
+    - [ ] Driantia Zhdantia
+      - [ ] Driantia Dazhia
+      - [ ] Tavrchedl'
+    - [ ] Solomani Sphere
+      - [ ] Council of Terra
+      - [ ] SolSec
+    - [ ] The Vargr Extents
+      - [ ] Corsair Packs
+    - [ ] Tlaukhu
+      - [ ] Ahriy'i
+      - [ ] Iloahktahe
+    - [ ] Two Thousand Worlds
+      - [ ] Bioengineering
+    - [ ] Hive Federation
+      - [ ] Psicohistory
+  - [ ] Governments
+    - [ ] States and Sovereignty
+    - [ ] Corporate Government
+  - [ ] Laws and Rules
+    - [ ] Compliance
+  - [ ] Established Institutions
+    - [ ] Galactic Council of Sciences
+    - [ ] Interstellar Stock Exchange
+  - [ ] Other Polities
+    - [ ] Guilds
+
+## Technologies Involved
+
+- [ ] Game Theory
+  - [ ] Zero-Sum Economic Game
+  - [ ] Collaborative Individualism
+  - [ ] Interactive Causality
+  - [ ] Community-Driven Deployment
+- [ ] Stateless Blockchain
+  - [ ] Third Survey Database
+  - [ ] The Outdated Information Model
+  - [ ] Governance Layers
+  - [ ] Self-Sustainable Economy
+    - [ ] Algorithmical Balance
+    - [ ] Financial Systems
+    - [ ] Game Treasury
+      - [ ] Operational Costs
+      - [ ] Development Funding
+      - [ ] Liquidity Pools
+    - [ ] SPL Tokens
+      - [ ] Resource Units
+      - [ ] MegaCredits
+      - [ ] Other Currencies
+    - [ ] Game Marketplace
+    - [ ] External Markets
+- [ ] Unreal Engine
+- [ ] Custom Services
+  - [ ] Distributed Simulation
+  - [ ] AI LOD
+  - [ ] Solana Services
+
+## Development Roadmap
+
+- [ ] Roadmap
+- [ ] Historical Deployment Stages
+  - [ ] Milieu 0
+    - [ ] Deployed Polities
+  - [ ] Traveller™
+  - [ ] The Corporate Wars
+- [ ] Milestones
+- [ ] Future Development
+
+## License Terms & Copyright
+
+- [ ] The Corporate Wars
+- [ ] Traveller™
+- [ ] Unreal Engine
+- [ ] Microsoft
+- [ ] Solana

@@ -38,13 +38,13 @@ Vagh'rra! Rroezhakha **100'k'rrr** nurghrra'rrr.
 
 ***
 
-> **Todo fue un sueño**
+> _**Todo fue un sueño**_
 >
 > No hubo rebelión, ningún acontecimiento provocó la caída del imperio. Nunca existió ningún "virus", y la única "nueva era" que conozco... es hoy!
 
 ***
 
-## Milieu 1.2
+## Milieu 1.2?
 
 **The Corporate Wars** nos traslada 80 años en el futuro, retomando la línea temporal clásica de Traveller™, apoyándose en la "extended Golden Age" de GURPS.
 
