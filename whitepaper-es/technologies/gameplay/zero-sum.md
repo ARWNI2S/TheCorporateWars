@@ -9,6 +9,32 @@ Un juego de suma cero es un juego en el que para cualquier combinación de estra
 
 Formalmente:
 
+$$
+s = \sqrt{\frac{1}{N-1} \sum_{i=1}^N (x_i - \overline{x})^2}
+$$
+
+
+
+### Representation in Markdown
+
+$$f(x) = x * e^{2 pi i \xi x}$$
+
+```markdown
+# Math and TeX block
+
+$$f(x) = x * e^{2 pi i \xi x}$$
+```
+
+***
+
+
+
+
+
+
+
+
+
 $$f(x) = x * e^{2 pi i \xi x}$$
 
 \sum_{
