@@ -10,6 +10,16 @@ Un juego de suma cero es un juego en el que para cualquier combinación de estra
 Formalmente:
 
 $$
+\sum_{i=1}^N r_i(s) = 0
+$$
+
+
+
+
+
+
+
+$$
 s = \sqrt{\frac{1}{N-1} \sum_{i=1}^N (x_i - \overline{x})^2}
 $$
 
