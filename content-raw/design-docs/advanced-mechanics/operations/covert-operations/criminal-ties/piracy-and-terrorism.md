@@ -1,5 +1,0 @@
-# Piracy and Terrorism
-
-In **The Corporate Wars**, piracy and terrorism represent the most extreme and destabilizing forms of covert operations. Piracy is not just about looting cargo or attacking isolated ships; it is a strategic tool used to disrupt trade routes, divert resources, and instill fear in key regions. Organized bands, often financed or tolerated by a Polity or corporation, operate on the fringes of civilized space, attacking when the risk is minimal and the impact, maximum.
-
-Terrorism, on the other hand, does not seek immediate economic gain but aims to provoke chaos and instability where power structures appear most solid. Attacks on critical infrastructure, destruction of colonies, or the public execution of local leaders are methods designed to break morale, paralyze decision-making, and force rivals to act under pressure. In both cases, the authorship often gets lost under layers of denial and cover-up, but their effects resonate for years, altering the balance of power long after the initial fires have been extinguished.

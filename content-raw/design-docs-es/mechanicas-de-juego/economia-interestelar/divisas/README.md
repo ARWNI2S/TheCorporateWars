@@ -1,7 +1,0 @@
-# Divisas
-
-La economía interestelar de **The Corporate Wars** se sustenta en una red de sistemas monetarios que incluye tanto una moneda intergaláctica estándar, ampliamente utilizada para transacciones interestelares, como monedas locales, presentes en mundos y sistemas específicos. Estas divisas reflejan la diversidad de las economías galácticas, proporcionando un marco financiero para tanto el comercio regional como las operaciones de gran escala.
-
-A pesar de su naturaleza complementaria, cada tipo de divisa tiene un rol particular en la economía galáctica. Mientras que monedas como el Crédito (Cr) actúa como el principal medio de intercambio entre mundos y sectores, las monedas locales mantienen la estabilidad económica y cultural dentro de sistemas individuales. El Crédito ofrece uniformidad y facilidad de transacción para contratos interplanetarios, pero las monedas locales permiten que las economías planetarias sigan funcionando con cierta independencia, adaptándose a las condiciones económicas y políticas locales.
-
-Juntas, estas divisas forman la base sobre la que se construye la economía interestelar. Las corporaciones, comerciantes y gobiernos deben gestionar ambas para garantizar su viabilidad económica, anticipar fluctuaciones de mercado y aprovechar oportunidades estratégicas. Este equilibrio es crucial para navegar el intrincado paisaje económico de **The Corporate Wars**.

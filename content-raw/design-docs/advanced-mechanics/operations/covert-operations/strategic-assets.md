@@ -1,7 +1,0 @@
-# Strategic Assets
-
-In **The Corporate Wars**, Strategic Assets represent the covert projection of power through the control of resources, infrastructure, and critical dependencies that allow influence over entire regions without the need for direct force. These operations do not seek the immediate destruction of the adversary, but rather aim to subject them to a web of constraints and needs that make them predictable and manipulable, trapping them in carefully constructed relationships of dependency.
-
-Control over energy sources, essential supplies, or key technologies is the clearest example of such an asset. Corporations and powers invest in installing and controlling fuel stations, communication networks, or distribution systems that, at first glance, appear to be part of the economic fabric of any trade route or colony. However, in the hands of their owners, these elements become levers capable of paralyzing entire regions, forcing governments and companies to negotiate from a position of weakness or accept conditions imposed from the shadows.
-
-The strength of Strategic Assets does not lie in their military presence but in the creation of a hierarchy of needs from which it is almost impossible to escape. A world dependent on a single energy source or an exclusive supplier to maintain its vital operations is, in practice, a world already conquered. In this gray area, wars are won long before any confrontation begins, and true power is measured by the ability to close a valve, cut a supply, or leave an enemy with no options.

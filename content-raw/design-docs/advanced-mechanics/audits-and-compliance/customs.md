@@ -1,9 +1,0 @@
-# Customs
-
-Customs represent the most common and frequent form of inspection and regulation in **The Corporate Wars**, directly impacting interstellar trade and corporate logistics. Every star system with an established government imposes controls over goods entering and leaving, regulating the flow of merchandise, imposing tariffs, and ensuring that no prohibited or dangerous cargo crosses its borders without oversight.
-
-For corporations, customs can be either a bureaucratic obstacle or a tool for controlling competitors. In systems with strict regulations, clearing cargo may involve extensive paperwork, import duties, and thorough inspections that delay operations. In contrast, zones with looser regulations or more permissive trade ports may have minimal controls — or allow them to be bypassed entirely with the right connections.
-
-Customs inspections affect not only cargo but also crews and passengers. Local authorities may perform identity checks, verify operating permits, and, in some cases, detain or deport individuals who fail to meet entry requirements. Corporations relying on smooth supply chains must understand each port’s regulations and, when necessary, find ways to expedite the process — whether through official agreements or unofficial favors.
-
-Smuggling is an inseparable reality of customs operations. Restrictions on certain goods — for polítical, technological, or security reasons — create a parallel market where bypassing inspections can be more profitable than complying. Some corporations invest resources to ensure their goods pass without interference, while others, operating at the edge of legality, perfect methods to slip through controls undetected. In a universe where trade defines power, mastering the customs process can be as crucial as the cargo being transported.

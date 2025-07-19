@@ -1,7 +1,0 @@
-# Licensing Operations
-
-To operate within the legal framework of **The Corporate Wars**, corporations must obtain specific authorizations depending on the type of activity they wish to expand. In many cases, regulations are mere formalities — routine permits that can be acquired easily or even included in basic operational licenses. However, other activities require more complex approvals, subject to strict governmental or regulatory controls that can delay, limit, or even prevent business expansion.
-
-Access to certain strategic sectors is restricted by interstellar powers, trade alliances, or local entities seeking to maintain control over key industries. In these cases, obtaining permits can become a lengthy and costly process where corporations must invest in negotiations, polítical influence, or even financial maneuvers to overcome imposed obstacles. In the most competitive markets, regulation is not just a barrier — it becomes a tool of exclusion designed to prevent new entrants or favor established groups.
-
-Beyond legal requirements, some activities cannot be implemented without massive capital acting as a natural filter. Sectors like interstellar banking or large-scale resource exploitation require enormous investments before operations can even begin, reducing the number of competitors to only those corporations with sufficient financial capacity. Ultimately, expansion depends not only on a company’s growth capability but also on its ability to navigate the bureaucratic, polítical, and economic web that governs operations in known space.

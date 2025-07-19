@@ -1,7 +1,0 @@
-# Propaganda
-
-In **The Corporate Wars**, propaganda is a power tool designed to shape perceptions, control narratives, and undermine the cohesion of rivals from within. In an environment where communications take months to travel across interstellar space, each disseminated message carries immense weight and far-reaching effects. Manipulating local information, altering the interpretation of events, or sowing distrust can be more effective than any military operation, as it slowly erodes the legitimacy and morale of governments, corporations, and entire populations.
-
-Propaganda is deployed on multiple fronts: from fostering separatist movements or strikes in dependent colonies to glorifying a brand or systematically discrediting a rival in key commercial zones. Undercover agents, controlled media, and carefully crafted narratives fuel latent resentments, magnify enemy failures, or exalt the superiority of those controlling the flow of information. In many cases, populations attacked by this silent war end up acting against their own interests, convinced they are fighting for their freedom or survival.
-
-The real danger of propaganda lies in its ability to persist and grow even after its creators are no longer present. A skillfully planted idea can survive for years, shaping generations and triggering chain reactions that escape the control of all actors. In this shadow game, the victors are not those with the most resources, but those who succeed in making others fight their wars for them.
