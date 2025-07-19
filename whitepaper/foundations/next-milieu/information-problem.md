@@ -6,23 +6,17 @@ coverY: 0
 
 # The Information Problem
 
-Radio waves cannot exceed the speed of light; messages may take years to reach even the nearest star.
+Radio waves cannot exceed the speed of light, and messages can take years to reach even the nearest star.
 
-Thus, trade routes become the sole reliable medium for information flow.
+This makes ships equipped with **jump drives** the only reliable means of information flow, reducing communication latency to the duration of transport journeys.
 
-Starships equipped with **jump drives** traverse the void in **jump transits**, reducing communication latency to the timescale of transport itself.
-
-{% hint style="info" %}
-The logistics of interstellar mail � and the reliability of jump routes � is a structural challenge faced by every high-tech civilization, and has caused some of the greatest crises in galactic history.
+{% hint style="success" %}
+This limitation is integrated into the gameplay experience:  
+- Information is not available in real time; decisions are made with partial, outdated data and require anticipation.  
+- Nothing happens instantly; interstellar distances are vast, and round trips for information and goods consume time and resources.  
+Managing reliable communication routes is key to strategic success.
 {% endhint %}
 
-This intricate network balances large-scale economic decentralization with local polítical constraints.
+> The logistics of interstellar mail —and the reliability of jump routes— are structural challenges common to all high-tech civilizations and have triggered some of the greatest crises in galactic history.
 
-Players must adapt their strategies to survive ruthless logistical limitations and navigate the complex regulations imposed by interstellar powers eager to secure their hold over commerce and data flows.
-
-In this setting, industry, banking, and trade are not just engines of progress � they are weapons in a shadow war for supremacy.
-
-From financial manipulation to polítical subjugation of key regions, every decision redefines the balance of power.
-
-> Diplomacy is a veil, information is currency, and the **interstellar economy**... the true battlefield.
-
+Players must adjust their strategies to overcome ruthless logistical constraints and navigate regulations imposed by interplanetary powers seeking to maintain their grip over trade and data routes.

@@ -11,9 +11,10 @@ Las ondas de radio no pueden superar la velocidad de la luz, y los mensajes pued
 Esto convierte a las naves equipadas con **impulsores de salto** en el único medio fiable para el flujo de información, reduciendo la latencia de las comunicaciones a la duración de los trayectos de transporte.
 
 {% hint style="success" %}
-En el juego se experimentan esta limitación como parte fundamental del sistema: la información no está disponible en tiempo real, las decisiones se toman con datos parciales, desactualizados, y anticipacion.
-
-Gestionar rutas de comunicación confiables es clave para el éxito estratégico.
+Esta limitación se integra como parte de la experiencia de juego:  
+- La información no está disponible en tiempo real, las decisiones se toman con datos parciales, desactualizados, y requieren anticipación.  
+- Nada ocurre de forma instantánea, las distancias interestelares son enormes y los trayectos de ida y vuelta, de informacion y mercancias, consumen tiempo y recursos.  
+Gestionar rutas de comunicación fiables es clave para el éxito estratégico.
 {% endhint %}
 
 > La logística del correo interestelar —y la fiabilidad de las rutas de salto— es un problema estructural común a todas las civilizaciones de alto nivel tecnológico, y ha sido la causa de algunas de las mayores crisis de la historia de la galaxia.
