@@ -123,17 +123,6 @@
   * [Other Polities](game-basics/polities/other-polities/README.md)
     * [Guilds](game-basics/polities/other-polities/guilds.md)
 
-## Development Roadmap <a href="#roadmap" id="roadmap"></a>
-
-* [Roadmap](roadmap/README.md)
-* [Historical Deployment Stages](roadmap/deployment/README.md)
-  * [Milieu 0](roadmap/deployment/first-survey/README.md)
-    * [Deployed Polities](roadmap/deployment/first-survey/ready-polities.md)
-  * [Traveller™](roadmap/deployment/second-survey.md)
-  * [The Corporate Wars](roadmap/deployment/third-survey.md)
-* [Milestones](roadmap/milestones.md)
-* [Future Development](roadmap/future-development.md)
-
 ## Tecnologies Involved <a href="#technologies" id="technologies"></a>
 
 * [Game Theory](technologies/gameplay/README.md)
@@ -163,6 +152,17 @@
   * [Distributed Simulation](technologies/backend-server/distributed-simulation.md)
   * [AI LOD](technologies/backend-server/ai-lod.md)
   * [Solana Services](technologies/backend-server/solana-rpc.md)
+
+## Development Roadmap <a href="#roadmap" id="roadmap"></a>
+
+* [Roadmap](roadmap/README.md)
+* [Historical Deployment Stages](roadmap/deployment/README.md)
+  * [Milieu 0](roadmap/deployment/first-survey/README.md)
+    * [Deployed Polities](roadmap/deployment/first-survey/ready-polities.md)
+  * [Traveller™](roadmap/deployment/second-survey.md)
+  * [The Corporate Wars](roadmap/deployment/third-survey.md)
+* [Milestones](roadmap/milestones.md)
+* [Future Development](roadmap/future-development.md)
 
 ## License Terms & Copyright <a href="#license-terms" id="license-terms"></a>
 
