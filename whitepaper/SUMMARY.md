@@ -137,7 +137,7 @@
 ## Tecnologies Involved <a href="#technologies" id="technologies"></a>
 
 * [Game Theory](technologies/gameplay/README.md)
-  * [Zero Sum Economy Game](technologies/gameplay/zero-sum.md)
+  * [Zero-Sum Economic Game](technologies/gameplay/zero-sum.md)
   * [Collaborative Individualism](technologies/gameplay/compete-collaborate.md)
   * [Interactive Causality](technologies/gameplay/deep-causality.md)
   * [Community-Driven Deployment](technologies/gameplay/community-deployment.md)
