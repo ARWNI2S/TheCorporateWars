@@ -123,7 +123,7 @@
   * [Other Polities](game-basics/polities/other-polities/README.md)
     * [Guilds](game-basics/polities/other-polities/guilds.md)
 
-    * ## Development Roadmap <a href="#roadmap" id="roadmap"></a>
+## Development Roadmap <a href="#roadmap" id="roadmap"></a>
 
 * [Roadmap](roadmap/README.md)
 * [Historical Deployment Stages](roadmap/deployment/README.md)
