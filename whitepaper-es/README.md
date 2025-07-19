@@ -1,21 +1,6 @@
 ---
 cover: .gitbook/assets/TCW.jpg
 coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # The Corporate Wars
@@ -72,7 +57,7 @@ Las fronteras entre imperios son nodos de información, intercambio tecnológico
 
 ### Empieza aquí.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Fundamentos</strong></td><td>El Próximo Milieu</td><td><a href=".gitbook/assets/TCW.jpg">TCW.jpg</a></td><td></td><td><a href="foundations/next-milieu/">next-milieu</a></td></tr><tr><td><strong>El Juego</strong></td><td>Corporaciones y Políticas</td><td><a href=".gitbook/assets/TCW.jpg">TCW.jpg</a></td><td></td><td><a href="tokenomics/rethink-p2e.md">rethink-p2e.md</a></td></tr><tr><td><strong>Tecnología</strong></td><td>El juego desde dentro</td><td><a href=".gitbook/assets/TCW.jpg">TCW.jpg</a></td><td></td><td><a href="tokenomics/economic-simulation/">economic-simulation</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Cimientos</strong></td><td>Inspirado en Traveller™</td><td><a href=".gitbook/assets/TCW.jpg">TCW.jpg</a></td><td></td><td><a href="foundations/next-milieu/">next-milieu</a></td></tr><tr><td><strong>El Juego</strong></td><td>Cuanto necesitas saber...</td><td><a href=".gitbook/assets/TCW.jpg">TCW.jpg</a></td><td></td><td><a href="tokenomics/rethink-p2e.md">rethink-p2e.md</a></td></tr><tr><td><strong>Tecnología</strong></td><td>El juego desde dentro</td><td><a href=".gitbook/assets/TCW.jpg">TCW.jpg</a></td><td></td><td><a href="tokenomics/economic-simulation/">economic-simulation</a></td></tr></tbody></table>
 
 ***
 
