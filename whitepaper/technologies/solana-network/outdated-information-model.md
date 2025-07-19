@@ -7,7 +7,7 @@ coverY: 0
 
 In an Imperium of over eleven thousand worlds, where jump ships are the arteries connecting scattered civilizations, information **never** arrives instantly.
 
-No matter how advanced the technology, no civilization of the Third Imperium — nor any known faction — has found a way to overcome one fundamental law of the known universe:
+No matter how advanced the technology, no civilization of the Third Imperium — nor any known _alliegance_ — has found a way to overcome one fundamental law of the known universe:
 
 > **Information cannot travel faster than light.**
 
