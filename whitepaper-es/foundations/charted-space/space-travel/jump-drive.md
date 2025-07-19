@@ -2,7 +2,7 @@
 description: >-
   El Impulsor de Salto es una tecnología que permite a navíos especializados
   crear un espacio hiperdimensional direccionado.
-cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../../.gitbook/assets/tcw-wip-nerd.jpg
 coverY: 0
 ---
 
