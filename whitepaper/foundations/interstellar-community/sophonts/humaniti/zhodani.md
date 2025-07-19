@@ -15,4 +15,4 @@ To many outside the Consulate, the Zhodani are viewed with suspicion, seen as au
 
 However, within their culture, the values of trust, unity, and psionic cooperation are a source of pride and cohesion.
 
-Advanced technology, social discipline, and a strong sense of psychic identity define the Zhodani, who consider their civilization an evolutionary example of Humaniti.
+> Advanced technology, social discipline, and a strong sense of psychic identity define the Zhodani, who consider their civilization an evolutionary example of Humaniti.

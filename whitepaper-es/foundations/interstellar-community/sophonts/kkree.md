@@ -9,7 +9,9 @@ Los **K'kree** son una de las especies mayores de la galaxia, reconocibles por s
 
 Originarios del planeta _Kirur_, los K'kree han construido un vasto imperio interestelar conocido como **Los Dos Mil Mundos**, movidos por una ideología expansiva centrada en la pureza herbívora.
 
-Aborrecen profundamente a los carnívoros y han librado campañas de exterminio contra especies y culturas que consideran depredadoras.
+> Aborrecen profundamente a los carnívoros y han librado campañas de exterminio contra especies y culturas que consideran depredadoras.
+
+***
 
 Su cultura valora la unidad de grupo, la tradición y el control social estricto.
 

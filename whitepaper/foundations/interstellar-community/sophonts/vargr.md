@@ -9,7 +9,9 @@ The **Vargr** are the sophonts native to the _Vargr Extents_, located _spinward_
 
 Genetically, the Vargr share most of their genome with Humaniti and are partially biologically compatible: they are susceptible to similar viruses, bacteria, and antibiotics.
 
-They are considered another example of _convergent evolution_, reinforcing the general theory of life’s development across the galaxy.
+> They are considered another example of _convergent evolution_, reinforcing the general theory of life’s development across the galaxy.
+
+***
 
 Vargr society is characterized by its lack of rigid hierarchical structures: leadership is earned through success and prestige, not lineage or formal right.
 

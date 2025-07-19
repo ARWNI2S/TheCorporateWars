@@ -1,14 +1,14 @@
 ---
 description: >-
-  The various civilizations, technological advances, and systems of government
-  that shape the Interstellar Community.
+  The various civilizations, technological advances, and government systems
+  that shape civilization in the galaxy.
 cover: ../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 
 # The Interstellar Community
 
-Multiple civilizations, governments, and species coexist within a community spanning hundreds of parsecs, united in a delicate balance where the limitations of communication and transportation define both opportunities and challenges.
+Multiple civilizations, _polities_, and sophonts coexist within a community spanning hundreds of parsecs, united in a delicate balance where the limitations of communication and transportation define both opportunities and challenges.
 
 Technologies vary between regions, technological progress is uneven across worlds, and collective advancement depends on the ability to manage transportation and communication networks.
 
@@ -20,4 +20,4 @@ The great powers administer vast territories through local authorities with vary
 
 To endure, societies have developed efficient logistical networks, relay messaging systems, and decentralized governance models that enable the synchronization of markets and large-scale political control.
 
-From Core Nobiliti to the proud Aslan Hierate, the enigmatic Zhodani, and the bold Solomani _traders_, each culture brings its own history and vision to the galactic tapestry.
+Resulting in an ever-flowing stream of data, goods, and sophonts: from Core Nobiliti to the proud Aslan Hierate, the enigmatic Zhodani, and the bold Solomani _traders_, each culture brings its own history and vision to the galactic tapestry.

@@ -8,7 +8,7 @@ coverY: 0
 
 # Sofontes
 
-Las sociedades interestelares están compuestas por especies inteligentes, conocidas colectivamente como _sofontes_ (de _sophont_, “ser consciente”).
+Las sociedades interestelares están compuestas por especies inteligentes, conocidas colectivamente como _sofontes_ (del Griego Terrano **Sophia**, _sabiduria_).
 
 Estas entidades varían en su desarrollo evolutivo, cultural y tecnológico, generando políticas únicas en gobierno y forma de expansión por la galaxia.
 

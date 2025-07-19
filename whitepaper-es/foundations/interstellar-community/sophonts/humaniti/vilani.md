@@ -11,4 +11,4 @@ Fueron los fundadores del Ziru Sirka (Primer Imperio), una civilización interest
 
 Aunque su hegemonía terminó hace milenios, su influencia cultural, tecnológica y administrativa sigue permeando el Tercer Imperio, donde ocupan posiciones destacadas en la burocracia, el comercio y la nobleza.
 
-Instituciones interestelares milenarias, megacorporaciones titánicas e inflexibles rituales burocráticos, característicos de esta cultura, protegen los secretos de la gestión y administración de una riqueza ancestral que los Vilani resguardan con celo.
+> Instituciones interestelares milenarias, megacorporaciones titánicas e inflexibles rituales burocráticos, característicos de esta cultura, protegen los secretos de la gestión y administración de una riqueza ancestral que los Vilani resguardan con celo.

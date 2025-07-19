@@ -13,4 +13,6 @@ La teoría aceptada sostiene que Humaniti es un ejemplo de evolución convergente 
 
 > Solomani, Zhodani y Vilani defienden que el origen de Humaniti se encuentra en un único mundo y proponen Sol, Zhdant y Vland respectivamente.
 
+***
+
 El Tercer Imperio es empleado como ejemplo representativo: una diversidad Humaniti integrada; pueblos con origen en diferentes mundos, biológicamente compatibles entre sí, que pese a sus diferencias culturales y genéticas coexisten bajo una única estructura política, compartiendo una identidad común.

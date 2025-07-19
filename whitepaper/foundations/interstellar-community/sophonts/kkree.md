@@ -9,7 +9,9 @@ The **K'kree** are one of the major species of the galaxy, recognizable by their
 
 Originating from the planet _Kirur_, the K'kree have built a vast interstellar empire known as the **Two Thousand Worlds**, driven by an expansive ideology centered on herbivore purity.
 
-They hold a profound abhorrence for carnivores and have waged extermination campaigns against species and cultures they deem predatory.
+> They hold a profound abhorrence for carnivores and have waged extermination campaigns against species and cultures they deem predatory.
+
+***
 
 Their culture values group unity, tradition, and strict social control.
 

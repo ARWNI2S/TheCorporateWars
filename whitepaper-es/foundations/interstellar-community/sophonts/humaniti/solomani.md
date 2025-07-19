@@ -11,4 +11,4 @@ Forjaron su identidad tras la expansión más allá de su mundo de origen, desarrol
 
 Aunque su intento de hegemonía galáctica culminó con la caída de la Confederación Solomani frente al Tercer Imperio, su influencia persiste, y su ideología —el Solomanismo— sigue viva, alimentando movimientos nacionalistas, facciones separatistas y un profundo orgullo por su herencia solar.
 
-Tecnología competitiva, tradición espacial y una férrea creencia en el _destino manifiesto_ caracterizan a los Solomani, quienes consideran Sol el verdadero hogar de toda Humaniti.
+> Tecnología competitiva, tradición espacial y una férrea creencia en el _destino manifiesto_ caracterizan a los Solomani, quienes consideran Sol el verdadero hogar de toda Humaniti.

@@ -8,13 +8,15 @@ coverY: 0
 
 Pre-stellar civilizations have developed advanced technology within their own star systems but have not yet discovered interstellar jump travel, limiting them to subluminal exploration methods.
 
-Despite this, many have colonized nearby moons or planets, established interplanetary economies, and developed complex industrial infrastructures.
+Many have colonized nearby moons or planets, established interplanetary economies, and developed complex industrial infrastructures.
 
 Contact with Interstellar Communitys marks a turning point in their history.
 
-Some advanced powers prefer not to interfere in their development, observing them from hidden bases or enforcing strict trade restrictions.
+Many _Alliegances_ see these worlds as strategic opportunities, establishing trade agreements, offering technology in exchange for concessions, or integrating them into their sphere of influence.
 
-Others see these worlds as strategic opportunities, establishing trade agreements, offering technology in exchange for concessions, or integrating them into their sphere of influence.
+Others prefer not to interfere in their development, observing them from hidden bases or enforcing strict trade restrictions.
+
+***
 
 For corporations, these systems represent emerging markets and untapped resource sources.
 

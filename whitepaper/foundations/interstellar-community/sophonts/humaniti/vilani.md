@@ -11,4 +11,4 @@ They were the founders of the Ziru Sirka (First Imperium), an interstellar civil
 
 Although their hegemony ended millennia ago, their cultural, technological, and administrative influence continues to permeate the Third Imperium, where they hold prominent positions in bureaucracy, commerce, and nobility.
 
-Millennia-old interstellar institutions, titanic megacorporations, and inflexible bureaucratic rituals — hallmarks of Vilani culture — safeguard the secrets of managing and administering an ancestral wealth that the Vilani guard with fierce devotion.
+> Millennia-old interstellar institutions, titanic megacorporations, and inflexible bureaucratic rituals — hallmarks of Vilani culture — safeguard the secrets of managing and administering an ancestral wealth that the Vilani guard with fierce devotion.

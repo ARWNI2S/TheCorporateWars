@@ -8,18 +8,20 @@ coverY: 0
 
 # Tech Zero
 
-Tech Zero civilizations are societies that have not yet achieved significant technological development.
+Tech Level Zero represents societies that have not yet achieved significant technological development.
 
-Many of them are tribal cultures or early-stage civilizations, completely unaware of the existence of other species in the galaxy.
+Many are tribal cultures, unaware of the existence of other species in the galaxy.
 
-Their understanding of the universe is limited to their immediate surroundings and their own cultural evolution.
+Others are regressed colonies, abandoned, lacking nearby transit stations, or simply without practical manufacturing infrastructure.
 
 Despite their isolation, these worlds do not always go unnoticed by interstellar powers.
 
-Some advanced civilizations establish exclusion zones to avoid any interference in their natural development, while others see them as future territories for colonization or exploitation.
+Some _Allegiances_ establish exclusion zones to prevent interference in their natural development, while others may view them as potential territories for future colonization or exploitation.
 
-The impact of contact with an Interstellar Community can be either devastating or transformative.
+***
 
-An uncontrolled introduction to advanced technologies could destabilize their social evolution, while a gradual integration process might turn them into long-term strategic allies.
+For corporations, these worlds often represent long-term opportunities rather than immediate markets, although their galactic position can make them attractive as future expansion outposts.
 
-For corporations, these worlds typically represent long-term opportunities rather than immediate markets, though their position in the galaxy may make them attractive as future expansion enclaves.
+The impact of _first contact_ can be either devastating or transformative.
+
+An uncontrolled introduction of advanced technologies can destabilize their social evolution, while a gradual process of integration could turn them into valuable long-term allies.

@@ -7,7 +7,7 @@ coverY: 0
 
 Among the sophonts of the galaxy, the most _alien_ are the **Hivers**.
 
-Known primarily as founding members of **the Federation**, Hivers are an enigmatic yet diplomatically accessible species, often appearing in Federation delegations, commercial crews, and mixed embassies.
+Known primarily as founding members of **The Federation**, Hivers are an enigmatic yet diplomatically accessible species, often appearing in Federal delegations, commercial crews, and mixed embassies.
 
 Physically, Hiver individuals display radial symmetry with multiple flexible limbs, covered by a resilient chitinous exoskeleton.
 

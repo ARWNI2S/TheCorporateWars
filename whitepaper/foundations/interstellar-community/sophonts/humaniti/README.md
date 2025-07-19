@@ -13,4 +13,6 @@ The accepted theory holds that Humaniti is an example of convergent evolution, a
 
 > Solomani, Zhodani, and Vilani each claim that the origin of Humaniti lies on a single world, proposing Sol, Zhdant, and Vland respectively.
 
+***
+
 The Third Imperium is considered a representative example: a diversity of integrated Humaniti — peoples from different worlds, biologically compatible, who despite cultural and genetic differences coexist under a single political structure, sharing a common identity.

@@ -7,7 +7,7 @@ coverY: 0
 
 # Sophonts
 
-Interstellar societies are composed of intelligent species, collectively known as _sophonts_ (from *sophont*, “conscious being”).
+Interstellar societies are composed of intelligent species, collectively known as _sophonts_ (from the Terran Greek word **Sophia**, meaning _wisdom_).
 
 These entities vary in their evolutionary, cultural, and technological development, generating unique policies in governance and modes of expansion across the galaxy.
 
