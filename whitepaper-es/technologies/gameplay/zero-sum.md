@@ -10,10 +10,13 @@ Un juego de suma cero es un juego en el que para cualquier combinación de estra
 Formalmente:
 
 $$
-\sum_{i=1}^N r_i(s) = 0
+\sum_{i=1}^n r_i(s) = 0
 $$
 
-
+donde:
+- n = número de jugadores,
+- s = perfil de estrategias elegidas,
+- $$r_i(s)$$ = resultado relativo (ventaja, posición, influencia...) del jugador _i_
 
 
 
