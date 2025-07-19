@@ -26,7 +26,7 @@ Zhdantl drintiar 3509 tlotl.
 
 Htyao Ftao 3745 Tlaukhu'we'rr.
 
-Ushar kimegi Imkarsham 3996, iishan Ziru Sirka.
+Ashar shan 3996 sha Ziru Sirka.
 
 Estamos en el año Solar 5723.
 
