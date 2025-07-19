@@ -24,7 +24,7 @@ donde:
 - s = perfil de estrategias elegidas,
 - $$r_i(s)$$ = resultado relativo (ventaja, posición, influencia...) del jugador _i_
 
-## Implementación
+### Implementación
 
 En **The Corporate Wars**, este principio estructura el juego como un marco interactivo, donde los intercambios constantes entre _políticas_ ocurren dentro de límites controlados.
 

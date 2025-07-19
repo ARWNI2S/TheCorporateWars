@@ -3,11 +3,6 @@ cover: ../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
 
----
-cover: ../../.gitbook/assets/tcw-wip-banner.jpg
-coverY: 0
----
-
 # Zero-Sum Economic Game
 
 The zero-sum economic game defines a scenario where interactions between actors keep the system’s overall magnitude constant.
