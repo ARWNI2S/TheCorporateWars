@@ -137,7 +137,7 @@
 ## Tecnología Implicada <a href="#technologies" id="technologies"></a>
 
 * [Teoría de Juegos](technologies/gameplay/README.md)
-  * [Juego Economico de Suma Cero](technologies/gameplay/zero-sum.md)
+  * [Juego Económico de Suma Cero](technologies/gameplay/zero-sum.md)
   * [Individualismo Colaborativo](technologies/gameplay/compete-collaborate.md)
   * [Causalidad Interactiva](technologies/gameplay/deep-causality.md)
   * [Despliegue Communitario](technologies/gameplay/community-deployment.md)
