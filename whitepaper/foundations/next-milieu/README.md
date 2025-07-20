@@ -24,13 +24,15 @@ layout:
 
 It is Imperial Year 1201 in the Third Imperium.
 
+Zhdantl drintiar 3509 tlotl.
+
+Htyao Ftao 3745 Tlaukhu'we'rr.
+
+Ashar shan 3996 sha Ziru Sirka.
+
 We are in Solar Year 5637.
 
-Ushar kimegi Imkarsham 5721, iishan Ziru Sirka.
-
-Zhdantl drintiar 6321 tlotl.
-
-Htyao Ftao 3601 Tlaukhu'we'rr.
+T’t’kha rra 7788 K’reek kharr.
 
 It is the honorable 20123 Federation Year.
 
