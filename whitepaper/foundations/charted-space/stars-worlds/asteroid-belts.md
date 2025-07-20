@@ -1,6 +1,6 @@
 ---
 description: Clusters of mineral-rich space debris essential for industrial supply chains.
-cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../../.gitbook/assets/tcw-belt.jpg
 coverY: 0
 layout:
   width: default
