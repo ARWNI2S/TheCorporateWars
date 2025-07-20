@@ -1,6 +1,6 @@
 ---
 description: Celestial bodies hosting diverse environments and opportunities.
-cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../../../.gitbook/assets/tcw-planets-moons.jpg
 coverY: 0
 layout:
   width: default
