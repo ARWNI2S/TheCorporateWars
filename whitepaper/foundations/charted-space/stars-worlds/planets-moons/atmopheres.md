@@ -1,5 +1,5 @@
 ---
-cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../../../.gitbook/assets/tcw-hostile-env.jpg
 coverY: 0
 ---
 
@@ -13,6 +13,6 @@ For Humaniti, they are deadly; for corporations, they are sources of noble gases
 
 ### Extrosophonts
 
-In some of these extreme environments, life evolves, surprisingly pushing the boundaries of biology — sometimes even reaching the level of sophonts: sentient species known for technologies as extreme as their worlds of origin.
+In some of these extreme environments, life evolves, surprisingly pushing the boundaries of biology ï¿½ sometimes even reaching the level of sophonts: sentient species known for technologies as extreme as their worlds of origin.
 
-Studying them may reveal cultural processes and biological adaptations that inspire new technologies; yet the — likewise extreme — differences with Humaniti often spark conflicts of conquest and exploitation.
+Studying them may reveal cultural processes and biological adaptations that inspire new technologies; yet the ï¿½ likewise extreme ï¿½ differences with Humaniti often spark conflicts of conquest and exploitation.
