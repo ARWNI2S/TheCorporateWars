@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../../.gitbook/assets/tcw-sph-hivers.jpg
 coverY: 0
 layout:
   width: default
@@ -9,7 +9,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# Hivers
+# La Colmena
 
 De entre los sofontes de la galaxia, los mas _alien�genas_ son **La Colmena**.
 
