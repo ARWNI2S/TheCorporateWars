@@ -17,7 +17,7 @@
     * [Vargr](foundations/interstellar-community/sophonts/vargr.md)
     * [Aslan](foundations/interstellar-community/sophonts/aslan.md)
     * [K'kree](foundations/interstellar-community/sophonts/kkree.md)
-    * [Hivers](foundations/interstellar-community/sophonts/hivers.md)
+    * [La Colmena](foundations/interstellar-community/sophonts/hivers.md)
     * [Otros Sofontes](foundations/interstellar-community/sophonts/minor-races/README.md)
       * [Sistema de Generación de Sofontes](foundations/interstellar-community/sophonts/minor-races/sophont-generation.md)
   * [Niveles Tecnológicos](foundations/interstellar-community/tech-levels/README.md)
