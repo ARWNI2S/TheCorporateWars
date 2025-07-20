@@ -22,7 +22,7 @@ layout:
 
 # Humaniti
 
-Humaniti is the collective term that encompasses all known human variants across the galaxy, including the Solomani, Vilani, Zhodani, Darrians, Suerrat, Geonee, and other lesser-known lineages.
+**Humaniti** is the collective term that encompasses all known human variants across the galaxy, including the Solomani, Vilani, Zhodani, Darrians, Suerrat, Geonee, and other lesser-known lineages.
 
 Although there are significant genetic and cultural differences among these branches, they all share a remarkable biological and reproductive compatibility, allowing them to be classified as a single species despite their geographic dispersion and separate evolutionary paths.
 
