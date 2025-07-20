@@ -48,8 +48,8 @@ The borders between empires are nodes of information, technological exchange, an
 **The Corporate Wars** pays homage to the legacy of Traveller™, one of the richest and most enduring science-fiction universes ever created:\
 a foundational inspiration in crafting a setting where technological, social, and economic limits define every player’s decisions.
 
-**The Corporate Wars** is developed under the Fair Use License of Mongoose Publishing / Far Future Enterprises, with whom we maintain an open and cordial relationship regarding potential future licensing as an official product.\
-Traveller™ and all related elements are the intellectual property of Far Future Enterprises.
+**The Corporate Wars** is developed under the Fair Use License of Mongoose Publishing, with whom we maintain an open and cordial relationship regarding potential future licensing as an official product.\
+Traveller™ and all related elements are the intellectual property of Mongoose Publishing.
 
 > At present, this project stands as a respectful tribute, not an official adaptation.
 

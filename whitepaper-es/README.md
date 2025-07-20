@@ -47,7 +47,7 @@ Las fronteras entre imperios son nodos de información, intercambio tecnológico
 
 **The Corporate Wars** se inspira en Traveller™, uno de los universos de ciencia ficción vivos más ricos y realistas de la historia de los juegos: la inspiración fundamental para construir un universo donde los límites tecnológicos, sociales y económicos moldean cada decisión de los jugadores.
 
-**The Corporate Wars** se desarrolla bajo los términos de la Fair Use License de Mongoose Publishing, con quienes mantenemos una relación abierta y cordial para explorar en el futuro una posible oficialización como producto licenciado. Traveller™ y todos los elementos relacionados son propiedad intelectual de Far Future Enterprises.
+**The Corporate Wars** se desarrolla bajo los términos de la Fair Use License de Mongoose Publishing, con quienes mantenemos una relación abierta y cordial para explorar en el futuro una posible oficialización como producto licenciado. Traveller™ y todos los elementos relacionados son propiedad intelectual de Mongoose Publishing.
 
 > Actualmente, este proyecto es un homenaje a los 50 años de Traveller™ y no constituye una adaptación oficial.
 
