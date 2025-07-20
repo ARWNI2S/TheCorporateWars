@@ -86,7 +86,7 @@
   * [Lealtades](game-basics/polities/alliegances/README.md)
     * [El Tercer Imperio](game-basics/polities/alliegances/third-imperium/README.md)
       * [Instituciones Imperiales](game-basics/polities/alliegances/third-imperium/imperials/README.md)
-        * [Armada Imperial](game-basics/polities/alliegances/third-imperium/imperials/navy.md)
+        * [Fuerzas Armadas Imperiales](game-basics/polities/alliegances/third-imperium/imperials/armed-forces.md)
         * [Servicio Imperial de Exploración Interestelar](game-basics/polities/alliegances/third-imperium/imperials/scouts.md)
         * [Autoridad Astroportuaria](game-basics/polities/alliegances/third-imperium/imperials/staport-authority.md)
         * [Ministerio de Justicia Imperial](game-basics/polities/alliegances/third-imperium/imperials/justice.md)

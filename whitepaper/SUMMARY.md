@@ -86,7 +86,7 @@
   * [Alliegances](game-basics/polities/alliegances/README.md)
     * [Third Imperium](game-basics/polities/alliegances/third-imperium/README.md)
       * [Imperial Institutions](game-basics/polities/alliegances/third-imperium/imperials/README.md)
-        * [Imperial Navy](game-basics/polities/alliegances/third-imperium/imperials/navy.md)
+        * [Imperial Armed Forces](game-basics/polities/alliegances/third-imperium/imperials/armed-forces.md)
         * [Imperial Interstellar Scout Service](game-basics/polities/alliegances/third-imperium/imperials/scouts.md)
         * [Starport Authority](game-basics/polities/alliegances/third-imperium/imperials/staport-authority.md)
         * [Imperial Ministry of Justice](game-basics/polities/alliegances/third-imperium/imperials/justice.md)
