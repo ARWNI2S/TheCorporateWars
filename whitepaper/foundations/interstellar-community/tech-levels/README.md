@@ -4,6 +4,23 @@ description: >-
   and development.
 cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Technological Levels
@@ -17,7 +34,7 @@ From primitive cultures to galactic empires, every civilization exists within a 
 The existence of multiple technological levels creates asymmetric power dynamics, where the most advanced civilizations can decide the fate of less developed ones.
 
 {% hint style="info" %}
-Corporations play a key role in this equation, acting as catalysts for development by providing technology and resources in exchange for strategic concessions.  
+Corporations play a key role in this equation, acting as catalysts for development by providing technology and resources in exchange for strategic concessions.\
 Likewise, they can also hinder the progress of certain worlds to maintain a commercial or polítical advantage.
 {% endhint %}
 

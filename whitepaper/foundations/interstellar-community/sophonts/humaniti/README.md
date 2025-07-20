@@ -1,6 +1,23 @@
 ---
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Humaniti
@@ -15,4 +32,4 @@ The accepted theory holds that Humaniti is an example of convergent evolution, a
 
 ***
 
-The Third Imperium is considered a representative example: a diversity of integrated Humaniti — peoples from different worlds, biologically compatible, who despite cultural and genetic differences coexist under a single political structure, sharing a common identity.
+The Third Imperium is considered a representative example: a diversity of integrated Humaniti ï¿½ peoples from different worlds, biologically compatible, who despite cultural and genetic differences coexist under a single political structure, sharing a common identity.

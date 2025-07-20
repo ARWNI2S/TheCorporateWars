@@ -1,6 +1,23 @@
 ---
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Other Sophonts
@@ -13,6 +30,6 @@ Some barely reach preindustrial levels, while others achieve remarkable advances
 
 In many cases, they remain ignored or exploited by more advanced civilizations, or are directly absorbed by corporations or imperial powers.
 
-In certain corners of the galaxy, only ruins remain — silent witnesses to extinct sophont species whose origins intertwine with myths about the Precursors.
+In certain corners of the galaxy, only ruins remain ï¿½ silent witnesses to extinct sophont species whose origins intertwine with myths about the Precursors.
 
 > The diversity of sophonts is one of the great hidden engines of galactic history, though to many they are little more than names in a report or merchandise in a contract.

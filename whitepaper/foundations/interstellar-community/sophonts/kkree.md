@@ -1,6 +1,23 @@
 ---
 cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # K'kree
@@ -17,6 +34,6 @@ Their culture values group unity, tradition, and strict social control.
 
 K'kree life is marked by mutual surveillance, rejection of individualism, and reverence for their ancestors.
 
-To other civilizations, the K'kree are both a military threat and a cultural enigma, known for their massive fleets, monumental architecture, and obsession with purging what they see as “carnivore contamination” from space.
+To other civilizations, the K'kree are both a military threat and a cultural enigma, known for their massive fleets, monumental architecture, and obsession with purging what they see as ï¿½carnivore contaminationï¿½ from space.
 
 Herbivore pride, ideological fanaticism, and collective might define the K'kree, who see their mission as a universal duty.

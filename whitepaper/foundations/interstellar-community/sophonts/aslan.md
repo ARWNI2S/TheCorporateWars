@@ -1,13 +1,30 @@
 ---
 cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Aslan
 
 The **Aslan** are one of the major powers of the galaxy, known for their hierarchical and deeply territorial social structure.
 
-Originating from the planet _Kuzu_, the Aslan form the **Tlaukhu** —_Aslan Hierate_, a network of clans ruled by **Ahriy'i** —_matriarchs_, where honor, territorial expansion, and lineage are fundamental pillars.
+Originating from the planet _Kuzu_, the Aslan form the **Tlaukhu** ï¿½_Aslan Hierate_, a network of clans ruled by **Ahriy'i** ï¿½_matriarchs_, where honor, territorial expansion, and lineage are fundamental pillars.
 
 > Pride, tradition, and a hunger for new worlds characterize the Aslan, who see expansion as both a natural right and an ancestral duty.
 

@@ -1,6 +1,23 @@
 ---
 cover: ../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Third Survey
@@ -22,7 +39,7 @@ A monumental initiative of the Imperial Interstellar Exploration Service in coll
 In **The Corporate Wars**, the Third Survey represents not only a thematic background setting, but the philosophy on which the map of the Galaxy is built.
 
 > The Third Survey is a structural database of stellar systems and jump routes, with periodically updated data, stored on blockchain, which allows auditing and distributed real-time access.
-> 
+>
 > The Third Survey is the fundamental structure on which the rest of the game systems are built.
 
 Players participate, through exploration, in the growth of the game's limits, update data from isolated worlds, and transport information across great distances.

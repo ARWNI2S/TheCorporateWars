@@ -1,6 +1,23 @@
 ---
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Vilani
@@ -11,4 +28,4 @@ They were the founders of the Ziru Sirka (First Imperium), an interstellar civil
 
 Although their hegemony ended millennia ago, their cultural, technological, and administrative influence continues to permeate the Third Imperium, where they hold prominent positions in bureaucracy, commerce, and nobility.
 
-> Millennia-old interstellar institutions, titanic megacorporations, and inflexible bureaucratic rituals — hallmarks of Vilani culture — safeguard the secrets of managing and administering an ancestral wealth that the Vilani guard with fierce devotion.
+> Millennia-old interstellar institutions, titanic megacorporations, and inflexible bureaucratic rituals ï¿½ hallmarks of Vilani culture ï¿½ safeguard the secrets of managing and administering an ancestral wealth that the Vilani guard with fierce devotion.

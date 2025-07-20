@@ -1,6 +1,23 @@
 ---
 cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Vargr
@@ -9,7 +26,7 @@ The **Vargr** are the sophonts native to the _Vargr Extents_, located _spinward_
 
 Genetically, the Vargr share most of their genome with Humaniti and are partially biologically compatible: they are susceptible to similar viruses, bacteria, and antibiotics.
 
-> They are considered another example of _convergent evolution_, reinforcing the general theory of life’s development across the galaxy.
+> They are considered another example of _convergent evolution_, reinforcing the general theory of lifeï¿½s development across the galaxy.
 
 ***
 
