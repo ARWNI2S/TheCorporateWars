@@ -5,13 +5,13 @@ coverY: 0
 
 # Políticas Implementadas
 
-## Lista de Pol�ticas Implementadas durante el Primer Censo Interestelar
+## Lista de Políticas Implementadas durante el Primer Censo Interestelar
 
 Abreviatura \[Tipo] - Nombre - \[Afiliaciones, ] - Derivation Seed
 
 > **Tipos de Politica**
 >
-> \[A] Leatad - \[I] Instituci�n - \[G] Gobierno - \[C] Corporaci�n
+> \[A] Leatad - \[I] Institución - \[G] Gobierno - \[C] Corporación
 
 ### Instituciones Interestelares
 
@@ -22,7 +22,7 @@ Abreviatura \[Tipo] - Nombre - \[Afiliaciones, ] - Derivation Seed
 ### Lealtades
 
 * **Im** \[A] - El Tercer Imperio - \[ISE] - \*.\[Im]
-  * _ISS_ \[I] - El Servicio de Exploraci�n Imperial - \[Im] - \*.\[Im].\[IIS]
+  * _ISS_ \[I] - El Servicio de Exploración Imperial - \[Im] - \*.\[Im].\[IIS]
   * _NAV_ \[I] - La Armada Imperial - \[Im] - \*.\[Im].\[NAV]
   * _SEC_ \[I] - Inteligencia Imperial - \[Im] - \*.\[Im].\[SEC]
   * _Nob_ \[I] - La Nobiliti Imperial - \[Im] - \*.\[Im].\[Nob]

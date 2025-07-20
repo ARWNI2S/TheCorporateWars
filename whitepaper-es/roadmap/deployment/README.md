@@ -1,34 +1,34 @@
 # Despliegue Histórico
 
-**The Corporate Wars** est� inspirado en Traveller™, y a lo largo del dise�o y los primeros desarrollos hemos ido notando los grandes paralelismos �impl�citos o subjetivos� que comparte con ciertos aspectos tecnol�gicos presentes en ese universo.
+**The Corporate Wars** está inspirado en Traveller™, y a lo largo del diseño y los primeros desarrollos hemos ido notando los grandes paralelismos —implícitos o subjetivos— que comparte con ciertos aspectos tecnológicos presentes en ese universo.
 
-> La m�xima �**All is driven by economics**� resuena mientras dise�o un sistema de red neural para un juego de econom�a de suma cero, y un susurro me recuerda que esa misma red coincide con la descripci�n de la econom�a a gran escala del Tercer Imperio.\
-> �As� no se puede trabajar! ;)\
-> �ManOguaR
+> La máxima —**All is driven by economics**— resuena mientras diseño un sistema de red neural para un juego de economía de suma cero, y un susurro me recuerda que esa misma red coincide con la descripción de la economía a gran escala del Tercer Imperio.\
+> ¡Así no se puede trabajar! ;)\
+> —ManOguaR
 
-Los requisitos se acumulan, la red Solana no es gratis, y el volumen de informaci�n requiere de soluciones creativas.
+Los requisitos se acumulan, la red Solana no es gratis, y el volumen de información requiere de soluciones creativas.
 
-## Cronolog�a Imperial
+## Cronología Imperial
 
-El plan de despliegue se dise�� inicialmente para soportar la provisi�n de _rent_ de la red Solana, integr�ndose con la econom�a autosostenible del sistema de juego.
+El plan de despliegue se diseñó inicialmente para soportar la provisión de _rent_ de la red Solana, integrándose con la economía autosostenible del sistema de juego.
 
-La idea original era desplegar los mundos progresivamente, autofinanciando al principio el despliegue de un sector o subsector, y abriendo luego la expansi�n a la comunidad: ofreci�ndoles participar de alg�n modo, tanto en el despliegue de la galaxia como en el respaldo de la econom�a del juego.
+La idea original era desplegar los mundos progresivamente, autofinanciando al principio el despliegue de un sector o subsector, y abriendo luego la expansión a la comunidad: ofreciéndoles participar de algún modo, tanto en el despliegue de la galaxia como en el respaldo de la economía del juego.
 
-> ...y ah�, en ese momento, la expansi�n de _Milieu 0_ (_T4_), con su 'minijuego' de la _First Survey_. �Zas! En toda la boca!\
+> ...y ahí, en ese momento, la expansión de _Milieu 0_ (_T4_), con su 'minijuego' de la _First Survey_. —Zas! En toda la boca!\
 > ...más o menos algo así. :P\
-> �ManOguaR
+> —ManOguaR
 
-El dise�o de los sistemas de juego se fue definiendo progresivamente, incorporando sistemas agregados de gobernanza, el uso de �rboles hist�ricos para acceder a la informaci�n desfasada, la econom�a de suma cero y los sistemas de estabilizaci�n algor�tmica.
+El diseño de los sistemas de juego se fue definiendo progresivamente, incorporando sistemas agregados de gobernanza, el uso de árboles históricos para acceder a la información desfasada, la economía de suma cero y los sistemas de estabilización algorítmica.
 
-Al mismo tiempo, [Mongoose Publishing](http://www.mongoosepublishing.com/) nos notific� su punto de vista positivo respecto al proyecto, lo que hizo que todo cobrara mucho más sentido.
+Al mismo tiempo, [Mongoose Publishing](http://www.mongoosepublishing.com/) nos notificó su punto de vista positivo respecto al proyecto, lo que hizo que todo cobrara mucho más sentido.
 
-Es por ello que hemos dise�ado un despliegue en etapas, alineado con la cronolog�a del Tercer Imperio, desde _Milieu 0_ hasta la l�nea temporal de _**The Corporate Wars**_ actual.
+Es por ello que hemos diseñado un despliegue en etapas, alineado con la cronología del Tercer Imperio, desde _Milieu 0_ hasta la línea temporal de _**The Corporate Wars**_ actual.
 
-Queremos que la participaci�n de la comunidad en el despliegue del sistema refleje:
+Queremos que la participación de la comunidad en el despliegue del sistema refleje:
 
 * el crecimiento del Tercer Imperio en el tiempo,
-* los �mbitos de influencia de las _lealtades_,
+* los ámbitos de influencia de las _lealtades_,
 * de las _megacorporaciones_,
-* y de las _pol�ticas_ hist�ricamente relevantes.
+* y de las _políticas_ históricamente relevantes.
 
-La participaci�n en el despliegue inicial de los sistemas se representa con actores reales dentro del sistema de juego: los activos de las grandes potencias e instituciones de la galaxia.
+La participación en el despliegue inicial de los sistemas se representa con actores reales dentro del sistema de juego: los activos de las grandes potencias e instituciones de la galaxia.
