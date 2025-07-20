@@ -1,6 +1,23 @@
 ---
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Sistema de Generación de Sofontes
@@ -16,4 +33,3 @@ A medida que se amplía el mapa de la galaxia, cada nuevo rincón explorado trae
 {% hint style="success" %}
 Gracias a este enfoque, cada sofonte creado se integra de manera orgánica al ecosistema galáctico, permitiendo que su cultura, economía y relaciones sean creíbles y jugables dentro del universo de **The Corporate Wars**.
 {% endhint %}
-

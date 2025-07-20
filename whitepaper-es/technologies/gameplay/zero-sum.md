@@ -1,6 +1,23 @@
-﻿---
+---
 cover: ../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Juego Económico de Suma Cero
@@ -20,9 +37,10 @@ $$
 $$
 
 donde:
-- n = número de jugadores,
-- s = perfil de estrategias elegidas,
-- $$r_i(s)$$ = resultado relativo (ventaja, posición, influencia...) del jugador _i_
+
+* n = número de jugadores,
+* s = perfil de estrategias elegidas,
+* $$r_i(s)$$ = resultado relativo (ventaja, posición, influencia...) del jugador _i_
 
 ### Implementación
 

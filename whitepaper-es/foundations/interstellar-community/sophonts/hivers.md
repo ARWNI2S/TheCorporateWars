@@ -1,22 +1,39 @@
 ---
 cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
-# La Colmena
+# Hivers
 
-De entre los sofontes de la galaxia, los mas _alienígenas_ son **La Colmena**.
+De entre los sofontes de la galaxia, los mas _alienï¿½genas_ son **La Colmena**.
 
-Conocidos principalmente como miembros fundadores de **La Federación**, La Colmena es una especie enigmática pero diplomáticamente accesible: suelen aparecer en delegaciones Federales, tripulaciones comerciales y embajadas mixtas.
+Conocidos principalmente como miembros fundadores de **La Federaciï¿½n**, La Colmena es una especie enigmï¿½tica pero diplomï¿½ticamente accesible: suelen aparecer en delegaciones Federales, tripulaciones comerciales y embajadas mixtas.
 
-Físicamente, los individuos de La Colmena presentan simetria radial con miembros flexibles, cubiertos de una resistente cutícula quitinosa.
+Fï¿½sicamente, los individuos de La Colmena presentan simetria radial con miembros flexibles, cubiertos de una resistente cutï¿½cula quitinosa.
 
-Sus sentidos son múltiples y distribuidos, incluyendo ojos compuestos, antenas sensoriales y órganos especializados difíciles de comparar con los de Humaniti.
+Sus sentidos son mï¿½ltiples y distribuidos, incluyendo ojos compuestos, antenas sensoriales y ï¿½rganos especializados difï¿½ciles de comparar con los de Humaniti.
 
-Carecen de rostro reconocible, lo que refuerza la percepción de su singularidad.
+Carecen de rostro reconocible, lo que refuerza la percepciï¿½n de su singularidad.
 
-Sus movimientos deliberados, su lenguaje basado en señales químicas, y su aparente falta de emociones visibles los hacen aún más extraños a ojos humanos.
+Sus movimientos deliberados, su lenguaje basado en seï¿½ales quï¿½micas, y su aparente falta de emociones visibles los hacen aï¿½n mï¿½s extraï¿½os a ojos humanos.
 
-Sin embargo, destacan por su curiosidad, su habilidad para el comercio y la diplomacia, y su incansable interés por interactuar con otras especies.
+Sin embargo, destacan por su curiosidad, su habilidad para el comercio y la diplomacia, y su incansable interï¿½s por interactuar con otras especies.
 
-Pese a su apariencia, para muchos sofontes La Colmena representa un socio valioso y un miembro respetado de la comunidad galáctica.
+Pese a su apariencia, para muchos sofontes La Colmena representa un socio valioso y un miembro respetado de la comunidad galï¿½ctica.

@@ -1,22 +1,39 @@
 ---
 cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # K'kree
 
-Los **K'kree** son una de las especies mayores de la galaxia, reconocibles por su forma centauroide, su sociedad fuertemente gregaria y su extrema ideología vegana.
+Los **K'kree** son una de las especies mayores de la galaxia, reconocibles por su forma centauroide, su sociedad fuertemente gregaria y su extrema ideologï¿½a vegana.
 
-Originarios del planeta _Kirur_, los K'kree han construido un vasto imperio interestelar conocido como **Los Dos Mil Mundos**, movidos por una ideología expansiva centrada en la pureza herbívora.
+Originarios del planeta _Kirur_, los K'kree han construido un vasto imperio interestelar conocido como **Los Dos Mil Mundos**, movidos por una ideologï¿½a expansiva centrada en la pureza herbï¿½vora.
 
-> Aborrecen profundamente a los carnívoros y han librado campañas de exterminio contra especies y culturas que consideran depredadoras.
+> Aborrecen profundamente a los carnï¿½voros y han librado campaï¿½as de exterminio contra especies y culturas que consideran depredadoras.
 
 ***
 
-Su cultura valora la unidad de grupo, la tradición y el control social estricto.
+Su cultura valora la unidad de grupo, la tradiciï¿½n y el control social estricto.
 
-La vida K'kree está marcada por la vigilancia mutua, el rechazo al individualismo y la veneración de los ancestros.
+La vida K'kree estï¿½ marcada por la vigilancia mutua, el rechazo al individualismo y la veneraciï¿½n de los ancestros.
 
-Para otras civilizaciones, los K'kree son tanto una amenaza militar como un enigma cultural, conocidos por sus flotas masivas, su arquitectura monumental y su obsesión por purificar el espacio de lo que consideran “contaminación carnívora”.
+Para otras civilizaciones, los K'kree son tanto una amenaza militar como un enigma cultural, conocidos por sus flotas masivas, su arquitectura monumental y su obsesiï¿½n por purificar el espacio de lo que consideran ï¿½contaminaciï¿½n carnï¿½voraï¿½.
 
-Orgullo herbívoro, fanatismo ideológico y poderío colectivo definen a los K'kree, quienes ven su misión como un deber universal.
+Orgullo herbï¿½voro, fanatismo ideolï¿½gico y poderï¿½o colectivo definen a los K'kree, quienes ven su misiï¿½n como un deber universal.

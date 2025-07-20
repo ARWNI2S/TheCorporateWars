@@ -5,42 +5,39 @@ coverY: 0
 
 # Causalidad Interactiva
 
-En teoría de juegos, la causalidad interactiva describe sistemas donde las decisiones individuales no solo producen efectos inmediatos, sino que se propagan a lo largo del tiempo, modificando el contexto, las estrategias disponibles y las dinámicas colectivas.
+En teorï¿½a de juegos, la causalidad interactiva describe sistemas donde las decisiones individuales no solo producen efectos inmediatos, sino que se propagan a lo largo del tiempo, modificando el contexto, las estrategias disponibles y las dinï¿½micas colectivas.
 
-Este enfoque permite modelar no solo resultados aislados, sino trayectorias de interacción, adaptación y persistencia.
+Este enfoque permite modelar no solo resultados aislados, sino trayectorias de interacciï¿½n, adaptaciï¿½n y persistencia.
 
-Entre los ámbitos que abordan estas dinámicas destacan:
+Entre los ï¿½mbitos que abordan estas dinï¿½micas destacan:
 
-- **Juegos repetidos**, donde los actores enfrentan versiones sucesivas del mismo juego, permitiendo que las decisiones pasadas condicionen las expectativas y estrategias futuras.
-  
-- **Juegos evolutivos**, que estudian cómo ciertas pautas de comportamiento proliferan o se extinguen según su rendimiento relativo en entornos adaptativos.
-  
-- **Juegos de reputación**, donde las acciones pasadas acumulan peso, afectando la credibilidad, la influencia o la posición estratégica de los actores.
-  
-- **Juegos de aprendizaje**, donde los participantes ajustan progresivamente sus decisiones a partir de información parcial, señales del entorno o comportamientos observables.
+* **Juegos repetidos**, donde los actores enfrentan versiones sucesivas del mismo juego, permitiendo que las decisiones pasadas condicionen las expectativas y estrategias futuras.
+* **Juegos evolutivos**, que estudian cï¿½mo ciertas pautas de comportamiento proliferan o se extinguen segï¿½n su rendimiento relativo en entornos adaptativos.
+* **Juegos de reputaciï¿½n**, donde las acciones pasadas acumulan peso, afectando la credibilidad, la influencia o la posiciï¿½n estratï¿½gica de los actores.
+* **Juegos de aprendizaje**, donde los participantes ajustan progresivamente sus decisiones a partir de informaciï¿½n parcial, seï¿½ales del entorno o comportamientos observables.
 
-El interés teórico en estas estructuras radica en su capacidad para generar patrones no triviales: fenómenos como cooperación espontánea, colapso colectivo, ciclos de confianza y traición, o dinámicas emergentes que no pueden explicarse desde el análisis estático o puntual.
+El interï¿½s teï¿½rico en estas estructuras radica en su capacidad para generar patrones no triviales: fenï¿½menos como cooperaciï¿½n espontÃ¡nea, colapso colectivo, ciclos de confianza y traiciï¿½n, o dinï¿½micas emergentes que no pueden explicarse desde el anï¿½lisis estï¿½tico o puntual.
 
-### Información Parcial y Aprendizaje
+### Informaciï¿½n Parcial y Aprendizaje
 
-En los juegos de aprendizaje, los actores no cuentan con información perfecta ni completa sobre las condiciones del entorno ni sobre las estrategias de los demás.
+En los juegos de aprendizaje, los actores no cuentan con informaciï¿½n perfecta ni completa sobre las condiciones del entorno ni sobre las estrategias de los demï¿½s.
 
-En su lugar, construyen expectativas y adaptan sus decisiones a partir de observaciones parciales, señales indirectas, patrones percibidos y resultados acumulados.
+En su lugar, construyen expectativas y adaptan sus decisiones a partir de observaciones parciales, seï¿½ales indirectas, patrones percibidos y resultados acumulados.
 
-Este tipo de modelos permite analizar cómo surgen dinámicas de ajuste, exploración y refinamiento en sistemas donde el conocimiento total es inalcanzable.
+Este tipo de modelos permite analizar cï¿½mo surgen dinï¿½micas de ajuste, exploraciï¿½n y refinamiento en sistemas donde el conocimiento total es inalcanzable.
 
-## Modelado e Implementación
+## Modelado e Implementaciï¿½n
 
-En **The Corporate Wars**, la causalidad interactiva se manifiesta en la forma en que las _políticas_ reaccionan y se adaptan a un entorno mutable.
+En **The Corporate Wars**, la causalidad interactiva se manifiesta en la forma en que las _polï¿½ticas_ reaccionan y se adaptan a un entorno mutable.
 
 Las decisiones no quedan aisladas: afectan la disponibilidad de recursos, alteran estructuras de poder, modifican rutas comerciales y reconfiguran alianzas.
 
-A medida que los actores interactúan, el sistema acumula memoria de sus movimientos, generando un tejido dinámico de consecuencias que trasciende cada acción individual y contribuye a la evolución del escenario galáctico.
+A medida que los actores interactï¿½an, el sistema acumula memoria de sus movimientos, generando un tejido dinï¿½mico de consecuencias que trasciende cada acciï¿½n individual y contribuye a la evoluciï¿½n del escenario galï¿½ctico.
 
-### Información Desfasada
+### Informaciï¿½n Desfasada
 
-La información disponible circula y se retransmite de forma asimétrica y parcial: las comunicaciones se degradan, las rutas son inciertas, y las señales llegan incompletas o sesgadas por filtros locales.
+La informaciï¿½n disponible circula y se retransmite de forma asimï¿½trica y parcial: las comunicaciones se degradan, las rutas son inciertas, y las seï¿½ales llegan incompletas o sesgadas por filtros locales.
 
-Las _políticas_ no reaccionan a una imagen perfecta del entorno, sino a fragmentos, ecos e interpretaciones que reciben, interpretan y utilizan para definir sus movimientos.
+Las _polï¿½ticas_ no reaccionan a una imagen perfecta del entorno, sino a fragmentos, ecos e interpretaciones que reciben, interpretan y utilizan para definir sus movimientos.
 
-Esta capa de incertidumbre convierte cada decisión no solo en una respuesta a lo conocido, sino en un aprendizaje continuo frente a lo desconocido.
+Esta capa de incertidumbre convierte cada decisiï¿½n no solo en una respuesta a lo conocido, sino en un aprendizaje continuo frente a lo desconocido.

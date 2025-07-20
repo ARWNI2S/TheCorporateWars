@@ -1,18 +1,35 @@
 ---
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Zhodani
 
 Los Zhodani son una de las ramas principales de Humaniti, originarios del planeta Zhdant, capital del Consulado Zhodani.
 
-Su sociedad se caracteriza por la integraci髇 abierta de la psi髇ica en todos los niveles: social, cultural y tecnol骻ico; desde el gobierno hasta la vida cotidiana y las ciencias.
+Su sociedad se caracteriza por la integraci贸n abierta de la psi贸nica en todos los niveles: social, cultural y tecnol贸gico; desde el gobierno hasta la vida cotidiana y las ciencias.
 
-Los Zhodani valoran la honestidad, la armon韆 social y la transparencia mental, apoy醤dose en una elite psi髇ica dirigente para mantener el orden y el bienestar colectivo.
+Los Zhodani valoran la honestidad, la armon铆a social y la transparencia mental, apoy谩ndose en una elite psi贸nica dirigente para mantener el orden y el bienestar colectivo.
 
-Para muchos fuera del Consulado, los Zhodani son vistos con recelo, considerados autoritarios, manipuladores o incluso inquietantes debido a su uso de la telepat韆 en la pol韙ica y la justicia.
+Para muchos fuera del Consulado, los Zhodani son vistos con recelo, considerados autoritarios, manipuladores o incluso inquietantes debido a su uso de la telepat铆a en la pol铆tica y la justicia.
 
-Sin embargo, dentro de su cultura, los valores de confianza, unidad y cooperaci髇 psi髇ica son fuente de orgullo y cohesi髇.
+Sin embargo, dentro de su cultura, los valores de confianza, unidad y cooperaci贸n psi贸nica son fuente de orgullo y cohesi贸n.
 
-> Tecnolog韆 avanzada, disciplina social y un fuerte sentido de identidad ps韖uica definen a los Zhodani, quienes consideran su civilizaci髇 un ejemplo evolutivo de Humaniti.
+> Tecnolog铆a avanzada, disciplina social y un fuerte sentido de identidad ps铆quica definen a los Zhodani, quienes consideran su civilizaci贸n un ejemplo evolutivo de Humaniti.

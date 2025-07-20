@@ -2,6 +2,23 @@
 description: Definiendo el alcance operativo inicial y las oportunidades estratégicas.
 cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Operaciones Autorizadas
@@ -14,4 +31,4 @@ La obtención de permisos, licencias y concesiones puede convertirse en un proce
 
 Al registrar una nueva corporación, los jugadores deberan decidir el ambito y extensión de su operación, teniendo en cuenta que cada licencia tiene costes y requisitos especificos, aumentando exponencialmente la dificultad inicial y la complejidad de la gestion de la corporacion en el juego.
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Comercio</td><td></td><td><a href="trade-commerce/">trade-commerce</a></td></tr><tr><td>Servicios Coloniales</td><td><a href="../../../.gitbook/assets/TCW.jpg">TCW.jpg</a></td><td><a href="colonial-services/">colonial-services</a></td></tr><tr><td>Policía y Seguridad</td><td></td><td><a href="enforcement-security/">enforcement-security</a></td></tr><tr><td>Explotación de Concesiones</td><td></td><td><a href="grant-exploitation/">grant-exploitation</a></td></tr><tr><td>Manufactura</td><td></td><td><a href="manufacturing/">manufacturing</a></td></tr><tr><td>Transporte de Mercancías</td><td></td><td><a href="mercantile-freight/">mercantile-freight</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Comercio</td><td><a href="../../../.gitbook/assets/tcw-wip-banner.jpg">tcw-wip-banner.jpg</a></td><td><a href="trade-commerce/">trade-commerce</a></td></tr><tr><td>Servicios Coloniales</td><td><a href="../../../.gitbook/assets/tcw-wip-banner.jpg">tcw-wip-banner.jpg</a></td><td><a href="colonial-services/">colonial-services</a></td></tr><tr><td>Policía y Seguridad</td><td><a href="../../../.gitbook/assets/tcw-wip-banner.jpg">tcw-wip-banner.jpg</a></td><td><a href="enforcement-security/">enforcement-security</a></td></tr><tr><td>Explotación de Concesiones</td><td><a href="../../../.gitbook/assets/tcw-wip-banner.jpg">tcw-wip-banner.jpg</a></td><td><a href="grant-exploitation/">grant-exploitation</a></td></tr><tr><td>Manufactura</td><td><a href="../../../.gitbook/assets/tcw-wip-banner.jpg">tcw-wip-banner.jpg</a></td><td><a href="manufacturing/">manufacturing</a></td></tr><tr><td>Transporte de Mercancías</td><td><a href="../../../.gitbook/assets/tcw-wip-banner.jpg">tcw-wip-banner.jpg</a></td><td><a href="mercantile-freight/">mercantile-freight</a></td></tr></tbody></table>

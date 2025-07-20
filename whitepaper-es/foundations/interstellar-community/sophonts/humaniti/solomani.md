@@ -1,14 +1,31 @@
 ---
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Solomani
 
-Los Solomani son una rama de Humaniti originaria de Sol, cuna reconocida de la humanidad seg˙n su propia tradiciÛn.
+Los Solomani son una rama de Humaniti originaria de Sol, cuna reconocida de la humanidad seg√∫n su propia tradici√≥n.
 
-Forjaron su identidad tras la expansiÛn m·s all· de su mundo de origen, desarrollando un fuerte sentido de supremacÌa cultural y biolÛgica frente a otras ramas humanas.
+Forjaron su identidad tras la expansi√≥n m√°s all√° de su mundo de origen, desarrollando un fuerte sentido de supremac√≠a cultural y biol√≥gica frente a otras ramas humanas.
 
-Aunque su intento de hegemonÌa gal·ctica culminÛ con la caÌda de la ConfederaciÛn Solomani frente al Tercer Imperio, su influencia persiste, y su ideologÌa óel Solomanismoó sigue viva, alimentando movimientos nacionalistas, facciones separatistas y un profundo orgullo por su herencia solar.
+Aunque su intento de hegemon√≠a gal√°ctica culmin√≥ con la ca√≠da de la Confederaci√≥n Solomani frente al Tercer Imperio, su influencia persiste, y su ideolog√≠a ‚Äîel Solomanismo‚Äî sigue viva, alimentando movimientos nacionalistas, facciones separatistas y un profundo orgullo por su herencia solar.
 
-> TecnologÌa competitiva, tradiciÛn espacial y una fÈrrea creencia en el _destino manifiesto_ caracterizan a los Solomani, quienes consideran Sol el verdadero hogar de toda Humaniti.
+> Tecnolog√≠a competitiva, tradici√≥n espacial y una f√©rrea creencia en el _destino manifiesto_ caracterizan a los Solomani, quienes consideran Sol el verdadero hogar de toda Humaniti.

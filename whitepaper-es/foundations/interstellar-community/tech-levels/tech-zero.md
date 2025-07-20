@@ -4,6 +4,23 @@ description: >-
   rudimentarias.
 cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Nivel Cero
@@ -25,4 +42,3 @@ Para las corporaciones, estos mundos suelen representar oportunidades a largo pl
 El impacto del _primer contacto_ puede ser devastador o transformador.
 
 Una introducción descontrolada a tecnologías avanzadas puede desestabilizar su evolución social, mientras que un proceso de integración gradual podría convertirlos en aliados estratégicos a largo plazo.
-

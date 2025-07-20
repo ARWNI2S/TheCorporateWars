@@ -1,15 +1,32 @@
 ---
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Auditar Mundos
 
-Auditar mundos forma parte del esfuerzo de _Políticas_ y _Lealtades_ para registrar, actualizar y publicar la información de los mundos dentro del Espacio Conocido.
+Auditar mundos forma parte del esfuerzo de _Polï¿½ticas_ y _Lealtades_ para registrar, actualizar y publicar la informaciï¿½n de los mundos dentro del Espacio Conocido.
 
-Esta auditoría no solo recoge datos técnicos, sino que busca entender cómo han evolucionado las sociedades planetarias, sus recursos, desafíos y oportunidades desde los anteriores censos.
+Esta auditorï¿½a no solo recoge datos tï¿½cnicos, sino que busca entender cï¿½mo han evolucionado las sociedades planetarias, sus recursos, desafï¿½os y oportunidades desde los anteriores censos.
 
-> Para las megacorporaciones, nobles, exploradores y agentes imperiales, estos datos son esenciales: definen dónde invertir, qué rutas asegurar, qué alianzas negociar… y qué conflictos evitar o provocar.
+> Para las megacorporaciones, nobles, exploradores y agentes imperiales, estos datos son esenciales: definen dï¿½nde invertir, quï¿½ rutas asegurar, quï¿½ alianzas negociarï¿½ y quï¿½ conflictos evitar o provocar.
 
 ***
 
@@ -17,6 +34,6 @@ Esta auditoría no solo recoge datos técnicos, sino que busca entender cómo han e
 
 El PMU (Perfil de Mundo Universal) es un sistema compacto para describir sistemas estelares completos como un unico mundo.
 
-Usa una cadena alfanumérica de códigos —como A867A9B— donde cada dígito o letra resume una característica clave del mundo.
+Usa una cadena alfanumï¿½rica de cï¿½digos ï¿½como A867A9Bï¿½ donde cada dï¿½gito o letra resume una caracterï¿½stica clave del mundo.
 
-<table data-header-hidden><thead><tr><th width="198"></th><th></th></tr></thead><tbody><tr><td><strong>Código</strong></td><td><strong>Descripción</strong></td></tr><tr><td><strong>Astropuerto</strong></td><td>Indica la infraestructura y servicios disponibles en el astropuerto del mundo, desde instalaciones avanzadas hasta simples zonas de aterrizaje.</td></tr><tr><td><strong>Tamaño</strong></td><td>Define el diámetro del planeta o luna, afectando su gravedad y capacidad para retener una atmósfera.</td></tr><tr><td><strong>Atmósfera</strong></td><td>Determina la composición del aire y si es respirable para humanos sin asistencia. Puede ser desde inexistente hasta toxica o ideal para la vida.</td></tr><tr><td><strong>Hidrografía</strong></td><td>Indica la cantidad de agua en la superficie del mundo, desde planetas desérticos hasta océanos globales.</td></tr><tr><td><strong>Población</strong></td><td>Representa la cantidad de habitantes en el mundo, desde puestos avanzados con pocos individuos hasta megaciudades planetarias.</td></tr><tr><td><strong>Gobierno</strong></td><td>Describe la estructura política y administrativa que rige el mundo, desde anarquía hasta dictaduras o democracias centralizadas.</td></tr><tr><td><strong>Nivel Legal</strong></td><td>Define la regulación del mundo sobre comercio, armamento y actividad en general, desde anarquía total hasta control totalitario.</td></tr><tr><td><strong>Nivel Tecnológico</strong></td><td>Representa el desarrollo tecnológico del mundo, desde sociedades primitivas hasta civilizaciones altamente avanzadas con tecnología interestelar.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="198"></th><th></th></tr></thead><tbody><tr><td><strong>Cï¿½digo</strong></td><td><strong>Descripciï¿½n</strong></td></tr><tr><td><strong>Astropuerto</strong></td><td>Indica la infraestructura y servicios disponibles en el astropuerto del mundo, desde instalaciones avanzadas hasta simples zonas de aterrizaje.</td></tr><tr><td><strong>Tamaï¿½o</strong></td><td>Define el diï¿½metro del planeta o luna, afectando su gravedad y capacidad para retener una atmï¿½sfera.</td></tr><tr><td><strong>Atmï¿½sfera</strong></td><td>Determina la composiciï¿½n del aire y si es respirable para humanos sin asistencia. Puede ser desde inexistente hasta toxica o ideal para la vida.</td></tr><tr><td><strong>Hidrografï¿½a</strong></td><td>Indica la cantidad de agua en la superficie del mundo, desde planetas desï¿½rticos hasta ocï¿½anos globales.</td></tr><tr><td><strong>Poblaciï¿½n</strong></td><td>Representa la cantidad de habitantes en el mundo, desde puestos avanzados con pocos individuos hasta megaciudades planetarias.</td></tr><tr><td><strong>Gobierno</strong></td><td>Describe la estructura polï¿½tica y administrativa que rige el mundo, desde anarquï¿½a hasta dictaduras o democracias centralizadas.</td></tr><tr><td><strong>Nivel Legal</strong></td><td>Define la regulaciï¿½n del mundo sobre comercio, armamento y actividad en general, desde anarquï¿½a total hasta control totalitario.</td></tr><tr><td><strong>Nivel Tecnolï¿½gico</strong></td><td>Representa el desarrollo tecnolï¿½gico del mundo, desde sociedades primitivas hasta civilizaciones altamente avanzadas con tecnologï¿½a interestelar.</td></tr></tbody></table>

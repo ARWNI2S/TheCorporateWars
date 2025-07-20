@@ -129,7 +129,7 @@
   * [Juego Económico de Suma Cero](technologies/gameplay/zero-sum.md)
   * [Individualismo Colaborativo](technologies/gameplay/compete-collaborate.md)
   * [Causalidad Interactiva](technologies/gameplay/deep-causality.md)
-  * [Despliegue Communitario](technologies/gameplay/community-deployment.md)
+  * [Despliegue Comunitario](technologies/gameplay/community-deployment.md)
 * [Blockchain Stateless](technologies/solana-network/README.md)
   * [Base de Datos del Tercer Censo](technologies/solana-network/third-survey-data.md)
   * [El Modelo de Información Desfasada](technologies/solana-network/outdated-information-model.md)

@@ -4,6 +4,23 @@ description: >-
   su desarrollo.
 cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Niveles Tecnológicos
@@ -17,7 +34,7 @@ Desde culturas primitivas hasta imperios galácticos, cada civilización existe 
 La existencia de múltiples niveles de avance genera dinámicas de poder asimétricas, donde las civilizaciones más avanzadas pueden decidir el destino de aquellas menos desarrolladas.
 
 {% hint style="info" %}
-Las corporaciones desempeñan un papel clave en esta ecuación, ya que pueden actuar como catalizadores del desarrollo, proporcionando tecnología y recursos a cambio de concesiones estratégicas.  
+Las corporaciones desempeñan un papel clave en esta ecuación, ya que pueden actuar como catalizadores del desarrollo, proporcionando tecnología y recursos a cambio de concesiones estratégicas.\
 De la misma manera, también pueden frenar el avance de ciertos mundos para mantener una ventaja comercial o política.
 {% endhint %}
 

@@ -1,6 +1,23 @@
 ---
 cover: ../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Tercer Censo
@@ -22,12 +39,7 @@ Una iniciativa monumental del Servicio de Exploración Interestelar Imperial en 
 En **The Corporate Wars** el Tercer Censo representa no solo un escenario de trasfondo temático, sino la filosofía sobre la que se construye el mapa de la Galaxia.
 
 > El Tercer Censo es una base de datos estructural de sistemas estelares y rutas de salto, con datos actualizados periódicamente, almacenada en blockchain, lo cual permite auditoria y acceso distribuido en tiempo real.
-> 
+>
 > El Tercer Censo es la estructura fundamental sobre la que están construidos el resto de sistemas del juego.
 
 Los jugadores participan, por medio de la exploración, en el crecimiento de los limites del juego, actualizan datos de mundos aislados y transportan información a grandes distancias.
-
-
-
-
-

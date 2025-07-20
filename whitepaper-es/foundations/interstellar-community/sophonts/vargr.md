@@ -1,22 +1,39 @@
 ---
 cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Vargr
 
-Los **Vargr** son los sofontes originarios de las _Extensiones Vargr_, hacia la _espiral_ del Imperio, conocidos por su aspecto canino y su naturaleza social intensamente dinámica.
+Los **Vargr** son los sofontes originarios de las _Extensiones Vargr_, hacia la _espiral_ del Imperio, conocidos por su aspecto canino y su naturaleza social intensamente dinï¿½mica.
 
-Genéticamente, los Vargr comparten la mayoría del genoma con Humaniti, y son parcialmente compatibles biológicamente: son sensibles a virus, bacterias y antibióticos de espectro similar.
+Genï¿½ticamente, los Vargr comparten la mayorï¿½a del genoma con Humaniti, y son parcialmente compatibles biolï¿½gicamente: son sensibles a virus, bacterias y antibiï¿½ticos de espectro similar.
 
-> Se consideran otro ejemplo de _evolución convergente_, reforzando la teoría general de la evolución de la vida en la galaxia.
+> Se consideran otro ejemplo de _evoluciï¿½n convergente_, reforzando la teorï¿½a general de la evoluciï¿½n de la vida en la galaxia.
 
 ***
 
-La sociedad Vargr se caracteriza por su falta de estructuras jerárquicas rígidas: el liderazgo se gana a través del éxito y el prestigio, no por linaje ni derecho formal.
+La sociedad Vargr se caracteriza por su falta de estructuras jerï¿½rquicas rï¿½gidas: el liderazgo se gana a travï¿½s del ï¿½xito y el prestigio, no por linaje ni derecho formal.
 
-Esta fluidez genera alianzas, flotas, bandas corsarias y hasta gobiernos planetarios que pueden surgir y desaparecer en cuestión de años.
+Esta fluidez genera alianzas, flotas, bandas corsarias y hasta gobiernos planetarios que pueden surgir y desaparecer en cuestiï¿½n de aï¿½os.
 
-A ojos de Humaniti y otras especies, los Vargr son impredecibles, intensos y a menudo caóticos, pero también vibrantes, ingeniosos y apasionadamente leales a sus círculos cercanos.
+A ojos de Humaniti y otras especies, los Vargr son impredecibles, intensos y a menudo caï¿½ticos, pero tambiï¿½n vibrantes, ingeniosos y apasionadamente leales a sus cï¿½rculos cercanos.
 
-Comercio, exploración y piratería se entrelazan en la historia Vargr, haciendo de ellos tanto competidores como aliados, y garantizando que su presencia sea sentida en cada frontera galáctica.
+Comercio, exploraciï¿½n y piraterï¿½a se entrelazan en la historia Vargr, haciendo de ellos tanto competidores como aliados, y garantizando que su presencia sea sentida en cada frontera galï¿½ctica.

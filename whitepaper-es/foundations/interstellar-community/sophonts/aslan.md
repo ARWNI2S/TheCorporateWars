@@ -1,20 +1,37 @@
 ---
 cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Aslan
 
-Los **Aslan** son una de las potencias mayores de la galaxia, conocidos por su estructura social jerárquica y profundamente territorial.
+Los **Aslan** son una de las potencias mayores de la galaxia, conocidos por su estructura social jerï¿½rquica y profundamente territorial.
 
-Originarios del planeta _Kuzu_, los Aslan forman el **Tlaukhu** (_Jerarcado Aslan_), una red de clanes gobernados por **Ahriy'i** (_matriarcas_), donde el honor, la expansión territorial y el linaje son pilares fundamentales.
+Originarios del planeta _Kuzu_, los Aslan forman el **Tlaukhu** (_Jerarcado Aslan_), una red de clanes gobernados por **Ahriy'i** (_matriarcas_), donde el honor, la expansiï¿½n territorial y el linaje son pilares fundamentales.
 
-> Orgullo, tradición y hambre de nuevos mundos caracterizan a los Aslan, quienes ven la expansión como un derecho natural y un deber ancestral.
+> Orgullo, tradiciï¿½n y hambre de nuevos mundos caracterizan a los Aslan, quienes ven la expansiï¿½n como un derecho natural y un deber ancestral.
 
 ***
 
-La sociedad Aslan distingue claramente entre géneros: los machos son guerreros, exploradores y 'políticos', mientras que las hembras manejan la economía, la tecnología y la administración.
+La sociedad Aslan distingue claramente entre gï¿½neros: los machos son guerreros, exploradores y 'polï¿½ticos', mientras que las hembras manejan la economï¿½a, la tecnologï¿½a y la administraciï¿½n.
 
 Esta dualidad ha permitido al _Jerarcado_ expandirse agresivamente mientras mantiene una estructura interna eficiente.
 
-Para el Imperio y otros poderes, los Aslan son tanto rivales como aliados ocasionales, guiados por códigos de honor que definen todas sus interacciones.
+Para el Imperio y otros poderes, los Aslan son tanto rivales como aliados ocasionales, guiados por cï¿½digos de honor que definen todas sus interacciones.
