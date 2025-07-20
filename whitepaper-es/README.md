@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/tcw-survey.jpg
+cover: .gitbook/assets/TCW.jpg
 coverY: 0
 ---
 
