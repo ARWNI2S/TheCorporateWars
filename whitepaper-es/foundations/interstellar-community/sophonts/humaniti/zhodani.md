@@ -22,7 +22,7 @@ layout:
 
 # Zhodani
 
-Los Zhodani son una de las ramas principales de Humaniti, originarios del planeta Zhdant, capital del Consulado Zhodani.
+Los **Zhodani** son una de las ramas principales de Humaniti, originarios del planeta Zhdant, capital del Consulado Zhodani.
 
 Su sociedad se caracteriza por la integración abierta de la psiónica en todos los niveles: social, cultural y tecnológico; desde el gobierno hasta la vida cotidiana y las ciencias.
 

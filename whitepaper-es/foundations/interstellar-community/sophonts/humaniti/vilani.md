@@ -22,7 +22,7 @@ layout:
 
 # Vilani
 
-Los Vilani son una de las ramas más antiguas de Humaniti, originarios del planeta Vland.
+Los **Vilani** son una de las ramas más antiguas de Humaniti, originarios del planeta Vland.
 
 Fueron los fundadores del Ziru Sirka (Primer Imperio), una civilización interestelar caracterizada por su rígida jerarquía, conservadurismo y fuerte énfasis en la estabilidad social y económica.
 
