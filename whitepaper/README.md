@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/TCW.jpg
+cover: .gitbook/assets/tcw-belt.jpg
 coverY: 0
 ---
 
@@ -59,8 +59,6 @@ Traveller™ and all related elements are the intellectual property of Mongoose 
 ### Jump right in
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Foundations</strong></td><td>Inspired by Traveller™</td><td><a href=".gitbook/assets/TCW.jpg">TCW.jpg</a></td><td></td><td><a href="gameplay/general-concept.md">general-concept.md</a></td></tr><tr><td><strong>Game Mechanics</strong></td><td>All you need to know...</td><td><a href=".gitbook/assets/TCW.jpg">TCW.jpg</a></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><strong>Technologies Involved</strong></td><td>A deep dive inside backend.</td><td><a href=".gitbook/assets/TCW.jpg">TCW.jpg</a></td><td></td><td><a href="tokenomics/economic-simulation/">economic-simulation</a></td></tr></tbody></table>
-
-
 
 ***
 
