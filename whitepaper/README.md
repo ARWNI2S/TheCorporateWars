@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/tcw-belt.jpg
+cover: .gitbook/assets/TCW.jpg
 coverY: 0
 ---
 
