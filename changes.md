@@ -25,7 +25,7 @@
   - [X] Stars and Worlds
     - [X] Planets and Moons
       - [X] World Survey
-      - [ ] Hostile Environments
+      - [X] Hostile Environments
     - [ ] Gas Giants
     - [ ] Asteroid Belts
   - [ ] Space Travel

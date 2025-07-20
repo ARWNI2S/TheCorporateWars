@@ -9,7 +9,9 @@ World survey is part of the effort by _Polities_ and _Allegiances_ to record, up
 
 This audit not only gathers technical data but also aims to understand how planetary societies, their resources, challenges, and opportunities have evolved since previous surveys.
 
-> For megacorporations, nobles, explorers, and imperial agents, this data is essential: it defines where to invest, which routes to secure, what alliances to negotiate… and which conflicts to avoid or provoke.
+> For megacorporations, nobles, explorers, and imperial agents, this data is essential: it defines where to invest, which routes to secure, what alliances to negotiate… and which conflicts to avoid or enact.
+
+***
 
 ### Universal World Profile
 

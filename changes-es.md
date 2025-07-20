@@ -25,7 +25,7 @@
   - [X] Estrellas y Mundos
     - [X] Planetas y Lunas
       - [X] Auditar Mundos
-      - [ ] Entornos Hostiles
+      - [X] Entornos Hostiles
     - [ ] Gigantes de Gas
     - [ ] Cinturones de Asteroides
   - [ ] Viaje Espacial

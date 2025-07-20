@@ -11,6 +11,8 @@ Esta auditoría no solo recoge datos técnicos, sino que busca entender cómo han e
 
 > Para las megacorporaciones, nobles, exploradores y agentes imperiales, estos datos son esenciales: definen dónde invertir, qué rutas asegurar, qué alianzas negociar… y qué conflictos evitar o provocar.
 
+***
+
 ### Perfil de Mundo Universal
 
 El PMU (Perfil de Mundo Universal) es un sistema compacto para describir sistemas estelares completos como un unico mundo.
