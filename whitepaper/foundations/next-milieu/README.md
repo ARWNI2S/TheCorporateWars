@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/tcw-wip-nerd.jpg
+cover: ../../.gitbook/assets/tcw-tnm.jpg
 coverY: 0
 layout:
   width: default
