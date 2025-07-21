@@ -23,12 +23,14 @@ layout:
 # The Corporate Wars
 
 {% columns %}
-{% column width="25%" %}
+{% column width="16.666666666666664%" %}
 
 {% endcolumn %}
 
 {% column %}
-> **Karamshidukagim** \[ka-RAAM-shee-doo-ka-geem] –noun. \[Origin circa -4500 Imperial, from Vilani _karam_ “duty, loyalty” + _shidu_ “to carry, prosecute” + agentive suffix _-kagim_. Refers to conflicts waged between corporate actors upholding institutional loyalty.] 1. Collective term for the great intercorporate conflicts of the Ziru Sirka era. 2. Formal designation for ideological and military struggles among Vilani megacorporations. 3. By extension, any prolonged conflict waged in the name of duty, loyalty, or institutional allegiance.
+> **Karamshidukagim** \[ka-RAAM-shee-doo-ka-geem] –noun.\
+> \[Origin circa -4500 Imperial, from Vilani _karam_ “duty, loyalty” + _shidu_ “to carry, prosecute” + agentive suffix _-kagim_. Refers to conflicts waged between corporate actors upholding institutional loyalty.]\
+> 1\. Collective term for the great intercorporate conflicts of the Ziru Sirka era. 2. Formal designation for ideological and military struggles among Vilani megacorporations. 3. By extension, any prolonged conflict waged in the name of duty, loyalty, or institutional allegiance.
 {% endcolumn %}
 {% endcolumns %}
 
