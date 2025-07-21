@@ -4,7 +4,7 @@
 
 ## Los Cimientos del Universo <a href="#foundations" id="foundations"></a>
 
-* [El Próximo Milieu](foundations/next-milieu/README.md)
+* [Un Nuevo Milieu](foundations/next-milieu/README.md)
   * [El Problema de la Información](foundations/next-milieu/information-problem.md)
   * [Tercer Censo](foundations/next-milieu/third-survey.md)
   * [El Negocio de la Expansión](foundations/next-milieu/expansion.md)
