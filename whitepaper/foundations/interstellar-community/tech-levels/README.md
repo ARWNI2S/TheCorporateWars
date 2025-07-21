@@ -33,7 +33,7 @@ From primitive cultures to galactic empires, every civilization exists within a 
 
 The existence of multiple technological levels creates asymmetric power dynamics, where the most advanced civilizations can decide the fate of less developed ones.
 
-{% hint style="info" %}
+{% hint style="success" %}
 Corporations play a key role in this equation, acting as catalysts for development by providing technology and resources in exchange for strategic concessions.\
 Likewise, they can also hinder the progress of certain worlds to maintain a commercial or polítical advantage.
 {% endhint %}
