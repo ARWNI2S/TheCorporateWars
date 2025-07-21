@@ -25,7 +25,7 @@ layout:
 
 
 {% columns fullWidth="true" %}
-{% column width="33.33333333333333%" %}
+{% column width="25%" %}
 
 {% endcolumn %}
 
