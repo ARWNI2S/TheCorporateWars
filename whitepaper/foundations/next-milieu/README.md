@@ -38,11 +38,11 @@ layout:
 
 <p align="center">Vagh'rra! Rroezhakha <strong>100'k'rrr</strong> nurghrra'rrr.</p>
 
-***
-
 > _**It was all a dream**_
 >
 > There was no rebellion, no event triggered the fall of the Imperium. There never was any "virus", and the only "new era" I know... is today!
+
+***
 
 ## _Milieu 1.2?_
 
