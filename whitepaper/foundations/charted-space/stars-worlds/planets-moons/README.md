@@ -33,4 +33,6 @@ Moons, though smaller in size, can be just as crucial as planets: their low grav
 
 > Many corporations establish mining complexes, transit stations, and operational bases on moons, using their position to control trade routes or extract hard-to-reach materials.
 
+{% hint style="success" %}
 Controlling a well-positioned world can mean dominance over an entire region — as an industrial hub, logistical node, or military stronghold.
+{% endhint %}

@@ -31,7 +31,9 @@ The **Charted Space** is made up of countless planetary systems, each with its o
 
 Stars define the nature of a system: from long-lived red dwarfs to short-lived blue giants, each stellar type influences habitability and available resources.
 
+{% hint style="danger" %}
 Systems with multiple suns may pose additional challenges for navigation and colonization due to their complex orbits.
+{% endhint %}
 
 ***
 
