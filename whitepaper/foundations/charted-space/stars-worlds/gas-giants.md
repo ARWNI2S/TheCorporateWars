@@ -31,7 +31,7 @@ Although inhospitable to traditional colonization, these worlds are essential to
 
 ***
 
-Some gas giants have moons rich in minerals or suitable for colonization, turning them into centers of economic activity within a star system.
+Some gas giants have [moons](planets-moons/) rich in minerals or suitable for colonization, turning them into centers of economic activity within a star system.
 
 Additionally, certain gravitational or atmospheric anomalies can make these planets strategic points for trade, fleet transit, or even the development of hidden installations far from the oversight of interstellar powers.
 

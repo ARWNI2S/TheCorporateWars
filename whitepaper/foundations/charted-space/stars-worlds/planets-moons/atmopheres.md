@@ -28,6 +28,8 @@ Most worlds within Known Space are inhospitable: extreme temperatures and pressu
 
 For Humaniti, they are deadly; for corporations, they are sources of noble gases, rare metals, or exotic compounds impossible to synthesize.
 
+***
+
 ### Extrosophonts
 
 In some of these extreme environments, life evolves, surprisingly pushing the boundaries of biology; sometimes even reaching the level of sophonts: sentient species known for technologies as extreme as their worlds of origin.

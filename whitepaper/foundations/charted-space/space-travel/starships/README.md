@@ -27,7 +27,7 @@ layout:
 
 Interstellar transportation in **The Corporate Wars** relies on a combination of advanced propulsion technology and starship designs optimized for specific roles.
 
-From massive freighters to light exploration vessels, each type of ship plays a vital role in galactic mobility and the inter-system economy.
+From massive freighters to light exploration vessels, each type of ship plays a vital role in galactic mobility and interstellar economy.
 
 The difference between starships and spacecraft is determined not by their size or technological level, but by their ability to jump between the stars.
 

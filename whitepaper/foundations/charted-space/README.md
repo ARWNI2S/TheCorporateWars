@@ -31,14 +31,16 @@ The extent of Charted Space is not uniform; some regions are densely populated a
 
 ***
 
-Within this territory, players will find key worlds, strategic sectors, and vital trade routes.
-
-However, beyond the borders of Charted Space lie unexplored regions, undiscovered systems, and areas where civilization is scarce or nonexistent.
-
-Expansion into these territories presents both an opportunity and a challenge — the absence of control can mean either freedom or danger.
+> Within this territory, players will find key worlds, strategic sectors, and vital trade routes.
+>
+> However, beyond the borders of Charted Space lie unexplored regions, undiscovered systems, and areas where civilization is scarce or nonexistent.
+>
+> Expansion into these territories presents both an opportunity and a challenge — the absence of control can mean either freedom or danger.
 
 ***
 
+{% hint style="success" %}
 Understanding Charted Space is essential for any corporation seeking to grow and consolidate its power in the galaxy.
 
 Controlling access to resource-rich regions, dominating trade routes, and establishing enclaves in strategic locations can be the difference between success and obsolescence.
+{% endhint %}
