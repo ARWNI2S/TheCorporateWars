@@ -2,7 +2,7 @@
 description: >-
   Civilizaciones y especies que participan en el panorama político-económico
   interestelar.
-cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../../.gitbook/assets/tcw-sophonts.jpg
 coverY: 0
 layout:
   width: default
