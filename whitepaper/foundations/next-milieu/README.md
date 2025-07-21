@@ -22,21 +22,21 @@ layout:
 
 # The Next Milieu
 
-It is Imperial Year 1201 in the Third Imperium.
+<p align="center">It is Imperial Year 1201 in the Third Imperium.</p>
 
-Zhdantl drintiar 3509 tlotl.
+<p align="center">Zhdantl drintiar 3509 tlotl.</p>
 
-Htyao Ftao 3745 Tlaukhu'we'rr.
+<p align="center">Htyao Ftao 3745 Tlaukhu'we'rr.</p>
 
-Ashar shan 3996 sha Ziru Sirka.
+<p align="center">Ashar shan 3996 sha Ziru Sirka.</p>
 
-We are in Solar Year 5637.
+<p align="center">We are in Solar Year 5637.</p>
 
-T’t’kha rra 7788 K’reek kharr.
+<p align="center">T’t’kha rra 7788 K’reek kharr.</p>
 
-It is the honorable 20123 Federation Year.
+<p align="center">It is the honorable 20123 Federation Year.</p>
 
-Vagh'rra! Rroezhakha **100'k'rrr** nurghrra'rrr.
+<p align="center">Vagh'rra! Rroezhakha <strong>100'k'rrr</strong> nurghrra'rrr.</p>
 
 ***
 
