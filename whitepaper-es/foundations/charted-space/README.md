@@ -31,14 +31,16 @@ La extensión del Espacio Conocido no es uniforme; algunas regiones están densa
 
 ***
 
-Dentro de este territorio, los jugadores encontrarán mundos clave, sectores estratégicos y rutas de comercio vitales.
-
-Sin embargo, más allá de los límites del Espacio Conocido se extienden regiones inexploradas, sistemas aún por descubrir y zonas donde la civilización es escasa o inexistente.
-
-La expansión hacia estos territorios representa tanto una oportunidad como un desafío, pues la ausencia de control puede significar tanto libertad como peligro.
+> Dentro de este territorio, los jugadores encontrarán mundos clave, sectores estratégicos y rutas de comercio vitales.
+>
+> Sin embargo, más allá de los límites del Espacio Conocido se extienden regiones inexploradas, sistemas aún por descubrir y zonas donde la civilización es escasa o inexistente.
+>
+> La expansión hacia estos territorios representa tanto una oportunidad como un desafío, pues la ausencia de control puede significar tanto libertad como peligro.
 
 ***
 
+{% hint style="success" %}
 La comprensión del Espacio Conocido es fundamental para cualquier corporación que aspire a crecer y consolidar su poder en la galaxia.
 
 Controlar los accesos a regiones ricas en recursos, dominar rutas comerciales y establecer enclaves en puntos estratégicos puede marcar la diferencia entre el éxito y la obsolescencia.
+{% endhint %}

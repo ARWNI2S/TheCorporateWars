@@ -31,7 +31,7 @@ Aunque inhóspitos para la colonización tradicional, estos mundos son fundament
 
 ***
 
-Algunos gigantes de gas albergan lunas ricas en minerales o con condiciones adecuadas para la colonización, lo que los convierte en centros de actividad económica dentro de un sistema estelar.
+Algunos gigantes de gas albergan [lunas](planets-moons/) ricas en minerales o con condiciones adecuadas para la colonización, lo que los convierte en centros de actividad económica dentro de un sistema estelar.
 
 Además, ciertas anomalías gravitacionales o atmosféricas pueden hacer que estos planetas sean puntos estratégicos para el comercio, el tránsito de flotas o incluso el desarrollo de instalaciones ocultas lejos de la supervisión de las potencias interestelares.
 

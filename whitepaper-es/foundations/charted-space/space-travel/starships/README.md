@@ -27,7 +27,7 @@ layout:
 
 El transporte interestelar en **The Corporate Wars** depende de una combinación de tecnología de propulsión avanzada y diseño de naves optimizado para distintas funciones.
 
-Desde cargueros masivos hasta naves de exploración ligera, cada tipo de navío cumple un rol fundamental en la movilidad galáctica y la economía intersistémica.
+Desde cargueros masivos hasta naves de exploración ligera, cada tipo de navío cumple un rol fundamental en la movilidad galáctica y la economía interestelar.
 
 La diferencia entre astronaves y espacionaves la determina, no su tamaño o nivel tecnológico, sino su capacidad de saltar entre las estrellas.
 

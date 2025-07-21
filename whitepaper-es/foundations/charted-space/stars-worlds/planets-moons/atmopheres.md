@@ -28,6 +28,8 @@ La mayoría de los mundos del Espacio Conocido son inhóspitos: temperaturas y p
 
 Para Humaniti, son mortales; para las corporaciones, son fuentes de gases nobles, metales raros o compuestos exóticos imposibles de sintetizar.
 
+***
+
 ### Extrosofontes
 
 En algunos de estos entornos extremos, la vida evoluciona desafiando de forma sorprendente los límites de la biología, a veces incluso alcanzando el nivel de sofóntes: especies conscientes, conocidas por tecnologías tan extremas como sus mundos de origen.
