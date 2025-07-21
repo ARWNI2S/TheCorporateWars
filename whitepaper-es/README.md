@@ -51,13 +51,15 @@ Las fronteras entre imperios son nodos de información, intercambio tecnológico
 
 > Actualmente, este proyecto es un homenaje a los 50 años de Traveller™ y no constituye una adaptación oficial.
 
-> En respetuoso homenaje a Andrew Boulton (1969 - 2012).\
-> Este proyecto, dio sus primeros pasos con su inestimable apoyo en las redes.\
-> \&#xNAN;_We, as Citizens of the Imperium, miss you._
-
 ### Empieza aquí.
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Cimientos</strong></td><td>Inspirado en Traveller™</td><td><a href=".gitbook/assets/TCW.jpg">TCW.jpg</a></td><td></td><td><a href="foundations/next-milieu/">next-milieu</a></td></tr><tr><td><strong>El Juego</strong></td><td>Cuanto necesitas saber...</td><td><a href=".gitbook/assets/TCW.jpg">TCW.jpg</a></td><td></td><td><a href="tokenomics/rethink-p2e.md">rethink-p2e.md</a></td></tr><tr><td><strong>Tecnología</strong></td><td>El juego desde dentro</td><td><a href=".gitbook/assets/TCW.jpg">TCW.jpg</a></td><td></td><td><a href="tokenomics/economic-simulation/">economic-simulation</a></td></tr></tbody></table>
+
+***
+
+> En respetuoso homenaje a Andrew Boulton (1969 - 2012).\
+> Este proyecto, dio sus primeros pasos con su inestimable apoyo en las redes.\
+> —_We, as Citizens of the Imperium, miss you._
 
 ***
 

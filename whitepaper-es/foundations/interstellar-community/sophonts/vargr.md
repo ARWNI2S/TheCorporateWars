@@ -36,4 +36,6 @@ Esta fluidez genera alianzas, flotas, bandas corsarias y hasta gobiernos planeta
 
 A ojos de Humaniti y otras especies, los Vargr son impredecibles, intensos y a menudo caóticos, pero también vibrantes, ingeniosos y apasionadamente leales a sus círculos cercanos.
 
+{% hint style="success" %}
 Comercio, exploración y piratería se entrelazan en la historia Vargr, haciendo de ellos tanto competidores como aliados, y garantizando que su presencia sea sentida en cada frontera galáctica.
+{% endhint %}

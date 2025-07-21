@@ -41,6 +41,6 @@ Las corporaciones están presentes en todo el circuito de la expansión galácti
 
 En cada uno de los pasos, para cada uno de los procesos, intervienen de un modo u otro las corporaciones.
 
-{% hint style="info" %}
+{% hint style="success" %}
 Los jugadores disponen de un extenso escenario para desarrollar diversas actividades corporativas, pudiendo diversificarse, especializarse, competir y colaborar, en busca de las sinergias adecuadas que potencien sus beneficios.
 {% endhint %}

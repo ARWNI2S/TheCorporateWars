@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../.gitbook/assets/tcw-wip-nerd.jpg
 coverY: 0
 layout:
   width: default
@@ -46,7 +46,7 @@ Vagh'rra! Rroezhakha **100'k'rrr** nurghrra'rrr.
 
 ***
 
-## Milieu 1.2?
+## _Milieu 1.2?_
 
 **The Corporate Wars** nos traslada 80 años en el futuro, retomando la línea temporal clásica de Traveller™, apoyándose en la "extended Golden Age" de GURPS.
 
@@ -56,4 +56,6 @@ Fortunas ancestrales de la Nobiliti Vilani compiten en el mercado de valores con
 
 Las Extensiones Vargr son aún mas extensas, fusionándose —literalmente— con el Imperio y los Dos Mil Mundos, en un delicado equilibrio de poder, influencia y liderazgo.
 
-Es el año 1201: una "nueva era" :P de oportunidad, expansión, y comprensión de la galaxia.
+{% hint style="success" %}
+Es el año 1201: una "nueva era" :tada: de oportunidad, expansión, y comprensión de la galaxia.
+{% endhint %}

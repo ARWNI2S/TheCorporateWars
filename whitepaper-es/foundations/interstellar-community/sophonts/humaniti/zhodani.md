@@ -32,4 +32,8 @@ Para muchos fuera del Consulado, los Zhodani son vistos con recelo, considerados
 
 Sin embargo, dentro de su cultura, los valores de confianza, unidad y cooperación psiónica son fuente de orgullo y cohesión.
 
-> Tecnología avanzada, disciplina social y un fuerte sentido de identidad psíquica definen a los Zhodani, quienes consideran su civilización un ejemplo evolutivo de Humaniti.
+***
+
+{% hint style="success" %}
+Tecnología avanzada, disciplina social y un fuerte sentido de identidad psíquica definen a los Zhodani, quienes consideran su civilización un ejemplo evolutivo de Humaniti.
+{% endhint %}

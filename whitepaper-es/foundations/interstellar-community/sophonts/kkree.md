@@ -36,4 +36,6 @@ La vida k'Kree está marcada por la vigilancia mutua, el rechazo al individualis
 
 Para otras civilizaciones, los k'Kree son tanto una amenaza militar como un enigma cultural, conocidos por sus flotas masivas, su arquitectura monumental y su obsesión por purificar el espacio de lo que consideran "contaminación carnívora".
 
+{% hint style="success" %}
 Orgullo herbívoro, fanatismo ideológico y poderío colectivo definen a los k'Kree, quienes ven su misión como un deber universal.
+{% endhint %}

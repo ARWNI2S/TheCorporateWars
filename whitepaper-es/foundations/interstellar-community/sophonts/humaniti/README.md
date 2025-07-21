@@ -32,4 +32,6 @@ La teoría aceptada sostiene que Humaniti es un ejemplo de evolución convergent
 
 ***
 
-El Tercer Imperio es empleado como ejemplo representativo: una diversidad Humaniti integrada; pueblos con origen en diferentes mundos, biológicamente compatibles entre sí, que pese a sus diferencias culturales y genéticas coexisten bajo una única estructura política, compartiendo una identidad común.
+{% hint style="success" %}
+El Tercer Imperio es considerado un ejemplo representativo: una diversidad Humaniti integrada; pueblos con origen en diferentes mundos, biológicamente compatibles entre sí, que pese a sus diferencias culturales y genéticas coexisten bajo una única estructura política, compartiendo una identidad común.
+{% endhint %}
