@@ -4,7 +4,7 @@
 
 ## The Foundations of the Universe <a href="#foundations" id="foundations"></a>
 
-* [The Next Milieu](foundations/next-milieu/README.md)
+* [A Next Milieu](foundations/next-milieu/README.md)
   * [The Information Problem](foundations/next-milieu/information-problem.md)
   * [Third Survey](foundations/next-milieu/third-survey.md)
   * [Expansion Business](foundations/next-milieu/expansion.md)

@@ -7,7 +7,7 @@ layout:
     visible: true
     size: full
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# The Next Milieu
+# A Next Milieu
 
 <p align="center">It is Imperial Year 1201 in the Third Imperium.</p>
 
