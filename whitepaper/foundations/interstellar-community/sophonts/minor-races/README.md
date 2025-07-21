@@ -1,4 +1,7 @@
 ---
+description: >-
+  Every world that remains habitable long enough has a certain chance
+  of evolving intelligent life, capable of organizing into complex societies.
 cover: ../../../../.gitbook/assets/tcw-sph-others.jpg
 coverY: 0
 layout:
@@ -22,14 +25,16 @@ layout:
 
 # Other Sophonts
 
-Every world that remains habitable long enough holds a certain chance of evolving intelligent life, capable of organizing into complex societies.
+The biological evolution of sophonts gives rise to cultures and technologies shaped by their environments.
 
-The biological evolution of sophonts shapes cultures and technologies unique to their environment.
+Many sophonts share biochemistry with Humaniti: they breathe similar atmospheric mixes, are bilaterally symmetrical, and are susceptible to comparable ranges of diseases and toxins.
 
-Some barely reach preindustrial levels, while others achieve remarkable advances in specific domains.
+Others are entirely _alien_, with biologies as strange as their physical forms, adapted to their [homeworlds](../../../charted-space/stars-worlds/planets-moons/atmopheres.md#extrosofontes) often inhospitable for other sophonts.
 
-In many cases, they remain ignored or exploited by more advanced civilizations, or are directly absorbed by corporations or imperial powers.
+Some barely achieve pre-industrial development, while others reach remarkable advances in specialized domains;  few are ancestral species, as ancient as life itself in the galaxy.
 
-In certain corners of the galaxy, only ruins remain � silent witnesses to extinct sophont species whose origins intertwine with myths about the Precursors.
+Many remain ignored or exploited by more advanced civilizations, or are directly subsumed by corporations or imperial powers.
 
-> The diversity of sophonts is one of the great hidden engines of galactic history, though to many they are little more than names in a report or merchandise in a contract.
+In certain corners of the galaxy, only ruins remain: silent witnesses to extinct sophont species whose origins entwine with the myths of the Ancients.
+
+> The diversity of sophonts is one of the great hidden engines of galactic history, though to many they are merely names in reports—or commodities in a contract.

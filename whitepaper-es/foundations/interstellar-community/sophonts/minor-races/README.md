@@ -30,11 +30,9 @@ La evolución biológica de los sofontes desarrolla culturas y tecnologías prop
 
 Muchos sofontes comparten bioquímica con Humaniti: respiran una mezcla de aire similar, son bilateralmente simétricos, y las enfermedades y tóxicos que les afectan son de espectros similares.
 
-Otros son completamente _alienígenas_, con biologías tan extrañas como su aspecto físico, adaptado a sus [mundos](../../../charted-space/stars-worlds/planets-moons/atmopheres.md#extrosofontes), a menudo inhóspitos para otros Sofontes.
+Otros son completamente _alienígenas_, con biologías tan extrañas como su aspecto físico, adaptado a sus [mundos de origen](../../../charted-space/stars-worlds/planets-moons/atmopheres.md#extrosofontes), a menudo inhóspitos para otros Sofontes.
 
-Algunos apenas alcanzan niveles preindustriales, otros logran avances notables en ámbitos concretos.
-
-unas pocas son especies ancestrales, tan antiguas como la vida en la galaxia.
+Algunos apenas alcanzan niveles preindustriales, otros logran avances notables en ámbitos concretos; unas pocas son especies ancestrales, tan antiguas como la vida en la galaxia.
 
 En muchos casos, permanecen ignorados o explotados por civilizaciones más avanzadas, o directamente absorbidos por corporaciones o potencias imperialistas.
 
