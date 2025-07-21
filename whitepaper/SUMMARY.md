@@ -16,7 +16,7 @@
       * [Solomani](foundations/interstellar-community/sophonts/humaniti/solomani.md)
     * [Vargr](foundations/interstellar-community/sophonts/vargr.md)
     * [Aslan](foundations/interstellar-community/sophonts/aslan.md)
-    * [K'kree](foundations/interstellar-community/sophonts/kkree.md)
+    * [k'Kree](foundations/interstellar-community/sophonts/kkree.md)
     * [Hivers](foundations/interstellar-community/sophonts/hivers.md)
     * [Other Sophonts](foundations/interstellar-community/sophonts/minor-races/README.md)
       * [Sophont Generation System](foundations/interstellar-community/sophonts/minor-races/sophont-generation.md)
