@@ -1,5 +1,5 @@
 ---
-cover: ../../../../.gitbook/assets/tcw-sph-solomani-alt.jpg
+cover: ../../../../.gitbook/assets/tcw-sph-solomani.jpg
 coverY: 0
 layout:
   width: default
