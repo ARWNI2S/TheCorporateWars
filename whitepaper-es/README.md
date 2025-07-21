@@ -22,6 +22,20 @@ layout:
 
 # The Corporate Wars
 
+{% columns %}
+{% column width="16.666666666666664%" %}
+
+{% endcolumn %}
+
+{% column %}
+
+
+> **Karamshidukagim** \[ka-RAAM-shee-doo-ka-geem] –sustantivo.\
+> \[Origen circa -4500 Imperial, del vilani _karam_ “deber, lealtad” + _shidu_ “llevar, sostener, emprender” + sufijo agentivo _-kagim_. Se refiere a los conflictos librados entre actores corporativos que defienden la lealtad institucional.]\
+> 1\. Término colectivo para las grandes guerras intercorporativas de la era Ziru Sirka. 2. Designación formal para las luchas ideológicas y militares entre megacorporaciones vilani. 3. Por extensión, cualquier conflicto prolongado librado en nombre del deber, la lealtad o la adhesión institucional.
+{% endcolumn %}
+{% endcolumns %}
+
 **The Corporate Wars** es un juego de simulación estratégica económica en tiempo real, ambientado en un universo abierto inspirado en Traveller™, donde los jugadores lideran corporaciones interestelares.
 
 Combina simulación económica, exploración, gestión logística y dinámicas P2E, en un entorno persistente donde cada decisión impacta directamente sobre el desarrollo del juego y el equilibrio del sistema.
