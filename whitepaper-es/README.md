@@ -22,9 +22,11 @@ layout:
 
 # The Corporate Wars
 
-{% columns %}
-{% column width="16.666666666666664%" %}
+{% columns fullWidth="true" %}
+{% column width="16" %}
+
 {% endcolumn %}
+
 {% column %}
 > **Karamshidukagim** \[ka-RAAM-shee-doo-ka-geem] –sustantivo.\
 > \[Origen circa -4500 Imperial, del vilani _karam_ “deber, lealtad” + _shidu_ “llevar, sostener, emprender” + sufijo agentivo _-kagim_. Referido a conflictos librados entre actores corporativos en defensa de la lealtad institucional.]\
