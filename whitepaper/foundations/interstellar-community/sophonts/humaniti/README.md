@@ -32,4 +32,4 @@ The accepted theory holds that Humaniti is an example of convergent evolution, a
 
 ***
 
-The Third Imperium is considered a representative example: a diversity of integrated Humaniti —peoples from different worlds, biologically compatible, who despite cultural and genetic differences coexist under a single political structure, sharing a common identity.
+The Third Imperium is considered a representative example: a diversity of integrated Humaniti —peoples from different homeworlds, biologically compatible, who despite cultural and genetic differences coexist under a single political structure, sharing a common identity.

@@ -1,4 +1,5 @@
 ---
+description: An initiative by the Imperial Interstellar Exploration Service
 cover: ../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:

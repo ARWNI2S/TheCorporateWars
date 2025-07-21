@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../.gitbook/assets/tcw-wip-nerd.jpg
 coverY: 0
 layout:
   width: default
@@ -44,7 +44,7 @@ Vagh'rra! Rroezhakha **100'k'rrr** nurghrra'rrr.
 >
 > There was no rebellion, no event triggered the fall of the Imperium. There never was any "virus", and the only "new era" I know... is today!
 
-## Milieu 1.2?
+## _Milieu 1.2?_
 
 **The Corporate Wars** takes us 80 years into the future, picking up the classic Traveller™ timeline, leaning on the "extended Golden Age" from GURPS.
 
@@ -54,4 +54,6 @@ Ancestral fortunes of the Vilani Nobility compete in the stock market with the F
 
 The Vargr Extents are even more extensive, literally merging with the Imperium and the Two Thousand Worlds, in a delicate balance of power, influence, and leadership.
 
-It is the year 1201: a "new era" :P of opportunity, expansion, and understanding of the galaxy.
+{% hint style="success" %}
+It is the year 1201: a "new era" :tada: of opportunity, expansion, and understanding of the galaxy.
+{% endhint %}

@@ -41,6 +41,6 @@ Corporations are present throughout the entire circuit of galactic expansion:
 
 In each of the steps, for each of the processes, corporations are involved in one way or another.
 
-{% hint style="info" %}
+{% hint style="success" %}
 Players have an extensive setting to develop various corporate activities, being able to diversify, specialize, compete, and collaborate, in search of the right synergies to enhance their profits.
 {% endhint %}

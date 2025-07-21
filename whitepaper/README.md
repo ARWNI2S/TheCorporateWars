@@ -51,14 +51,18 @@ a foundational inspiration in crafting a setting where technological, social, an
 **The Corporate Wars** is developed under the Fair Use License of Mongoose Publishing, with whom we maintain an open and cordial relationship regarding potential future licensing as an official product.\
 Traveller™ and all related elements are the intellectual property of Mongoose Publishing.
 
-> At present, this project stands as a respectful tribute, not an official adaptation.
-
-> In respectful tribute to Andrew Boulton (1969–2012).\
-> This project took its first steps thanks to his invaluable encouragement and presence online. _We, as Citizens of the Imperium, miss you._
+> This project is an independent and heartfelt tribute to the 50th anniversary of Traveller™.\
+> It is not an official adaptation —at least, not yet.
 
 ### Jump right in
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Foundations</strong></td><td>Inspired by Traveller™</td><td><a href=".gitbook/assets/TCW.jpg">TCW.jpg</a></td><td></td><td><a href="gameplay/general-concept.md">general-concept.md</a></td></tr><tr><td><strong>Game Mechanics</strong></td><td>All you need to know...</td><td><a href=".gitbook/assets/TCW.jpg">TCW.jpg</a></td><td></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><strong>Technologies Involved</strong></td><td>A deep dive inside backend.</td><td><a href=".gitbook/assets/TCW.jpg">TCW.jpg</a></td><td></td><td><a href="tokenomics/economic-simulation/">economic-simulation</a></td></tr></tbody></table>
+
+***
+
+> In respectful tribute to Andrew Boulton (1969–2012).\
+> This project took its first steps thanks to his invaluable encouragement and presence online.\
+> —_We, as Citizens of the Imperium, miss you._
 
 ***
 
