@@ -20,7 +20,7 @@
     * [Hivers](foundations/interstellar-community/sophonts/hivers.md)
     * [Other Sophonts](foundations/interstellar-community/sophonts/minor-races/README.md)
       * [Sophont Generation System](foundations/interstellar-community/sophonts/minor-races/sophont-generation.md)
-  * [Technological Levels](foundations/interstellar-community/tech-levels/README.md)
+  * [Technological Level](foundations/interstellar-community/tech-levels/README.md)
     * [Pre-Stellar](foundations/interstellar-community/tech-levels/pre-stellar.md)
     * [Tech Zero](foundations/interstellar-community/tech-levels/tech-zero.md)
 * [The Charted Space](foundations/charted-space/README.md)
