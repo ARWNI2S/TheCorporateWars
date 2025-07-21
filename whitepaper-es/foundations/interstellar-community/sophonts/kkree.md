@@ -20,20 +20,20 @@ layout:
     visible: true
 ---
 
-# K'kree
+# k'Kree
 
-Los **K'kree** son una de las especies mayores de la galaxia, reconocibles por su forma centauroide, su sociedad fuertemente gregaria y su extrema ideolog�a vegana.
+Los **k'Kree** son una de las especies mayores de la galaxia, reconocibles por sus seis extremidades y apariencia de centauros, su sociedad fuertemente gregaria y su extrema ideología vegana.
 
-Originarios del planeta _Kirur_, los K'kree han construido un vasto imperio interestelar conocido como **Los Dos Mil Mundos**, movidos por una ideolog�a expansiva centrada en la pureza herb�vora.
+Originarios del planeta _Kirur_, los k'Kree han construido un vasto imperio interestelar conocido como **Los Dos Mil Mundos**, movidos por una ideología expansiva centrada en la pureza herbívora.
 
-> Aborrecen profundamente a los carn�voros y han librado campa�as de exterminio contra especies y culturas que consideran depredadoras.
+> Aborrecen profundamente a los carnívoros y han librado campañas de exterminio contra especies y culturas que consideran depredadoras.
 
 ***
 
-Su cultura valora la unidad de grupo, la tradici�n y el control social estricto.
+Su cultura valora la unidad de grupo, la tradición y el control social estricto.
 
-La vida K'kree est� marcada por la vigilancia mutua, el rechazo al individualismo y la veneraci�n de los ancestros.
+La vida k'Kree está marcada por la vigilancia mutua, el rechazo al individualismo y la veneración de los ancestros.
 
-Para otras civilizaciones, los K'kree son tanto una amenaza militar como un enigma cultural, conocidos por sus flotas masivas, su arquitectura monumental y su obsesi�n por purificar el espacio de lo que consideran �contaminaci�n carn�vora�.
+Para otras civilizaciones, los k'Kree son tanto una amenaza militar como un enigma cultural, conocidos por sus flotas masivas, su arquitectura monumental y su obsesión por purificar el espacio de lo que consideran "contaminación carnívora".
 
-Orgullo herb�voro, fanatismo ideol�gico y poder�o colectivo definen a los K'kree, quienes ven su misi�n como un deber universal.
+Orgullo herbívoro, fanatismo ideológico y poderío colectivo definen a los k'Kree, quienes ven su misión como un deber universal.
