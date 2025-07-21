@@ -2,7 +2,7 @@
 description: >-
   Civilizations and species involved in the interstellar political-economic
   landscape.
-cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../../.gitbook/assets/tcw-sophonts.jpg
 coverY: 0
 layout:
   width: default
