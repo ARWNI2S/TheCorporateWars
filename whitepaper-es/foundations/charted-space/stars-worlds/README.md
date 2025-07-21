@@ -31,11 +31,13 @@ El **Espacio Conocido** está compuesto por innumerables sistemas planetarios, c
 
 Las estrellas definen la naturaleza de un sistema: desde enanas rojas longevas hasta gigantes azules de vida corta, cada tipo estelar influye en la habitabilidad y en los recursos disponibles.
 
+{% hint style="danger" %}
 Sistemas con múltiples soles pueden presentar desafíos adicionales en navegación y colonización debido a sus órbitas complejas.
+{% endhint %}
 
 ***
 
-Los mundos habitables son escasos y valiosos: unque muchos planetas pueden albergar colonias mediante terraformación o hábitats artificiales, encontrar un mundo con condiciones naturales favorables es un activo estratégico.
+Los mundos habitables son escasos y valiosos: aunque muchos planetas pueden albergar colonias mediante terraformación o hábitats artificiales, encontrar un mundo con condiciones naturales favorables es un activo estratégico.
 
 Sin embargo, la habitabilidad no lo es todo; mundos áridos, congelados o gaseosos pueden ser fuentes cruciales de recursos industriales y energéticos.
 

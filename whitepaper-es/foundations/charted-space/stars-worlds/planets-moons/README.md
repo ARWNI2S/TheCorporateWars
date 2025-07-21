@@ -33,4 +33,6 @@ Las lunas, aunque menores en tamaño, pueden ser tan cruciales como los planetas
 
 > Muchas corporaciones establecen en ellas complejos mineros, estaciones de tránsito y bases operativas, utilizando su posición para controlar rutas comerciales o extraer materiales de difícil acceso.
 
+{% hint style="success" %}
 El control de un mundo bien ubicado puede significar el dominio sobre una región, ya sea como centro industrial, nodo logístico o enclave militar.
+{% endhint %}
