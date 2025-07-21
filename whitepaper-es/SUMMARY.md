@@ -20,7 +20,7 @@
     * [La Colmena](foundations/interstellar-community/sophonts/hivers.md)
     * [Otros Sofontes](foundations/interstellar-community/sophonts/minor-races/README.md)
       * [Sistema de Generación de Sofontes](foundations/interstellar-community/sophonts/minor-races/sophont-generation.md)
-  * [Niveles Tecnológicos](foundations/interstellar-community/tech-levels/README.md)
+  * [Nivel Tecnológico](foundations/interstellar-community/tech-levels/README.md)
     * [Pre-Estelar](foundations/interstellar-community/tech-levels/pre-stellar.md)
     * [Nivel Cero](foundations/interstellar-community/tech-levels/tech-zero.md)
 * [El Espacio Conocido](foundations/charted-space/README.md)

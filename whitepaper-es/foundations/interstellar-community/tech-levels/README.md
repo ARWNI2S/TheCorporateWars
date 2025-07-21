@@ -2,7 +2,7 @@
 description: >-
   Clasificación de las civilizaciones basada en sus capacidades tecnológicas y
   su desarrollo.
-cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../../.gitbook/assets/tcw-tech.jpg
 coverY: 0
 layout:
   width: default
@@ -10,9 +10,9 @@ layout:
     visible: true
     size: full
   title:
-    visible: true
+    visible: false
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -23,7 +23,7 @@ layout:
     visible: true
 ---
 
-# Niveles Tecnológicos
+# Nivel Tecnológico
 
 El Nivel Tecnológico (TL) clasifica a las sociedades según su dominio del conocimiento científico, la sofisticación de sus infraestructuras y su integración en la red interestelar.
 
