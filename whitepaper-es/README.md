@@ -23,9 +23,11 @@ layout:
 # The Corporate Wars
 
 {% columns fullWidth="true" %}
-{% column width="20" %}
+{% column width="25%" %}
+
 {% endcolumn %}
-{% column width="80" %}
+
+{% column %}
 > **Karamshidukagim** \[ka-RAAM-shee-doo-ka-geem] –sustantivo.\
 > \[Origen circa -4500 Imperial, del vilani _karam_ “deber, lealtad” + _shidu_ “llevar, sostener, emprender” + sufijo agentivo _-kagim_. Referido a conflictos librados entre actores corporativos en defensa de la lealtad institucional.]\
 > 1\. Término colectivo para las grandes guerras corporativas de la era _Ziru Sirka_. 2. Designación formal para las luchas ideológicas y militares entre megacorporaciones vilani. 3. Por extensión, cualquier conflicto prolongado librado en nombre del deber, la lealtad o la adhesión institucional.
