@@ -1,5 +1,5 @@
 ---
-cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../../../.gitbook/assets/tcw-sph-humaniti.jpg
 coverY: 0
 layout:
   width: default
@@ -7,9 +7,9 @@ layout:
     visible: true
     size: full
   title:
-    visible: true
+    visible: false
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -22,7 +22,7 @@ layout:
 
 # Humaniti
 
-Humaniti is the collective term that encompasses all known human variants across the galaxy, including the Solomani, Vilani, Zhodani, Darrians, Suerrat, Geonee, and other lesser-known lineages.
+**Humaniti** is the collective term that encompasses all known human variants across the galaxy, including the Solomani, Vilani, Zhodani, Darrians, Suerrat, Geonee, and other lesser-known lineages.
 
 Although there are significant genetic and cultural differences among these branches, they all share a remarkable biological and reproductive compatibility, allowing them to be classified as a single species despite their geographic dispersion and separate evolutionary paths.
 

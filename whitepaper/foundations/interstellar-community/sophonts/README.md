@@ -33,6 +33,6 @@ The interaction between sophonts defines the balance of power in the galaxy, dir
 
 Some species have specific industrial and logistical needs, creating unique commercial opportunities in the supply of goods, technology, and services.
 
-On the other hand, tensions between factions or species can escalate into economic cold wars or open conflicts, where corporations may intervene — whether as mediators, security providers, or even instigators of destabilization for profit.
+On the other hand, tensions between factions or species can escalate into economic cold wars or open conflicts, where corporations may intervene —whether as mediators, security providers, or even instigators of destabilization for profit.
 
 > Understanding sophonts is not just a matter of diplomacy, but a strategic advantage for expanding operations and consolidating power in the galaxy.

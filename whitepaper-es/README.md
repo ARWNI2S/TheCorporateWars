@@ -53,7 +53,7 @@ Las fronteras entre imperios son nodos de información, intercambio tecnológico
 
 > En respetuoso homenaje a Andrew Boulton (1969 - 2012).\
 > Este proyecto, dio sus primeros pasos con su inestimable apoyo en las redes.\
-> &#xNAN;_&#x57;e, as Citizens of the Imperium, miss you._
+> \&#xNAN;_We, as Citizens of the Imperium, miss you._
 
 ### Empieza aquí.
 

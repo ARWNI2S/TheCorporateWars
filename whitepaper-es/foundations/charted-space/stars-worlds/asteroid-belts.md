@@ -2,7 +2,7 @@
 description: >-
   Conjuntos de escombros espaciales ricos en minerales, cruciales para las
   cadenas de suministro industriales.
-cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../../.gitbook/assets/tcw-belt.jpg
 coverY: 0
 layout:
   width: default

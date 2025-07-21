@@ -1,5 +1,5 @@
 ---
-cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../../../.gitbook/assets/tcw-sph-zhdant.jpg
 coverY: 0
 layout:
   width: default
@@ -7,9 +7,9 @@ layout:
     visible: true
     size: full
   title:
-    visible: true
+    visible: false
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -22,9 +22,9 @@ layout:
 
 # Zhodani
 
-The Zhodani are one of the major branches of Humaniti, originating from the planet Zhdant, capital of the Zhodani Consulate.
+The **Zhodani** are one of the major branches of Humaniti, originating from the planet Zhdant, capital of the Zhodani Consulate.
 
-Their society is characterized by the open integration of psionics at all levels �social, cultural, and technological� extending from government to daily life and the sciences.
+Their society is characterized by the open integration of psionics at all levels —social, cultural, and technological— extending from government to daily life and the sciences.
 
 The Zhodani value honesty, social harmony, and mental transparency, relying on a ruling psionic elite to maintain order and collective well-being.
 

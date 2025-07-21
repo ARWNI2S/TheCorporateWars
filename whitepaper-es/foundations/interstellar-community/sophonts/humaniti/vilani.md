@@ -1,5 +1,5 @@
 ---
-cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../../../.gitbook/assets/tcw-sph-vilani.jpg
 coverY: 0
 layout:
   width: default
@@ -7,9 +7,9 @@ layout:
     visible: true
     size: full
   title:
-    visible: true
+    visible: false
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -22,7 +22,7 @@ layout:
 
 # Vilani
 
-Los Vilani son una de las ramas más antiguas de Humaniti, originarios del planeta Vland.
+Los **Vilani** son una de las ramas más antiguas de Humaniti, originarios del planeta Vland.
 
 Fueron los fundadores del Ziru Sirka (Primer Imperio), una civilización interestelar caracterizada por su rígida jerarquía, conservadurismo y fuerte énfasis en la estabilidad social y económica.
 

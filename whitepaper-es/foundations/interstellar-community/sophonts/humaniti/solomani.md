@@ -1,5 +1,5 @@
 ---
-cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../../../.gitbook/assets/tcw-sph-solomani-alt.jpg
 coverY: 0
 layout:
   width: default
@@ -7,9 +7,9 @@ layout:
     visible: true
     size: full
   title:
-    visible: true
+    visible: false
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -22,7 +22,7 @@ layout:
 
 # Solomani
 
-Los Solomani son una rama de Humaniti originaria de Sol, cuna reconocida de la humanidad según su propia tradición.
+Los **Solomani** son una rama de Humaniti originaria de Sol, cuna reconocida de la humanidad según su propia tradición.
 
 Forjaron su identidad tras la expansión más allá de su mundo de origen, desarrollando un fuerte sentido de supremacía cultural y biológica frente a otras ramas humanas.
 
