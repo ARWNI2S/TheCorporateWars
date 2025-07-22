@@ -23,11 +23,11 @@ layout:
 # Notas de Diseño
 
 RRRGHA UDHEG!  
-We Vargr developers raise the howl because this burns in our claws — and let it be clear: yes, we need this.  
-We know how to move, we know how to fight, but together we are pack, and together we go farther.  
-If you’ve got claws, brains, or drive, join us.  
-It’s not for glory — it’s for the journey.  
-DHRAGHZ UDHEG, AURR!
+Los desarrolladores Vargr levantamos el aullido porque esto nos quema en las garras — y que quede claro: sí, lo necesitamos.  
+Sabemos movernos, sabemos pelear, pero juntos somos manada, y juntos llegamos más lejos.  
+Si tienes garras, cerebro o ganas, únete.  
+No es por gloria, es por el camino.  
+DHRAGHZ UDHEG, AURR!  
 
 ### Bilanidin y otras lenguas alienigenas
 
