@@ -20,5 +20,9 @@ layout:
     visible: true
 ---
 
-# Development Notes
+# Designer Notes
 
+### Bilanidin
+
+**Bilanidin** is the official Vilani alphabet. In the Third Imperium, it shares official status with _Galanglic_ (Galactic English).  
+There are publications on Vilani grammar and the use of Bilanidin, but the texts presented in this documentation and in the published materials have not been thoroughly reviewed and may contain errors.
