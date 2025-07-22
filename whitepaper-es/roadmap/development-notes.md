@@ -72,3 +72,19 @@ Buscamos:\
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
+
+***
+
+### ¿Quieres unirte?
+
+🧠 Seas programador, artista, diseñador de sistemas, o simplemente un loco del universo *Traveller*, **te estamos esperando**.
+
+📡 Puedes contactar directamente con el equipo de desarrollo a través de:
+
+- 💬 **Discord:** [discord.gg/thecorporatewars](https://discord.gg/thecorporatewars)
+- 📧 **Email:** `developers@thecorporatewars.com`
+
+No prometemos fama ni fortuna, pero sí **buena compañía, libertad creativa y trabajo significativo**.
+
+**DHRAGHZ UDHEG, AURR!**  
+¡Nos vemos entre estrellas!

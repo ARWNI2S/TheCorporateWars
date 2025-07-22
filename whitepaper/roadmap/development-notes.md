@@ -73,3 +73,17 @@ We are looking for:\
 {% endcolumns %}
 
 ***
+
+### Want to Join?
+
+🧠 Whether you're a programmer, artist, systems designer, or just a *Traveller* fanatic — **we're waiting for you**.
+
+📡 You can reach out to the development team directly via:
+
+- 💬 **Discord:** [discord.gg/thecorporatewars](https://discord.gg/thecorporatewars)
+- 📧 **Email:** `developers@thecorporatewars.com`
+
+We don’t promise fame or fortune, but you’ll find **great company, creative freedom, and meaningful work**.
+
+**DHRAGHZ UDHEG, AURR!**  
+See you among the stars!
