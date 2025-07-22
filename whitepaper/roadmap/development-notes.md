@@ -35,7 +35,7 @@ It's not for glory —it's for the journey.\
 {% endcolumn %}
 
 {% column %}
-<div><figure><img src="../.gitbook/assets/vargr-devs.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vargr-devs.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/vargr-devs.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
