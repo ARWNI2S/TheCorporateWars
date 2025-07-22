@@ -3,7 +3,7 @@ description: Across interstellar distances, instant communication is impossible.
 cover: ../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
-  width: wide
+  width: default
   cover:
     visible: true
     size: full

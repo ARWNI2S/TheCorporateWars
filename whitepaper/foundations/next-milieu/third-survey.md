@@ -3,7 +3,7 @@ description: An initiative by the Imperial Interstellar Exploration Service
 cover: ../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
-  width: wide
+  width: default
   cover:
     visible: true
     size: full
