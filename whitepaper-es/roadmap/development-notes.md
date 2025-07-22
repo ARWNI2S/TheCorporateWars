@@ -47,3 +47,24 @@ DHRAGHZ UDHEG, AURR!
 > A lo largo de los años se han creado diversos sistemas y reglas para la generación de textos en lenguas alienígenas del universo Traveller.\
 > Como no existe un referente exhaustivo, las lenguas alienígenas están adaptadas siguiendo reglas similares y nuestro propio criterio.\
 > —Nath'k'rrg urrp'thinz, udheg
+
+{% columns fullWidth="true" %}
+{% column %}
+<figure><img src="../.gitbook/assets/design-devel.jpg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+{% hint style="info" %}
+🎨 **¡SE BUSCAN ARTISTAS 3D!** 🚀
+
+Buscamos:\
+✅ Modeladores (cualquier software que exporte a .fbx)\
+✅ Artistas de materiales y texturas\
+✅ Animadores\
+✅ Especialistas en efectos Niagara
+
+🎮 Entorno principal: Unreal Engine.\
+💬 Además de colaborar en un proyecto ambicioso, tendrás la oportunidad de aprender, crecer y perfeccionar tus habilidades junto a un equipo motivado.
+{% endhint %}
+{% endcolumn %}
+{% endcolumns %}

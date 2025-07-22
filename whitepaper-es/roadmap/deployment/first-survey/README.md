@@ -1,81 +1,78 @@
 # Milieu 0
 
-Historicamente Milieu 0 representa el punto de inicio de la expansion del Tercer Imperio.
+Hist√≥ricamente Milieu 0 representa el punto de inicio de la expansi√≥n del Tercer Imperio.
 
-> Es el periodo inmediatamente posterior a su fundaciÛn, cuando Cleon Zhunastu, el Primer Emperador, unifica los mundos heredados de un Ziru Sirka 'reunificado' y comienza a consolidar poder real sobre una galaxia fragmentada.
+> Es el periodo inmediatamente posterior a su fundaci√≥n, cuando Cleon Zhunastu, el Primer Emperador, unifica los mundos heredados de un Ziru Sirka 'reunificado' y comienza a consolidar poder real sobre una galaxia fragmentada.
 
-Es una Època de exploraciÛn, diplomacia, construcciÛn de infraestructura, establecimiento de rutas de comunicaciÛn y negociaciÛn de lealtades con sectores y mundos perifÈricos, marcando las bases sobre las que el Imperio crecer· durante los siguientes mil aÒos.
+Es una √©poca de exploraci√≥n, diplomacia, construcciÔøΩn de infraestructura, establecimiento de rutas de comunicaciÔøΩn y negociaciÔøΩn de lealtades con sectores y mundos perifÔøΩricos, marcando las bases sobre las que el Imperio crecerÔøΩ durante los siguientes mil aÔøΩos.
 
 ### Despliegue Inicial
 
-En un principio el sistema presenta requsitos de infraestructura basicos: 
-- servidores de backend,
-- sitios web,
-- nodos rpc
-- y programas en la red Solana.
+En un principio el sistema presenta requisitos de infraestructura b√°sicos:
+
+* servidores de backend,
+* sitios web,
+* nodos rpc
+* y programas en la red Solana.
 
 Todos ellos pueden implementarse en entornos de pruebas, en la nube o localmente, y con los programas stateless en '_Devnet_'.
 
-BaterÌas de tests validan la efectividad del codigo, y pruebas cerradas de experiencia de usaurio validan la puesta en producciÛn de la primera etapa del despliegue.
+Bater√≠as de test validan la efectividad del c√≥digo, y pruebas cerradas de experiencia de usuario validan la puesta en producci√≥n de la primera etapa del despliegue.
 
 Para ello disponemos de un MVP que contiene lo siguiente sistemas:
-- gestiÛn administrativa del mapa de la galaxia,
-- tesorerÌa del sistema econÛmico,
-- la estructura de gobernanza multicapa,
-- las _polÌticas_ como entidades de juego y gobernanza,
-- el sistema financiero interestelar.
 
-## ParticipaciÛn de la Comunidad
+* gesti√≥n administrativa del mapa de la galaxia,
+* tesorer√≠a del sistema econ√≥mico,
+* la estructura de gobernanza multicapa,
+* las _pol√≠ticas_ como entidades de juego y gobernanza,
+* el sistema financiero interestelar.
 
-En esta etapa temprana de desarrollo no existe un cliente de juego funcional, pero si disponemos de programas en la red solana completamente desarrolados que permiten definir las estructuras principales del sistema de juego.
+## Participaci√≥n de la Comunidad
 
-Los participantes en esta etapa aportan SOL a la tesorerÌa de sistema a cambio de un paquetes de MCr y RU que van destinados al sistema economico del juego a traves del sistema financiero interestelar ya implementado.
+En esta etapa temprana de desarrollo no existe un cliente de juego funcional, pero si disponemos de programas en la red solana completamente desarrollados que permiten definir las estructuras principales del sistema de juego.
 
-La **tesorerÌa** del sistema est· destinada a:
-- permitir el _mint_ de **MCr** y **RU**,
-- cubrir los depositos de '_rent_' de toda las _PDA_ del sistema, 
-- mantener los costes operativos del sistema,
-- recompensar la participaciÛn de desarrolladores y artistas,
-- y establecer la posible liqudez futura del **MCr** en mercados externos,
+Los participantes en esta etapa aportan SOL a la tesorer√≠a de sistema a cambio de un paquetes de MCr y RU que van destinados al sistema economico del juego a traves del sistema financiero interestelar ya implementado.
+
+La **tesorer√≠a** del sistema est√° destinada a:
+
+* permitir el _mint_ de **MCr** y **RU**,
+* cubrir los dep√≥sitos de '_rent_' de toda las _PDA_ del sistema,
+* mantener los costes operativos del sistema,
+* recompensar la participaci√≥n de desarrolladores y artistas,
+* y establecer la posible liquidez futura del **MCr** en mercados externos,
 
 En esta etapa el sistema financiero interestelar simula:
-- las participaciones en _megacorporaciones_, _corporaciones_ y otras _polÌticas_.
-- los grandes depositos de la _Banca Imperial_, 
-- las _Opciones de Ruta_ del _Mercado de Valores Interestelar_
-- las grandes fortunas de la _Nobiliti_.
 
-> Esto no es una propuesta de inversiÛn, sino de participaciÛn en un sistema de juego funcional y emergente, en una etapa temprana de su desarrollo.
+* las participaciones en _megacorporaciones_, _corporaciones_ y otras _pol√≠ticas_.
+* los grandes dep√≥sitos de la _Banca Imperial_,
+* las _Opciones de Ruta_ del _Mercado de Valores Interestelar_
+* las grandes fortunas de la _Nobiliti_.
 
-### _PolÌticas_ de Milieu 0
+{% hint style="danger" %}
+Esto no es una propuesta de inversi√≥n, sino de participaci√≥n en un sistema de juego funcional y emergente, en una etapa temprana de su desarrollo.
+{% endhint %}
 
-El sistema de _polÌticas_, ya estructurado, permite:
-- la creaciÛn de las _Lealtades_ principales y _polÌticas_ interestelares,
-- la creaciÛn de _gobiernos_ afiliadas a _Lealtades_,
-- la creaciÛn de _megacorporaciones_ como agregados de _polÌticas_,
-- y la creaciÛn de _corporaciones_ individuales.
+### _Pol√≠ticas_ de Milieu 0
 
-Estas _polÌticas_ persistir·n como entidades de juego historicas, fuera del control directo de los jugadores, pero con un impacto directo en las mecanicas relacionadas con _lealtades_, _gobiernos_, _leyes_ y _economÌa_ de grandes territorios.
+El sistema de _pol√≠ticas_, ya estructurado, permite:
 
-### ExploraciÛn y ExpansiÛn
+* la creaci√≥n de las _Lealtades_ principales y _pol√≠ticas_ interestelares,
+* la creaci√≥n de _gobiernos_ afiliadas a _Lealtades_,
+* la creaci√≥n de _megacorporaciones_ como agregados de _pol√≠ticas_,
+* y la creaci√≥n de _corporaciones_ individuales.
 
-Los diversos aportes al sistema econÛmico construyen una red de mundos y rutas de salto alrededor de Sylea.
+Estas _pol√≠ticas_ persistir√°n como entidades de juego historicas, fuera del control directo de los jugadores, pero con un impacto directo en las mecanicas relacionadas con _lealtades_, _gobiernos_, _leyes_ y _econom√≠a_ de grandes territorios.
 
+### Exploraci√≥n y Expansi√≥n
 
+Los diversos aportes al sistema econ√≥mico construyen una red de mundos y rutas de salto alrededor de Sylea.
 
-Los RU se distribuyen en el sistema de forma equilibrada, acumulandose en los mundos de forma progresiva.
+Los RU se distribuyen en el sistema de forma equilibrada, acumul√°ndose en los mundos de forma progresiva.
 
+Las primeras etapas est√°n destinadas √∫nicamente a Sylea, reforzando su posici√≥n como Capital del Imperio.
 
+Las RU acumuladas implican SOL en tesorer√≠a, lo cual permite el despliegue de rutas como PDA, pero para desplegar la ruta primero necesitamos un destino, por lo que es responsabilidad del "stack syleano" pagar los rent de las pda de los mundos y turas a su alrededor.
 
-Las primeras etapas estan destinadas unicamente a Sylea, reforzando su posicion como Capital del Imperio. 
+Esto nos permite sentar las bases del proceso de exploraci√≥n de nevos sectores de la galaxia y simular la expansi√≥n del imperio y las rutas interestelares.
 
-Las RU acumuladas implican SOL en tesoreria, lo cual permite el despliegue de rutas como PDA, pero para desplegar la ruta primero necesitamos un destino, por lo que es respnsabilidad del "stack syleano" pagar los rent de las pda de los mundos y turas a su alrededor.
-
-Esto nos permite sentar las bases del proceso de exploracion de nevos sectores de la galaxia y simular la expansion del imperio y las rutas interestelares.
-
-
-
-
-
-
-
-Cada mundo representa un nodo y cada ruta una arista en una red neural asimetrica bidireccional.
+Cada mundo representa un nodo y cada ruta una arista en una red neural asim√©trica bidireccional.
