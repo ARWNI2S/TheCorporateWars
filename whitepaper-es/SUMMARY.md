@@ -155,6 +155,7 @@
 
 ## Proceso de Desarrollo <a href="#roadmap" id="roadmap"></a>
 
+* [Development Notes](roadmap/development-notes.md)
 * [Hoja de Ruta](roadmap/README.md)
 * [Despliegue Histórico](roadmap/deployment/README.md)
   * [Milieu 0](roadmap/deployment/first-survey/README.md)
