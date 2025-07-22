@@ -2,7 +2,7 @@
 cover: ../.gitbook/assets/tcw-wip-nerd.jpg
 coverY: 0
 layout:
-  width: default
+  width: wide
   cover:
     visible: true
     size: full
