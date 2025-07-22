@@ -22,8 +22,6 @@ layout:
 
 # The Corporate Wars
 
-
-
 {% columns fullWidth="true" %}
 {% column width="25%" %}
 
