@@ -22,6 +22,8 @@ layout:
 
 # Designer Notes
 
+{% columns fullWidth="true" %}
+{% column width="75%" %}
 {% hint style="danger" %}
 **RRRGHA UDHEG! - COMMUNITY CALL!**\
 We Vargr developers raise the howl as this burns in our claws —and let it be clear: **yes**, we need this.\
@@ -30,6 +32,12 @@ If you've got claws, brains, or drive, join us.\
 It's not for glory —it's for the journey.\
 **DHRAGHZ UDHEG, AURR!**
 {% endhint %}
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../.gitbook/assets/vargr-devs.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 > <h3 align="center">Bilanidin and other alien languages</h3>
 >
