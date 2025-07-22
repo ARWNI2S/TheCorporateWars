@@ -2,7 +2,7 @@
 cover: ../../.gitbook/assets/tcw-tnm.jpg
 coverY: 0
 layout:
-  width: default
+  width: wide
   cover:
     visible: true
     size: full
