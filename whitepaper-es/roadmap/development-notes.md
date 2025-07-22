@@ -24,7 +24,7 @@ layout:
 
 {% hint style="danger" %}
 RRRGHA UDHEG!\
-Los desarrolladores Vargr levantamos el aullido porque esto nos quema en las garras —y que quede claro: sí, lo necesitamos.\
+Los desarrolladores Vargr rugimos y aullamos porque nos arden las garras —y que quede claro: sí, lo necesitamos.\
 Sabemos movernos, sabemos pelear, pero juntos somos manada, y juntos llegamos más lejos.\
 Si tienes garras, cerebro o ganas, únete.\
 No es por gloria, es por el camino.\
