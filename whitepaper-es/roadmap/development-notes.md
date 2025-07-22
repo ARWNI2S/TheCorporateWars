@@ -20,9 +20,9 @@ layout:
     visible: true
 ---
 
-# Notas de DiseÒo
+# Notas de Dise√±o
 
 ### Bilanidin
 
-**Bilanidin** es el alfabeto oficial vilani. En el Tercer Imperio comparte estatus oficial con el _Galanglico_ (inglÈs gal·ctico).  
-Existen publicaciones sobre la gram·tica vilani y el uso del Bilanidin, pero los textos presentados en esta documentaciÛn y en el material publicado no han sido revisados exhaustivamente y pueden contener errores.
+**Bilanidin** es el alfabeto oficial vilani. En el Tercer Imperio comparte estatus oficial con el _Galanglico_ (ingl√©s gal√°ctico).\
+Existen [publicaciones](https://wiki.travellerrpg.com/Vilani_Grammar_and_Glossary) sobre la gram√°tica vilani y el uso del Bilanidin, pero los textos presentados en esta documentaci√≥n y en el material publicado no han sido revisados exhaustivamente y pueden contener errores.
