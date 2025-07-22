@@ -22,6 +22,8 @@ layout:
 
 # Notas de Diseño
 
+{% columns fullWidth="true" %}
+{% column width="75%" %}
 {% hint style="danger" %}
 RRRGHA UDHEG!\
 Los desarrolladores Vargr rugimos y aullamos porque nos arden las garras —y que quede claro: sí, lo necesitamos.\
@@ -30,6 +32,12 @@ Si tienes garras, cerebro o ganas, únete.\
 No es por gloria, es por el camino.\
 DHRAGHZ UDHEG, AURR!
 {% endhint %}
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../.gitbook/assets/vargr-devs.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 > ### Bilanidin y otras lenguas alienigenas
 >
