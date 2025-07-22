@@ -35,11 +35,11 @@ It's not for glory —it's for the journey.\
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../.gitbook/assets/vargr-devs.png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/vargr-devs.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vargr-devs.png" alt=""><figcaption></figcaption></figure></div>
 {% endcolumn %}
 {% endcolumns %}
 
-> <h3 align="center">Bilanidin and other alien languages</h3>
+> <h4 align="center">Bilanidin and other alien languages</h4>
 >
 > **Bilanidin** is the official Vilani alphabet. In the Third Imperium, it shares official status with _Galanglic_ (Galactic English).\
 > There are [publications](https://wiki.travellerrpg.com/Vilani_Grammar_and_Glossary) on Vilani grammar and the use of Bilanidin, but the texts presented in this documentation and in the TCW's published materials have not been thoroughly reviewed and may contain errors.
