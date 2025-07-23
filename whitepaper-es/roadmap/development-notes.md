@@ -75,6 +75,7 @@ Buscamos:\
 
 ***
 
+{% hint style="success" %}
 ### ¿Quieres unirte?
 
 🧠 Seas programador, artista, diseñador de sistemas, o simplemente un loco del universo *Traveller*, **te estamos esperando**.
@@ -88,3 +89,4 @@ No prometemos fama ni fortuna, pero sí **buena compañía, libertad creativa y 
 
 **DHRAGHZ UDHEG, AURR!**  
 ¡Nos vemos entre estrellas!
+{% endhint %}

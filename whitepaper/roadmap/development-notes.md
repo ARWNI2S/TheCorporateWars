@@ -77,10 +77,8 @@ We are looking for:\
 
 🧠 Whether you're a programmer, artist, systems designer, or just a _Traveller_ fanatic — **we're waiting for you**.📡 You can reach out to the development team directly via:
 
-* 💬 **Discord:** [discord.gg/thecorporatewars](https://discord.gg/gqrmE6FBKQ)
-*   📧 **Email:** <kbd>developers@thecorporatewars.com</kbd>
-
-    &#x20;
+- 💬 **Discord:** [discord.gg/thecorporatewars](https://discord.gg/gqrmE6FBKQ)
+- 📧 **Email:** `developers@thecorporatewars.com`
 
 We don’t promise fame or fortune, but you’ll find **great company, creative freedom, and meaningful work**.
 
