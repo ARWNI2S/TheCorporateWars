@@ -76,7 +76,7 @@ Buscamos:\
 ***
 
 {% hint style="success" %}
-**¿Quieres unirte?**
+### ¿Quieres unirte?
 
 🧠 Seas programador, artista, diseñador de sistemas, o simplemente un loco del universo _Traveller_, **te estamos esperando**.
 

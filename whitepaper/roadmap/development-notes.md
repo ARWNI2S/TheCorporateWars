@@ -86,22 +86,16 @@ We don’t promise fame or fortune, but you’ll find **great company, creative 
 See you among the stars!
 {% endhint %}
 
-{% columns %}
-{% column %}
-<figure>
-  <img src="../.gitbook/assets/img1.png" alt="Imagen 1">
-</figure>
-{% endcolumn %}
+***
 
-{% column %}
+<div align="center"><figure>
+<img src="../.gitbook/assets/UEIcon180h.png" alt="Unreal Engine" width="200"><figcaption></figcaption></figure>
 <figure>
-  <img src="../.gitbook/assets/img2.png" alt="Imagen 2">
-</figure>
-{% endcolumn %}
-
-{% column %}
-<figure>
-  <img src="../.gitbook/assets/img3.png" alt="Imagen 3">
-</figure>
-{% endcolumn %}
-{% endcolumns %}
+<img src="../.gitbook/assets/Solana180h.png" alt="Solana" width="200"><figcaption></figcaption>
+</figure> <figure>
+<img src="../.gitbook/assets/MGIco180h.png" alt="" width="200"><figcaption></figcaption>
+</figure> <figure>
+<img src="../.gitbook/assets/DraCo180h.png" alt="" width="200"><figcaption></figcaption>
+</figure> <figure>
+<img src="../.gitbook/assets/ARW180h.png" alt="" width="200"><figcaption></figcaption>
+</figure></div>
