@@ -1,3 +1,7 @@
+---
+icon: pencil
+---
+
 # Despliegue Histórico
 
 **The Corporate Wars** está inspirado en Traveller™, y a lo largo del diseño y los primeros desarrollos hemos ido notando los grandes paralelismos —implícitos o subjetivos— que comparte con ciertos aspectos tecnológicos presentes en ese universo.
