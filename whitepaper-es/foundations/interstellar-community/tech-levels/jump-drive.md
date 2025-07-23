@@ -25,7 +25,7 @@ layout:
 
 # El Impulsor de Salto
 
-El **Salto** permite a las naves moverse entre estrellas atravesando el espacio hiperdimensional, cubriendo entre 1 y 6 parsecs en aproximadamente **una semana**.
+El **Salto** permite a las naves moverse entre estrellas a través de un ámbito hiperdimensional, cubriendo entre 1 y 6 parsecs en aproximadamente **una semana**.
 
 Este sistema no consume hidrógeno como combustible directo, sino como masa de reacción plasmática. Esta masa alimenta el proceso de acumulación energética necesario para generar un campo mínimo de taquiones, activado mediante la malla de lantano del casco.
 
