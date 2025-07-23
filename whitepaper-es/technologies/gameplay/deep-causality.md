@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../.gitbook/assets/tcw-theory-deep.jpg
 coverY: 0
 ---
 
@@ -11,7 +11,7 @@ Este enfoque permite modelar no solo resultados aislados, sino trayectorias de i
 
 Entre los ámbitos que abordan estas dinámicas destacan:
 
-* **Juegos repetidos**, donde los actores enfrentan versiones sucesivas del mismo juego, permitiendo que las decisiones pasadas condicionen las expectativas y estrategias futuras.
+* **Juegos de repeticion**, donde los actores enfrentan versiones sucesivas del mismo juego, permitiendo que las decisiones pasadas condicionen las expectativas y estrategias futuras.
 * **Juegos evolutivos**, que estudian cómo ciertas pautas de comportamiento proliferan o se extinguen según su rendimiento relativo en entornos adaptativos.
 * **Juegos de reputación**, donde las acciones pasadas acumulan peso, afectando la credibilidad, la influencia o la posición estratégica de los actores.
 * **Juegos de aprendizaje**, donde los participantes ajustan progresivamente sus decisiones a partir de información parcial, señales del entorno o comportamientos observables.
