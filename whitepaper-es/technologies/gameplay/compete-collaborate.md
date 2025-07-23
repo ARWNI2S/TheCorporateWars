@@ -34,6 +34,6 @@ El interés académico en estas estructuras reside en su capacidad para generar 
 
 ***
 
-En **The Corporate Wars**, el individualismo colaborativo define escenarios donde corporaciones, facciones e instituciones pueden alinear momentáneamente sus acciones para obtener ventajas tácticas.
+En **The Corporate Wars**, el individualismo colaborativo define escenarios donde corporaciones, lealtades e instituciones pueden alinear momentáneamente sus acciones para obtener ventajas tácticas.
 
 Estas alianzas no suprimen la competencia subyacente, sino que la modulan: permiten que actores autónomos negocien, coordinen y cooperen en dimensiones específicas, sin perder de vista su propio interés, y siempre bajo la presión estructural del entorno.
