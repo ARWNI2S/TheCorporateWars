@@ -17,6 +17,6 @@ The academic interest in these structures lies in their capacity to generate sho
 
 ***
 
-In **The Corporate Wars**, collaborative individualism defines scenarios where corporations, factions, and institutions can momentarily align their actions to achieve tactical advantages.
+In **The Corporate Wars**, collaborative individualism defines scenarios where corporations, alliegances, and institutions can momentarily align their actions to achieve tactical advantages.
 
 These alliances do not suppress underlying competition but rather modulate it: they allow autonomous actors to negotiate, coordinate, and cooperate in specific dimensions without losing sight of their own interests, and always under the structural pressure of the environment.
