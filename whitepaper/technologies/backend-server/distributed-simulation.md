@@ -7,7 +7,7 @@ coverY: 0
 
 In complex environments such as virtual economies, persistent ecosystems, or large-scale multiplayer games, the ability to simulate multiple systems in parallel becomes essential.
 
-Distributed simulation addresses this challenge through an architecture in which multiple computing units—nodes—cooperate to execute a shared simulation that is synchronized yet decentralized.
+Distributed simulation addresses this challenge through an architecture in which multiple computing unitsï¿½nodesï¿½cooperate to execute a shared simulation that is synchronized yet decentralized.
 
 ***
 
@@ -21,7 +21,7 @@ This allows execution to be organized into directed acyclic graphs (DAGs), defin
 
 However, despite this independence, nodes must coordinate to maintain a coherent view of the simulated world.
 
-This coordination is achieved through a multiscale synchronization system: although each node may operate at a different frequency—processing multiple internal steps before synchronizing with others—all respect a shared framework that defines the key alignment points between them.
+This coordination is achieved through a multiscale synchronization system: although each node may operate at a different frequency â€”processing multiple internal steps before synchronizing with othersâ€” all respect a shared framework that defines the key alignment points between them.
 
 At these synchronization points, nodes exchange information, resolve inter-node dependencies, and ensure global state coherence.
 
@@ -39,7 +39,7 @@ This dynamic load balancing mechanism ensures smooth execution even under locali
 
 During each global simulation cycle, nodes run their own internal cycles, enabling different systems to operate at different temporal resolutions within the same coherent universe.
 
-This makes it possible, for example, for a low-frequency strategic system to coexist with a high-resolution physics simulation—without interference or unnecessary latency.
+This makes it possible, for example, for a low-frequency strategic system to coexist with a high-resolution physics simulation â€”without interference or unnecessary latency.
 
 This distributed model allows the simulation to scale as virtual worlds, interactions, or the number of participating agents grow.
 

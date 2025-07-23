@@ -29,7 +29,7 @@ While these technologies support the integration of multiple layers of component
 
 ***
 
-The appropriate strategy is to design an architecture compatible with the underlying infrastructure. In our case, this consists of a game server based on distributed nodes, executing a likewise distributed simulation system. The system�s load balancing adjusts dynamically according to the required level of detail, which in turn depends on the number of active users.
+The appropriate strategy is to design an architecture compatible with the underlying infrastructure. In our case, this consists of a game server based on distributed nodes, executing a likewise distributed simulation system. The system's load balancing adjusts dynamically according to the required level of detail, which in turn depends on the number of active users.
 
 This approach enables the operation of large-scale, complex virtual worlds, while maintaining system load proportional to user activity rather than the absolute size of the simulated environment.
 
