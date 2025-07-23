@@ -41,7 +41,7 @@ DHRAGHZ UDHEG, AURR!
 
 ***
 
-> ### Bilanidin y otras lenguas alienígenas
+> #### Bilanidin y otras lenguas alienígenas
 >
 > **Bilanidin** es el alfabeto oficial vilani. En el Tercer Imperio comparte estatus oficial con el _Galanglico_ (inglés galáctico).\
 > Existen [publicaciones](https://wiki.travellerrpg.com/Vilani_Grammar_and_Glossary) sobre la gramática vilani y el uso del Bilanidin, pero los textos presentados en esta documentación y en el material publicado de TCW no han sido revisados exhaustivamente y pueden contener errores.
@@ -76,37 +76,27 @@ Buscamos:\
 ***
 
 {% hint style="success" %}
-### ¿Quieres unirte?
+#### ¿Quieres unirte?
 
-🧠 Seas programador, artista, diseñador de sistemas, o simplemente un loco del universo *Traveller*, **te estamos esperando**.
+🧠 Seas programador, artista, diseñador de sistemas, o simplemente un loco del universo _Traveller_, **te estamos esperando**.
 
 📡 Puedes contactar directamente con el equipo de desarrollo a través de:
 
-- 💬 **Discord:** [discord.gg/thecorporatewars](https://discord.gg/gqrmE6FBKQ)
-- 📧 **Email:** `developers@thecorporatewars.com`
+* 💬 **Discord:** [discord.gg/thecorporatewars](https://discord.gg/gqrmE6FBKQ)
+* 📧 **Email:** `developers@thecorporatewars.com`
 
 No prometemos fama ni fortuna, pero sí **buena compañía, libertad creativa y trabajo significativo**.
 
-**DHRAGHZ UDHEG, AURR!**  
+**DHRAGHZ UDHEG, AURR!**\
 ¡Nos vemos entre estrellas!
 {% endhint %}
 
 {% columns %}
 {% column %}
-<figure>
-  <img src="../.gitbook/assets/img1.png" alt="Imagen 1">
-</figure>
+<figure><img src="../.gitbook/assets/UEIcon180h.png" alt="Imagen 1"><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
-<figure>
-  <img src="../.gitbook/assets/img2.png" alt="Imagen 2">
-</figure>
-{% endcolumn %}
-
-{% column %}
-<figure>
-  <img src="../.gitbook/assets/img3.png" alt="Imagen 3">
-</figure>
+<figure><img src="../.gitbook/assets/Solana180h.png" alt="Imagen 2"><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
