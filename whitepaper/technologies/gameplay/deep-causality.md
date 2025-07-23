@@ -1,6 +1,23 @@
 ---
-cover: ../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../.gitbook/assets/tcw-theory-deep.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Interactive Causality
@@ -11,13 +28,10 @@ This approach allows for modeling not only isolated outcomes but also trajectori
 
 Among the areas that address these dynamics are:
 
-- **Repeated games**, where actors face successive versions of the same game, allowing past decisions to condition future expectations and strategies.
-  
-- **Evolutionary games**, which study how certain behavioral patterns proliferate or disappear depending on their relative performance in adaptive environments.
-  
-- **Reputation games**, where past actions accumulate weight, affecting the credibility, influence, or strategic position of the actors.
-  
-- **Learning games**, where participants progressively adjust their decisions based on partial information, environmental signals, or observable behaviors.
+* **Repeated games**, where actors face successive versions of the same game, allowing past decisions to condition future expectations and strategies.
+* **Evolutionary games**, which study how certain behavioral patterns proliferate or disappear depending on their relative performance in adaptive environments.
+* **Reputation games**, where past actions accumulate weight, affecting the credibility, influence, or strategic position of the actors.
+* **Learning games**, where participants progressively adjust their decisions based on partial information, environmental signals, or observable behaviors.
 
 The theoretical interest in these structures lies in their ability to generate non-trivial patterns: phenomena such as spontaneous cooperation, collective collapse, cycles of trust and betrayal, or emergent dynamics that cannot be explained through static or pointwise analysis.
 
