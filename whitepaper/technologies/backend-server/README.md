@@ -1,5 +1,4 @@
 ---
-icon: pencil
 cover: ../../.gitbook/assets/tcw-custom.jpg
 coverY: 0
 layout:
