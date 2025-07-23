@@ -26,37 +26,34 @@ layout:
 
 # The Jump Drive
 
-**Jump** allows ships to move between stars by crossing hyperspace, covering between 1 and 6 parsecs in approximately **one week**.
+**Jump** allows starships to travel between stars by crossing hyperspace, covering between 1 and 6 parsecs in approximately **one week**.
 
-This system consumes refined hydrogen, not as direct fuel, but as plasmatic reaction mass that feeds the energy accumulation process for creating a minimal tachyon field using the ship’s lanthanum mesh.
+This system does not consume hydrogen as direct fuel, but rather as a source of plasmatic reaction mass. This mass feeds the energy accumulation process required to generate a minimal tachyon field, activated through the ship's lanthanum grid.
 
-At the critical point of energy accumulation, the tachyon field becomes polarized in a three-dimensional vector, generating directed hyperspace.
+At the critical energy point, the tachyon field polarizes into a three-dimensional vector, generating a directed hyperspatial envelope.
 
-During the jump, the ship is completely isolated from normal space: it cannot communicate, receive signals, or be located until it emerges at the end of transit.
+During transit, the ship remains completely isolated from realspace: it cannot communicate, receive signals, or be detected by external means. However, the initial jump event leaves a detectable signature: tachyon polarization can be registered by specialized sensors, revealing the direction and magnitude of the vector.
 
-However, the polarization of tachyons makes them instantly detectable by specialized sensors, so the vector and power of the jump can be determined at the moment it occurs.
+## Why One Week?
 
-## Interstellar Transit
+The duration of the jump —approximately 168 standard hours— is independent of the distance traveled.
 
-The interstellar transit process does not simply involve **jumping**: for correct operation and to minimize variables, jumps must be initiated far from any gravitational well or electromagnetic source.
+This is because hyperspatial velocity does not depend on the energy of the jump, but on the harmonic properties of the ship itself.
 
-This means moving at least 100 times the diameter of a star or any other massive body in the stellar system.
+Theoretically, instantaneous displacement would be possible through tachyons operating under a regime of infinite imaginary mass. However, such a condition disrupts the energetic coherence of realspace, causing critical instabilities such as matter-antimatter microreactions and harmonic collapses, with potentially catastrophic consequences.
 
-The same applies at the destination: the target point must be sufficiently far from massive objects.
+To avoid this, the jump drive maintains a controlled relationship between real and imaginary mass. In this balance, lanthanum plays a key role: its properties allow stabilization of the jump field’s resonance frequency.
 
-Both displacements consume time to bring the vessel to and from the jump point at its destination.
+> Tuning a jump drive is like tuning a musical instrument: small variations in the modulation of the lanthanum grid affect the precision, efficiency, and safety of the transit.
 
-### Why one week?
+The resulting hyperspatial envelope has fixed properties, determined by the balance between the ship's mass and the structural harmonic resonance of the lanthanum mesh. The induced tachyons force the ship into this domain, where relative velocities and real distances cease to exist.
 
-A **jump** has an approximate duration of 168 hours, regardless of the impulse distance.
+The perceived transit time —168 hours— results from the build-up of harmonic resonance layers and their natural dissipation periods. Regardless of the magnitude of the jump vector (i.e., the distance), the induced tachyonic resonances dissipate at a constant rate.
 
-Hyperspatial displacement is limited by the interaction of polarized tachyons with the ship’s harmonic mass.
+Thus, the *effective speed* of hyperspatial displacement varies with the vector's magnitude, but the total transit duration remains constant for all full jumps.
 
-Theoretically, instantaneous point-to-point tachyon displacement is possible, but it would require tachyons with infinite negative mass, which would trigger a catastrophic collapse of matter-antimatter microreactions in real space, severely damaging the interstellar vessel and destroying its systems.
+## Limitations
 
-Tachyons must maintain a harmonic relationship between real and imaginary mass and energy; this balance allows the jump drive to keep the ship isolated from real space while it moves in a direction at a constant speed, determined by the lanthanum’s space-time resonance.
+Interstellar jumps cannot be initiated near gravitational wells or strong electromagnetic sources. To ensure stability, the process must begin at least 100 diameters away from the nearest massive body.
 
-It is a physical limitation of the materials: lanthanum alloys stand out for their harmonic mass stability, which enables relatively fast and highly reliable jumps.
-
-Calibrating a jump drive is like tuning a musical instrument: the small variations in the harmonic fields generated by the lanthanum mesh determine the precision and stability of the jump.
-
+The same applies at the destination: the reentry point must be clear of significant gravitational perturbations. Sublight travel is required both before and after the jump, adding time to the overall journey.

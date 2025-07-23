@@ -26,36 +26,34 @@ layout:
 
 # El Impulsor de Salto
 
-El **Salto** permite a las naves moverse entre estrellas cruzando el espacio hiperdimensional, recorriendo entre 1 y 6 parsecs en aproximadamente **una semana**.
+El **Salto** permite a las naves moverse entre estrellas atravesando el espacio hiperdimensional, cubriendo entre 1 y 6 parsecs en aproximadamente **una semana**.
 
-Este sistema consume hidrógeno refinado, no como combustible directo, sino como materia de reacción plasmática que alimenta el proceso de acumulación de energía para la creación de un campo mínimo de taquiones empleando la malla de lantano del casco.
+Este sistema no consume hidrógeno como combustible directo, sino como masa de reacción plasmática. Esta masa alimenta el proceso de acumulación energética necesario para generar un campo mínimo de taquiones, activado mediante la malla de lantano del casco.
 
-En el punto crítico de acumulación energética, el campo de taquiones queda polarizado en un vector tridimensional, generando un hiperespacio direccionado.
+En el punto crítico de energía, el campo de taquiones se polariza en un vector tridimensional, generando un ámbito de hiperespacio direccionado.
 
-Durante el salto, la nave queda completamente aislada del universo normal: no puede comunicarse, recibir señales ni ser localizada, hasta emerger al final del tránsito.
+Durante el tránsito, la nave permanece completamente aislada del espacio real: no puede comunicarse, recibir señales ni ser localizada por medios externos. Sin embargo, el instante inicial del salto deja una firma detectable: la polarización taquiónica puede ser registrada por sensores especializados, revelando dirección y magnitud del vector.
 
-Sin embargo, la polarización de taquiones los hace instantáneamente detectables por sensores especializados, por lo que puede determinarse el vector y la potencia del salto en el momento del mismo.
+## ¿Por qué una semana?
 
-## Tránsito Interestelar
+La duración del salto —unas 168 horas estándar— es independiente de la distancia recorrida.
 
-El proceso de tránsito interestelar no implica únicamente **saltar**: para un correcto funcionamiento y minimizar las variables, los saltos deben iniciarse lejos de cualquier pozo gravitatorio o fuente electromagnética.
+Esto se debe a que la velocidad hiperespacial no depende de la energía del impulso, sino de las propiedades armónicas del navío.
 
-Esto implica alejarse al menos 100 veces el diámetro de una estrella o cualquier otro cuerpo masivo del sistema estelar.
+Teóricamente, un desplazamiento instantáneo sería posible mediante taquiones en régimen de masa imaginaria infinita. Sin embargo, esta condición rompe la coherencia energética del espacio real, provocando inestabilidades críticas como microreacciones de materia-antimateria y colapsos armónicos, con consecuencias potencialmente catastróficas.
 
-En el destino sucede lo mismo: el punto de destino debe estar lo suficientemente lejos de objetos masivos.
+Para evitarlo, el impulsor de salto mantiene una relación controlada entre masa real e imaginaria. En este equilibrio, el lantano juega un papel clave: sus propiedades permiten estabilizar la frecuencia de resonancia del campo de salto.
 
-Ambos desplazamientos consumen tiempo para llevar al navío hasta y desde el punto de salto a su destino.
+> Calibrar un impulsor de salto es como afinar un instrumento musical: ligeras variaciones en la modulación de la malla de lantano afectan la precisión, eficiencia y seguridad del tránsito.
 
-### ¿Por qué una semana?
+El ámbito hiperespacial generado tiene propiedades fijas, determinadas por el equilibrio entre la masa del navío y la resonancia armónica estructural de la malla de lantano. Los taquiones inducidos fuerzan al navío a entrar en este dominio, donde no existen velocidades relativas ni distancias reales.
 
-Un **salto** tiene una duración aproximada de 168 horas, independientemente de la distancia del impulso.
+El tiempo percibido del tránsito —168 horas— resulta de la acumulación de capas armónicas resonantes y sus periodos naturales de disipación. Independientemente de la magnitud del vector de salto (es decir, la distancia), las resonancias taquiónicas se disipan a un ritmo constante.
 
-El desplazamiento hiperespacial está limitado por la interacción de los taquiones polarizados con la masa armónica del navío.
+Así, la *velocidad efectiva* del desplazamiento hiperespacial varía con la magnitud del salto, pero la duración total del tránsito permanece constante para todo salto completo.
 
-Teóricamente, el desplazamiento instantáneo de taquiones de punto a punto es posible, pero implica taquiones con masa infinita negativa, lo que provocaría un colapso catastrófico de microreacciones de materia-antimateria en el espacio real, dañando gravemente el navío interestelar y destruyendo sus sistemas.
+## Limitaciones
 
-Los taquiones deben mantener una relación armónica entre masa y energía reales e imaginarias; ese equilibrio permite al impulsor de salto mantener a la nave aislada del espacio real mientras se desplaza en una dirección a una velocidad constante, determinada por la resonancia espacio-temporal del lantano.
+El salto interestelar no puede ejecutarse cerca de pozos gravitatorios o fuentes electromagnéticas intensas. Para garantizar la estabilidad, debe iniciarse al menos a 100 diámetros del cuerpo masivo más cercano.
 
-Se trata de una limitación física de los materiales: las aleaciones de lantano destacan por su estabilidad armónica de masa, lo que permite saltos relativamente rápidos y de muy alta fiabilidad.
-
-Calibrar un impulsor de salto es como afinar un instrumento musical: las pequeñas variaciones en los campos armónicos generados por la malla de lantano determinan la precisión y estabilidad del salto.
+Lo mismo aplica al destino: el punto de reentrada debe estar libre de perturbaciones gravitatorias significativas. Los desplazamientos desde y hacia los puntos de salto requieren navegación sublumínica, lo que añade tiempo adicional a la travesía.
