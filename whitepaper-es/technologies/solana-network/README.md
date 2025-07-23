@@ -1,6 +1,23 @@
 ---
-cover: ../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../.gitbook/assets/tcw-stateless.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Blockchain Stateless
@@ -19,7 +36,7 @@ Los Merkle trees permiten comprimir y validar estos estados de forma eficiente, 
 
 A diferencia de otros ecosistemas, Solana opera con **programas stateless** y almacenamiento basado en claves derivadas.
 
-Esto permite modelar estructuras complejas mediante nomenclaturas implícitas.  
+Esto permite modelar estructuras complejas mediante nomenclaturas implícitas.\
 Una `key` principal, asociada a una `foreign key`, define relaciones de datos **sin necesidad de SQL ni tablas**.
 
 Es, en esencia, un mapa estructural vivo, donde las relaciones están codificadas en el diseño de las claves, reduciendo la dependencia de modelos relacionales clásicos.
