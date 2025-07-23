@@ -83,9 +83,9 @@ The natural system of **The Corporate Wars** functions as a self-regulating netw
 
 In algorithmic terms, prices tend toward a desired value:
 
-```
-P_desired = P_current × (1 + α × (D - S) / S)
-```
+$$
+P_{desired} = P_{current} × \bigg(1 + α × \frac{(D - S)}{S}\bigg)
+$$
 
 where:
 
@@ -95,9 +95,9 @@ where:
 
 Additionally, the model incorporates a distributed balance adjustment:
 
-```
-ΔP = Σ (w_n × (P_n - P_current))
-```
+$$
+ΔP = Σ (w_n × (P_n - P_{current}))
+$$
 
 where:
 
