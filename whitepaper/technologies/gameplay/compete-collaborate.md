@@ -7,13 +7,15 @@ coverY: 0
 
 In game theory, collaborative individualism refers to models where rational actors, pursuing their own objectives, recognize that certain forms of tactical coordination can improve their immediate outcomes.
 
-It does not imply a dissolution of interests or a long-term commitment, but rather partial alignments within competitive structures.
+> It does not imply a dissolution of interests or a long-term commitment, but rather partial alignments within competitive structures.
 
 These models are typically analyzed through mixed-motive games, where optimal strategies combine elements of cooperation and competition, and through coalition games, where temporary groups negotiate distributions under the constant possibility of dissolution.
 
-The resulting equilibria are fragile: they depend on no actor perceiving net benefits from unilateral deviation, and they presuppose no trust, only strategic calculation.
+> The resulting equilibria are fragile: they depend on no actor perceiving net benefits from unilateral deviation, and they presuppose no trust, only strategic calculation.
 
 The academic interest in these structures lies in their capacity to generate short-term stable configurations within unstable multi-agent systems, allowing exploration of how tactical agreements are articulated without altering underlying tensions.
+
+***
 
 In **The Corporate Wars**, collaborative individualism defines scenarios where corporations, factions, and institutions can momentarily align their actions to achieve tactical advantages.
 
