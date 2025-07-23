@@ -35,15 +35,18 @@ The difference between starships and spacecraft is determined not by their size 
 
 ### Spacecraft
 
-These are vehicles designed for local or intrastellar operations.\
-They operate within a single star system, using conventional or gravitic propulsion, without the need for jump drives.\
+These are vehicles designed for local or intrastellar operations.
+
+They operate within a single star system, using conventional or gravitic propulsion, without the need for jump drives.
+
 They are ideal for mining, orbital transport, local patrols, and logistics between stations or moons.
 
 ***
 
 ### Starships
 
-These are spacefaring vessels equipped with jump drives, enabling them to perform interstellar transits.\
+These are spacefaring vessels equipped with jump drives, enabling them to perform interstellar transits.
+
 They are the backbone of interstellar trade, imperial expansion, and the connectivity between worlds.
 
 > Every starship is, by definition, also a spacecraft —but not every spacecraft is capable of crossing the gulf between stars.

@@ -25,8 +25,19 @@ layout:
 
 # Naval Architecture System
 
-Interstellar transportation in **The Corporate Wars** relies on a combination of advanced propulsion technology and starship designs optimized for specific roles. From massive freighters to light exploration vessels, each type of ship plays a vital role in galactic mobility and the inter-system economy.
+The design of starships in **The Corporate Wars** follows rational and strategic principles.
 
-Reactors are the heart of any ship, determining its speed, range, and operational efficiency. While impulse engines enable navigation within a star system, the interstellar jump capacitor is the only way to travel between stars within manageable timeframes. Access to different levels of propulsion technology defines a fleet’s competitiveness and its ability to operate in trade, warfare, or exploration.
+The _Naval Architecture System_ enables the development of vessels that are coherent with their operational roles, optimizing resources and capabilities according to their function and specific needs.
 
-Corporations that dominate the manufacturing, maintenance, and supply of reactors and propulsion systems not only control the flow of goods and people across the galaxy but also influence interstellar geopolitics — establishing transportation networks that can either consolidate or destabilize entire regions.
+## Mission
+
+The mission of a spacecraft is the key factor that determines its design, configuration, and equipment.
+
+Each vessel fulfills a clear role: patrol, transport, trade, exploration, research, diplomacy, or warfare.
+
+Based on this primary mission, systems are selected accordingly: cargo hold size, sensor suites, weaponry, life support systems, jump range, sublight propulsion type, and level of automation.
+
+> As example, a rapid-response medical ship prioritizes speed and modularity to host mobile surgical units and quarantine zones.  
+> A light patrol corvette will feature long-range sensors, modular weapon mounts, and space for inspection teams.
+
+Design decisions are not arbitrary, but the logical consequence of the vessel's intended operational purpose within its functional deployment environment.
