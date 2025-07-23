@@ -25,7 +25,8 @@ layout:
 {% columns fullWidth="true" %}
 {% column width="75%" %}
 {% hint style="danger" %}
-### RRRGHA UDHEG! - COMMUNITY CALL!
+#### RRRGHA UDHEG! - COMMUNITY CALL!
+
 We Vargr developers raise the howl as this burns in our claws —and let it be clear: **yes**, we need this.\
 We know how to move, we know how to fight, but together we are pack, and together we go farther.\
 If you've got claws, brains, or drive, join us.\
@@ -73,12 +74,12 @@ We are looking for:\
 {% endcolumns %}
 
 {% hint style="success" %}
-### Want to Join?
+#### Want to Join?
 
 🧠 Whether you're a programmer, artist, systems designer, or just a _Traveller_ fanatic — **we're waiting for you**.📡 You can reach out to the development team directly via:
 
-- 💬 **Discord:** [discord.gg/thecorporatewars](https://discord.gg/gqrmE6FBKQ)
-- 📧 **Email:** `developers@thecorporatewars.com`
+* 💬 **Discord:** [discord.gg/thecorporatewars](https://discord.gg/gqrmE6FBKQ)
+* 📧 **Email:** `developers@thecorporatewars.com`
 
 We don’t promise fame or fortune, but you’ll find **great company, creative freedom, and meaningful work**.
 
@@ -88,14 +89,4 @@ See you among the stars!
 
 ***
 
-<div align="center"><figure>
-<img src="../.gitbook/assets/UEIcon180h.png" alt="Unreal Engine" width="200"><figcaption></figcaption></figure>
-<figure>
-<img src="../.gitbook/assets/Solana180h.png" alt="Solana" width="200"><figcaption></figcaption>
-</figure> <figure>
-<img src="../.gitbook/assets/MGIco180h.png" alt="" width="200"><figcaption></figcaption>
-</figure> <figure>
-<img src="../.gitbook/assets/DraCo180h.png" alt="" width="200"><figcaption></figcaption>
-</figure> <figure>
-<img src="../.gitbook/assets/ARW180h.png" alt="" width="200"><figcaption></figcaption>
-</figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/UEIcon180h.png" alt="Unreal Engine" width="200"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Solana180h.png" alt="Solana" width="200"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/MGIco180h.png" alt="" width="200"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/DraCo180h.png" alt="" width="200"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/ARW180h.png" alt="" width="200"><figcaption></figcaption></figure></div>
