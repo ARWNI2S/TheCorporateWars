@@ -83,9 +83,9 @@ El sistema natural de **The Corporate Wars** funciona como una red autorregulada
 
 En términos algorítmicos, los precios tienden hacia un valor deseado:
 
-```
-P_deseado = P_actual × (1 + α × (D - S) / S)
-```
+$$
+P_{deseado} = P_{actual} × \bigg(1 + α × \frac{(D - S)}{S}\bigg)
+$$
 
 donde:
 
@@ -95,14 +95,14 @@ donde:
 
 Además, el modelo incorpora un ajuste de equilibrio distribuido:
 
-```
-ΔP = Σ (w_n × (P_n - P_actual))
-```
+$$
+ΔP = Σ (w_n × (P_n - P_{actual}))
+$$
 
 donde:
 
-* P\_n son los precios de los nodos vecinos,
-* w\_n es el peso de cada conexión en función del tráfico y la latencia.
+* \$$P\_n son los precios de los nodos vecinos,
+* \$$w\_n es el peso de cada conexión en función del tráfico y la latencia.
 
 Esta combinación permite que el sistema mantenga coherencia global sin necesidad de intervención directa ni de supervisión manual, generando un equilibrio que se adapta tanto a los focos de actividad como a los márgenes menos transitados.
 
