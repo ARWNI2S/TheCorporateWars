@@ -1,5 +1,5 @@
 ---
-icon: pencil
+icon: user-helmet-safety
 ---
 
 # Hitos

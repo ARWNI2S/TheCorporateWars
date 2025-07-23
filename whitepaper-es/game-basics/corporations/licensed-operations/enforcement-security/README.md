@@ -2,6 +2,7 @@
 description: >-
   Soluciones de protección y aplicación regulada de la ley para operaciones de
   seguridad estratégicas, tácticas y privadas.
+icon: user-helmet-safety
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:

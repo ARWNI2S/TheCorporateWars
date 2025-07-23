@@ -1,3 +1,7 @@
+---
+icon: user-helmet-safety
+---
+
 # Milieu 0
 
 Históricamente Milieu 0 representa el punto de inicio de la expansión del Tercer Imperio.

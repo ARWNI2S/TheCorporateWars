@@ -2,6 +2,7 @@
 description: >-
   Centros operativos y de producción esenciales para la expansión y la
   logística.
+icon: user-helmet-safety
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:

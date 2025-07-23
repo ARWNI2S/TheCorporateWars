@@ -2,6 +2,7 @@
 description: >-
   Procesamiento, fabricación, ensamblaje y producción en masa de bienes
   industriales y de consumo.
+icon: user-helmet-safety
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
