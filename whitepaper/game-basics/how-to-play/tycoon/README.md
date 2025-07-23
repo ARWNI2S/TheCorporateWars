@@ -22,4 +22,4 @@ layout:
 
 # Tycoon
 
-Bla
+Bla.
