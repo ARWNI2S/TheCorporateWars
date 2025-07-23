@@ -2,7 +2,6 @@
 description: >-
   The Jump Drive is a technology that allows specialized vessels to create
   directed hyperspace.
-icon: pencil
 cover: ../../../.gitbook/assets/tcw-wip-nerd.jpg
 coverY: 0
 layout:
@@ -36,7 +35,7 @@ During transit, the ship remains completely isolated from realspace: it cannot c
 
 ## Why One Week?
 
-The duration of the jump —approximately 168 standard hours— is independent of the distance traveled.
+> The duration of the jump —approximately 168 standard hours— is independent of the distance traveled.
 
 This is because hyperspatial velocity does not depend on the energy of the jump, but on the harmonic properties of the ship itself.
 
@@ -50,7 +49,7 @@ The resulting hyperspatial envelope has fixed properties, determined by the bala
 
 The perceived transit time —168 hours— results from the build-up of harmonic resonance layers and their natural dissipation periods. Regardless of the magnitude of the jump vector (i.e., the distance), the induced tachyonic resonances dissipate at a constant rate.
 
-Thus, the *effective speed* of hyperspatial displacement varies with the vector's magnitude, but the total transit duration remains constant for all full jumps.
+Thus, the _effective speed_ of hyperspatial displacement varies with the vector's magnitude, but the total transit duration remains constant for all full jumps.
 
 ## Limitations
 
