@@ -99,4 +99,12 @@ No prometemos fama ni fortuna, pero sí **buena compañía, libertad creativa y 
 {% column %}
 <figure><img src="../.gitbook/assets/Solana180h.png" alt="Imagen 2"><figcaption></figcaption></figure>
 {% endcolumn %}
+
+{% column %}
+<figure><img src="../.gitbook/assets/UEIcon180h.png" alt="Imagen 1"><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../.gitbook/assets/Solana180h.png" alt="Imagen 2"><figcaption></figcaption></figure>
+{% endcolumn %}
 {% endcolumns %}
