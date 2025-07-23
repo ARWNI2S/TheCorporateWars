@@ -5,69 +5,70 @@ coverY: 0
 
 # The Outdated Information Model
 
-In an Imperium of over eleven thousand worlds, where jump ships are the arteries connecting scattered civilizations, information **never** arrives instantly.
+In an Imperium of over eleven thousand worlds, where jump ships serve as arteries connecting scattered civilizations, information **never** arrives instantly.
 
-No matter how advanced the technology, no civilization of the Third Imperium — nor any known _alliegance_ — has found a way to overcome one fundamental law of the known universe:
+No matter how advanced the technology, no civilization within the Third Imperium —or any other _Allegiance_— has found a way to overcome a fundamental law of the known universe:
 
 > **Information cannot travel faster than light.**
 
-Interstellar communications rely on physical couriers: messengers, freighters, probes, diplomatic vessels. Dispatches, stock prices, military reports, and even simple local news traverse the jump corridors encapsulated in physical units, subject to the same limitations as any material cargo.
+Interstellar communications rely on physical emissaries: messengers, freighters, probes, diplomatic vessels. Dispatches, stock prices, military reports, and even local news travel through jump corridors encapsulated in physical units, subject to the same limitations as any other type of cargo.
 
-This introduces **structural latencies**:
+This introduces **structural latency**:
 
-* A message from the Core sector to the margins of the Imperium can take weeks or months.
-* Decisions are made based on outdated data.
-* Opportunities and threats may have already vanished by the time the information arrives.
+- A message from the Core sector to the outer fringes of the Imperium may take weeks or months.
+- Decisions are made based on outdated data.
+- Opportunities and threats may have already disappeared by the time information arrives.
 
-The outdated information model is not a system flaw: **it is the system**. It defines strategies, conditions logistics, and shapes the very social, polítical, and economic fabric of the galaxy. And in _**The Corporate Wars**_, this model is not just flavor — it is the backbone of the technical design that sustains the persistent ecosystem.
+The outdated information model is not a system flaw: **it is the system**. It defines strategies, constrains logistics, and shapes the social, political, and economic fabric of the galaxy. In _**The Corporate Wars**_, this model is not just flavor — it is the backbone of the technical design that supports the persistent ecosystem.
 
 {% hint style="info" %}
-Below, we explain how we have integrated this asynchrony at the heart of the game, using distributed technologies (like the Solana blockchain) to reflect a universe where absolute synchronization is unattainable.
+What follows is an explanation of how this asynchrony is integrated into the heart of the game, using distributed technologies (such as the Solana blockchain) to simulate a universe where absolute synchronization is unattainable.
 {% endhint %}
 
 ***
 
 ## Structural latency
 
-In **The Corporate Wars**, interstellar information does not flow in real-time nor globally. The universe is structured as a **directed latency graph**, where each node represents a star system, and each edge (transit route) introduces a concrete delay determined by the physical limitations of interstellar travel.
+In **The Corporate Wars**, interstellar information does not flow in real time or in a global fashion. The universe is structured as a **directed latency graph**, where each node represents a star system and each edge (transit route) introduces a specific delay determined by the physical limitations of interstellar travel.
 
-Each route A → B implies an intrinsic latency. Although global transactions are registered on blockchain, each node can only perceive and operate with the blocks corresponding to its visibility window:
+Each route A → B implies intrinsic latency. While global transactions are recorded on the blockchain, each node can only perceive and operate with the **differential changes applied to its own local state**, according to its visibility window:
 
-* The blockchain stores transactions ordered over time (T, T-1, T-2, ..., T-N).
-* Node A only has access to B’s transactions up to block **T-(n)**, where **n** represents the route delay.
-* Subsequent blocks remain invisible until the physical data “arrives” via transit routes.
+- Differences are stored in chronological order: $$(T, T-1, T-2, ..., T-N)$$.
+- Node A has access to differences from B only up to version $$(T - t_{route})$$, where $$t_{route}$$ represents the route's delay.
+- Later changes remain invisible until the physical data "arrives" via transit routes.
 
-Thus, A's perception of B is always outdated and depends on:
+Thus, A’s perception of B is always outdated and depends on:
 
-* the accumulated delay of available routes,
-* the update rhythm,
-* and the logistical capacity to transport data through the graph.
+- the accumulated delay of available routes,
+- the update frequency,
+- and the logistical capacity to transport data through the graph.
 
 ***
 
 ## Technical challenges
 
-Implementing an outdated information model in a distributed universe backed by blockchain (Solana) introduces real technical challenges that go far beyond gameplay mechanics — they are deep engineering hurdles:
+Implementing an outdated information model in a distributed universe supported by blockchain (Solana) presents real technical challenges. These are not just gameplay mechanics — they are problems of deep systems engineering:
 
-* **Efficient storage and crawling of historical blocks:** nodes must access only the blocks relevant to their temporal window (T-(n)), avoiding full-chain traversal. This requires efficient algorithms to filter, index, and serve historical data at massive scale.
-* **Asymmetric bidirectionality in the graph:** routes A → B are not always symmetric in time or capacity with B → A. This generates divergent update paths and latencies that must be modeled dynamically, affecting both topology and snapshot calculations.
-* **Contextual access limitation:** although data is publicly available on blockchain, it must only be decrypted and exposed by the backend according to each player’s permissions, context, and node position. This demands an additional layer of granular encryption and key management beyond the on-chain layer.
-* **Efficient reuse of PDA across systems:** program derived accounts (PDA) not only serve players but also feed secondary systems like the Interstellar Stock Exchange (ISE) and multilayer governance. This requires designing data pipelines that serve multiple domains without inconsistencies or overload.
-* **Scalability of Solana programs:** the programs handling data aggregation, filtering, and delivery must scale in an environment with tens of thousands of players and nodes, respecting computational costs (SOL), throughput limits, and minimum latencies.
-* **Soft synchronization of local nodes:** since no global instant state exists, local nodes need reconciliation and eventual correction mechanisms to avoid cumulative errors or prolonged state drift.
+- **Efficient storage and crawling of differential versions:** Nodes must access only the relevant deltas within their temporal window $$(T - t_{route})$$, without traversing the entire chain.\
+  This requires efficient algorithms to filter, index, and serve partial versions at large scale.
+- **Asymmetric bidirectionality of the graph:** Routes A → B are not always symmetric in time or capacity compared to B → A. This generates diverging update and latency paths that must be modeled dynamically, affecting both topology and visible snapshot computation.
+- **Contextual access limitation:** While data is public on-chain, it must only be decrypted and exposed to the backend based on permissions, context, and player position. This demands an additional layer of granular encryption and key management, not handled solely on-chain.
+- **Efficient reuse of PDAs across multiple systems:** PDA accounts are not only used by the player but also serve secondary systems like the Interstellar Stock Exchange (ISE) and multilayered governance. This requires designing data pipelines that can support multiple domains without inconsistency or overload.
+- **Solana program scalability:** The programs responsible for aggregation, filtering, and data delivery must scale across an environment with tens of thousands of players and nodes, while respecting compute budgets (SOL), throughput limits, and latency constraints.
+- **Soft synchronization of local nodes:** Since no instant global state exists, local nodes require reconciliation and eventual correction mechanisms to avoid error accumulation or prolonged drift from baseline.
 
-These challenges are neither trivial nor theoretical — they are present-day limitations that define how a system like **The Corporate Wars** can grow and operate at real-world scale.
+These challenges are neither trivial nor theoretical — they are active constraints that define how a system like **The Corporate Wars** can grow and operate at real scale.
 
 ***
 
 ## Model advantages
 
-This approach is not just a technical solution — it is a pillar that brings distinctive advantages in terms of design and experience.
+This approach is not just a technical solution: it is a foundation that brings unique advantages at both design and gameplay levels.
 
-* **Strengthens authentic strategic asymmetry:** not all players access the same data at the same time; those who manage their routes and logistical networks better gain real advantages.
-* **Introduces tactical uncertainty:** decisions are made based on partial, outdated information, creating an ecosystem where risk and interpretation are central.
-* **Enables deep emergent gameplay:** the model allows phenomena such as information manipulation, data brokers, update corridors, and parallel intelligence markets.
-* **Connects systems:** route and world PDAs are not isolated data points — they directly feed financial instruments (ISE) and multilayer governance dynamics, multiplying their relevance.
-* **Fair game security:** although data is on-chain and publicly accessible, only the authorized backend can decrypt and expose the information each player is entitled to, preventing leaks, unauthorized data mining, or abuse.
+- **Reinforces strategic asymmetry:** those with better routes or logistical control gain earlier access to key data.
+- **Introduces uncertainty:** not all recent events are visible across all nodes, forcing decisions based on probability, not certainty.
+- **Enables emergent gameplay layers:** from information manipulation to data couriers and update brokers.
+- **Connects systems:** PDAs for routes and worlds are not isolated — they directly power instruments like the ISE and the multilayered governance dynamics.
+- **Fair game security:** although blockchain data is publicly accessible, only authorized backends can decrypt and expose information each player is entitled to, preventing leaks, external data mining, or abuse.
 
-In summary, the outdated information model is not just a gameplay mechanic — it is a deeply interconnected design that reinforces narrative coherence, technical integrity, and the richness of the persistent ecosystem.
+In short, the outdated information model is not just a game mechanic: it is a deeply interwoven design that strengthens narrative coherence, technical integrity, and the richness of the persistent ecosystem.
