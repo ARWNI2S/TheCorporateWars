@@ -66,7 +66,7 @@ Es un entorno cosmopolita de culturas y gobiernos asimétricos, en el que los si
 
 Las estructuras planetarias en los distintos mundos van de colonias aisladas a megaciudades, organizadas socialmente de formas distintas, supeditadas a una compleja estructura de gobierno.
 
-Las fronteras entre imperios son nodos de información, intercambio tecnológico y choque cultural, y los territorios inexplorados presentan nuevas oportunidades de cooperacion, alianza y expansion.
+Las fronteras entre imperios son nodos de información, intercambio tecnológico y choque cultural, y los territorios inexplorados presentan nuevas oportunidades de cooperación, alianza y expansión.
 
 > Los jugadores deberán atravesar un entramado legal de compromisos, regulaciones, plazos y permisos; en cumplimiento tanto de las gobernanzas locales, como de las interestelares; cuidando tanto de su imagen publica como de sus relaciones políticas, para extender su influencia por la galaxia.
 
@@ -82,7 +82,7 @@ Las fronteras entre imperios son nodos de información, intercambio tecnológico
 
 ### Empieza aquí.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Cimientos</strong></td><td>Inspirado en Traveller™</td><td><a href=".gitbook/assets/TCW.jpg">TCW.jpg</a></td><td></td><td><a href="foundations/next-milieu/">next-milieu</a></td></tr><tr><td><strong>El Juego</strong></td><td>Cuanto necesitas saber...</td><td><a href=".gitbook/assets/TCW_ALT.jpg">TCW_ALT.jpg</a></td><td></td><td><a href="game-basics/how-to-play/">how-to-play</a></td></tr><tr><td><strong>Tecnología</strong></td><td>El juego desde dentro</td><td><a href=".gitbook/assets/vs-dev.jpg">vs-dev.jpg</a></td><td></td><td><a href="technologies/gameplay/">gameplay</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Cimientos</strong></td><td>Inspirado en Traveller™</td><td><a href=".gitbook/assets/based-on.jpg">based-on.jpg</a></td><td></td><td><a href="foundations/next-milieu/">next-milieu</a></td></tr><tr><td><strong>El Juego</strong></td><td>Cuanto necesitas saber...</td><td><a href=".gitbook/assets/TCW_ALT.jpg">TCW_ALT.jpg</a></td><td></td><td><a href="game-basics/how-to-play/">how-to-play</a></td></tr><tr><td><strong>Tecnología</strong></td><td>El juego desde dentro</td><td><a href=".gitbook/assets/vs-dev.jpg">vs-dev.jpg</a></td><td></td><td><a href="technologies/gameplay/">gameplay</a></td></tr></tbody></table>
 
 ***
 
