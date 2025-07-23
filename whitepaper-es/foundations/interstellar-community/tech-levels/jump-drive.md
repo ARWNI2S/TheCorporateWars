@@ -2,7 +2,6 @@
 description: >-
   El Impulsor de Salto es una tecnología que permite a navíos especializados
   crear un espacio hiperdimensional direccionado.
-icon: pencil
 cover: ../../../.gitbook/assets/tcw-wip-nerd.jpg
 coverY: 0
 layout:
@@ -36,7 +35,7 @@ Durante el tránsito, la nave permanece completamente aislada del espacio real: 
 
 ## ¿Por qué una semana?
 
-La duración del salto —unas 168 horas estándar— es independiente de la distancia recorrida.
+> La duración del salto —unas 168 horas estándar— es independiente de la distancia recorrida.
 
 Esto se debe a que la velocidad hiperespacial no depende de la energía del impulso, sino de las propiedades armónicas del navío.
 
@@ -50,7 +49,7 @@ El ámbito hiperespacial generado tiene propiedades fijas, determinadas por el e
 
 El tiempo percibido del tránsito —168 horas— resulta de la acumulación de capas armónicas resonantes y sus periodos naturales de disipación. Independientemente de la magnitud del vector de salto (es decir, la distancia), las resonancias taquiónicas se disipan a un ritmo constante.
 
-Así, la *velocidad efectiva* del desplazamiento hiperespacial varía con la magnitud del salto, pero la duración total del tránsito permanece constante para todo salto completo.
+Así, la _velocidad efectiva_ del desplazamiento hiperespacial varía con la magnitud del salto, pero la duración total del tránsito permanece constante para todo salto completo.
 
 ## Limitaciones
 
