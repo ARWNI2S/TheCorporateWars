@@ -101,8 +101,8 @@ $$
 
 where:
 
-* P\_n are the prices of neighboring nodes,
-* w\_n is the weight of each connection based on traffic and latency.
+* $$P_n$$ are the prices of neighboring nodes,
+* $$w_n$$ is the weight of each connection based on traffic and latency.
 
 This combination allows the system to maintain global coherence without direct intervention or manual supervision, generating a balance that adapts to both active centers and less trafficked margins.
 
