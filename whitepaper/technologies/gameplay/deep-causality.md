@@ -45,7 +45,7 @@ This type of model allows for analyzing how dynamics of adjustment, exploration,
 
 ## Modeling and Implementation
 
-In **The Corporate Wars**, interactive causality manifests in how _polities_ react and adapt to a mutable environment.
+In **The Corporate Wars**, interactive causality manifests in how _Polities_ react and adapt to a mutable environment.
 
 Decisions are not isolated: they affect resource availability, alter power structures, modify trade routes, and reconfigure alliances.
 

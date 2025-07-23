@@ -27,7 +27,7 @@ layout:
 
 The **Technology Level (TL)** classifies societies based on their mastery of scientific knowledge, the sophistication of their infrastructure, and their integration into the interstellar network.
 
-From primitive cultures to galactic empires, every civilization exists within a technological spectrum that determines their opportunities, challenges, and relationships with other _polities_.
+From primitive cultures to galactic empires, every civilization exists within a technological spectrum that determines their opportunities, challenges, and relationships with other _Polities_.
 
 > Technological development not only affects a civilization's capacity for expansion but also defines its place within the interstellar order.
 

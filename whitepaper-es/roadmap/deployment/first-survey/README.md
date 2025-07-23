@@ -24,7 +24,7 @@ Para ello disponemos de un MVP que contiene lo siguiente sistemas:
 * gestión administrativa del mapa de la galaxia,
 * tesorería del sistema económico,
 * la estructura de gobernanza multicapa,
-* las _políticas_ como entidades de juego y gobernanza,
+* las _Políticas_ como entidades de juego y gobernanza,
 * el sistema financiero interestelar.
 
 ## Participación de la Comunidad
@@ -36,14 +36,14 @@ Los participantes en esta etapa aportan SOL a la tesorería de sistema a cambio 
 La **tesorería** del sistema está destinada a:
 
 * permitir el _mint_ de **MCr** y **RU**,
-* cubrir los depósitos de '_rent_' de toda las _PDA_ del sistema,
+* cubrir los depósitos de _rent_ de toda las _PDA_ del sistema,
 * mantener los costes operativos del sistema,
 * recompensar la participación de desarrolladores y artistas,
 * y establecer la posible liquidez futura del **MCr** en mercados externos,
 
 En esta etapa el sistema financiero interestelar simula:
 
-* las participaciones en _megacorporaciones_, _corporaciones_ y otras _políticas_.
+* las participaciones en _megacorporaciones_, _corporaciones_ y otras _Políticas_.
 * los grandes depósitos de la _Banca Imperial_,
 * las _Opciones de Ruta_ del _Mercado de Valores Interestelar_
 * las grandes fortunas de la _Nobiliti_.
@@ -54,14 +54,14 @@ Esto no es una propuesta de inversión, sino de participación en un sistema de 
 
 ### _Políticas_ de Milieu 0
 
-El sistema de _políticas_, ya estructurado, permite:
+El sistema de _Políticas_, ya estructurado, permite:
 
-* la creación de las _Lealtades_ principales y _políticas_ interestelares,
+* la creación de las _Lealtades_ principales y _Políticas_ interestelares,
 * la creación de _gobiernos_ afiliadas a _Lealtades_,
-* la creación de _megacorporaciones_ como agregados de _políticas_,
+* la creación de _megacorporaciones_ como agregados de _Políticas_,
 * y la creación de _corporaciones_ individuales.
 
-Estas _políticas_ persistirán como entidades de juego historicas, fuera del control directo de los jugadores, pero con un impacto directo en las mecanicas relacionadas con _lealtades_, _gobiernos_, _leyes_ y _economía_ de grandes territorios.
+Estas _Políticas_ persistirán como entidades de juego historicas, fuera del control directo de los jugadores, pero con un impacto directo en las mecanicas relacionadas con _lealtades_, _gobiernos_, _leyes_ y _economía_ de grandes territorios.
 
 ### Exploración y Expansión
 

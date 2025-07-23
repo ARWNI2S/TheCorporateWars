@@ -25,7 +25,7 @@ layout:
 
 # The Interstellar Community
 
-Multiple civilizations, _polities_, and sophonts coexist within a community spanning hundreds of parsecs, united in a delicate balance where the limitations of communication and transportation define both opportunities and challenges.
+Multiple civilizations, _Polities_, and sophonts coexist within a community spanning hundreds of parsecs, united in a delicate balance where the limitations of communication and transportation define both opportunities and challenges.
 
 Technologies vary between regions, technological progress is uneven across worlds, and collective advancement depends on the ability to manage transportation and communication networks.
 

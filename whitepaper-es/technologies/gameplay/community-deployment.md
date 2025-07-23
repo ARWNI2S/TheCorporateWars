@@ -34,7 +34,7 @@ El despliegue comunitario no los crea ni los altera, sino que los incorpora prog
 
 Cada nueva capa —mundos, rutas, instituciones, actores históricos— se despliega respetando el trasfondo original, con sus estructuras predefinidas, ofreciendo a los participantes espacios de interacción determinados por disponibilidad, no por improvisación.
 
-Este diseño asegura que los depósitos en '_rent_' necesarios para el despliegue de las estructuras de juego se mantengan escalables y equilibrados con la participación de la comunidad en las distintas etapas de desarrollo.
+Este diseño asegura que los depósitos en _rent_ necesarios para el despliegue de las estructuras de juego se mantengan escalables y equilibrados con la participación de la comunidad en las distintas etapas de desarrollo.
 
 Así, el despliegue no solo activa mundos, rutas y estructuras de poder: construye el mapa histórico mismo de la galaxia.
 

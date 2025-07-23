@@ -34,7 +34,7 @@ Community deployment does not create or alter them; it progressively incorporate
 
 Each new layer —worlds, jump routes, institutions, historical actors— is deployed respecting the original setting, with its predefined structures, offering participants interaction spaces determined by availability, not improvisation.
 
-This design ensures that the '_rent_' deposits required for the deployment of game structures remain scalable and balanced with community participation across the various development stages.
+This design ensures that the _rent_ deposits required for the deployment of game structures remain scalable and balanced with community participation across the various development stages.
 
 Thus, deployment not only activates worlds, routes, and power structures: it builds the very historical map of the galaxy.
 

@@ -46,7 +46,7 @@ donde:
 
 ### Implementación
 
-En **The Corporate Wars**, este principio estructura el juego como un marco interactivo, donde los intercambios constantes entre _políticas_ ocurren dentro de límites controlados.
+En **The Corporate Wars**, este principio estructura el juego como un marco interactivo, donde los intercambios constantes entre _Políticas_ ocurren dentro de límites controlados.
 
 Aunque sus formas, intensidades y expresiones varíen, la escala de interacción permanece constante.
 
@@ -55,7 +55,7 @@ Es un sistema que absorbe y redistribuye movimientos, sosteniendo un equilibrio 
 Entidades de alto nivel —supervisores y observadores— aplican rutinas comunes para mantener el equilibrio general.
 
 {% hint style="success" %}
-Estas entidades se manifiestan, y son alcanzables interactivamente, mediante las _políticas_ agregadas del sistema: _Lealtades_, _Instituciones_ y _Gobiernos_.
+Estas entidades se manifiestan, y son alcanzables interactivamente, mediante las _Políticas_ agregadas del sistema: _Lealtades_, _Instituciones_ y _Gobiernos_.
 {% endhint %}
 
 > En la práctica, esto se traduce en micro-ajustes dentro del juego económico: impuestos, aranceles, tasas, tarifas, precios y otros mecanismos que modulan el comportamiento sistémico sin alterar su escala global.

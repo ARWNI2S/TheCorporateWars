@@ -27,7 +27,7 @@ layout:
 
 El Nivel Tecnológico (TL) clasifica a las sociedades según su dominio del conocimiento científico, la sofisticación de sus infraestructuras y su integración en la red interestelar.
 
-Desde culturas primitivas hasta imperios galácticos, cada civilización existe dentro de un espectro tecnológico que determina sus oportunidades, desafíos y relaciones con otras _políticas_.
+Desde culturas primitivas hasta imperios galácticos, cada civilización existe dentro de un espectro tecnológico que determina sus oportunidades, desafíos y relaciones con otras _Políticas_.
 
 > El desarrollo tecnológico no solo afecta la capacidad de una civilización para expandirse, sino que también define su lugar dentro del orden interestelar.
 

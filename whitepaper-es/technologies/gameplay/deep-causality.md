@@ -45,7 +45,7 @@ Este tipo de modelos permite analizar cómo surgen dinámicas de ajuste, explora
 
 ## Modelado e Implementación
 
-En **The Corporate Wars**, la causalidad interactiva se manifiesta en la forma en que las _políticas_ reaccionan y se adaptan a un entorno mutable.
+En **The Corporate Wars**, la causalidad interactiva se manifiesta en la forma en que las _Políticas_ reaccionan y se adaptan a un entorno mutable.
 
 Las decisiones no quedan aisladas: afectan la disponibilidad de recursos, alteran estructuras de poder, modifican rutas comerciales y reconfiguran alianzas.
 
@@ -55,6 +55,6 @@ A medida que los actores interactúan, el sistema acumula memoria de sus movimie
 
 La información disponible circula y se retransmite de forma asimétrica y parcial: las comunicaciones se degradan, las rutas son inciertas, y las señales llegan incompletas o sesgadas por filtros locales.
 
-Las _políticas_ no reaccionan a una imagen perfecta del entorno, sino a fragmentos, ecos e interpretaciones que reciben, interpretan y utilizan para definir sus movimientos.
+Las _Políticas_ no reaccionan a una imagen perfecta del entorno, sino a fragmentos, ecos e interpretaciones que reciben, interpretan y utilizan para definir sus movimientos.
 
 Esta capa de incertidumbre convierte cada decisión no solo en una respuesta a lo conocido, sino en un aprendizaje continuo frente a lo desconocido.

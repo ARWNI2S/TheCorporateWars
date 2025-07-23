@@ -33,6 +33,6 @@ Queremos que la participación de la comunidad en el despliegue del sistema refl
 * el crecimiento del Tercer Imperio en el tiempo,
 * los ámbitos de influencia de las _lealtades_,
 * de las _megacorporaciones_,
-* y de las _políticas_ históricamente relevantes.
+* y de las _Políticas_ históricamente relevantes.
 
 La participación en el despliegue inicial de los sistemas se representa con actores reales dentro del sistema de juego: los activos de las grandes potencias e instituciones de la galaxia.

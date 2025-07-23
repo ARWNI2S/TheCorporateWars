@@ -25,7 +25,7 @@ layout:
 
 # La Comunidad Interestelar
 
-Múltiples civilizaciones, _políticas_ y sofontes coexisten en una comunidad que abarca centenares de parsecs, unidas en un equilibrio precario donde las limitaciones de comunicación y transporte definen tanto las oportunidades como los desafíos.
+Múltiples civilizaciones, _Políticas_ y sofontes coexisten en una comunidad que abarca centenares de parsecs, unidas en un equilibrio precario donde las limitaciones de comunicación y transporte definen tanto las oportunidades como los desafíos.
 
 Las tecnologías varían entre regiones, los avances tecnológicos son dispares entre mundos y el progreso conjunto depende de la capacidad para gestionar redes de transporte y comunicación.
 

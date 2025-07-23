@@ -46,7 +46,7 @@ where:
 
 ### Implementation
 
-In **The Corporate Wars**, this principle frames the game as an interactive system where constant exchanges between _polities_ take place within controlled boundaries.
+In **The Corporate Wars**, this principle frames the game as an interactive system where constant exchanges between _Polities_ take place within controlled boundaries.
 
 Although their forms, intensities, and expressions may vary, the overall scale of interaction remains constant.
 
@@ -55,7 +55,7 @@ It is a system that absorbs and redistributes movements, sustaining a balance th
 High-level entities —supervisors and overseers— apply shared routines to maintain the general balance.
 
 {% hint style="success" %}
-These entities manifest, and can be engaged with interactively, through the system's aggregated _polities_: _Allegiances_, _Institutions_, and _Governments_.
+These entities manifest, and can be engaged with interactively, through the system's aggregated _Polities_: _Allegiances_, _Institutions_, and _Governments_.
 {% endhint %}
 
 > In practice, this translates into micro-adjustments within the economic game: taxes, tariffs, duties, fees, prices, and other mechanisms that modulate systemic behavior without altering its global scale.

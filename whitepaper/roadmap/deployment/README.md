@@ -33,6 +33,6 @@ We want the community's participation in the system's deployment to reflect:
 * the growth of the Third Imperium over time,
 * the spheres of influence of the _loyalties_,
 * of the _megacorporations_,
-* and of the historically relevant _polities_.
+* and of the historically relevant _Polities_.
 
 Participation in the initial deployment of the systems is represented by real actors within the game system: the assets of the galaxy�s major powers and institutions.
