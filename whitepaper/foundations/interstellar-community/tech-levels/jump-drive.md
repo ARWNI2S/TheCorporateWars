@@ -2,7 +2,7 @@
 description: >-
   The Jump Drive is a technology that allows specialized vessels to create
   directed hyperspace.
-cover: ../../../.gitbook/assets/tcw-wip-nerd.jpg
+cover: ../../../.gitbook/assets/tcw-jump.jpg
 coverY: 0
 layout:
   width: default
@@ -10,9 +10,9 @@ layout:
     visible: true
     size: full
   title:
-    visible: true
+    visible: false
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
