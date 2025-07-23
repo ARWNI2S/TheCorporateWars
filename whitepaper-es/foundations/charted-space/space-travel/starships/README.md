@@ -31,27 +31,22 @@ La diferencia entre astronaves y espacionaves no radica en su tamaño, tripulaci
 
 Desde cargueros masivos hasta naves de exploración ligera, cada tipo de navío cumple un rol fundamental en la movilidad galáctica y la economía interestelar.
 
+***
+
 ### Espacionaves
+
 Son vehículos espaciales de operación local o intrastelar.\
 Operan dentro de un sistema solar, usando propulsión convencional o gravitatoria, sin necesidad de sistema de salto.\
 Son ideales para minería, transporte orbital, patrullaje local y logística en estaciones o lunas.
 
+***
+
 ### Astronaves
+
 Son vehículos espaciales equipados con impulsores de salto que les permiten realizar tránsitos interestelares.\
-Son el pilar del comercio interestelar, la expansión imperial y la conectividad entre mundos.\
+Son el pilar del comercio interestelar, la expansión imperial y la conectividad entre mundos.\\
 
->Toda astronave es, por definición, también una espacionave, pero no toda espacionave es apta para cruzar el vacío entre las estrellas.
-
-
-
-
-
-
-
-
-
-
-
+> Toda astronave es, por definición, también una espacionave, pero no toda espacionave es apta para cruzar el vacío entre las estrellas.
 
 ## Misión
 
@@ -68,12 +63,3 @@ Una corbeta de patrulla ligera tendrá sensores de largo alcance, armamento modu
 Las decisiones de diseño no son arbitrarias, sino consecuencia lógica de su propósito operativo dentro del ecosistema del Tercer Imperio.
 
 La diferencia entre astronaves y espacionaves la determina, no su tamaño o nivel tecnológico, sino su capacidad de saltar entre las estrellas.
-
-
-
-
-
-
-
-
-
