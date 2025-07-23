@@ -18,7 +18,7 @@ This behavior is not a narrative device, but a direct consequence of the model i
 
 ## Worlds as dynamic nodes
 
-Each world is a program-derived account (PDA), whose content is compressed into a Merkle Tree representing a **dehydrated profile** of the planet—essential data encoded efficiently and verifiably.
+Each world is a program-derived account (PDA), whose content is compressed into a Merkle Tree representing a **dehydrated profile** of the planet's essential data encoded efficiently and verifiably.
 
 This includes population, technological level, legal regime, estimated GDP, form of government, climate, and other key attributes.
 
@@ -40,7 +40,7 @@ This logic faithfully reproduces the physical limits of interstellar communicati
 
 ***
 
-Operating on top of this framework are the _Polities_—the system’s governance entities.
+Operating on top of this framework are the _Polities_ â€”the system's governance entities.
 
 None of them can exert authority in the abstract: they require **controlled worlds** and **operational routes** to reach them.
 
@@ -54,7 +54,7 @@ All of this is recorded and reflected in the programmatic accounts of the Third 
 
 ***
 
-In summary, the Third Survey does not merely describe the universe: it defines it.  
-It is the ontological foundation of the game.  
-What is not in the Third Survey does not exist.  
+In summary, the Third Survey does not merely describe the universe: it defines it.\
+It is the ontological foundation of the game.\
+What is not in the Third Survey does not exist.\
 And what is not updated is uncertain.
