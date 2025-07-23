@@ -9,9 +9,11 @@ La gobernanza en **The Corporate Wars** no es un sistema monolítico, sino una s
 
 En este modelo, cada actor —ya sea una IA, una corporación dirigida por jugadores o una institución transgaláctica— ejerce su agencia dentro de un marco normativo determinado, compatible con el resto del sistema mediante una arquitectura común basada en la red Solana.
 
-Desde imperios milenarios hasta comunas orbitales, todos los niveles de organización se articulan sobre tres grandes capas de gobernanza: global, agregada e individual.
+> Desde imperios milenarios hasta comunas orbitales, todos los niveles de organización se articulan sobre tres grandes capas de gobernanza: global, agregada e individual.
 
+{% hint style="info" %}
 Estas no representan escalones jerárquicos clásicos, sino dimensiones de autoridad que operan de forma simultánea y que definen el alcance y la naturaleza de cada decisión.
+{% endhint %}
 
 ### La **Capa Global**
 
@@ -27,29 +29,37 @@ No es negociable ni manipulable, pero sí observable, predecible y utilizable po
 
 Engloba a todas aquellas entidades colectivas que representan poder institucional, político o doctrinal sobre múltiples actores.
 
-Lealtades como el Tercer Imperio, los Dos Mil Mundos o el Consulado Zhodani; instituciones como ministerios, flotas o clanes ancestrales; alianzas entre corporaciones o movimientos ideológicos transversales: todos ellos constituyen agregados.
+> Lealtades como el Tercer Imperio, los Dos Mil Mundos o el Consulado Zhodani; instituciones como ministerios, flotas o clanes ancestrales; alianzas entre corporaciones o movimientos ideológicos transversales: todos ellos constituyen agregados.
 
 En su mayoría, son gobernados por la IA, aunque pueden ser influenciados desde dentro a través de estructuras meritocráticas o por presión externa.
 
 Los agregados modulan y median la acción de las entidades individuales, estableciendo doctrinas, regulaciones y jerarquías de acceso al poder, al conocimiento o al capital.
 
-La **Capa Individual** corresponde a los actores operativos básicos del sistema: gobiernos planetarios, corporaciones, culturas, religiones, partidos o cualquier otra forma de organización autónoma.
+### La **Capa Individual**
+
+Corresponde a los actores operativos básicos del sistema: gobiernos planetarios, corporaciones, culturas, religiones, partidos o cualquier otra forma de organización autónoma.
 
 Estas entidades —controladas por jugadores o por la IA— toman decisiones locales, gestionan recursos, declaran conflictos, fundan asentamientos y definen sus propias regulaciones internas.
 
 Actúan dentro del marco definido por las capas superiores, pero gozan de suficiente margen para construir estrategias singulares, desarrollar doctrinas únicas o incluso desafiar el orden establecido.
 
-Este modelo distribuido permite una simulación rica, coherente y estratégicamente profunda.
+***
 
-Cada capa contribuye a la dinámica del universo desde una función específica: la global garantiza estabilidad sistémica; los agregados, cohesión y diversidad; lo individual, agencia y conflicto.
+> Este modelo distribuido permite una simulación rica, coherente y estratégicamente profunda.
+>
+> Cada capa contribuye a la dinámica del universo desde una función específica: la global garantiza estabilidad sistémica; los agregados, cohesión y diversidad; lo individual, agencia y conflicto.
 
-Este sistema multicapa permite implementar reglas y excepciones de forma coherente y trazable.
+> Este sistema multicapa permite implementar reglas y excepciones de forma coherente y trazable.
+>
+> Las decisiones se modelan mediante estructuras nativas de Solana como cuentas firmantes múltiples (multisig), registros en PDA y validación por timestamp, lo que garantiza integridad, transparencia y resistencia a manipulaciones.
 
-Las decisiones se modelan mediante estructuras nativas de Solana como cuentas firmantes múltiples (multisig), registros en PDA y validación por timestamp, lo que garantiza integridad, transparencia y resistencia a manipulaciones.
+***
 
-### noNFT
+## noNFT
 
+{% hint style="success" %}
 Los **noNFTs** representan los activos de gobernanza fundamentales.
+{% endhint %}
 
 A diferencia de los NFTs tradicionales —centrados en la propiedad individual y la transferibilidad comercial—, los noNFTs en _The Corporate Wars_ actúan como **tokens estructurales ligados a entidades de gobernanza en el juego** (_Políticas_), con atributos dinámicos y auditables.
 
@@ -85,6 +95,8 @@ Por último, cabe destacar que múltiples noNFTs pueden coexistir dentro de una 
 
 ***
 
-Este modelo permite que la toma de decisiones, las reformas internas y los conflictos legales se resuelvan **dentro del propio universo del juego**, sin intervención externa ni necesidad de sistemas paralelos.
+> Este modelo permite que la toma de decisiones, las reformas internas y los conflictos legales se resuelvan **dentro del propio universo del juego**, sin intervención externa ni necesidad de sistemas paralelos.
 
+{% hint style="warning" %}
 Los noNFTs, en combinación con las capas de gobernanza, hacen posible una simulación rica, coherente y verosímil de un futuro gobernado por humanos, alienígenas... y protocolos.
+{% endhint %}
