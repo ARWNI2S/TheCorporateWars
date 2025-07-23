@@ -101,8 +101,8 @@ $$
 
 donde:
 
-* \$$P\_n son los precios de los nodos vecinos,
-* \$$w\_n es el peso de cada conexión en función del tráfico y la latencia.
+* $$P_n$$ son los precios de los nodos vecinos,
+* $$w_n$$ es el peso de cada conexión en función del tráfico y la latencia.
 
 Esta combinación permite que el sistema mantenga coherencia global sin necesidad de intervención directa ni de supervisión manual, generando un equilibrio que se adapta tanto a los focos de actividad como a los márgenes menos transitados.
 
