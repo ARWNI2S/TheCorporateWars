@@ -81,7 +81,7 @@ Buscamos:\
 
 📡 Puedes contactar directamente con el equipo de desarrollo a través de:
 
-- 💬 **Discord:** [discord.gg/thecorporatewars](https://discord.gg/thecorporatewars)
+- 💬 **Discord:** [discord.gg/thecorporatewars](https://discord.gg/gqrmE6FBKQ)
 - 📧 **Email:** `developers@thecorporatewars.com`
 
 No prometemos fama ni fortuna, pero sí **buena compañía, libertad creativa y trabajo significativo**.

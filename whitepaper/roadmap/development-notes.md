@@ -80,7 +80,7 @@ We are looking for:\
 
 📡 You can reach out to the development team directly via:
 
-- 💬 **Discord:** [discord.gg/thecorporatewars](https://discord.gg/thecorporatewars)
+- 💬 **Discord:** [discord.gg/thecorporatewars](https://discord.gg/gqrmE6FBKQ)
 - 📧 **Email:** `developers@thecorporatewars.com`
 
 We don’t promise fame or fortune, but you’ll find **great company, creative freedom, and meaningful work**.
