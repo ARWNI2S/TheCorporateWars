@@ -90,3 +90,23 @@ No prometemos fama ni fortuna, pero sí **buena compañía, libertad creativa y 
 **DHRAGHZ UDHEG, AURR!**  
 ¡Nos vemos entre estrellas!
 {% endhint %}
+
+{% columns %}
+{% column %}
+<figure>
+  <img src="../.gitbook/assets/img1.png" alt="Imagen 1">
+</figure>
+{% endcolumn %}
+
+{% column %}
+<figure>
+  <img src="../.gitbook/assets/img2.png" alt="Imagen 2">
+</figure>
+{% endcolumn %}
+
+{% column %}
+<figure>
+  <img src="../.gitbook/assets/img3.png" alt="Imagen 3">
+</figure>
+{% endcolumn %}
+{% endcolumns %}

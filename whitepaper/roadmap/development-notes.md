@@ -85,3 +85,23 @@ We don’t promise fame or fortune, but you’ll find **great company, creative 
 **DHRAGHZ UDHEG, AURR!**\
 See you among the stars!
 {% endhint %}
+
+{% columns %}
+{% column %}
+<figure>
+  <img src="../.gitbook/assets/img1.png" alt="Imagen 1">
+</figure>
+{% endcolumn %}
+
+{% column %}
+<figure>
+  <img src="../.gitbook/assets/img2.png" alt="Imagen 2">
+</figure>
+{% endcolumn %}
+
+{% column %}
+<figure>
+  <img src="../.gitbook/assets/img3.png" alt="Imagen 3">
+</figure>
+{% endcolumn %}
+{% endcolumns %}
