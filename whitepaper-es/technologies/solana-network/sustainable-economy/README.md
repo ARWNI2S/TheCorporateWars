@@ -1,4 +1,5 @@
 ---
+icon: pencil
 cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 ---
@@ -16,7 +17,3 @@ El primer obstaculo, que parecia insalvable fue el '_rent_' de Solana: resulta q
 Tambien existe el _cierre_ de cuentas **controlado**, que permite recuperar el _rent_; pero esto se tiene que implementar en cada programa de forma especifica.
 
 A demas, como hemos dicho, el '_rent_' a depositar en cada cuenta depende del tamaño en bytes: almacenamiento basico y programas simples depositan un rent de unos SOL 0.001141; pero esto escala rapidamente para PDA de almacenamiento de datos, si esto no se optimiza, el almacenamiento de un unico sistema estelar en bruto podria llegar a costar SOL 0.3 o incluso más, haciendo prohibitivo el despliegue de un sector de 500 mundos, e inviable la escala Imperial: 11000 mundos y subiendo.
-
-
-
-
