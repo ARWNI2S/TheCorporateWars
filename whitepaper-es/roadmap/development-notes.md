@@ -25,7 +25,8 @@ layout:
 {% columns fullWidth="true" %}
 {% column width="75%" %}
 {% hint style="danger" %}
-### RRRGHA UDHEG! - ¡LLAMADA A LA COMUNIDAD!
+#### RRRGHA UDHEG! - ¡LLAMADA A LA COMUNIDAD!
+
 Los desarrolladores Vargr rugimos y aullamos porque nos arden las garras —y que quede claro: sí, lo necesitamos.\
 Sabemos movernos, sabemos pelear, pero juntos somos manada, y juntos llegamos más lejos.\
 Si tienes garras, cerebro o ganas, únete.\
@@ -76,7 +77,7 @@ Buscamos:\
 ***
 
 {% hint style="success" %}
-### ¿Quieres unirte?
+#### ¿Quieres unirte?
 
 🧠 Seas programador, artista, diseñador de sistemas, o simplemente un loco del universo _Traveller_, **te estamos esperando**.
 
@@ -93,14 +94,4 @@ No prometemos fama ni fortuna, pero sí **buena compañía, libertad creativa y 
 
 ***
 
-<div align="center"><figure>
-<img src="../.gitbook/assets/UEIcon180h.png" alt="Unreal Engine" width="200"><figcaption></figcaption></figure>
-<figure>
-<img src="../.gitbook/assets/Solana180h.png" alt="Solana" width="200"><figcaption></figcaption>
-</figure> <figure>
-<img src="../.gitbook/assets/MGIco180h.png" alt="" width="200"><figcaption></figcaption>
-</figure> <figure>
-<img src="../.gitbook/assets/DraCo180h.png" alt="" width="200"><figcaption></figcaption>
-</figure> <figure>
-<img src="../.gitbook/assets/ARW180h.png" alt="" width="200"><figcaption></figcaption>
-</figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/UEIcon180h.png" alt="Unreal Engine" width="200"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Solana180h.png" alt="Solana" width="200"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/MGIco180h.png" alt="" width="200"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/DraCo180h.png" alt="" width="200"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/ARW180h.png" alt="" width="200"><figcaption></figcaption></figure></div>
