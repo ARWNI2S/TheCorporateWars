@@ -91,12 +91,15 @@ No prometemos fama ni fortuna, pero sí **buena compañía, libertad creativa y 
 ¡Nos vemos entre estrellas!
 {% endhint %}
 
-{% columns %}
+{% columns fullWidth="true" %}
 {% column %}
-<div><figure><img src="../.gitbook/assets/UEIcon180h.png" alt="Imagen 1" width="74"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Solana180h.png" alt="" width="76"><figcaption></figcaption></figure></div>
-{% endcolumn %}
-
-{% column %}
-<figure><img src="../.gitbook/assets/Solana180h.png" alt="Imagen 2"><figcaption></figcaption></figure>
+<div>
+<figure>
+<img src="../.gitbook/assets/UEIcon180h.png" alt="Unreal Engine" width="74"><figcaption></figcaption>
+</figure>
+<figure>
+<img src="../.gitbook/assets/Solana180h.png" alt="Solana" width="76"><figcaption></figcaption>
+</figure>
+</div>
 {% endcolumn %}
 {% endcolumns %}
