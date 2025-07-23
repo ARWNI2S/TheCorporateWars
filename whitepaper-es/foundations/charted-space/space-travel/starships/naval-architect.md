@@ -22,19 +22,23 @@ layout:
 
 # Sistema de Arquitectura Naval
 
-El diseÒo de naves **The Corporate Wars** responde a principios racionales y estratÈgicos.
+El dise√±o de naves **The Corporate Wars** responde a principios racionales y estrat√©gicos.
 
-El _Sistema de Arquitectura Naval_ permite desarrollar navÌos coherentes con sus roles operativos, optimizando recursos y capacidades seg˙n su funciÛn y necesidades.
+{% hint style="warning" %}
+El _Sistema de Arquitectura Naval_ permite desarrollar nav√≠os coherentes con sus roles operativos, optimizando recursos y capacidades seg√∫n su funci√≥n y necesidades.
+{% endhint %}
 
-## MisiÛn
+***
 
-La misiÛn de una nave espacial es el factor clave que determina su diseÒo, configuraciÛn y equipamiento.
+## Misi√≥n
 
-Cada navio desempeÒa una funciÛn clara: patrulla, transporte, comercio, exploraciÛn, investigaciÛn, diplomacia o guerra.
+La misi√≥n de una nave espacial es el factor clave que determina su dise√±o, configuraci√≥n y equipamiento.
 
-A partir de esta misiÛn primaria, se seleccionan sus sistemas: el tamaÒo de la bodega, los sensores, el armamento, los sistemas de soporte vital, el alcance de salto, el tipo de propulsiÛn sublumÌnica y el nivel de automatizaciÛn.
+Cada nav√≠o desempe√±a una funci√≥n clara: patrulla, transporte, comercio, exploraci√≥n, investigaci√≥n, diplomacia o guerra.
 
-> Por ejemplo, una nave mÈdica de respuesta r·pida prioriza la velocidad y la modularidad para instalar quirÛfanos mÛviles y ·reas de cuarentena.\
-> Una corbeta de patrulla ligera tendr· sensores de largo alcance, armamento modular y espacio para personal de inspecciÛn.
+A partir de esta misi√≥n primaria, se seleccionan sus sistemas: el tama√±o de la bodega, los sensores, el armamento, los sistemas de soporte vital, el alcance de salto, el tipo de propulsi√≥n sublum√≠nica y el nivel de automatizaci√≥n.
 
-Las decisiones de diseÒo no son arbitrarias, sino consecuencia lÛgica de su propÛsito operativo dentro del sistema funcional al que esta destinada.
+> Por ejemplo, una nave m√©dica de respuesta r√°pida prioriza la velocidad y la modularidad para instalar quir√≥fanos m√≥viles y √°reas de cuarentena.\
+> Una corbeta de patrulla ligera tendr√° sensores de largo alcance, armamento modular y espacio para personal de inspecci√≥n.
+
+Las decisiones de dise√±o no son arbitrarias, sino consecuencia l√≥gica de su prop√≥sito operativo dentro del sistema funcional al que esta destinada.
