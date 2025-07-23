@@ -28,6 +28,8 @@ Game theory is a mathematical framework that studies how multiple agents interac
 
 In **The Corporate Wars**, game theory serves not merely as inspiration for certain mechanics, but as the foundation for the entire structure of the environment.
 
+***
+
 The game operates as an aggregated system, where different forms of strategic interaction interconnect and shape collective dynamics.
 
 It is not simply an engine that executes rules, but an active core that maintains the coherence of interactions, integrates decision patterns, and ensures that transformations within the environment adhere to well-defined formal principles.
