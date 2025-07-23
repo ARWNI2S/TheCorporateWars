@@ -1,3 +1,25 @@
+---
+cover: ../.gitbook/assets/tcw-unreal.jpg
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # Unreal Engine
 
 Unreal Engine (UE) es un motor multiplataforma de última generación para desarrollo AAA, simulación y proyectos multicapa como **The Corporate Wars**.
