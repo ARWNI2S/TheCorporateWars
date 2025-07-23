@@ -31,14 +31,13 @@ From massive freighters to light exploration vessels, each type of ship plays a 
 
 The difference between starships and spacecraft is determined not by their size or technological level, but by their ability to jump between the stars.
 
-## Power Plants and Drives
+### Spacecraft  
+These are vehicles designed for local or intrastellar operations.  
+They operate within a single star system, using conventional or gravitic propulsion, without the need for jump drives.  
+They are ideal for mining, orbital transport, local patrols, and logistics between stations or moons.
 
-Drives and power plants are the heart of any ship, determining its speed, range, and operational efficiency.
+### Starships  
+These are spacefaring vessels equipped with jump drives, enabling them to perform interstellar transits.  
+They are the backbone of interstellar trade, imperial expansion, and the connectivity between worlds.
 
-Maneuver drives enable navigation within a star system, the interstellar **jump drive** is the only way to travel between stars within manageable timeframes.
-
-Efficient power plants enbale these drives to operate within a reasonable consumption of refined fuel.
-
-Access to different levels of propulsion technology defines a fleet’s competitiveness and its ability to operate in trade, warfare, or exploration.
-
-Corporations that dominate the manufacturing, maintenance, and supply of drives and power systems not only control the flow of goods and people across the galaxy but also influence interstellar geopolitics — establishing transportation networks that can either consolidate or destabilize entire regions.
+> Every starship is, by definition, also a spacecraft —but not every spacecraft is capable of crossing the gulf between stars.
