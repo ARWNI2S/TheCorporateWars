@@ -33,4 +33,6 @@ The appropriate strategy is to design an architecture compatible with the underl
 
 This approach enables the operation of large-scale, complex virtual worlds, while maintaining system load proportional to user activity rather than the absolute size of the simulated environment.
 
+{% hint style="danger" %}
 These technologies, although experimental, have been developed over several years by the NI2S project and are now set to be tested in a real-world environment.
+{% endhint %}
