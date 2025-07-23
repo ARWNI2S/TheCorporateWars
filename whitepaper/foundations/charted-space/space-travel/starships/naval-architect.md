@@ -27,7 +27,11 @@ layout:
 
 The design of starships in **The Corporate Wars** follows rational and strategic principles.
 
+{% hint style="warning" %}
 The _Naval Architecture System_ enables the development of vessels that are coherent with their operational roles, optimizing resources and capabilities according to their function and specific needs.
+{% endhint %}
+
+***
 
 ## Mission
 
@@ -37,7 +41,7 @@ Each vessel fulfills a clear role: patrol, transport, trade, exploration, resear
 
 Based on this primary mission, systems are selected accordingly: cargo hold size, sensor suites, weaponry, life support systems, jump range, sublight propulsion type, and level of automation.
 
-> As example, a rapid-response medical ship prioritizes speed and modularity to host mobile surgical units and quarantine zones.  
+> As example, a rapid-response medical ship prioritizes speed and modularity to host mobile surgical units and quarantine zones.\
 > A light patrol corvette will feature long-range sensors, modular weapon mounts, and space for inspection teams.
 
 Design decisions are not arbitrary, but the logical consequence of the vessel's intended operational purpose within its functional deployment environment.
