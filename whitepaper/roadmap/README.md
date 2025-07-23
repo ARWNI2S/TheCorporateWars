@@ -1,6 +1,23 @@
 ---
 cover: ../.gitbook/assets/tcw-roadmap.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Roadmap
@@ -13,7 +30,7 @@ The priority is to deploy a functional prototype of the **third census**, which 
 
 This structure supports both the [Outdated Information Model](../technologies/solana-network/outdated-information-model.md) and the [Governance Layers](../technologies/solana-network/multilayer-governance.md), the main actors of the system.
 
-- This first stage will validate the information flows and governance interactions.
+* This first stage will validate the information flows and governance interactions.
 
 ### Development
 
@@ -21,18 +38,18 @@ The next logical step is to integrate these systems with backend processes, whic
 
 The [Distributed Simulation](../technologies/backend-server/distributed-simulation.md) nodes run session-based contexts using [AI LOD](../technologies/backend-server/ai-lod.md), which draws its data from a set of [Solana Services](../technologies/backend-server/solana-rpc.md).
 
-- The development of these systems is not a phase, but an accumulative process of implementing services and subsystems.
+* The development of these systems is not a phase, but an accumulative process of implementing services and subsystems.
 
-The fundamental principles for designing the simulation and its interactions are determined by [complex systems theory](https://en.wikipedia.org/wiki/Complex_system) and a [Sustainable Economy](technologies/solana-network/sustainable-economy/README.md) based on [Algorithmic Stabilization](technologies/solana-network/sustainable-economy/hayek-money.md).
+The fundamental principles for designing the simulation and its interactions are determined by [complex systems theory](https://en.wikipedia.org/wiki/Complex_system) and a [Sustainable Economy](technologies/solana-network/sustainable-economy/) based on [Algorithmic Stabilization](technologies/solana-network/sustainable-economy/hayek-money.md).
 
 Building on this solid foundation, the project will gradually incorporate additional game systems:
 
-- 3D visualization of the galaxy map, with high-density LOD and dynamic level streaming.
-- Highly detailed planetary surfaces and installations.
-- Product design systems in general, ship architecture, manufacturing, R&D.
-- Interior editing modes.
-- Characters and control.
-- Authority and governance.
+* 3D visualization of the galaxy map, with high-density LOD and dynamic level streaming.
+* Highly detailed planetary surfaces and installations.
+* Product design systems in general, ship architecture, manufacturing, R\&D.
+* Interior editing modes.
+* Characters and control.
+* Authority and governance.
 
 And many other key systems that will complete the game experience, with special attention to strategic interaction, infrastructure building, and trade route control.
 
@@ -44,7 +61,7 @@ Each added system will be functional and complete on its own, avoiding partial d
 
 **The Corporate Wars** features two clearly differentiated deployment environments: the Solana Network and the distributed backend.
 
-The backend is permanently deployed and maintained by the developers. Virtual machines allow vertical and horizontal scaling according to the system’s needs and load.
+The backend is permanently deployed and maintained by the developers. Virtual machines allow vertical and horizontal scaling according to the systemï¿½s needs and load.
 
 Deployment on the Solana network will go through devnet testing stages before implementation on mainnet beta.
 
@@ -52,6 +69,6 @@ Both the distributed simulation and the Solana network services are aligned with
 
 The public rollout of the gameplay will take place once the economy, governance, and initial strategic interactions are fully operational and balanced.
 
-From that moment on, _**The Corporate Wars**_ will evolve as a living universe where competition for economic, polítical, and territorial control becomes the driving force of the experience.
+From that moment on, _**The Corporate Wars**_ will evolve as a living universe where competition for economic, polï¿½tical, and territorial control becomes the driving force of the experience.
 
 Subsequent expansions will incorporate new layers of complexity and emergent possibilities, always maintaining the coherence and solidity of the system that underpins the interstellar corporate war.
