@@ -22,4 +22,4 @@ layout:
 
 # MMORTS
 
-Bla
+Bla.
