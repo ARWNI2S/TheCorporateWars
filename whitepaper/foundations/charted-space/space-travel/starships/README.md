@@ -39,7 +39,9 @@ These are vehicles designed for local or intrastellar operations.
 
 They operate within a single star system, using conventional or gravitic propulsion, without the need for jump drives.
 
+{% hint style="success" %}
 They are ideal for mining, orbital transport, local patrols, and logistics between stations or moons.
+{% endhint %}
 
 ***
 

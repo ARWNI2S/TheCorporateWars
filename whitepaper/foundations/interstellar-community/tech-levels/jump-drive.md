@@ -2,7 +2,6 @@
 description: >-
   The Jump Drive is a technology that allows specialized vessels to create
   directed hyperspace.
-icon: pencil
 cover: ../../../.gitbook/assets/tcw-wip-nerd.jpg
 coverY: 0
 layout:
@@ -36,24 +35,40 @@ During transit, the ship remains completely isolated from realspace: it cannot c
 
 ## Why One Week?
 
-The duration of the jump —approximately 168 standard hours— is independent of the distance traveled.
+> The duration of the jump —approximately 168 standard hours— is independent of the distance traveled.
 
 This is because hyperspatial velocity does not depend on the energy of the jump, but on the harmonic properties of the ship itself.
 
-Theoretically, instantaneous displacement would be possible through tachyons operating under a regime of infinite imaginary mass. However, such a condition disrupts the energetic coherence of realspace, causing critical instabilities such as matter-antimatter microreactions and harmonic collapses, with potentially catastrophic consequences.
+Theoretically, instantaneous displacement would be possible through tachyons operating under a regime of infinite imaginary mass.
 
-To avoid this, the jump drive maintains a controlled relationship between real and imaginary mass. In this balance, lanthanum plays a key role: its properties allow stabilization of the jump field’s resonance frequency.
+However, such a condition disrupts the energetic coherence of realspace, causing critical instabilities such as matter-antimatter microreactions and harmonic collapses, with potentially catastrophic consequences.
+
+To avoid this, the jump drive maintains a controlled relationship between real and imaginary mass.
+
+In this balance, lanthanum plays a key role: its properties allow stabilization of the jump field’s resonance frequency.
 
 > Tuning a jump drive is like tuning a musical instrument: small variations in the modulation of the lanthanum grid affect the precision, efficiency, and safety of the transit.
 
-The resulting hyperspatial envelope has fixed properties, determined by the balance between the ship's mass and the structural harmonic resonance of the lanthanum mesh. The induced tachyons force the ship into this domain, where relative velocities and real distances cease to exist.
+The resulting hyperspatial envelope has fixed properties, determined by the balance between the ship's mass and the structural harmonic resonance of the lanthanum mesh.
 
-The perceived transit time —168 hours— results from the build-up of harmonic resonance layers and their natural dissipation periods. Regardless of the magnitude of the jump vector (i.e., the distance), the induced tachyonic resonances dissipate at a constant rate.
+The induced tachyons force the ship into this domain, where relative velocities and real distances cease to exist.
 
-Thus, the *effective speed* of hyperspatial displacement varies with the vector's magnitude, but the total transit duration remains constant for all full jumps.
+The perceived transit time —168 hours— results from the build-up of harmonic resonance layers and their natural dissipation periods.
+
+Regardless of the magnitude of the jump vector (i.e., the distance), the induced tachyonic resonances dissipate at a constant rate.
+
+> The _effective speed_ of hyperspatial displacement varies with the vector's magnitude, but the total transit duration remains constant for all full jumps.
 
 ## Limitations
 
-Interstellar jumps cannot be initiated near gravitational wells or strong electromagnetic sources. To ensure stability, the process must begin at least 100 diameters away from the nearest massive body.
+Interstellar jumps cannot be initiated near gravitational wells or strong electromagnetic sources.
 
-The same applies at the destination: the reentry point must be clear of significant gravitational perturbations. Sublight travel is required both before and after the jump, adding time to the overall journey.
+{% hint style="danger" %}
+To ensure stability, the process must begin at least 100 diameters away from the nearest massive body.
+{% endhint %}
+
+The same applies at the destination: the reentry point must be clear of significant gravitational perturbations.
+
+{% hint style="warning" %}
+Sublight travel is required both before and after the jump, adding time to the overall journey.
+{% endhint %}

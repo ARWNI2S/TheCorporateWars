@@ -39,7 +39,9 @@ Son vehículos espaciales de operación local o intrastelar.
 
 Operan dentro de un sistema solar, usando propulsión convencional o gravitatoria, sin necesidad de sistema de salto.
 
+{% hint style="success" %}
 Son ideales para minería, transporte orbital, patrullaje local y logística en estaciones o lunas.
+{% endhint %}
 
 ***
 
@@ -47,6 +49,6 @@ Son ideales para minería, transporte orbital, patrullaje local y logística en 
 
 Son vehículos espaciales equipados con impulsores de salto que les permiten realizar tránsitos interestelares.
 
-Son el pilar del comercio interestelar, la expansión imperial y la conectividad entre mundos.
+Son el pilar del comercio interestelar, la expansión y la conectividad entre mundos.
 
 > Toda astronave es, por definición, también una espacionave, pero no toda espacionave es apta para cruzar el vacío entre las estrellas.
