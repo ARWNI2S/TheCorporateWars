@@ -5,39 +5,39 @@ coverY: 0
 
 # Causalidad Interactiva
 
-En teor�a de juegos, la causalidad interactiva describe sistemas donde las decisiones individuales no solo producen efectos inmediatos, sino que se propagan a lo largo del tiempo, modificando el contexto, las estrategias disponibles y las din�micas colectivas.
+En teoría de juegos, la causalidad interactiva describe sistemas donde las decisiones individuales no solo producen efectos inmediatos, sino que se propagan a lo largo del tiempo, modificando el contexto, las estrategias disponibles y las dinámicas colectivas.
 
-Este enfoque permite modelar no solo resultados aislados, sino trayectorias de interacci�n, adaptaci�n y persistencia.
+Este enfoque permite modelar no solo resultados aislados, sino trayectorias de interacción, adaptación y persistencia.
 
-Entre los �mbitos que abordan estas din�micas destacan:
+Entre los ámbitos que abordan estas dinámicas destacan:
 
 * **Juegos repetidos**, donde los actores enfrentan versiones sucesivas del mismo juego, permitiendo que las decisiones pasadas condicionen las expectativas y estrategias futuras.
-* **Juegos evolutivos**, que estudian c�mo ciertas pautas de comportamiento proliferan o se extinguen seg�n su rendimiento relativo en entornos adaptativos.
-* **Juegos de reputaci�n**, donde las acciones pasadas acumulan peso, afectando la credibilidad, la influencia o la posici�n estrat�gica de los actores.
-* **Juegos de aprendizaje**, donde los participantes ajustan progresivamente sus decisiones a partir de informaci�n parcial, se�ales del entorno o comportamientos observables.
+* **Juegos evolutivos**, que estudian cómo ciertas pautas de comportamiento proliferan o se extinguen según su rendimiento relativo en entornos adaptativos.
+* **Juegos de reputación**, donde las acciones pasadas acumulan peso, afectando la credibilidad, la influencia o la posición estratégica de los actores.
+* **Juegos de aprendizaje**, donde los participantes ajustan progresivamente sus decisiones a partir de información parcial, señales del entorno o comportamientos observables.
 
-El inter�s te�rico en estas estructuras radica en su capacidad para generar patrones no triviales: fen�menos como cooperaci�n espontánea, colapso colectivo, ciclos de confianza y traici�n, o din�micas emergentes que no pueden explicarse desde el an�lisis est�tico o puntual.
+El interés teórico en estas estructuras radica en su capacidad para generar patrones no triviales: fenómenos como cooperación espontánea, colapso colectivo, ciclos de confianza y traición, o dinámicas emergentes que no pueden explicarse desde el análisis estático o puntual.
 
-### Informaci�n Parcial y Aprendizaje
+### Información Parcial y Aprendizaje
 
-En los juegos de aprendizaje, los actores no cuentan con informaci�n perfecta ni completa sobre las condiciones del entorno ni sobre las estrategias de los dem�s.
+En los juegos de aprendizaje, los actores no cuentan con información perfecta ni completa sobre las condiciones del entorno ni sobre las estrategias de los demás.
 
-En su lugar, construyen expectativas y adaptan sus decisiones a partir de observaciones parciales, se�ales indirectas, patrones percibidos y resultados acumulados.
+En su lugar, construyen expectativas y adaptan sus decisiones a partir de observaciones parciales, señales indirectas, patrones percibidos y resultados acumulados.
 
-Este tipo de modelos permite analizar c�mo surgen din�micas de ajuste, exploraci�n y refinamiento en sistemas donde el conocimiento total es inalcanzable.
+Este tipo de modelos permite analizar cómo surgen dinámicas de ajuste, exploración y refinamiento en sistemas donde el conocimiento total es inalcanzable.
 
-## Modelado e Implementaci�n
+## Modelado e Implementación
 
-En **The Corporate Wars**, la causalidad interactiva se manifiesta en la forma en que las _pol�ticas_ reaccionan y se adaptan a un entorno mutable.
+En **The Corporate Wars**, la causalidad interactiva se manifiesta en la forma en que las _políticas_ reaccionan y se adaptan a un entorno mutable.
 
 Las decisiones no quedan aisladas: afectan la disponibilidad de recursos, alteran estructuras de poder, modifican rutas comerciales y reconfiguran alianzas.
 
-A medida que los actores interact�an, el sistema acumula memoria de sus movimientos, generando un tejido din�mico de consecuencias que trasciende cada acci�n individual y contribuye a la evoluci�n del escenario gal�ctico.
+A medida que los actores interactúan, el sistema acumula memoria de sus movimientos, generando un tejido dinámico de consecuencias que trasciende cada acción individual y contribuye a la evolución del escenario galáctico.
 
-### Informaci�n Desfasada
+### Información Desfasada
 
-La informaci�n disponible circula y se retransmite de forma asim�trica y parcial: las comunicaciones se degradan, las rutas son inciertas, y las se�ales llegan incompletas o sesgadas por filtros locales.
+La información disponible circula y se retransmite de forma asimétrica y parcial: las comunicaciones se degradan, las rutas son inciertas, y las señales llegan incompletas o sesgadas por filtros locales.
 
-Las _pol�ticas_ no reaccionan a una imagen perfecta del entorno, sino a fragmentos, ecos e interpretaciones que reciben, interpretan y utilizan para definir sus movimientos.
+Las _políticas_ no reaccionan a una imagen perfecta del entorno, sino a fragmentos, ecos e interpretaciones que reciben, interpretan y utilizan para definir sus movimientos.
 
-Esta capa de incertidumbre convierte cada decisi�n no solo en una respuesta a lo conocido, sino en un aprendizaje continuo frente a lo desconocido.
+Esta capa de incertidumbre convierte cada decisión no solo en una respuesta a lo conocido, sino en un aprendizaje continuo frente a lo desconocido.
