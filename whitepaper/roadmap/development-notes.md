@@ -25,7 +25,7 @@ layout:
 {% columns fullWidth="true" %}
 {% column width="75%" %}
 {% hint style="danger" %}
-**RRRGHA UDHEG! - COMMUNITY CALL!**\
+### RRRGHA UDHEG! - COMMUNITY CALL!
 We Vargr developers raise the howl as this burns in our claws —and let it be clear: **yes**, we need this.\
 We know how to move, we know how to fight, but together we are pack, and together we go farther.\
 If you've got claws, brains, or drive, join us.\

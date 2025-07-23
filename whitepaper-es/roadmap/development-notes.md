@@ -25,7 +25,7 @@ layout:
 {% columns fullWidth="true" %}
 {% column width="75%" %}
 {% hint style="danger" %}
-RRRGHA UDHEG! - ¡LLAMADA A LA COMUNIDAD!\
+### RRRGHA UDHEG! - ¡LLAMADA A LA COMUNIDAD!
 Los desarrolladores Vargr rugimos y aullamos porque nos arden las garras —y que quede claro: sí, lo necesitamos.\
 Sabemos movernos, sabemos pelear, pero juntos somos manada, y juntos llegamos más lejos.\
 Si tienes garras, cerebro o ganas, únete.\
