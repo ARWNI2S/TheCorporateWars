@@ -2,7 +2,7 @@
 description: >-
   Carentes de capacidad para viajar entre las estrellas, confinadas a sus
   sistemas estelares de origen.
-cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../../.gitbook/assets/tcw-prestellar.jpg
 coverY: 0
 layout:
   width: default
@@ -10,9 +10,9 @@ layout:
     visible: true
     size: full
   title:
-    visible: true
+    visible: false
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:

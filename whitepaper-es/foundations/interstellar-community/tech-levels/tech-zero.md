@@ -2,7 +2,7 @@
 description: >-
   Sociedades sin tecnología avanzada, dependientes de herramientas primitivas o
   rudimentarias.
-cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../../.gitbook/assets/tcw-tech-zero.jpg
 coverY: 0
 layout:
   width: default
@@ -10,9 +10,9 @@ layout:
     visible: true
     size: full
   title:
-    visible: true
+    visible: false
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
