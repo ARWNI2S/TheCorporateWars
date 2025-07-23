@@ -31,6 +31,8 @@ The design of starships in **The Corporate Wars** follows rational and strategic
 The _Naval Architecture System_ enables the development of vessels that are coherent with their operational roles, optimizing resources and capabilities according to their function and specific needs.
 {% endhint %}
 
+***
+
 ## Mission
 
 The mission of a spacecraft is the key factor that determines its design, configuration, and equipment.
