@@ -72,18 +72,18 @@ We are looking for:\
 {% endcolumn %}
 {% endcolumns %}
 
-***
-
+{% hint style="success" %}
 ### Want to Join?
 
-🧠 Whether you're a programmer, artist, systems designer, or just a *Traveller* fanatic — **we're waiting for you**.
+🧠 Whether you're a programmer, artist, systems designer, or just a _Traveller_ fanatic — **we're waiting for you**.📡 You can reach out to the development team directly via:
 
-📡 You can reach out to the development team directly via:
+* 💬 **Discord:** [discord.gg/thecorporatewars](https://discord.gg/gqrmE6FBKQ)
+*   📧 **Email:** <kbd>developers@thecorporatewars.com</kbd>
 
-- 💬 **Discord:** [discord.gg/thecorporatewars](https://discord.gg/gqrmE6FBKQ)
-- 📧 **Email:** `developers@thecorporatewars.com`
+    &#x20;
 
 We don’t promise fame or fortune, but you’ll find **great company, creative freedom, and meaningful work**.
 
-**DHRAGHZ UDHEG, AURR!**  
+**DHRAGHZ UDHEG, AURR!**\
 See you among the stars!
+{% endhint %}
