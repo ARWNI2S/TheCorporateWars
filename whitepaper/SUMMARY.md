@@ -82,7 +82,7 @@
       * [Share Market](game-basics/corporations/corporate-assets/shares-grants/share-market.md)
       * [High Finance](game-basics/corporations/corporate-assets/shares-grants/high-finance.md)
 * [Polities](game-basics/polities/README.md)
-  * [Corporation are Polities](game-basics/polities/players.md)
+  * [Corporations are Polities](game-basics/polities/players.md)
   * [Alliegances](game-basics/polities/alliegances/README.md)
     * [Third Imperium](game-basics/polities/alliegances/third-imperium/README.md)
       * [Imperial Institutions](game-basics/polities/alliegances/third-imperium/imperials/README.md)
