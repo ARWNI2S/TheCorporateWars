@@ -1,5 +1,5 @@
 ---
-icon: pen
+icon: user-helmet-safety
 ---
 
 # Historical Deployment Stages
