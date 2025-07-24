@@ -2,6 +2,7 @@
 description: >-
   [ˈdɾi.an.tja ˈda.ʒi.a] DRIANTIA DAZHIA –nom. [Zdetl dazhia “empresa, armada”].
   Flota consular.
+icon: pen
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:

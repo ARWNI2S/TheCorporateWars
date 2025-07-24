@@ -1,5 +1,5 @@
 ---
-icon: pencil
+icon: pen
 ---
 
 # Milestones
