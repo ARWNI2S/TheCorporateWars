@@ -93,7 +93,7 @@
         * [Bureau of Imperial Security](game-basics/polities/alliegances/third-imperium/imperials/security.md)
         * [Imperial Treasury](game-basics/polities/alliegances/third-imperium/imperials/treasury.md)
         * [Imperial Ministry of Commerce](game-basics/polities/alliegances/third-imperium/imperials/commerce.md)
-        * [Imperial Research and Development Institute](game-basics/polities/alliegances/third-imperium/imperials/research.md)
+        * [Imperial Research and Development Institutes](game-basics/polities/alliegances/third-imperium/imperials/research.md)
         * [Imperial University](game-basics/polities/alliegances/third-imperium/imperials/university.md)
       * [Nobiliti](game-basics/polities/alliegances/third-imperium/nobiliti.md)
       * [Ziru Sirka](game-basics/polities/alliegances/third-imperium/vilani-families.md)

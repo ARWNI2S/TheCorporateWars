@@ -91,7 +91,7 @@
         - [ ] Bureau of Imperial Security
         - [ ] Imperial Treasury
         - [ ] Imperial Ministry of Commerce
-        - [ ] Imperial Research and Development Institute
+        - [ ] Imperial Research and Development Institutes
         - [ ] Imperial University
       - [ ] Nobiliti
       - [ ] Ziru Sirka

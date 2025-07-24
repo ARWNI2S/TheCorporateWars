@@ -91,7 +91,7 @@
         * [Autoridad Astroportuaria](game-basics/polities/alliegances/third-imperium/imperials/staport-authority.md)
         * [Ministerio de Justicia Imperial](game-basics/polities/alliegances/third-imperium/imperials/justice.md)
         * [Departamento de Seguridad Imperial](game-basics/polities/alliegances/third-imperium/imperials/security.md)
-        * [Tesoreria Imperial](game-basics/polities/alliegances/third-imperium/imperials/treasury.md)
+        * [Tesorería Imperial](game-basics/polities/alliegances/third-imperium/imperials/treasury.md)
         * [Ministerio de Comercio Imperial](game-basics/polities/alliegances/third-imperium/imperials/commerce.md)
         * [Instituto de Investigación y Desarrollo Imperial](game-basics/polities/alliegances/third-imperium/imperials/research.md)
         * [Universidad Imperial](game-basics/polities/alliegances/third-imperium/imperials/university.md)
