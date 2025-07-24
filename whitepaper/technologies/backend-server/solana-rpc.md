@@ -11,7 +11,7 @@ This layer, known as **Solana Services**, acts as a bridge between the simulatio
 
 One of the key concepts in this context is **latent simulation**: this refers to systems, entities, or events that do not need to be actively executed by the simulation engine, as they can be resolved algorithmically from their dehydrated state.
 
-> This latent layer corresponds, in terms of level of detail, to what we might consider **LOD 0**.
+> This latent layer corresponds, in terms of level of detail, to what we might consider [**LOD 0**](ai-lod.md#ai-lod-in-distributed-simulation).
 
 ***
 
@@ -23,10 +23,10 @@ The role of **Solana Services** is precisely to manage this hydration—dehydrat
 
 This management includes:
 
-- Identifying which stellar systems or regions of the universe must remain active in the distributed simulation (LOD > 0).
-- Efficiently querying and storing persistent data via programs deployed on Solana.
-- Dynamically rehydrating systems when they approach relevant events, points of interest, or the proximity of interactive actors.
-- Dehydrating again those regions that can be resolved using latent logic, thus freeing up resources from the active simulation.
+* Identifying which stellar systems or regions of the universe must remain active in the [distributed simulation](distributed-simulation.md) (LOD > 0).
+* Efficiently querying and storing persistent data via programs deployed on Solana.
+* Dynamically rehydrating systems when they approach relevant events, points of interest, or the proximity of interactive actors.
+* Dehydrating again those regions that can be resolved using latent logic, thus freeing up resources from the active simulation.
 
 The function of this service layer is not to reimplement the on-chain logic, but to orchestrate its access from the simulation nodes, while respecting rules of consistency, periodicity, and network efficiency.
 

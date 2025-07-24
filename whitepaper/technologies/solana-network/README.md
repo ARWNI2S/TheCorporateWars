@@ -1,4 +1,5 @@
 ---
+icon: user-helmet-safety
 cover: ../../.gitbook/assets/tcw-stateless.jpg
 coverY: 0
 layout:

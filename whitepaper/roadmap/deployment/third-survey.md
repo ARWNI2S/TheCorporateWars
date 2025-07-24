@@ -1,3 +1,7 @@
-# **The Corporate Wars**
+---
+icon: pen
+---
+
+# The Corporate Wars
 
 Bla
