@@ -57,12 +57,12 @@ Its presence is usually exceptional and time-limited.
 
 ## The Imperial Armed Forces in the Game
 
-The imperial forces are not at the players’ command.
+The imperial forces are not at the players' command.
 
-They may act as allies, adversaries, or neutral parties depending on the group’s actions and circumstances.
+They may act as allies, adversaries, or neutral parties depending on the group's actions and circumstances.
 
 Sometimes they protect, other times they pursue, and occasionally they require cooperation.
 
 But they are never directly controlled.
 
-They represent the sword of the Third Imperium —a superior force that imposes order, but whose will does not always align with the players' interests.
+They represent the sword of the Third Imperium â€”a superior force that imposes order, but whose will does not always align with the players' interests.
