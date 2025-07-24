@@ -23,20 +23,20 @@ layout:
 
 # Lealtades
 
-Las **Lealtades** -las _facciones_ del metajuego politico- representan los poderes interestelares del universo.
+Las **Lealtades** ‚Äîlas _facciones_ del meta-juego pol√≠tico‚Äî representan los poderes interestelares del universo.
 
-Regulan, influyen o condicionan todos los aspectos de la vida gal·ctica, organiz·ndose en complejas redes de **instituciones internas** para mantener su alcance y eficiencia.
+Regulan, influyen o condicionan todos los aspectos de la vida gal√°ctica, organiz√°ndose en complejas redes de **instituciones internas** para mantener su alcance y eficiencia.
 
-Una Lealtad puede tener bajo su Ûrbita otras Lealtades menores, ya sea como afiliadas, aliadas o subyugadas.
+Una _Lealtad_ puede tener bajo su √≥rbita otras _Lealtades_ menores, ya sea como afiliadas, aliadas o subyugadas.
 
-Adem·s de las grandes potencias, existen **imperios menores**, **ligas**, **alianzas regionales** y **estados clientes**, entre otros muchos reconocidos como formas v·lidas de Lealtad.
+Adem√°s de las grandes potencias, existen _**imperios de bolsillo**_, **ligas**, **alianzas regionales** y **estados clientes**, entre otros muchos reconocidos como formas v√°lidas de _Lealtad_.
 
-Toda Lealtad legÌtima controla al menos **dos mundos y una ruta de salto** entre ellos, lo que le otorga entidad territorial y capacidad operativa.
+Toda _Lealtad_ leg√≠tima controla al menos **dos mundos y una ruta de salto** entre ellos, lo que le otorga entidad territorial y capacidad operativa.
 
 ***
 
-A nivel funcional, las instituciones y lealtades suelen actuar **de abajo arriba** en cuestiones internas (regulaciÛn, representaciÛn) y **de arriba abajo** en asuntos externos (fronteras, diplomacia, defensa).
+A nivel funcional, las instituciones y lealtades suelen actuar **de abajo arriba** en cuestiones internas (regulaci√≥n, representaci√≥n) y **de arriba abajo** en asuntos externos (fronteras, diplomacia, defensa).
 
-Las Lealtades mayores ópor su peso histÛrico y su papel en el equilibrio general del universoó **no pueden ser controladas directamente por los jugadores**, aunque sÌ **pueden ser influenciadas** mediante el juego indirecto a travÈs de Lealtades menores o instituciones internas.
+Las _Lealtades_ mayores ‚Äîpor su peso hist√≥rico y su papel en el equilibrio general del universo‚Äî **no pueden ser controladas directamente por los jugadores**, aunque s√≠ **pueden ser influenciadas** mediante el juego indirecto a trav√©s de _Lealtades_ menores o instituciones internas.
 
-Estas estructuras definen el tablero astropolÌtico en el que se desarrolla **The Corporate Wars**.
+Estas estructuras definen el tablero astropol√≠tico en el que se desarrolla **The Corporate Wars**.
