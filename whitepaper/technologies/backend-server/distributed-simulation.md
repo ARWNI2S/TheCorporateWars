@@ -7,7 +7,7 @@ coverY: 0
 
 In complex environments such as virtual economies, persistent ecosystems, or large-scale multiplayer games, the ability to simulate multiple systems in parallel becomes essential.
 
-Distributed simulation addresses this challenge through an architecture in which multiple computing units�nodes�cooperate to execute a shared simulation that is synchronized yet decentralized.
+Distributed simulation addresses this challenge through an architecture in which multiple computing units —nodes— cooperate to execute a shared simulation that is synchronized yet decentralized.
 
 ***
 
