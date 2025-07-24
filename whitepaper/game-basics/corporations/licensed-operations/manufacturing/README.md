@@ -2,6 +2,7 @@
 description: >-
   Processing, fabrication, assembly, and mass production of industrial and
   consumer goods
+icon: user-helmet-safety
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:

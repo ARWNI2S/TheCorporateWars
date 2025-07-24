@@ -2,6 +2,7 @@
 description: >-
   Protection and regulated enforcement solutions for strategic, tactical, and
   private security operations.
+icon: user-helmet-safety
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:

@@ -23,10 +23,10 @@ The role of **Solana Services** is precisely to manage this hydration—dehydrat
 
 This management includes:
 
-* Identifying which stellar systems or regions of the universe must remain active in the distributed simulation (LOD > 0).
-* Efficiently querying and storing persistent data via programs deployed on Solana.
-* Dynamically rehydrating systems when they approach relevant events, points of interest, or the proximity of interactive actors.
-* Dehydrating again those regions that can be resolved using latent logic, thus freeing up resources from the active simulation.
+- Identifying which stellar systems or regions of the universe must remain active in the distributed simulation (LOD > 0).
+- Efficiently querying and storing persistent data via programs deployed on Solana.
+- Dynamically rehydrating systems when they approach relevant events, points of interest, or the proximity of interactive actors.
+- Dehydrating again those regions that can be resolved using latent logic, thus freeing up resources from the active simulation.
 
 The function of this service layer is not to reimplement the on-chain logic, but to orchestrate its access from the simulation nodes, while respecting rules of consistency, periodicity, and network efficiency.
 

@@ -1,5 +1,6 @@
 ---
 description: Operational hubs and production centers essential for expansion and logistics.
+icon: user-helmet-safety
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:

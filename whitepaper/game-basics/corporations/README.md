@@ -2,7 +2,7 @@
 description: >-
   Shaping the future through strategy, expansion, and management in an evolving
   interstellar economy.
-icon: pencil
+icon: user-helmet-safety
 cover: ../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
