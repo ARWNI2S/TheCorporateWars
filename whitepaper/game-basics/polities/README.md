@@ -25,7 +25,7 @@ layout:
 
 Polities are defined as systems of government, administration, economy, and diplomacy with territorial scope, and are considered autonomous geopolitical actors within the galactic framework.
 
-> In the Traveller™ universe, a polity is essentially a sovereign-scale entity —ranging from an empire to a small corporation.
+> In the Travellerâ„¢ universe, a polity is essentially a sovereign-scale entity ï¿½ranging from an empire to a small corporation.
 
 **The Corporate Wars** adopts this concept to refer to the same macrostructures of governance that directly influence gameplay.
 
@@ -35,8 +35,8 @@ Each polity acts as a decision-making entity: it sets rules, manages resources, 
 
 At the level of game governance, polities represent the abstraction of factions that players or AI can influence or join: from corporate consortia to interstellar empires, with the power to enact laws, manage borders, intervene in local economies, or lead strategic conflicts.
 
-Most high-level polities are primarily governed by artificial intelligence. However, players control lower-level entities —individual actors, corporations— that operate within the broader political ecosystem.
+Most high-level polities are primarily governed by artificial intelligence. However, players control lower-level entities â€”individual actors, corporationsâ€” that operate within the broader political ecosystem.
 
 The governance structures are designed to allow influence in both directions: bottom-up pressure can impact higher-scale decisions, while top-down directives shape the strategic environment in which players act.
 
-From this dynamic emerges **Collaborative Individualism** in the form of a global political metagame: systemic reform, subversion, collaboration, or the coordinated drafting of regulations —turning the political metagame into a living, responsive layer of the simulation.
+From this dynamic emerges **Collaborative Individualism** in the form of a global political metagame: systemic reform, subversion, collaboration, or the coordinated drafting of regulations â€”turning the political metagame into a living, responsive layer of the simulation.
