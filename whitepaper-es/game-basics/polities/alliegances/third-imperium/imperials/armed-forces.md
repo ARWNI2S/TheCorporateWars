@@ -23,33 +23,33 @@ layout:
 
 # Fuerzas Armadas Imperiales
 
-Las Fuerzas Armadas del Tercer Imperio son el instrumento militar con el que se protege, proyecta y preserva la hegemonÌa imperial a lo largo del espacio conocido.
+Las Fuerzas Armadas del Tercer Imperio son el instrumento militar con el que se protege, proyecta y preserva la hegemon√≠a imperial a lo largo del espacio conocido.
 
-Su estructura refleja el car·cter tecnocr·tico y descentralizado del Imperio, actuando m·s como guardianes de la estabilidad interestelar que como fuerza de ocupaciÛn directa sobre los mundos.
+Su estructura refleja el car√°cter tecnocr√°tico y descentralizado del Imperio, actuando m√°s como guardianes de la estabilidad interestelar que como fuerza de ocupaci√≥n directa sobre los mundos.
 
 ## La Armada Imperial
 
 La Armada es la columna vertebral del poder imperial.
 
-Opera flotas de guerra, escolta lÌneas de correo, impone bloqueos, patrulla zonas en disputa y proyecta fuerza en situaciones de crisis o desobediencia.
+Opera flotas de guerra, escolta l√≠neas de correo, impone bloqueos, patrulla zonas en disputa y proyecta fuerza en situaciones de crisis o desobediencia.
 
-Aunque formalmente subordinada al Emperador, en la pr·ctica sus almirantes ejercen gran autonomÌa operativa.
+Aunque formalmente subordinada al Emperador, en la pr√°ctica sus almirantes ejercen gran autonom√≠a operativa.
 
-La Armada controla estaciones orbitales, arsenales, academias y bases en puntos clave de tr·nsito.
+La Armada controla estaciones orbitales, arsenales, academias y bases en puntos clave de tr√°nsito.
 
-### InfanterÌa de Marina Imperial
+### Infanter√≠a de Marina Imperial
 
-La InfanterÌa de Marina Imperial son fuerzas especializadas en abordajes, asaltos orbitales, intervenciÛn r·pida y control de instalaciones estratÈgicas.
+La Infanter√≠a de Marina Imperial son fuerzas especializadas en abordajes, asaltos orbitales, intervenci√≥n r√°pida y control de instalaciones estrat√©gicas.
 
-Act˙an como fuerza de choque cuando se necesita entrar y salir con precisiÛn quir˙rgica.
+Act√∫an como fuerza de choque cuando se necesita entrar y salir con precisi√≥n quir√∫rgica.
 
-Viajan a bordo de naves de la Armada y se despliegan en situaciones que requieren acciÛn directa bajo bandera imperial.
+Viajan a bordo de naves de la Armada y se despliegan en situaciones que requieren acci√≥n directa bajo bandera imperial.
 
-### El EjÈrcito
+### El Ej√©rcito
 
-El EjÈrcito Imperial, a diferencia de la InfanterÌa de Marina, est· diseÒado para operaciones prolongadas en superficie.
+El Ej√©rcito Imperial, a diferencia de la Infanter√≠a de Marina, est√° dise√±ado para operaciones prolongadas en superficie.
 
-Su misiÛn no es conquistar mundos, sino estabilizar regiones, apoyar gobiernos leales, asegurar instalaciones vitales y actuar como fuerza de ocupaciÛn temporal en escenarios de alto riesgo.
+Su misi√≥n no es conquistar mundos, sino estabilizar regiones, apoyar gobiernos leales, asegurar instalaciones vitales y actuar como fuerza de ocupaci√≥n temporal en escenarios de alto riesgo.
 
 Su presencia suele ser excepcional y limitada en el tiempo.
 
@@ -57,12 +57,12 @@ Su presencia suele ser excepcional y limitada en el tiempo.
 
 ## Las Fuerzas Armadas Imperiales en el Juego
 
-Las fuerzas imperiales no est·n al servicio del jugador.
+Las fuerzas imperiales no est√°n al servicio del jugador.
 
-Pueden ser aliadas, adversarias o neutrales seg˙n las circunstancias y acciones del grupo.
+Pueden ser aliadas, adversarias o neutrales seg√∫n las circunstancias y acciones del grupo.
 
-A veces defienden, otras persiguen, y en ocasiones requieren colaboraciÛn.
+A veces defienden, otras persiguen, y en ocasiones requieren colaboraci√≥n.
 
-Pero en ning˙n caso se pueden controlar directamente.
+Pero en ning√∫n caso se pueden controlar directamente.
 
-Representan la espada del Tercer Imperio óuna fuerza superior que impone orden, pero cuya voluntad no siempre coincide con los intereses de los jugadores.
+Representan la espada del Tercer Imperio ‚Äîuna fuerza superior que impone orden, pero cuya voluntad no siempre coincide con los intereses de los jugadores.
