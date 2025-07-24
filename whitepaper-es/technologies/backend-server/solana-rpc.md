@@ -11,7 +11,7 @@ Esta capa, que denominamos **Servicios Solana**, actúa como puente entre los pr
 
 Uno de los conceptos clave en este entorno es el de **simulación latente**: se refiere a todos aquellos sistemas, entidades o eventos que no requieren ser ejecutados activamente en el motor de simulación, sino que pueden resolverse de forma puramente algorítmica a partir de su estado deshidratado.
 
-> Esta capa latente corresponde, en términos de nivel de detalle, a lo que podríamos considerar un **LOD 0**.
+> Esta capa latente corresponde, en términos de nivel de detalle, a lo que podríamos considerar un [**LOD 0**](ai-lod.md#ai-lod-en-la-simulacion-distribuida).
 
 ***
 
@@ -23,7 +23,7 @@ El papel de los **Servicios Solana** es precisamente gestionar este ciclo de hid
 
 Esta gestión incluye:
 
-* Identificar qué sistemas estelares o regiones del universo deben mantenerse activas en la simulación distribuida (LOD > 0).
+* Identificar qué sistemas estelares o regiones del universo deben mantenerse activas en la [simulación distribuida](distributed-simulation.md) (LOD > 0).
 * Consultar y almacenar de forma eficiente los datos persistentes en programas desplegados sobre Solana.
 * Rehidratar dinámicamente los sistemas cuando se acercan a eventos relevantes, zonas de interés o proximidad de actores interactivos.
 * Deshidratar de nuevo aquellas regiones que puedan resolverse mediante lógica latente, liberando recursos de simulación activa.
