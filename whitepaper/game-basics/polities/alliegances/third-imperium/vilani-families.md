@@ -3,7 +3,7 @@ description: >-
   [ˈzi.ɾuː ˈʃiɾ.ka] ZIRUŠIRKA –noun. [Origin ca. -7000 Imperial, from High
   Vilani ziru “star, domain” + sirka “net, empite, warp”; lit. “stellar weave,
   network of the stars”]. The First Imperium.
-icon: pen
+icon: user-helmet-safety
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
@@ -37,7 +37,7 @@ This tension —often latent— defines the Ziru Sirka as an **internal faction*
 
 ## Structure and Power
 
-The Ziru Sirka is organized around **extended families functioning as lineage _consortia_ and megacorporations**.
+The Ziru Sirka is organized around **extended families functioning as lineage&#x20;**_**consortia**_**&#x20;and megacorporations**.
 
 These groups control key trade routes, logistical infrastructure, and cultural hubs.
 
@@ -78,5 +78,5 @@ Through its houses, corporations, and databanks, the Ziru Sirka can: fund initia
 For players, joining —or opposing— the Ziru Sirka is stepping into a chess game where every piece carries thousands of years of history, and where power is rarely exercised with direct violence, but always with definitive consequences.
 
 ### Karamshidukagim (The Corporate Wars)
-The Vilani houses of the Ziru Sirka are reviving this ancient form of corporate conflict, invoking the war laws of the Third Imperium.
-Not as treason against the Imperium, but as its civilizing regulation.
+
+The Vilani houses of the Ziru Sirka are reviving this ancient form of corporate conflict, invoking the war laws of the Third Imperium. Not as treason against the Imperium, but as its civilizing regulation.

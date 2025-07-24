@@ -1,5 +1,5 @@
 ---
-icon: pen
+icon: user-helmet-safety
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
@@ -27,13 +27,13 @@ The Nobiliti is the aristocratic class of the Third Imperium.
 
 Its existence is neither symbolic nor decorative: it constitutes one of the foundational pillars of the Imperial system.
 
-Nobles do not merely hold titles —they carry legal responsibilities, territorial jurisdiction, and duties of loyalty to the Emperor.
+Nobles do not merely hold titles ï¿½they carry legal responsibilities, territorial jurisdiction, and duties of loyalty to the Emperor.
 
 Their authority derives from Imperial grants, and their role is to guarantee stability, development, and the continuity of interstellar order.
 
 ### Noble Houses
 
-Imperial noble houses are hereditary lineages with centuries —sometimes millennia— of history.
+Imperial noble houses are hereditary lineages with centuries ï¿½sometimes millenniaï¿½ of history.
 
 They may have Sylean, Solomani, Vilani, Vargr, or other origins, often combining genetic heritage with political or economic acquisitions.
 
@@ -59,6 +59,6 @@ They might **clash with local nobles** in political or economic disputes.
 
 Or they may find their progress **blocked by lineages** that control key sectors of commerce, diplomacy, or infrastructure.
 
-The Nobiliti is not something players can control —it must be managed.
+The Nobiliti is not something players can control ï¿½it must be managed.
 
 And one wrong move against the wrong noble can have... _Imperial_ consequences.
