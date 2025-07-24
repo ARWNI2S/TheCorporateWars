@@ -23,7 +23,7 @@ layout:
 
 # Políticas
 
-Las _Políticas_ se definen como un sistema de gobierno, gestión, economía y diplomacia con alcance territorial, y se considera un actor geopolítico autónomo dentro del entramado galáctico.
+Las _Políticas_ se definen como un sistema de gobierno, gestión, economía y diplomacia con alcance territorial, y se considera un actor astropolítico autónomo dentro del entramado galáctico.
 
 > En el universo Traveller™, una _polity_ (_Política_ o entidad política) es esencialmente una unidad soberana a escala —que puede ir de un imperio, a una pequeña empresa.
 

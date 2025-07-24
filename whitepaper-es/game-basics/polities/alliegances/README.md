@@ -39,4 +39,4 @@ A nivel funcional, las instituciones y lealtades suelen actuar **de abajo arriba
 
 Las Lealtades mayores —por su peso histórico y su papel en el equilibrio general del universo— **no pueden ser controladas directamente por los jugadores**, aunque sí **pueden ser influenciadas** mediante el juego indirecto a través de Lealtades menores o instituciones internas.
 
-Estas estructuras definen el tablero geopolítico en el que se desarrolla **The Corporate Wars**.
+Estas estructuras definen el tablero astropolítico en el que se desarrolla **The Corporate Wars**.

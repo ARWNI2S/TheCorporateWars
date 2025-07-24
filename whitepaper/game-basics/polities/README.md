@@ -23,7 +23,7 @@ layout:
 
 # Polities
 
-Polities are defined as systems of government, administration, economy, and diplomacy with territorial scope, and are considered autonomous geopolitical actors within the galactic framework.
+Polities are defined as systems of government, administration, economy, and diplomacy with territorial scope, and are considered autonomous astropolitical actors within the galactic framework.
 
 > In the Traveller™ universe, a polity is essentially a sovereign-scale entity —ranging from an empire to a small corporation.
 

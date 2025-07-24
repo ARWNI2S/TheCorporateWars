@@ -23,7 +23,7 @@ layout:
 
 # Servicio Imperial de Exploración Interestelar
 
-Anta�o cuna de aventureros, hoy el Servicio de Exploraci�n es una instituci�n administrativa y burocr�tica.
+Antaño cuna de aventureros, hoy el Servicio de Exploraci�n es una instituci�n administrativa y burocr�tica.
 
 Tras dar por completo el Segundo Censo Estelar, se dedico a fortalecer y modernizar las rutas de Correo Imperial, delegando gran parte de su actividad de campo al sector privado.
 

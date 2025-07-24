@@ -39,4 +39,4 @@ Functionally, institutions and sub-allegiances tend to operate **bottom-up** in 
 
 Major Allegiances —due to their historical weight and role in the balance of power— **cannot be directly controlled by players**, but they **can be influenced** indirectly through minor Allegiances or internal institutions.
 
-These structures define the geopolitical landscape in which **The Corporate Wars** unfolds.
+These structures define the astropolitical landscape in which **The Corporate Wars** unfolds.
