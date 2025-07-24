@@ -1,3 +1,7 @@
-# Traveller™
+---
+icon: pen
+---
+
+# Travellerâ„¢
 
 Bla
