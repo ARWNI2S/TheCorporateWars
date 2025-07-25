@@ -41,7 +41,7 @@ Abreviatura \[Tipo] - Nombre - \[Afiliaciones, ] - Derivation Seed
   * _NAV_ \[I] - La Flota Consular - \[Zh] - \*.\[Zh].\[NAV]
   * _SEC_ \[I] - La Guardia del Pensamiento - \[Zh] - \*.\[Zh].\[SEC]
 * **Va** \[A] - Dominio Vargr - \[] - \*.\[Va]
-* **So** \[A] - Esfera Solomani - \[ISE] - \*.\[So]
+* **So** \[A] - Confederación Solomani - \[ISE] - \*.\[So]
   * _SEC_ \[I] - Seguridad Solomani - \[So] - \*.\[So].\[SEC]
 
 ***

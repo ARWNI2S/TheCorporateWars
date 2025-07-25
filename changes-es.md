@@ -98,7 +98,7 @@
     - [ ] Driantia Zhdantia
       - [ ] Driantia Dazhia
       - [ ] Tavrchedl'
-    - [ ] Esfera Solomani
+    - [ ] Confederación Solomani
       - [ ] Concilio de Terra
       - [ ] SolSec
     - [ ] Las Extensiones Vargr

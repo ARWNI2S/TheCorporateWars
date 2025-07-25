@@ -21,6 +21,6 @@ layout:
     visible: true
 ---
 
-# Solomani Sphere
+# Solomani Confederation
 
 Bla

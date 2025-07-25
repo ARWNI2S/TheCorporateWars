@@ -100,7 +100,7 @@
     * [Driantia Zhdantia](game-basics/polities/alliegances/zhodani-consulate/README.md)
       * [Driantia Dazhia](game-basics/polities/alliegances/zhodani-consulate/consular-fleet.md)
       * [Tavrchedl'](game-basics/polities/alliegances/zhodani-consulate/thought-police.md)
-    * [Esfera Solomani](game-basics/polities/alliegances/solomani-sphere/README.md)
+    * [Confederación Solomani](game-basics/polities/alliegances/solomani-sphere/README.md)
       * [Concilio de Terra](game-basics/polities/alliegances/solomani-sphere/council-of-terra.md)
       * [SolSec](game-basics/polities/alliegances/solomani-sphere/solsec.md)
     * [Las Extensiones Vargr](game-basics/polities/alliegances/vargr-extents/README.md)

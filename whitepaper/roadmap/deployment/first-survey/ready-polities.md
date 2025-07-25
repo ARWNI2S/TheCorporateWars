@@ -58,7 +58,7 @@ Abbrevition \[Type] - Name - \[Affiliation, ] - Derivation Seed
   * _NAV_ \[I] - Consular Fleet - \[Zh] - \*.\[Zh].\[NAV]
   * _Sec_ \[I] - Thought Guard - \[Zh] - \*.\[Zh].\[Sec]
 * **Va** \[A] - Dominio Vargr - \[] - \*.\[Va]
-* **So** \[A] - Solomani Sphere - \[ISE] - \*.\[So]
+* **So** \[A] - Solomani Confederation - \[ISE] - \*.\[So]
   * _Sec_ \[I] - Solomani Security - \[So] - \*.\[So].\[Sec]
 
 ***

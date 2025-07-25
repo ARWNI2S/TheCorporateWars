@@ -7,7 +7,7 @@ coverY: 0
 
 En un Imperio de más de once mil mundos, donde las naves de salto son las arterias que conectan civilizaciones dispersas, la información **nunca** llega de forma instantanea.
 
-Por muy avanzada que sea la tecnología, ninguna civilización del Tercer Imperio —ni de cualquier otra _lealtad_— ha encontrado forma de superar una ley fundamental del universo conocido:
+Por muy avanzada que sea la tecnología, ninguna civilización del Tercer Imperio —ni de cualquier otra _lealtad_— ha encontrado forma de superar una ley fundamental del espacio conocido:
 
 > **La información no puede viajar más rápido que la luz.**
 

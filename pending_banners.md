@@ -76,7 +76,7 @@
     - [ ] Driantia Zhdantia
       - [ ] Driantia Dazhia
       - [ ] Tavrchedl'
-    - [ ] Solomani Sphere
+    - [ ] Solomani Confederation
       - [ ] Council of Terra
       - [ ] SolSec
     - [ ] The Vargr Extents
