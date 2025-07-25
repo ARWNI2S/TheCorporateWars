@@ -54,7 +54,7 @@
       * [Licencia de Libre Comercio](game-basics/corporations/licensed-operations/trade-commerce/free-trader.md)
     * [Servicios Coloniales](game-basics/corporations/licensed-operations/colonial-services/README.md)
       * [Imagen Pública](game-basics/corporations/licensed-operations/colonial-services/social-relations.md)
-      * [Relaciones Gubernamentales](game-basics/corporations/licensed-operations/colonial-services/relaciones-gubernamentales.md)
+      * [Relaciones Gubernamentales](game-basics/corporations/licensed-operations/colonial-services/political-relations.md)
     * [Policía y Seguridad](game-basics/corporations/licensed-operations/enforcement-security/README.md)
       * [CCAOC](game-basics/corporations/licensed-operations/enforcement-security/COACC.md)
     * [Explotación de Concesiones](game-basics/corporations/licensed-operations/grant-exploitation/README.md)

@@ -33,5 +33,5 @@ Las corporaciones deben optimizar sus rutas de transporte, asegurar la protecci�
 ***
 
 {% hint style="warning" %}
-Operar en el comercio y transporte interestelar es la forma mas directa de implicarse en la economía interestelar, es el ámbito mas adecuado para jugadores que prefieren la exploración, la búsqueda de nuevas oportunidades y enfrentar desafíos con recursos limitados.
+Operar en el transporte interestelar es la forma mas directa de implicarse en la economía interestelar de gran alcance: inversiones de riego, a menudo a ciegas.
 {% endhint %}
