@@ -29,7 +29,7 @@ No es negociable ni manipulable, pero sí observable, predecible y utilizable po
 
 Engloba a todas aquellas entidades colectivas que representan poder institucional, político o doctrinal sobre múltiples actores.
 
-> Lealtades como el Tercer Imperio, los Dos Mil Mundos o el Consulado Zhodani; instituciones como ministerios, flotas o clanes ancestrales; alianzas entre corporaciones o movimientos ideológicos transversales: todos ellos constituyen agregados.
+> _Lealtades_ como el Tercer Imperio, los Dos Mil Mundos o el Consulado Zhodani; instituciones como ministerios, flotas o clanes ancestrales; alianzas entre corporaciones o movimientos ideológicos transversales: todos ellos constituyen agregados.
 
 En su mayoría, son gobernados por la IA, aunque pueden ser influenciados desde dentro a través de estructuras meritocráticas o por presión externa.
 
