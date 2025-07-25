@@ -23,16 +23,26 @@ layout:
 
 # Mercado de Valores Interestelar
 
-El mercado de acciones y valores en un entorno descentralizado opera con información fragmentada y retrasada, lo que introduce un alto grado de especulación y volatilidad.
+El Mercado de Valores Interestelar es una institución milenaria que regula, centraliza y certifica la cotización de activos, participaciones y derivados financieros a escala intersistémica.
 
-Las rutas comerciales determinan la frecuencia con la que los datos financieros llegan a cada sistema, generando fluctuaciones bruscas en el valor de los activos.
+Fundado en una era anterior, su origen exacto se ha perdido en la _Larga Noche_.
 
-Los operadores financieros aprovechan estas discrepancias para obtener ganancias antes de que la información se sincronice entre sistemas estelares.
+Algunos registros lo sitúan en tiempos del Ziru Sirka, otros en periodos anteriores, incluso relacionados con mitos de los Precursores -_propaganda Vilani, dirian algunos_.
 
-Los agentes reguladores del mercado financiero interestelar incluyen entidades de supervisión institucionalizadas.
+Opera desde hace milenios con jurisdicción reconocida en sectores conectados, y se sustenta en una red de agencias y cámaras de compensación distribuidas por las rutas comerciales vigentes.
 
-Estas intentan mitigar los efectos de la latencia informativa a través de auditorías sistemáticas, control de flujo de capital y regulación de mercados en los sistemas más conectados.
+Su estructura está diseñada para mantener coherencia entre sistemas separados por semanas de tránsito, valiéndose de nodos de verificación, protocolos de replicación y agentes de arbitraje que viajan en rutas de salto.
 
-No obstante, su capacidad de intervención es limitada en zonas periféricas, donde la descentralización financiera permite prácticas especulativas agresivas, desde la manipulación de precios hasta el uso de información privilegiada antes de que se actualicen los valores en otros sistemas.
+A pesar de su antigüedad y alcance, el mercado funciona sobre datos inherentemente fragmentados y desfasados.
 
-En este contexto, el dominio de los canales de información es un factor crítico, ya que otorga a ciertos actores la capacidad de influir en mercados enteros antes de que los datos oficiales lleguen a sus destinos.
+Esto introduce un margen permanente de especulación y volatilidad, que los operadores más hábiles explotan sistemáticamente.
+
+Las discrepancias de información entre sistemas generan oportunidades antes de que los precios se sincronicen.
+
+Este desfase es estructural, y aunque las auditorías, los límites de capital flotante y las regulaciones sectoriales atenúan sus efectos en zonas núcleo, en la periferia imperan la manipulación, el arbitraje oculto y el tráfico de datos financieros.
+
+El control del flujo de información es clave.
+
+Quien domina las rutas o acelera la llegada de datos puede alterar mercados completos antes de que los valores oficiales se actualicen.
+
+El Mercado no prohíbe la especulación: la gestiona.
