@@ -5,7 +5,7 @@ coverY: 0
 
 # Hoja de Ruta
 
-El desarrollo de _**The Corporate Wars**_ sigue una hoja de ruta centrada en la integración progresiva y ortogonal de sistemas complejos que conforman el núcleo de la experiencia de juego.
+El desarrollo de **The Corporate Wars** sigue una hoja de ruta centrada en la integración progresiva y ortogonal de sistemas complejos que conforman el núcleo de la experiencia de juego.
 
 ### Prioridades
 
@@ -52,6 +52,6 @@ Tanto la simulación distribuida como los servicios de la red Solana están alin
 
 El despliegue público del gameplay se realizará una vez que la economía, la gobernanza y las primeras interacciones estratégicas estén plenamente operativas y equilibradas.
 
-Desde ese momento, _**The Corporate Wars**_ evolucionará como un universo vivo donde la competencia por el control económico, político y territorial será el motor principal de la experiencia.
+Desde ese momento, **The Corporate Wars** evolucionará como un universo vivo donde la competencia por el control económico, político y territorial será el motor principal de la experiencia.
 
 La expansión posterior incorporará nuevas capas de complejidad y posibilidades emergentes, manteniendo siempre la coherencia y solidez del sistema sobre el que se sostiene la guerra corporativa interestelar.

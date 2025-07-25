@@ -19,7 +19,7 @@ Esto introduce **latencias estructurales**:
 - Las decisiones se toman con base en datos antiguos.
 - Las oportunidades y amenazas pueden haberse desvanecido cuando la información llega.
 
-El modelo de información desfasada no es un fallo del sistema: **es el sistema**. Define las estrategias, condiciona la logística y da forma al propio tejido social, político y económico de la galaxia. Y en _**The Corporate Wars**_, este modelo no es un detalle de color: es la columna vertebral del diseño técnico que sostiene el ecosistema persistente.
+El modelo de información desfasada no es un fallo del sistema: **es el sistema**. Define las estrategias, condiciona la logística y da forma al propio tejido social, político y económico de la galaxia. Y en **The Corporate Wars**, este modelo no es un detalle de color: es la columna vertebral del diseño técnico que sostiene el ecosistema persistente.
 
 {% hint style="info" %}
 A continuación explicamos cómo hemos integrado esta asincronía en el corazón del juego, usando tecnologías distribuidas (como la blockchain Solana) para reflejar un universo donde la sincronización absoluta es inalcanzable.

@@ -24,7 +24,7 @@ layout:
 
 # Operaciones Autorizadas
 
-En _**The Corporate Wars**_, las corporaciones operan bajo la atenta mirada de las autoridades interestelares, que regulan sus actividades a través de licencias, permisos, aranceles e impuestos.
+En **The Corporate Wars**, las corporaciones operan bajo la atenta mirada de las autoridades interestelares, que regulan sus actividades a través de licencias, permisos, aranceles e impuestos.
 
 Desde su fundación, cada corporación recibe autorización para ciertas operaciones básicas, normalmente acompañadas de simples regulaciones fiscales, mientras que actividades estratégicas o restringidas, requieren superar filtros adicionales. Estas regulaciones no solo imponen límites, sino que también reflejan los intereses de las sociedades que las aplican.
 
