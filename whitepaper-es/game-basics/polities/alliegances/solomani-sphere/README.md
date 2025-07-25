@@ -25,7 +25,7 @@ layout:
 
 La **Confederación Solomani** es una potencia interestelar cohesionada por una doctrina política y cultural que reivindica la primacía del ser humano originario de la Tierra. A pesar de haber sido derrotada en la Guerra de la Frontera Solomani, y de haber perdido el control sobre Sol, la Confederación no solo sobrevivió, sino que ha reconstruido su red de influencia con una mezcla de pragmatismo, ideología y presencia estratégica.
 
-Actualmente, en el año 1200, mantiene un bloque federal de mundos firmemente alineados con su visión, una estructura institucional en evolución y un aparato doctrinal capaz de proyectar poder más allá de sus fronteras reconocidas. Su legitimidad se nutre tanto de su pasado como de su capacidad presente para intervenir, infiltrar o moldear el tablero galáctico según sus intereses.
+Actualmente, en el año 1201, mantiene un bloque federal de mundos firmemente alineados con su visión, una estructura institucional en evolución y un aparato doctrinal capaz de proyectar poder más allá de sus fronteras reconocidas. Su legitimidad se nutre tanto de su pasado como de su capacidad presente para intervenir, infiltrar o moldear el tablero galáctico según sus intereses.
 
 ## Doctrina y Proyección
 
@@ -33,7 +33,7 @@ La Confederación se sostiene sobre un principio ideológico central: los humanos 
 
 Cada expansión económica o alianza táctica se presenta como un acto de restauración. La Confederación no busca conquistar territorios por codicia imperial, sino por una convicción: la humanidad legítima debe recuperar el lugar que le corresponde.
 
-En el 1200, la Confederación mantiene una red estable de mundos leales, influencia diplomática en zonas disputadas y presencia doctrinal en múltiples frentes. Es una fuerza paciente, doctrinal y estratégica.
+En el 1201, la Confederación mantiene una red estable de mundos leales, influencia diplomática en zonas disputadas y presencia doctrinal en múltiples frentes. Es una fuerza paciente, doctrinal y estratégica.
 
 ## La Confederación Solomani en el Juego
 

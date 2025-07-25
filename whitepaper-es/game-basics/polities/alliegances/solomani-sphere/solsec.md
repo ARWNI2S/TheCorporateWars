@@ -25,7 +25,9 @@ layout:
 
 El **SolSec** —acrónimo de *Solomani Security*— es el aparato de inteligencia, contrainteligencia e ideología de la Confederación Solomani. Fundado como una agencia de seguridad estatal, se transformó con el tiempo en una institución transversal, cuya influencia penetra tanto las estructuras gubernamentales como las corporativas, civiles y militares.
 
-Más que una policía secreta, el SolSec actúa como garante doctrinal: protege la narrativa fundacional de la Confederación, vigila la pureza ideológica de sus élites y neutraliza amenazas internas y externas, sean políticas, culturales o biotecnológicas. En el año 1200, su poder se ejerce con precisión quirúrgica: no necesita reprimir visiblemente para dominar, basta con estar presente.
+Más que una policía secreta, el SolSec actúa como garante doctrinal: protege la narrativa fundacional de la Confederación, vigila la pureza ideológica de sus élites y neutraliza amenazas internas y externas, sean políticas, culturales o biotecnológicas.
+
+En el año 1201, su poder se ejerce con precisión quirúrgica: no necesita reprimir visiblemente para dominar, basta con estar presente.
 
 ## Naturaleza y Funciones
 

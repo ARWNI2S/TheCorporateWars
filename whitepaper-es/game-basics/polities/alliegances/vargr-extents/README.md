@@ -29,7 +29,7 @@ La sociedad vargr se organiza en torno a la noción de *charisma*, una forma de a
 
 No existe una capital vargr ni un gobierno común. Existen alianzas cambiantes, linajes flotantes, redes comerciales emergentes y jefaturas transitorias. Sin embargo, esa misma inestabilidad impide que sus enemigos los derroten de forma sistemática. No hay cabeza que cortar.
 
-En el año 1200, muchas de las Extensiones se han profesionalizado. Algunos clanes mantienen embajadas, alianzas tecnológicas, flotas de seguridad y tratados formales. Otros actúan como intermediarios, corsarios o proxies en conflictos que no pueden ser peleados oficialmente.
+En el año 1201, muchas de las Extensiones se han profesionalizado. Algunos clanes mantienen embajadas, alianzas tecnológicas, flotas de seguridad y tratados formales. Otros actúan como intermediarios, corsarios o proxies en conflictos que no pueden ser peleados oficialmente.
 
 ## Las Extensiones Vargr en el Juego
 

@@ -31,7 +31,7 @@ Los K’kree son xenófobos, pero no genocidas por impulso. Su doctrina no exige ex
 
 A nivel interno, la Concordancia funciona como una red jerárquica de clanes, liderados por un consejo de ancianos visionarios. Sus decisiones combinan doctrina religiosa, análisis ecológico y objetivos estratégicos. Aunque rechazan la psiónica, poseen una organización logística y social de alta eficiencia.
 
-En el año 1200, la Concordancia mantiene un equilibrio tenso con sus vecinos. Aunque sus campañas de “purificación” han disminuido, su doctrina no ha cambiado: el universo debe limpiarse. Lo que ha cambiado es su táctica: hoy operan con alianzas transaccionales, presión ideológica y una diplomacia agresiva pero formalmente legítima.
+En el año 1201, la Concordancia mantiene un equilibrio tenso con sus vecinos. Aunque sus campañas de “purificación” han disminuido, su doctrina no ha cambiado: el universo debe limpiarse. Lo que ha cambiado es su táctica: hoy operan con alianzas transaccionales, presión ideológica y una diplomacia agresiva pero formalmente legítima.
 
 ## Los Dos Mil Mundos en el Juego
 

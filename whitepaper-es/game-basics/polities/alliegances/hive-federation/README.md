@@ -29,7 +29,7 @@ La Federación aparece como un experimento exitoso de gobernanza multi-especies:
 
 Su frontera física abarca sectores enteros, pero su influencia cultural y tecnológica se extiende mucho más allá. Muchos mundos imperiales o solomani consideran a la Federación como un socio científico fiable, un entorno de intercambio cultural… o un actor neutral que evita alinearse con potencias hegemónicas.
 
-En el 1200, la Federación mantiene relaciones diplomáticas estables con el Tercer Imperio, los Darrian, la Concordancia Two Thousand Worlds, y múltiples bloques corporativos. Su neutralidad institucional, sin embargo, no debe confundirse con pasividad. Aunque rara vez actúa con fuerza directa, su presencia en las mesas de negociación puede alterar equilibrios enteros.
+En el 1201, la Federación mantiene relaciones diplomáticas estables con el Tercer Imperio, los Darrian, la Concordancia Two Thousand Worlds, y múltiples bloques corporativos. Su neutralidad institucional, sin embargo, no debe confundirse con pasividad. Aunque rara vez actúa con fuerza directa, su presencia en las mesas de negociación puede alterar equilibrios enteros.
 
 ## La Federación en el Juego
 

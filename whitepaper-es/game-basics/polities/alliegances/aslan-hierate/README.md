@@ -37,7 +37,7 @@ El Tlaukhu no impone decisiones al Hierate. Más bien, define lo que es honorabl
 
 Ser parte del Tlaukhu no garantiza poder directo, pero sí influencia, precedencia y autoridad moral. En muchas regiones, los linajes que componen el Tlaukhu actúan como reguladores de conflictos, patrocinadores de colonias y árbitros de disputas hereditarias.
 
-En el año 1200, la composición del Tlaukhu ha variado debido a migraciones, guerras de honor y expansión transfronteriza. Aun así, su peso como símbolo y centro de gravedad del Hierate es indiscutible.
+En el año 1201, la composición del Tlaukhu ha variado debido a migraciones, guerras de honor y expansión transfronteriza. Aun así, su peso como símbolo y centro de gravedad del Hierate es indiscutible.
 
 ## El Tlaukhu en el Juego
 
