@@ -113,7 +113,7 @@
     * [La Federación](game-basics/polities/alliegances/hive-federation/README.md)
       * [Psicohistoria](game-basics/polities/alliegances/hive-federation/social-engineering.md)
   * [Gobiernos](game-basics/polities/governments/README.md)
-    * [Estados y Soberanía](game-basics/polities/governments/states.md)
+    * [Balcanizaciones](game-basics/polities/governments/states.md)
     * [Gobierno Corporativo](game-basics/polities/governments/corporate.md)
   * [Reglas y Leyes](game-basics/polities/governance/README.md)
     * [Cumplimiento](game-basics/polities/governance/compliance.md)
