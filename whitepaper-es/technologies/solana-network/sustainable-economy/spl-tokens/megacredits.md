@@ -1,6 +1,6 @@
 ---
 icon: user-helmet-safety
-cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../../../.gitbook/assets/tcw-mcr.jpg
 coverY: 0
 ---
 
@@ -12,9 +12,8 @@ Están diseñados para circular libremente tanto dentro como fuera del juego. Pu
 
 Su funcionalidad principal se centra en dos ámbitos:
 
-- **Liquidez económica**: los jugadores utilizan MegaCréditos para financiar sus operaciones, sostener sus corporaciones, contratar servicios, participar en mercados y acceder a funcionalidades clave del sistema.
-  
-- **Stake institucional**: el sistema permite que los MegaCréditos se bloqueen como respaldo económico para determinadas entidades políticas —principalmente _Lealtades_ e _Instituciones_— controladas por la IA. La cantidad en stake afecta a la legitimidad, capacidad de actuación y persistencia de dichas entidades dentro del universo simulado.
+* **Liquidez económica**: los jugadores utilizan MegaCréditos para financiar sus operaciones, sostener sus corporaciones, contratar servicios, participar en mercados y acceder a funcionalidades clave del sistema.
+* **Stake institucional**: el sistema permite que los MegaCréditos se bloqueen como respaldo económico para determinadas entidades políticas —principalmente _Lealtades_ e _Instituciones_— controladas por la IA. La cantidad en stake afecta a la legitimidad, capacidad de actuación y persistencia de dichas entidades dentro del universo simulado.
 
 Los MegaCréditos no representan una divisa aislada o ficticia: son tokens SPL estándar, emitidos con tecnología verificable, y con interoperabilidad completa en la red Solana. Esto permite que su valor, circulación y custodia estén sujetos a los mismos principios que cualquier otro activo sobre la red, pero regulados por contratos específicos dentro del sistema de juego.
 
