@@ -44,7 +44,17 @@ El sistema reconoce esa huella como un respaldo mínimo real y no permitimos que
 
 ## Función en la simulación
 
-Las RU permiten cuantificar de forma abstracta el peso económico de cada región, el valor objetivo de ciertos eventos históricos y la prioridad relativa en procesos de replicación, escaneo, migración o degradación planetaria.
+Las RU representan el peso estructural de un mundo dentro del universo simulado.
+
+Emergen directamente del valor del mundo en el sistema: un mundo con UWP _Importante_ vincula rutas de salto principales que generan actividad.
+
+Actividad que, a su vez se preve generará mayor carga de datos —ATA, PDA, almacenamiento... simplificando: _rent_.
+
+A mayor carga de _rent_ vinculada en un mundo, mayor es la cantidad de SOL depositada.
+
+SOL que **respalda** las cantidades de RU asignadas al mundo.
+
+Este sistema permite emplear RU para cuantificar de forma abstracta el peso económico de cada región, el valor objetivo de ciertos eventos históricos y la prioridad relativa en procesos de replicación, escaneo, migración o degradación planetaria.
 
 También sirven como **memoria estructural** en escenarios de _Larga Noche_: si un mundo se desconecta, sus RU siguen existiendo y pueden ser reactivadas al restaurar su estado desde la misma derivación lógica (misma PDA).
 
@@ -56,7 +66,7 @@ Distribuir —o redistribuir— RU requiere **eventos de escala mayor**: la expa
 
 Las RU dispnibles existen en su totalidad: el numero de RU emitidos es el máximo permitido por la red Solana.
 
-`u64::MAX = 18,446,744,073,709,551,615` es el total de RU disponibles en la galáxia.
+`u64::MAX = 18,446,744,073,709,551,615` → es el total de RU disponibles en la galáxia.
 
 Los calculos actuales estiman una poblacion estelar en la via lactea con cifras de entre:
 
@@ -68,10 +78,14 @@ $$
 \frac{18,\!446,\!744,\!073,\!709,\!551,\!615\ \text{RU}}{400,\!000,\!000,\!000\ \text{estrellas}} \approx 46,\!116\ \text{RU/estrella}
 $$
 
-Tomando ese numero de $$46,\!116\ \text{RU/estrella}$$ y consideramos una media aproximada de entre `5` y `8` planetas $$\approx 6.5 \text{planetas/estrella}$$ 
+Tomando ese numero de $$46,\!116\ \text{RU/estrella}$$ y asumimos una media aproximada de entre `5` y `8` planetas $$\approx 6.5 \text{planetas/estrella}$$ 
 
 $$
 \frac{46,\!116\ \text{RU/estrella}}{6.5\ \text{planetas/estrella}} \approx 7,\!094\ \text{RU/planeta}
 $$
 
+> CASUALMENTE: Un resultado muy aproximado a los 'máximos relativos' que se dan en la version de Marc Miller's Traveller™ —5ª Edición.\
+> —...y si, de un modo u otro, todo el material de Traveller™ ha servido de inspiración para cada uno de las etapas del diseño de **The Corporate Wars**
+
+Este numero de RU 'por planeta' nos garantiza que cada **mundo** —abstracción de sistema estelar— de la galaxia dispone de suficientes RU —$$\approx 46,\!116\ \text{RU/mundo}$$— como para ser explotado intensivamente en Niveles Tecnologicos muy superiores —_anillos y esferas Dyson_—, sin sobrepasar el limite permitido por la red.
 
