@@ -31,11 +31,11 @@ El DSI opera tanto dentro como fuera del territorio imperial.
 
 Sus agentes �frecuentemente encubiertos o camuflados en otras instituciones� monitorizan a nobles, corporaciones, gobiernos locales e incluso otras agencias imperiales.
 
-All� donde haya riesgo de corrupci�n, sedici�n o fuga de datos estrat�gicos, el DSI puede intervenir sin previo aviso.
+All� donde haya riesgo de corrupción, sedición o fuga de datos estratégicos, el DSI puede intervenir sin previo aviso.
 
-Si bien el Departamento responde directamente al Emperador, muchas de sus operaciones quedan en manos de **c�lulas descentralizadas**, con altos niveles de autonom�a operativa y acceso a canales de comunicaci�n restringidos, muchas veces desfasados o deliberadamente aislados para dar continuidad de contexto a los agentes.
+Si bien el Departamento responde directamente al Emperador, muchas de sus operaciones quedan en manos de **c�lulas descentralizadas**, con altos niveles de autonomía operativa y acceso a canales de comunicación restringidos, muchas veces desfasados o deliberadamente aislados para dar continuidad de contexto a los agentes.
 
-El Departamento tambi�n mantiene relaciones complejas con organizaciones extranjeras: desde operaciones de contrainteligencia en territorios Zhodani hasta infiltraciones en redes criminales Vargr, pasando por silenciosas guerras informativas contra clanes corporativos independientes.
+El Departamento también mantiene relaciones complejas con organizaciones extranjeras: desde operaciones de contrainteligencia en territorios Zhodani hasta infiltraciones en redes criminales Vargr, pasando por silenciosas guerras informativas contra clanes corporativos independientes.
 
 ***
 
@@ -45,10 +45,10 @@ En **The Corporate Wars**, el Departamento de Seguridad Imperial es una figura a
 
 Puede actuar como perseguidor implacable, patr�n encubierto o fuente privilegiada de inteligencia �seg�n c�mo los jugadores se posicionen frente a la autoridad imperial.
 
-Colaborar con el DSI puede otorgar acceso a informaci�n clasificada, rutas protegidas o inmunidad temporal.
+Colaborar con el DSI puede otorgar acceso a información clasificada, rutas protegidas o inmunidad temporal.
 
-Pero tambi�n implica escrutinio, riesgos pol�ticos y el peligro constante de verse utilizados como peones en operaciones de alto secreto.
+Pero también implica escrutinio, riesgos políticos y el peligro constante de verse utilizados como peones en operaciones de alto secreto.
 
 Ignorar su existencia no lo hace desaparecer; de hecho, las corporaciones que más prosperan suelen ser aquellas que entienden **cu�ndo colaborar, cu�ndo resistir� y cu�ndo desaparecer de los registros**.
 
-En el Imperio, la informaci�n es poder. Y el DSI decide qui�n la tiene.
+En el Imperio, la información es poder. Y el DSI decide qui�n la tiene.

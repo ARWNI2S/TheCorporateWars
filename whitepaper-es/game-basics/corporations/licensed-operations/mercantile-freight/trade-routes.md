@@ -25,9 +25,9 @@ layout:
 
 En el comercio interestelar, cada carga tiene su urgencia, su valor y su destino.
 
-Los agentes y corredores no operan como simples intermediarios: son operadores log�sticos de alta especialización, capaces de gestionar flujos de mercanc�as en entornos din�micos y vol�tiles.
+Los agentes y corredores no operan como simples intermediarios: son operadores logísticos de alta especialización, capaces de gestionar flujos de mercancías en entornos din�micos y volútiles.
 
-Un cargamento de piezas cr�ticas debe llegar antes de que se detenga una cadena de producci�n.
+Un cargamento de piezas cr�ticas debe llegar antes de que se detenga una cadena de producción.
 
 Una remesa de alimentos perecederos debe redirigirse ante un bloqueo orbital.
 
@@ -35,7 +35,7 @@ Un lote de bienes restringidos debe cruzar zonas grises sin levantar sospechas.
 
 En cada caso, el corredor adecuado no solo encuentra la nave correcta, sino el momento preciso, la ruta posible y la tarifa viable.
 
-Estos agentes viven conectados a flotas, puertos, corredores de tr�nsito y alertas pol�ticas.
+Estos agentes viven conectados a flotas, puertos, corredores de tránsito y alertas políticas.
 
 Recalibran rutas en tiempo real, desv�an transportes sobre la marcha y redistribuyen cargas para minimizar p�rdidas y maximizar eficiencia.
 

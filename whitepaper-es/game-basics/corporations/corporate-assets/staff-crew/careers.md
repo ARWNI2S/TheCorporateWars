@@ -25,10 +25,10 @@ layout:
 
 Algunos individuos destacan más all� del personal común: son personajes con historia, trayectoria y capacidades definidas.
 
-Estos activos espec�ficos de la corporaci�n provienen de carreras profesionales reconocidas en instituciones alineadas con una _Lealtad_ concreta.
+Estos activos espec�ficos de la corporación provienen de carreras profesionales reconocidas en instituciones alineadas con una _Lealtad_ concreta.
 
-Cada carrera profesional �militar, t�cnica, cient�fica, ejecutiva, m�dica o especializada� confiere un conjunto de habilidades, redes de contacto y caracter�sticas personales que los convierten en piezas clave para operaciones sensibles o estrat�gicas.
+Cada carrera profesional �militar, técnica, cient�fica, ejecutiva, m�dica o especializada� confiere un conjunto de habilidades, redes de contacto y caracter�sticas personales que los convierten en piezas clave para operaciones sensibles o estratégicas.
 
 Reclutar un personaje con experiencia en una carrera concreta no solo mejora el rendimiento en su �rea de competencia, sino que puede desbloquear nuevas opciones t�cticas, contractuales o de desarrollo dentro del juego.
 
-Su origen, formaci�n y fidelidad ideol�gica pueden suponer tanto una ventaja como un riesgo, dependiendo del entorno pol�tico y la alineaci�n corporativa.
+Su origen, formación y fidelidad ideol�gica pueden suponer tanto una ventaja como un riesgo, dependiendo del entorno político y la alineación corporativa.

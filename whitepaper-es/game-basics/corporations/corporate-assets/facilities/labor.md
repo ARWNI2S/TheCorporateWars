@@ -23,18 +23,18 @@ layout:
 
 # Fuerza Laboral
 
-Toda instalación operativa necesita una fuerza laboral compuesta, ya sea por personal humano, alien�gena o incluso sistemas automatizados.
+Toda instalación operativa necesita una fuerza laboral compuesta, ya sea por personal humano, alienígena o incluso sistemas automatizados.
 
-La fuerza laboral es uno de los pilares del rendimiento industrial y operativo de una corporaci�n, pero tambi�n representa un coste econ�mico, log�stico y pol�tico significativo.
+La fuerza laboral es uno de los pilares del rendimiento industrial y operativo de una corporación, pero también representa un coste económico, logístico y político significativo.
 
 No basta con contratar trabajadores.
 
-Cada gobierno local impone normativas laborales, cargas fiscales o requisitos legales que afectan tanto al n�mero como al tipo de empleados que pueden ser desplegados.
+Cada gobierno local impone normativas laborales, cargas fiscales o requisitos legales que afectan tanto al número como al tipo de empleados que pueden ser desplegados.
 
-En zonas con fuerte regulaci�n o presencia sindical, la negociaci�n con las autoridades puede determinar el acceso a personal cualificado.
+En zonas con fuerte regulación o presencia sindical, la negociación con las autoridades puede determinar el acceso a personal cualificado.
 
 Las herramientas, la maquinaria y el entorno influyen directamente en la eficiencia laboral.
 
-Un personal bien entrenado con el equipamiento adecuado puede multiplicar la producci�n o mantener sistemas cr�ticos bajo presi�n.
+Un personal bien entrenado con el equipamiento adecuado puede multiplicar la producción o mantener sistemas críticos bajo presión.
 
-Equilibrar el coste de mantenimiento, la estabilidad social del entorno y el rendimiento econ�mico de la fuerza laboral es una de las claves de la gesti�n de instalaciones.
+Equilibrar el coste de mantenimiento, la estabilidad social del entorno y el rendimiento económico de la fuerza laboral es una de las claves de la gestión de instalaciones.

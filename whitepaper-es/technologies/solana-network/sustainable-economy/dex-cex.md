@@ -6,11 +6,11 @@ coverY: 0
 
 # Mercados Externos
 
-Aunque **The Corporate Wars** se apoya en tecnolog�a blockchain y tokens SPL, la finalidad del proyecto **no** es listar el MCr, ni otras divisas del sistema, en mercados descentralizados (DEX) o centralizados (CEX).
+Aunque **The Corporate Wars** se apoya en tecnología blockchain y tokens SPL, la finalidad del proyecto **no** es listar el MCr, ni otras divisas del sistema, en mercados descentralizados (DEX) o centralizados (CEX).
 
-El sistema econ�mico est� dise�ado para operar internamente, sin depender de liquidez externa ni de flujos especulativos.
+El sistema económico está diseñado para operar internamente, sin depender de liquidez externa ni de flujos especulativos.
 
-La prioridad es desarrollar un entorno jugable completo, con profundidad t�cnica, mec�nicas consistentes y contenido de calidad.
+La prioridad es desarrollar un entorno jugable completo, con profundidad técnica, mec�nicas consistentes y contenido de calidad.
 
 Dicho esto, si la participación comunitaria lo permite y el proyecto alcanza una escala suficiente, se evaluar� la posibilidad de habilitar mercados secundarios.
 
@@ -20,13 +20,13 @@ Sin embargo, los costes asociados a ese tipo de operaciones son significativos.
 
 Establecer un pool de liquidez en condiciones reales requiere cantidades m�nimas del orden de 50.000, 100.000 o incluso 200.000 USD en activos bloqueados.
 
-Esto no tiene sentido en una fase temprana, donde esos mismos recursos podr�an destinarse al desarrollo del sistema, la producci�n de contenido, la mejora t�cnica o la expansi�n funcional.
+Esto no tiene sentido en una fase temprana, donde esos mismos recursos podr�an destinarse al desarrollo del sistema, la producción de contenido, la mejora técnica o la expansi�n funcional.
 
-El coste t�cnico de emitir 1 MCr o 1.000.000 MCr es pr�cticamente el mismo, pero la liquidez real requiere respaldo, volumen y responsabilidad.
+El coste técnico de emitir 1 MCr o 1.000.000 MCr es pr�cticamente el mismo, pero la liquidez real requiere respaldo, volumen y responsabilidad.
 
-No se puede justificar desviar fondos cr�ticos hacia un pool externo si eso compromete el ritmo de construcci�n del juego.
+No se puede justificar desviar fondos críticos hacia un pool externo si eso compromete el ritmo de construcción del juego.
 
-La posibilidad est� sobre la mesa, pero su ejecuci�n depender� completamente del nivel de participaci�n, apoyo y sostenibilidad alcanzado por el proyecto.
+La posibilidad está sobre la mesa, pero su ejecución depender� completamente del nivel de participación, apoyo y sostenibilidad alcanzado por el proyecto.
 
 A más contribuciones, más capacidad de equilibrar juego y liquidez.
 

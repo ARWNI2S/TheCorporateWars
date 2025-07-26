@@ -25,25 +25,25 @@ layout:
 
 El Ministerio de Justicia Imperial es la institución responsable de aplicar y garantizar la ley imperial en todo el espacio controlado por el Tercer Imperio.
 
-A diferencia de las cortes locales �que juzgan conforme a sus propias leyes planetarias�, el Ministerio act�a como **autoridad supralegal**, encargada de resolver disputas interestelares, casos de jurisdicci�n imperial y conflictos que trascienden el �mbito de un solo mundo.
+A diferencia de las cortes locales �que juzgan conforme a sus propias leyes planetarias�, el Ministerio act�a como **autoridad supralegal**, encargada de resolver disputas interestelares, casos de jurisdicción imperial y conflictos que trascienden el �mbito de un solo mundo.
 
 El Ministerio no mantiene un sistema de tribunales f�sicos en todos los mundos.
 
 En su lugar, opera a trav�s de una red de **agentes imperiales con autoridad judicial** que pueden actuar como fiscales, jueces itinerantes o �rbitros legales en nombre del Emperador.
 
-Estos agentes son, en muchos casos, tambi�n oficiales de la Armada Imperial, agentes del Departamento de Seguridad o representantes del Trono en situaciones delicadas.
+Estos agentes son, en muchos casos, también oficiales de la Armada Imperial, agentes del Departamento de Seguridad o representantes del Trono en situaciones delicadas.
 
-Una de sus funciones clave es la **resoluci�n de litigios entre mundos, nobles, corporaciones o instituciones imperiales**.
+Una de sus funciones clave es la **resolución de litigios entre mundos, nobles, corporaciones o instituciones imperiales**.
 
-Desde reclamaciones sobre contratos de transporte hasta disputas sobre derechos de explotaci�n, cualquier conflicto de car�cter interestelar puede ser elevado ante el Ministerio.
+Desde reclamaciones sobre contratos de transporte hasta disputas sobre derechos de explotación, cualquier conflicto de car�cter interestelar puede ser elevado ante el Ministerio.
 
-Adem�s, el Ministerio administra un **sistema de apelaciones y reclamaciones**, mediante el cual ciudadanos imperiales, corporaciones o incluso gobiernos planetarios pueden solicitar revisi�n de decisiones locales si consideran que se vulneran sus derechos imperiales.
+Además, el Ministerio administra un **sistema de apelaciones y reclamaciones**, mediante el cual ciudadanos imperiales, corporaciones o incluso gobiernos planetarios pueden solicitar revisi�n de decisiones locales si consideran que se vulneran sus derechos imperiales.
 
 ***
 
 ## El Ministerio de Justicia en el Juego
 
-El Ministerio de Justicia ofrece una herramienta narrativa de gran alcance. Los jugadores (incluida la IA) pueden recurrir a esta instituci�n para apelar decisiones planetarias, presentar demandas contra entidades poderosas o buscar inmunidad, arbitraje o respaldo legal en situaciones de crisis.
+El Ministerio de Justicia ofrece una herramienta narrativa de gran alcance. Los jugadores (incluida la IA) pueden recurrir a esta institución para apelar decisiones planetarias, presentar demandas contra entidades poderosas o buscar inmunidad, arbitraje o respaldo legal en situaciones de crisis.
 
 Puede ser un aliado burocr�tico, un obst�culo inflexible o una espada legal que cae sin previo aviso.
 
