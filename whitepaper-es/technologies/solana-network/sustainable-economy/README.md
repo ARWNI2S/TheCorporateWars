@@ -16,33 +16,6 @@ Durante todo el ciclo de vida de un videojuego —salvo quizás en las fases ini
 
 Esto implica que la economía del sistema —tanto en términos de funcionamiento interno del juego, como de operación técnica— debe ser capaz de financiarse a sí misma sin necesidad de métodos especulativos.
 
-### Realidad Económica
-
-Páginas web, servicios de identidad, bases de datos, en internet todo puede ser gratuito mientras _solo lo uses tú_, pero en el momento en el que necesitas _servir a usuarios_, por pocos que sean, las subscripciones gratuitas no son capaces de absorver ni una fracción del tráfico entrante, creando cuellos de botella y fallos de red.
-
-Ademas los servidores de juego requiren de capacidad de respuesta con latencias minimas a (ojalá) miles de usuarios, que al mismo tiempo esperan un funcionamiento **perfecto** del sistema; lo que implica orquestación y replica para evitar caidas, hubs de redirección geografica y un incremento progresivo de servicios integrados al sistema.
-
-Aunque se diseñen mecanismos de automatización con precisión, no existe un _metodo milagroso estandar_ que libere completamente a un sistema de mantenimiento y supervisión humano; administracion y soporte tecnico, seran necesarios para garantizar la calidad del servicio.
-
-Finalmente, cada acción en la red Solana, desde desplegar un programa hasta almacenar el estado de un sistema planetario, incurre en costes: comisiones de red (_fees_) y depósitos de almacenamiento (_rent_).
-
-### El '_Rent_' de las _Narices_.
-
-A diferencia de otras blockchains donde los costes se asumen una vez al desplegar el programa, en Solana cada cuenta debe mantener una cantidad mínima de SOL como "depósito" (_rent_) proporcional a su tamaño, o será eliminada automáticamente de la red.
-
-Si este depósito cubre el coste de 2 años de _rent_, la cuenta se considera _rent-exempt_ y no se elimina.
-
-> Para cada cuenta en Solana —ya sea de usuario, de programa, PDA o cuenta de datos— hay que depositar el _rent_, proporcional al número de bytes ocupados.\
-> Cuanto más grande sea el estado, mayor el depósito.
-
-Tambien existe el _cierre_ de cuentas **controlado**, que permite recuperar el _rent_; aunque este mecanismo se tiene que implementar en cada programa de forma especifica.
-
-Esto se vuelve especialmente relevante en un sistema como **The Corporate Wars**, donde pretendemos desplegar estructuras de información complejas: planetas, sectores, rutas comerciales, holdings corporativos...
-
-El almacenamiento sin optimización puede llegar a costar 0.3 SOL por sistema estelar o más, volviendo inviable el escalado a un sector galáctico o una red de 11.000 mundos.
-
-***
-
 ## Sostenibilidad económica real
 
 El volumen de requisitos de mantenimiento y operación, no es ni mucho menos infinito, sino cuantificable y escalable: la actividad real de los usuarios determina las necesidades actuales del sistema.
