@@ -8,7 +8,7 @@ Históricamente Milieu 0 representa el punto de inicio de la expansión del Terc
 
 > Es el periodo inmediatamente posterior a su fundación, cuando Cleon Zhunastu, el Primer Emperador, unifica los mundos heredados de un Ziru Sirka 'reunificado' y comienza a consolidar poder real sobre una galaxia fragmentada.
 
-Es una época de exploración, diplomacia, construcci�n de infraestructura, establecimiento de rutas de comunicaci�n y negociaci�n de lealtades con sectores y mundos perif�ricos, marcando las bases sobre las que el Imperio crecer� durante los siguientes mil a�os.
+Es una época de exploración, diplomacia, construcción de infraestructura, establecimiento de rutas de comunicación y negociación de lealtades con sectores y mundos periféricos, marcando las bases sobre las que el Imperio crecerá durante los siguientes mil años.
 
 ### Despliegue Inicial
 
