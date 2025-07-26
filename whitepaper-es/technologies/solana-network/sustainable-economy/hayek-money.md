@@ -10,13 +10,13 @@ La economía interestelar de **The Corporate Wars** descansa sobre mecanismos de
 
 Desde una perspectiva técnica, estos sistemas permiten ajustar dinámicamente la base monetaria galáctica, manteniendo el poder adquisitivo del MegaCrédito (MCr) frente a fluctuaciones agregadas, sin intervención manual ni autoridad centralizada.
 
-Esto se traduce en un ecosistema de simulación económica donde la estabilidad monetaria es un telón de fondo fiable: una base invisible sobre la que jugadores, corporaciones e instituciones pueden construir, competir y evolucionar.
-
-No es un mecanismo jugable directo ni un recurso explotable: es el suelo sobre el que el universo entero respira.
+Esto se traduce en un ecosistema de simulación económica donde la estabilidad monetaria es un telón de fondo fiable: una base sólida y visible sobre la que jugadores, corporaciones e instituciones pueden construir, competir y evolucionar.
 
 {% hint style="danger" %}
 Los tokens estabilizados algorítmicamente son tecnología experimental, en desarrollo, y aunque existe una amplia base teórica, hay pocos ejemplos prácticos.\
-El supuesto "riesgo" de los proyectos de **stablecoin algorítmicas** y similares es, en términos prácticos, comparable al de participar en el mercado de una memecoin: se percibe como mayor porque no existe la capitalización piramidal característica de tokens sin un proyecto con costes reales.
+El **supuesto** _riesgo_ de los proyectos de **stablecoin algorítmicas** y similares es, en términos prácticos, comparable al de participar en el mercado de cualquier criptomoneda: se percibe como mayor porque no existe la capitalización piramidal característica de tokens sin un proyecto con costes reales.
+
+El beneficio, es el _éxito_ del proyecto, **no una promesa de rentabilidad** (que solo se podría garantizar mediante sistema de aportaciones piramidales).
 {% endhint %}
 
 ***
@@ -25,7 +25,7 @@ El supuesto "riesgo" de los proyectos de **stablecoin algorítmicas** y similare
 
 El núcleo económico del juego está diseñado para imitar el comportamiento realista de los mercados, donde la coordinación entre actores no depende de una autoridad central, sino de señales distribuidas como los precios.
 
-**The Corporate Wars** simula cómo estas señales surgen, se deforman por retardos informativos y generan oportunidades tanto para la cooperación como para la competencia entre jugadores.
+En **The Corporate Wars** estas señales surgen a partir de la interacción de los jugadores, se deforman por retardos informativos y generan oportunidades tanto para la cooperación como para la competencia entre jugadores.
 
 ### Modelo hayekiano
 
@@ -34,13 +34,13 @@ Inspirado en los principios económicos de F. A. Hayek, **The Corporate Wars** r
 No existe un equilibrio global predefinido: cada sistema estelar reacciona a su propia oferta y demanda, generando un entorno donde los ajustes son constantes, parciales y sujetos a las condiciones del entorno.
 
 {% hint style="success" %}
-Este enfoque encaja perfectamente con la filosofía monetaria del Tercer Imperio, heredera directa de las prácticas vilani de la Ziru Sirka.\
-El Imperio no busca imponer un control centralizado absoluto, sino mantener un marco de referencia común —como el MegaCrédito (MCr)— que permita a mundos diversos interactuar, comerciar y competir bajo una misma arquitectura económica.
+Este enfoque encaja perfectamente con la filosofía monetaria del Tercer Imperio, heredera directa de las prácticas vilani de la Ziru Sirka, y alineada con el Mercado de Valores Interestelar.\
+Las _Lealtades_ no buscan imponer un control centralizado absoluto, sino mantener un marco de referencia común —como el MegaCrédito (MCr)— que permita a mundos diversos interactuar, comerciar y competir bajo arquitecturas económicas compatibles.
 {% endhint %}
 
 ### Flujos de mercado
 
-En el corazón de la economía galáctica están las rutas comerciales, que canalizan no solo mercancías, sino precios, señales, **información**.
+En el corazón de la economía interestelar están las rutas comerciales, que canalizan mercancías y precios como las **señales informativas** del sistema.
 
 Las corrientes económicas que inspiran este modelo —descentralizadas, autorreguladas, alternativas a las escuelas de control centralizado— sostienen que no es necesario intervenir en cada nodo del sistema.
 
@@ -58,7 +58,7 @@ Las alteraciones en cualquier nodo —ya sean productivas, políticas o tecnoló
 
 Este tipo de propagación no persigue homogenizar los estados ni alcanzar un equilibrio uniforme.
 
-Lo que emerge es un **equilibrio sintético**: un estado dinámico de ajuste continuo, en el que las tensiones locales se redistribuyen a través de la red, permitiendo al conjunto mantener un balance operativo óptimo.
+Lo que emerge es un **equilibrio sintético**: un estado dinámico de ajuste continuo, en el que las tensiones locales se redistribuyen a través de la red, permitiendo al conjunto mantener un _balance operativo óptimo_ dentro del juego de suma cero.
 
 A mayor densidad y conectividad, mayor es la capacidad del sistema para absorber perturbaciones locales, amortiguar efectos sistémicos y generar espacio para la aparición de nuevas configuraciones económicas.
 

@@ -31,7 +31,7 @@ Aunque las grandes _Lealtades_ controlan amplios territorios, estas organizacion
 
 Algunas de estas instituciones han surgido como consecuencia de acuerdos entre múltiples gobiernos, estableciendo normas para el comercio, la exploración y la intervención militar en zonas disputadas.
 
-Otras operan con un mandato corporativo, regulando los contratos, arbitrajes y estándares industriales para garantizar la interoperabilidad en la economía galáctica.
+Otras operan con un mandato corporativo, regulando los contratos, arbitrajes y estándares industriales para garantizar la interoperabilidad en la economía interestelar.
 
 Su grado de autoridad varía según la región, y en algunos casos, son poco más que figuras simbólicas sin capacidad real de hacer cumplir sus regulaciones.
 

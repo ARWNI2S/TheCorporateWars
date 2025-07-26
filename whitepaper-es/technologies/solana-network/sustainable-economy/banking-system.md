@@ -6,9 +6,9 @@ coverY: 0
 
 # Sistemas Financieros
 
-El sistema financiero de _The Corporate Wars_ se estructura sobre un modelo descentralizado de **reserva de valor&#x20;**_**simulada**_, representado por los _stacks_ de **MegaCréditos (MCr)** en la red Solana.
+El sistema financiero de _The Corporate Wars_ se estructura sobre un modelo descentralizado de **reserva de valor** _**simulada**_, representado por los _stacks_ de **MegaCréditos (MCr)** en la red Solana.
 
-Cada _Política_ (facción, institución o entidad, jugable o controlada por la IA) mantiene **reservas activas de MCr** asociadas a su Lealtad.
+Cada _Política_ (facción, institución o entidad, jugable o controlada por la IA) mantiene **reservas activas de MCr** asociadas a las mecanicas de _Tesorería_ de las _Lealtades_ suscritas.
 
 Estas reservas determinan su:
 
@@ -16,51 +16,36 @@ Estas reservas determinan su:
 * Poder de influencia dentro de su red,
 * Acceso a licencias, espacios comerciales y canales prioritarios.
 
-Las **Lealtades** (Alliegances) operan como marcos económicos supra-institucionales.
+### Instituciones simuladas
 
-Cada una establece su propia **doctrina financiera**:
+El sistema de Gobernanza Multicapa basado en _Políticas_ permite a las **Lealtades** operar como marcos económicos supra-institucionales.
 
-* Algunas mantienen una **política de estabilidad algorítmica** (como el Tercer Imperio, con su banca imperial respaldando el MCr).
-* Otras adoptan sistemas de emisión dual (MCr + token local, como las repúblicas comerciales).
+Cada una establece su propia **doctrina financiera** regulada —o no— por una o más _Políticas Institucionales_ cuya interaccion —o ausencia de ella— modela dinamicas jugables:
+
+* Algunas mantienen una **estabilidad algorítmica** (como el Tercer Imperio, con la Tesoreria Imperial y el Ministerio de Comercio respaldando el MCr).
+* Otras, como los estados cliente, adoptan sistemas de emisión dual (MCr + token local).
 * Y otras simplemente se rigen por el flujo de reservas disponibles, sin ninguna garantía de respaldo, absorbiendo así la volatilidad del entorno.
 
-### Multipolaridad monetaria
+Los jugadores interactúan con el sistema financiero a través de la jugabilidad que ofrecen las _Instituciones_: reservas, staking y contratos explícitamente gobernados por inteligencia artificial.
 
-El **MCr** es un token SPL real desplegado sobre la red Solana, adoptado por el **Tercer Imperio** como divisa oficial, pero originalmente definido y emitido por el **ISE (Interstellar Stock Exchange)** como unidad estándar de valor interestelar.
-
-Aunque el MCr funciona como **reserva de valor común** y referencia técnica para contratos, **no es obligatorio**. Ninguna Lealtad está forzada a utilizarlo, y muchas mantienen o emiten su propia divisa con políticas monetarias independientes.
-
-En muchos mundos, especialmente aquellos con bajo nivel tecnológico (TL<6) o en retroceso económico, **emergen monedas alternativas**: desde créditos locales físicos hasta tokens regionales respaldados por recursos, minería, cultos o deuda colonial.
-
-Estas divisas pueden:
-
-* Convertirse parcialmente a MCr mediante contratos inteligentes con tasas de cambio variables.
-* Estar sujetas a restricciones, controles de cambio o mercados negros.
-* Ser aceptadas o rechazadas dinámicamente por otras _Políticas_, según contexto, reputación o alineamiento estratégico.
-
-> El ecosistema financiero de _The Corporate Wars_ no impone un patrón único.\
-> **Cada entidad define su política monetaria según sus recursos, su doctrina económica y su posición en el tablero galáctico.**
-
-***
-
-## Instituciones simuladas y control invisible
-
-Aunque los jugadores interactúan con el sistema financiero a través de reservas, staking y contratos explícitos, **la arquitectura monetaria del juego incluye un subsistema invisible**: una red de **instituciones simuladas** gobernadas por inteligencia artificial.
-
-Estas entidades —bancos regionales, fondos imperiales, agencias de estabilización, cámaras de compensación, etc.— no tienen interfaz directa, pero existen en el modelo económico y afectan:
+Estas entidades —bancos regionales, fondos imperiales, agencias de estabilización, cámaras de compensación, etc.— tienen interfaz directa o indirecta, existen en el modelo económico y afectan a sistemas como:
 
 * La distribución silenciosa del MCr,
 * La liquidez regional,
 * La aparición de crédito endógeno,
 * El rescate indirecto de sectores clave,
-* Y la amortiguación de shocks sistémicos.
+* Y la amortiguación de shocks sistémicos —por ejemplo, estabilizando regiones afectadas por guerras, éxodos o fallos de producción.
 
-El sistema está diseñado para que la IA **reaccione a los desequilibrios agregados** del universo simulado: si una región entra en colapso, puede recibir fondos invisibles; si una Lealtad acumula excesivo poder financiero, puede verse sometida a presiones difusas o drenajes sutiles.
+Aunque algunas _políticas_, como **bancos coloniales** o **fondos de inversión**, pueden ser operadas por jugadores con suficiente respaldo político y económico; el sistema está diseñado para que la IA **reaccione a los desequilibrios agregados** del universo simulado como eventos jugables y escalables.
 
-Esta lógica **no es tramposa**: es estructural, verificable desde los efectos agregados y coherente con las reglas del universo.
+La escala de la simulación permite a las grandes _Lealtades_ controladas por la IA absorber el impacto de la actividad de los jugadores y distribuirla de forma realista mediante la estabilizacion algoritmica del sistema.
+
+Esta lógica es estructural, verificable desde los efectos agregados y coherente con la escala y las reglas del universo de juego.
 
 > Como en los mercados reales, el jugador nunca ve la totalidad del sistema:\
-> solo interpreta sus señales, reacciona a sus síntomas y aprende a jugar con la incertidumbre.
+> interpreta señales, reacciona a eventos y aprende a jugar con la incertidumbre.
+
+***
 
 ### Reservas y riesgo
 
@@ -72,6 +57,8 @@ Los _stacks_ de MCr no solo otorgan poder: también imponen riesgo.
 
 Este modelo bancario emergente permite:
 
+* Free-to-Play mediante **subsidios económicos** y **líneas de crédito**.
 * Simular **ciclos financieros interestelares**.
 * Representar **crisis de liquidez**, defaults, rescates y recuperación.
 * Diseñar estrategias fiscales, de inversión y de manipulación monetaria dentro de un marco técnico verificable.
+

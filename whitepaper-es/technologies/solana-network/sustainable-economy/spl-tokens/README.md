@@ -20,3 +20,22 @@ Los tokens SPL se utilizan como instrumentos económicos versútiles. En funció
 Todos estos tokens comparten la misma infraestructura técnica: son activos SPL estándar sobre la red Solana. Sin embargo, su comportamiento está determinado por los contratos y políticas internas del juego, que definen qué se puede transferir, qué se puede intercambiar y qué solo tiene validez dentro del propio sistema.
 
 Esta arquitectura permite que el sistema económico simulado se mantenga coherente y verificable, sin romper la interoperabilidad técnica con el exterior.
+
+### Multipolaridad financiera
+
+El **MCr** es un token SPL real desplegado sobre la red Solana, y aunque funciona como **reserva de valor común** y referencia técnica para contratos entre _Lealtades_, **no es obligatorio**.
+
+Ninguna _Lealtad_ está forzada a utilizarlo, y muchas mantienen o emiten su propia divisa mediante _políticas_ monetarias independientes, que han de ser respaldadas por **MCr** para cualquier transaccion que dependa del Mercado de Valores Interestelar.
+
+Aunque el _Crédito Imperial_ es la divisa oficial del **Tercer Imperio**, esta se define originalmente en el **MCr** —un instrumento financiero del Mercado de Valores Interestelar— que respalda las transacciones economicas interestelares.
+
+En muchos mundos, especialmente aquellos con bajo nivel tecnológico (TL<6) o en retroceso económico, **emergen monedas alternativas**: desde créditos locales físicos hasta tokens regionales respaldados por recursos, minería, cultos o deuda colonial.
+
+Estas divisas pueden:
+
+* Convertirse parcialmente a MCr mediante contratos inteligentes con tasas de cambio variables.
+* Estar sujetas a restricciones, controles de cambio o mercados negros.
+* Ser aceptadas o rechazadas dinámicamente por otras _Políticas_, según contexto, reputación o alineamiento estratégico.
+
+> El ecosistema financiero de _The Corporate Wars_ no impone un patrón único.\
+> **Cada _Lealtad_ define su _Política_ monetaria según sus recursos, su doctrina económica y su posición en el tablero galáctico.**

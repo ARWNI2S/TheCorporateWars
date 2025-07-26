@@ -32,7 +32,7 @@ Desde estaciones orbitales de alta tecnología hasta rudimentarios puestos en la
 Algunos son enclaves de lujo, con instalaciones para la élite de la galaxia, mientras que otros son puntos de tránsito peligrosos, donde piratas y comerciantes dudosos se mezclan en busca de oportunidades.
 
 {% hint style="warning" %}
-La calidad y capacidad de un astropuerto determinan su relevancia dentro de la economía galáctica.
+La calidad y capacidad de un astropuerto determinan su relevancia dentro de la economía interestelar.
 {% endhint %}
 
 ***
