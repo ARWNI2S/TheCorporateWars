@@ -1,6 +1,6 @@
 ---
 icon: user-helmet-safety
-cover: ../../.gitbook/assets/TCW.jpg
+cover: ../../.gitbook/assets/tcw-game.jpg
 coverY: 0
 ---
 
