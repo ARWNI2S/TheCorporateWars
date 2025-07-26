@@ -56,7 +56,9 @@ Los calculos actuales estiman una poblacion estelar en la via lactea con cifras 
 
 Lo cual nos proporciona una media de:
 
-$$\frac{18,\!446,\!744,\!073,\!709,\!551,\!615\ \text{RU}}{400,\!000,\!000,\!000\ \text{estrellas}} \approx 46,\!116\ \text{RU por estrella}$$
+$$
+\frac{18,\!446,\!744,\!073,\!709,\!551,\!615\ \text{RU}}{400,\!000,\!000,\!000\ \text{estrellas}} \approx 46,\!116\ \text{RU por estrella}
+$$
 
 18,446,744,073,709,551,615 RU ÷ 400,000,000,000 estrellas
 ≈ 46,116 RU por estrella
