@@ -25,7 +25,7 @@ layout:
 
 El sistema de **Calidad, Fiabilidad, Manejabilidad, Estorbo y Seguridad** (CFMES) es un modelo estandarizado de evaluación y clasificación de productos ampliamente utilizado por la Comunidad Interestelar.
 
-M�s all� del nivel tecnológico, CFMES mide la experiencia real de uso de un producto: cu�nto dura, qu� tan f�cil es de usar, si genera residuos o problemas logísticos, y qu� tan seguro resulta para sus operadores o usuarios.
+M�s allá del nivel tecnológico, CFMES mide la experiencia real de uso de un producto: cu�nto dura, qu� tan f�cil es de usar, si genera residuos o problemas logísticos, y qu� tan seguro resulta para sus operadores o usuarios.
 
 Estos factores no solo afectan la calidad de vida y las condiciones laborales, sino también la eficiencia operativa, los costes de mantenimiento y la percepción p�blica de una marca.
 
@@ -33,4 +33,4 @@ Desde una cafetera de estación orbital hasta un sistema de navegación para cru
 
 En **The Corporate Wars**, mejorar las puntuaciones CFMES de un producto puede significar la diferencia entre un art�culo funcional y uno imprescindible.
 
-Las corporaciones que dominan esta m�trica no solo venden más, sino que definen estándares, acumulan licencias de producción y, en muchos casos, imponen su cultura tecnol�gica sobre mundos enteros.
+Las corporaciones que dominan esta m�trica no solo venden más, sino que definen estándares, acumulan licencias de producción y, en muchos casos, imponen su cultura tecnológica sobre mundos enteros.

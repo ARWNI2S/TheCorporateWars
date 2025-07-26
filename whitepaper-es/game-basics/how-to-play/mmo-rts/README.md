@@ -35,7 +35,7 @@ No hay turnos, no hay pausas: todo ocurre en tiempo real, y lo que no se vigila 
 
 A medida que las corporaciones expanden su red de operaciones, surgen inevitables zonas de fricción.
 
-Competencia por recursos estratégicos, disputas sobre rutas de salto, enfrentamientos por licencias exclusivas o diferencias ideol�gicas entre _Lealtades_ pueden derivar en conflictos abiertos o tensiones latentes.
+Competencia por recursos estratégicos, disputas sobre rutas de salto, enfrentamientos por licencias exclusivas o diferencias ideológicas entre _Lealtades_ pueden derivar en conflictos abiertos o tensiones latentes.
 
 Los sectores con mayor densidad de nodos económicos se convierten en puntos calientes, donde el equilibrio puede mantenerse mediante acuerdos... o romperse con una sola provocación.
 
@@ -47,7 +47,7 @@ Controlar un sistema puede equivaler a controlar un mensaje.
 
 ## Operaciones y Misiones
 
-M�s all� de la gestión de infraestructuras, el jugador puede desplegar agentes especializados para realizar operaciones puntuales: sabotajes, infiltraciones, negociaciones, escoltas, reconocimientos, manipulación informativa o recuperación de activos.
+M�s allá de la gestión de infraestructuras, el jugador puede desplegar agentes especializados para realizar operaciones puntuales: sabotajes, infiltraciones, negociaciones, escoltas, reconocimientos, manipulación informativa o recuperación de activos.
 
 Estas misiones se integran en tiempo real dentro del mapa estratégico, afectando directamente el curso de eventos.
 
@@ -57,4 +57,4 @@ Un sabotaje exitoso puede arruinar meses de logística rival.
 
 Las operaciones no son aleatorias: cada una responde a un contexto espec�fico, a una necesidad o a una oportunidad.
 
-La diferencia entre una corporación que sobrevive y una que lidera puede estar en una decisión t�ctica bien ejecutada en el momento exacto.
+La diferencia entre una corporación que sobrevive y una que lidera puede estar en una decisión téctica bien ejecutada en el momento exacto.

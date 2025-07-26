@@ -31,7 +31,7 @@ M�s que una universidad en el sentido moderno, es una **red de validación del
 
 Sus facultades no solo forman funcionarios, ingenieros y cient�ficos, sino también administradores, pilotos, diplom�ticos y agentes capaces de operar en entornos interplanetarios complejos.
 
-Además de su función formativa, la Universidad Imperial influye en el desarrollo tecnológico y social local: all� donde sus programas se implementan, los niveles de alfabetización tecnol�gica aumentan, mejoran las condiciones laborales y se eleva el **Tech Level** sin necesidad de importar tanto talento o infraestructura externa.
+Además de su función formativa, la Universidad Imperial influye en el desarrollo tecnológico y social local: allá donde sus programas se implementan, los niveles de alfabetización tecnológica aumentan, mejoran las condiciones laborales y se eleva el **Tech Level** sin necesidad de importar tanto talento o infraestructura externa.
 
 ***
 

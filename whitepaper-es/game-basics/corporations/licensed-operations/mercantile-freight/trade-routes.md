@@ -41,4 +41,4 @@ Recalibran rutas en tiempo real, desv�an transportes sobre la marcha y redistr
 
 En **The Corporate Wars**, operar sin un buen corredor es exponerse al caos.
 
-Confiar en uno �o convertirse en uno� puede ser la diferencia entre perder una inversi�n o controlar el flujo de bienes de un sistema entero.
+Confiar en uno �o convertirse en uno� puede ser la diferencia entre perder una inversión o controlar el flujo de bienes de un sistema entero.

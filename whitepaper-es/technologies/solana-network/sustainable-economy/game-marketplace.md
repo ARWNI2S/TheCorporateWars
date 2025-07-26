@@ -16,14 +16,14 @@ Cada adquisición tiene un lugar, un coste y un efecto dentro del equilibrio del
 
 No existen compras directas de moneda ni atajos predefinidos.
 
-La entrada de recursos al sistema se produce a trav�s de medios integrados en el gameplay y justificados en el mundo: concesiones, acuerdos institucionales, inversi�n encubierta, respaldo estratégico o participación en estructuras preexistentes.
+La entrada de recursos al sistema se produce a trav�s de medios integrados en el gameplay y justificados en el mundo: concesiones, acuerdos institucionales, inversión encubierta, respaldo estratégico o participación en estructuras preexistentes.
 
 Esto permite que el mercado no funcione como una fuente de ventajas arbitrarias, sino como una capa más de interacción econ�mica.
 
-Las oportunidades están  ah�, pero su impacto depende del contexto, del momento y de c�mo se gestionan dentro del sistema.
+Las oportunidades están  ah�, pero su impacto depende del contexto, del momento y de cómo se gestionan dentro del sistema.
 
 El universo está diseñado para escalar, pero las proporciones importan.
 
 Alcanzar niveles de operación comparables a grandes estructuras gal�cticas no es imposible, pero requiere visi�n, coordinación y persistencia en m�ltiples frentes.
 
-Lo importante no es cu�nto se adquiere, sino c�mo se integra dentro de un ecosistema que responde, se ajusta y evoluciona con cada movimiento.
+Lo importante no es cu�nto se adquiere, sino cómo se integra dentro de un ecosistema que responde, se ajusta y evoluciona con cada movimiento.

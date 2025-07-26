@@ -27,7 +27,7 @@ El comercio interestelar conecta economías, culturas y estrategias corporativas
 
 Las corporaciones especializadas operan redes de transporte, logística y cambio, negociando bienes comunes, ex�ticos o estratégicos.
 
-Un mercado rentable exige visi�n t�ctica, adaptación y equilibrio entre riesgo y beneficio.
+Un mercado rentable exige visi�n téctica, adaptación y equilibrio entre riesgo y beneficio.
 
 Las condiciones del mercado cambian con la política, los conflictos y los acuerdos locales.
 

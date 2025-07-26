@@ -36,10 +36,10 @@ Estas divisas pueden:
 
 * Convertirse parcialmente a MCr mediante contratos inteligentes con tasas de cambio variables.
 * Estar sujetas a restricciones, controles de cambio o mercados negros.
-* Ser aceptadas o rechazadas din�micamente por otras _Pol�ticas_, seg�n contexto, reputación o alineamiento estratégico.
+* Ser aceptadas o rechazadas din�micamente por otras _Pol�ticas_, según contexto, reputación o alineamiento estratégico.
 
 > El ecosistema financiero de _The Corporate Wars_ no impone un patr�n único.\
-> **Cada entidad define su política monetaria seg�n sus recursos, su doctrina econ�mica y su posición en el tablero gal�ctico.**
+> **Cada entidad define su política monetaria según sus recursos, su doctrina econ�mica y su posición en el tablero gal�ctico.**
 
 ***
 
@@ -57,7 +57,7 @@ Estas entidades �bancos regionales, fondos imperiales, agencias de estabilizac
 
 El sistema está diseñado para que la IA **reaccione a los desequilibrios agregados** del universo simulado: si una región entra en colapso, puede recibir fondos invisibles; si una Lealtad acumula excesivo poder financiero, puede verse sometida a presiones difusas o drenajes sutiles.
 
-Esta l�gica **no es tramposa**: es estructural, verificable desde los efectos agregados y coherente con las reglas del universo.
+Esta lógica **no es tramposa**: es estructural, verificable desde los efectos agregados y coherente con las reglas del universo.
 
 > Como en los mercados reales, el jugador nunca ve la totalidad del sistema:\
 > solo interpreta sus se�ales, reacciona a sus s�ntomas y aprende a jugar con la incertidumbre.
@@ -74,4 +74,4 @@ Este modelo bancario emergente permite:
 
 * Simular **ciclos financieros interestelares**.
 * Representar **crisis de liquidez**, defaults, rescates y recuperación.
-* Dise�ar estrategias fiscales, de inversi�n y de manipulación monetaria dentro de un marco técnico verificable.
+* Dise�ar estrategias fiscales, de inversión y de manipulación monetaria dentro de un marco técnico verificable.

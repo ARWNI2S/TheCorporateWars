@@ -27,7 +27,7 @@ Cada mundo tiene un Nivel Legal que indica cu�n estrictamente se aplican las l
 
 Pero la ley existe, se aplique más o menos. Las infracciones pueden ser ignoradas por un gobierno local y perseguidas por otro. Las bases de datos, las transmisiones y los registros de tr�fico permiten que las autoridades crucen información.
 
-Hay agentes, patrullas, inspectores y oficiales con autoridad legal. Pueden detener, investigar, requisar o sancionar seg�n el contexto. Algunos lo hacen por deber, otros por contrato o encargo.
+Hay agentes, patrullas, inspectores y oficiales con autoridad legal. Pueden detener, investigar, requisar o sancionar según el contexto. Algunos lo hacen por deber, otros por contrato o encargo.
 
 Ser descubierto tiene consecuencias: sanciones, embargos, bloqueos, p�rdida de reputación, revocación de licencias, detenciones o confiscación de bienes.
 

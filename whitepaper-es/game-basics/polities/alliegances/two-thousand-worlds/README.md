@@ -31,10 +31,10 @@ Los K�kree son xen�fobos, pero no genocidas por impulso. Su doctrina no exig
 
 A nivel interno, la Concordancia funciona como una red jer�rquica de clanes, liderados por un consejo de ancianos visionarios. Sus decisiones combinan doctrina religiosa, an�lisis ecol�gico y objetivos estratégicos. Aunque rechazan la psi�nica, poseen una organización logística y social de alta eficiencia.
 
-En el año 1201, la Concordancia mantiene un equilibrio tenso con sus vecinos. Aunque sus campa�as de �purificaci�n� han disminuido, su doctrina no ha cambiado: el universo debe limpiarse. Lo que ha cambiado es su t�ctica: hoy operan con alianzas transaccionales, presión ideol�gica y una diplomacia agresiva pero formalmente leg�tima.
+En el año 1201, la Concordancia mantiene un equilibrio tenso con sus vecinos. Aunque sus campa�as de �purificaci�n� han disminuido, su doctrina no ha cambiado: el universo debe limpiarse. Lo que ha cambiado es su téctica: hoy operan con alianzas transaccionales, presión ideológica y una diplomacia agresiva pero formalmente leg�tima.
 
 ## Los Dos Mil Mundos en el Juego
 
-En **The Corporate Wars**, la Concordancia representa una civilización con objetivos no negociables y m�todos implacables. Su poder militar es formidable, pero su herramienta más disruptiva es la presión cultural y la imposición de normas ecol�gicas absolutas.
+En **The Corporate Wars**, la Concordancia representa una civilización con objetivos no negociables y m�todos implacables. Su poder militar es formidable, pero su herramienta más disruptiva es la presión cultural y la imposición de normas ecológicas absolutas.
 
-Corporaciones que operan cerca de sus zonas de influencia deben adaptarse a c�digos bio�ticos extremos o enfrentarse a sanciones sagradas. Los jugadores pueden interactuar con ellos como aliados fan�ticos, adversarios sistem�ticos o fuerzas de disrupción ecol�gica masiva.
+Corporaciones que operan cerca de sus zonas de influencia deben adaptarse a c�digos bio�ticos extremos o enfrentarse a sanciones sagradas. Los jugadores pueden interactuar con ellos como aliados fan�ticos, adversarios sistem�ticos o fuerzas de disrupción ecológica masiva.

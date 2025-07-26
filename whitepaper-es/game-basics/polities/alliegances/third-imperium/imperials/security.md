@@ -43,7 +43,7 @@ El Departamento también mantiene relaciones complejas con organizaciones extran
 
 En **The Corporate Wars**, el Departamento de Seguridad Imperial es una figura ambigua y poderosa.
 
-Puede actuar como perseguidor implacable, patr�n encubierto o fuente privilegiada de inteligencia �seg�n c�mo los jugadores se posicionen frente a la autoridad imperial.
+Puede actuar como perseguidor implacable, patr�n encubierto o fuente privilegiada de inteligencia �según cómo los jugadores se posicionen frente a la autoridad imperial.
 
 Colaborar con el DSI puede otorgar acceso a información clasificada, rutas protegidas o inmunidad temporal.
 

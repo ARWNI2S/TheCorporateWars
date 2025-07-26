@@ -29,7 +29,7 @@ Las corporaciones deben establecer v�nculos s�lidos, legales y operativos co
 
 Cada gobierno planetario tiene su propia estructura, ideolog�a, necesidades y l�mites.
 
-Una corporación puede encontrar un entorno propicio en una tecnocracia abierta a la inversi�n, y al mismo tiempo enfrentar restricciones o vigilancia en un r�gimen aut�rquico o en mundos con fuerte presencia militar.
+Una corporación puede encontrar un entorno propicio en una tecnocracia abierta a la inversión, y al mismo tiempo enfrentar restricciones o vigilancia en un r�gimen aut�rquico o en mundos con fuerte presencia militar.
 
 Negociar acceso, impuestos, permisos y zonas de operación es parte del juego.
 

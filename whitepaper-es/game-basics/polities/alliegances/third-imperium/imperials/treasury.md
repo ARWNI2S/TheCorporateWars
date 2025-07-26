@@ -29,7 +29,7 @@ La Tesorería recauda tributos y tasas por el uso de rutas imperiales, licencias
 
 A diferencia de otras instituciones, la Tesorería no se relaciona directamente con individuos o peque�as organizaciones. Su interlocución se limita a gobiernos planetarios y **corporaciones con participación relevante en rutas o infraestructura imperial**.
 
-La presencia f�sica de la Tesorería se concentra en capitales sectoriales, estaciones log�sticas mayores y sedes administrativas de alta importancia. Desde all� se coordinan inspecciones, auditor�as y negociaciones macroecon�micas de largo alcance.
+La presencia f�sica de la Tesorería se concentra en capitales sectoriales, estaciones log�sticas mayores y sedes administrativas de alta importancia. Desde allá se coordinan inspecciones, auditor�as y negociaciones macroecon�micas de largo alcance.
 
 ***
 

@@ -53,7 +53,7 @@ En algunos casos, una f�brica mal ubicada puede ser más costosa que no tener 
 
 La innovación no es un lujo: es un campo de batalla.
 
-Las corporaciones pueden invertir en mejoras tecnol�gicas, patentes exclusivas, técnicas de producción avanzadas o modelos de inteligencia econ�mica.
+Las corporaciones pueden invertir en mejoras tecnológicas, patentes exclusivas, técnicas de producción avanzadas o modelos de inteligencia econ�mica.
 
 La I+D no solo mejora lo existente: puede cambiar las reglas del juego.
 

@@ -27,7 +27,7 @@ La licencia de libre comercio permite a una corporación operar como intermediar
 
 Este tipo de operación es flexible, adaptable y potencialmente muy rentable, pero también implica riesgos constantes y un entorno de competencia feroz.
 
-Un jugador con esta licencia puede asumir contratos comerciales �con responsabilidad directa sobre la mercancía� o actuar como comerciante independiente, comprando y vendiendo por cuenta propia seg�n las condiciones del mercado local.
+Un jugador con esta licencia puede asumir contratos comerciales �con responsabilidad directa sobre la mercancía� o actuar como comerciante independiente, comprando y vendiendo por cuenta propia según las condiciones del mercado local.
 
 La clave del éxito est� en la reputaci�n: cumplir plazos, proteger las cargas y mantener relaciones estables con corredores y autoridades abre nuevas rutas y oportunidades.
 

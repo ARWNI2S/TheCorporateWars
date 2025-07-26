@@ -35,7 +35,7 @@ No lo hacen en secreto� pero tampoco lo anuncian.
 
 En la mayor�a de los casos, ni siquiera los mundos miembros de la Federación son conscientes de haber sido influenciados.
 
-La psicohistoria funciona a siglos vista: una doctrina filos�fica difundida aqu�, una estructura educativa introducida all�, un incentivo económico en un mundo clave� cada intervención es una microacción con efectos acumulativos.
+La psicohistoria funciona a siglos vista: una doctrina filos�fica difundida aqu�, una estructura educativa introducida allá, un incentivo económico en un mundo clave� cada intervención es una microacción con efectos acumulativos.
 
 El objetivo no es la dominación, sino la prevención del colapso.
 
@@ -55,7 +55,7 @@ Revueltas que no estallaron.
 
 Reformas que ocurrieron sin l�deres.
 
-Claves ideol�gicas que parecen surgir espont�neamente en mundos distintos.
+Claves ideológicas que parecen surgir espont�neamente en mundos distintos.
 
 Comprender la psicohistoria puede ofrecer ventajas estratégicas invaluables.
 

@@ -25,7 +25,7 @@ layout:
 
 El **SolSec** �acr�nimo de _Solomani Security_� es el aparato de inteligencia, contrainteligencia e ideología de la Confederación Solomani. Fundado como una agencia de seguridad estatal, se transform� con el tiempo en una institución transversal, cuya influencia penetra tanto las estructuras gubernamentales como las corporativas, civiles y militares.
 
-M�s que una polic�a secreta, el SolSec act�a como garante doctrinal: protege la narrativa fundacional de la Confederación, vigila la pureza ideol�gica de sus �lites y neutraliza amenazas internas y externas, sean políticas, culturales o biotecnol�gicas.
+M�s que una polic�a secreta, el SolSec act�a como garante doctrinal: protege la narrativa fundacional de la Confederación, vigila la pureza ideológica de sus �lites y neutraliza amenazas internas y externas, sean políticas, culturales o biotecnológicas.
 
 En el año 1201, su poder se ejerce con precisi�n quir�rgica: no necesita reprimir visiblemente para dominar, basta con estar presente.
 
@@ -41,6 +41,6 @@ El SolSec no se limita a proteger mundos: protege el relato. Su tarea principal 
 
 En **The Corporate Wars**, el SolSec es tanto un enemigo invisible como un aliado temido. Puede infiltrar corporaciones, manipular contratos, reprogramar inteligencias artificiales o interceptar tramas enteras antes de que se desarrollen. Los jugadores pueden ser contactados por agentes del SolSec para ejecutar misiones de sabotaje, contrainteligencia o �rectificación doctrinal�.
 
-Aceptar su ayuda implica someterse a cl�usulas ideol�gicas. Oponerse, significa jugar contra una entidad que conoce tus movimientos antes de que los pienses. El SolSec no se enfrenta: se sobrevive, se negocia, o se elude.
+Aceptar su ayuda implica someterse a cl�usulas ideológicas. Oponerse, significa jugar contra una entidad que conoce tus movimientos antes de que los pienses. El SolSec no se enfrenta: se sobrevive, se negocia, o se elude.
 
 > _�No somos vigilancia. Somos certeza.�_

@@ -18,7 +18,7 @@ No están representadas como tokens SPL y forman parte del sistema narrativo y e
 
 Sin embargo, el sistema podr�a permitir que ciertas _Lealtades_ o _Instituciones_ �ya sean entidades del juego o estructuras futuras� emitan sus propios tokens SPL, con usos y reglas definidas por sus propios contratos.
 
-Estas divisas paralelas pueden servir para expresar políticas econ�micas independientes, representar redes de confianza regionales, o crear incentivos espec�ficos dentro de zonas o facciones concretas.
+Estas divisas paralelas pueden servir para expresar políticas econ�micas independientes, representar redes de confianza regionales, o crear incentivos específicos dentro de zonas o facciones concretas.
 
 La viabilidad de estas divisas adicionales depende directamente del alcance del proyecto y de la participación activa de la comunidad.
 
