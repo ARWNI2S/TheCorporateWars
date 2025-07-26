@@ -1,6 +1,6 @@
 ---
 icon: pen
-cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../../../.gitbook/assets/tcw-mcr.jpg
 coverY: 0
 ---
 
