@@ -58,3 +58,7 @@ Este modelo bancario emergente permite:
 - _Free-to-Play_ mediante **subsidios económicos** y **líneas de crédito**, que condicionan la exposición financiera inicial y la capacidad de maniobra futura, sin comprometer la coherencia de la simulación ni convertirlo en una ventaja injusta.
 - Manejar los **ciclos financieros** como conjuntos de eventos jugables que representan **crisis de liquidez**, _defaults_, rescates y recuperaciones.
 - Diseñar estrategias de jugabilidad fiscal, de inversión y de manipulación monetaria dentro de un marco técnico verificable.
+
+Cuando las reservas caen por debajo de ciertos umbrales, las _Políticas_ afectadas pierden acceso a funciones avanzadas: los programas latentes dejan de desplegarse, las comunicaciones se enlentecen, y los datos de bajo uso pueden ser archivados o degradados.
+
+Esta lógica de degradación progresiva está diseñada para simular el declive estructural de los sistemas financieros sin romper el juego, y generar oportunidades estratégicas para jugadores u otras facciones de ganar _control_ en el **metajuego político**.

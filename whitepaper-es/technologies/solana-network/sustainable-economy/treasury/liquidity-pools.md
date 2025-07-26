@@ -6,12 +6,16 @@ coverY: 0
 
 # Fondos de Liquidez
 
-Los Fondos de Liquidez son mecanismos internos de la Tesorería donde se agrupan y gestionan las reservas del sistema. Su función principal es garantizar que el ecosistema económico de **The Corporate Wars** pueda operar de forma fluida, absorber desequilibrios y responder a eventos sin comprometer la estabilidad general.
+Los Fondos de Liquidez son estructuras internas de la Tesorería que gestionan las reservas programáticas en SOL del sistema.
 
-Estas reservas no se concentran en un único fondo central, sino que pueden organizarse en estructuras separadas según su propósito: fondos de estabilización, fondos para sectores concretos, fondos de contingencia, o fondos orientados a la posible conversión externa del MCr.
+Su función no es acumular capital, sino garantizar el funcionamiento continuo de **The Corporate Wars**, incluso en condiciones adversas o de baja participación.
 
-En escenarios donde el sistema genera más ingresos que gasto sostenido, parte de los excedentes puede destinarse a la creación de un fondo de respaldo técnico para facilitar la liquidez del MCr en plataformas externas, sin comprometer los objetivos internos.
+En lugar de centralizarse en un único depósito, los fondos se organizan por funcionalidad: costes operativos, contingencia técnica, transición de escalado, subsidios o cobertura de contratos automatizados. Cada uno opera bajo reglas específicas y puede ajustarse dinámicamente según la actividad del sistema.
 
-Además, los Fondos de Liquidez permiten mantener operativas zonas con baja participación, facilitar transiciones de escalado, respaldar contratos de gestión automática y garantizar que los movimientos internos de capital no interrumpan la actividad del sistema.
+Cuando el ecosistema genera más recursos de los que consume, parte de los excedentes puede asignarse a reservas de respaldo estructural. Estas reservas permiten, por ejemplo, mantener servicios mínimos, sostener regiones degradadas o garantizar la continuidad del desarrollo en periodos de recesión.
 
-Son una herramienta de control económico interno, no una acumulación pasiva. Cada fondo puede estar regulado por parámetros distintos y formar parte de la arquitectura de equilibrio del universo simulado.
+En fases más avanzadas, ciertos fondos pueden canalizar parte de su liquidez hacia mecanismos de interacción externa —como la conversión de MCr en mercados— siempre que no se comprometa la autonomía económica ni la sostenibilidad técnica del sistema.
+
+Cada fondo está integrado en la arquitectura económica como un subsistema autónomo, regulado por parámetros configurables y supervisado por la lógica programática de la Tesorería.
+
+> Su existencia no responde a una acumulación pasiva, sino a la necesidad de dotar al sistema de una **infraestructura económica consistente**, capaz de adaptarse a los ciclos, sostenerse en la contracción y expandirse de forma controlada.
