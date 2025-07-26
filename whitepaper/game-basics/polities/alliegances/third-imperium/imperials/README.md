@@ -23,7 +23,7 @@ layout:
 
 # Imperial Institutions
 
-The network of institutional _Polities_ serving the Third Imperium forms a hierarchical and functional system tasked with maintaining interstellar cohesion, overseeing the enforcement of common laws, protecting jump routes, and ensuring economic and administrative interoperability between worlds�without directly intervening in their local governments.
+The network of institutional _Polities_ serving the Third Imperium forms a hierarchical and functional system tasked with maintaining interstellar cohesion, overseeing the enforcement of common laws, protecting jump routes, and ensuring economic and administrative interoperability between worlds —without directly intervening in their local governments.
 
 Players interact with the Imperium primarily through its institutions, whether by cooperating with them, navigating their regulations, negotiating contracts, or becoming subjects of surveillance, audits, or strategic support depending on their actions within the galactic setting.
 

@@ -18,9 +18,9 @@ No existen compras directas de moneda ni atajos predefinidos.
 
 La entrada de recursos al sistema se produce a trav�s de medios integrados en el gameplay y justificados en el mundo: concesiones, acuerdos institucionales, inversi�n encubierta, respaldo estrat�gico o participaci�n en estructuras preexistentes.
 
-Esto permite que el mercado no funcione como una fuente de ventajas arbitrarias, sino como una capa m�s de interacci�n econ�mica.
+Esto permite que el mercado no funcione como una fuente de ventajas arbitrarias, sino como una capa más de interacci�n econ�mica.
 
-Las oportunidades est�n ah�, pero su impacto depende del contexto, del momento y de c�mo se gestionan dentro del sistema.
+Las oportunidades están  ah�, pero su impacto depende del contexto, del momento y de c�mo se gestionan dentro del sistema.
 
 El universo est� dise�ado para escalar, pero las proporciones importan.
 

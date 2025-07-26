@@ -61,7 +61,7 @@ Each added system will be functional and complete on its own, avoiding partial d
 
 **The Corporate Wars** features two clearly differentiated deployment environments: the Solana Network and the distributed backend.
 
-The backend is permanently deployed and maintained by the developers. Virtual machines allow vertical and horizontal scaling according to the system�s needs and load.
+The backend is permanently deployed and maintained by the developers. Virtual machines allow vertical and horizontal scaling according to the system's needs and load.
 
 Deployment on the Solana network will go through devnet testing stages before implementation on mainnet beta.
 
@@ -69,6 +69,6 @@ Both the distributed simulation and the Solana network services are aligned with
 
 The public rollout of the gameplay will take place once the economy, governance, and initial strategic interactions are fully operational and balanced.
 
-From that moment on, **The Corporate Wars** will evolve as a living universe where competition for economic, pol�tical, and territorial control becomes the driving force of the experience.
+From that moment on, **The Corporate Wars** will evolve as a living universe where competition for economic, political, and territorial control becomes the driving force of the experience.
 
 Subsequent expansions will incorporate new layers of complexity and emergent possibilities, always maintaining the coherence and solidity of the system that underpins the interstellar corporate war.

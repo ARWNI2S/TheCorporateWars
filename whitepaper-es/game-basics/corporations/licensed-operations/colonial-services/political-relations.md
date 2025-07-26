@@ -23,7 +23,7 @@ layout:
 
 # Relaciones Gubernamentales
 
-Operar con �xito en un mundo implica algo m�s que tener buena reputación entre sus habitantes.
+Operar con �xito en un mundo implica algo más que tener buena reputación entre sus habitantes.
 
 Las corporaciones deben establecer v�nculos s�lidos, legales y operativos con los gobiernos planetarios: los actores que definen las normas, regulan el comercio y otorgan concesiones.
 

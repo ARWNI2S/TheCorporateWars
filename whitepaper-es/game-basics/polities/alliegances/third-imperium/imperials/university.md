@@ -23,7 +23,7 @@ layout:
 
 # Universidad Imperial
 
-La Universidad Imperial es la institución educativa m�s prestigiosa y antigua del Tercer Imperio.
+La Universidad Imperial es la institución educativa más prestigiosa y antigua del Tercer Imperio.
 
 Aunque su campus original se encuentra en Capital, mantiene filiales, academias asociadas y programas de acreditaci�n en miles de mundos imperiales.
 
@@ -31,7 +31,7 @@ M�s que una universidad en el sentido moderno, es una **red de validaci�n de
 
 Sus facultades no solo forman funcionarios, ingenieros y cient�ficos, sino tambi�n administradores, pilotos, diplom�ticos y agentes capaces de operar en entornos interplanetarios complejos.
 
-Adem�s de su funci�n formativa, la Universidad Imperial influye en el desarrollo tecnol�gico y social local: all� donde sus programas se implementan, los niveles de alfabetizaci�n tecnol�gica aumentan, mejoran las condiciones laborales y se eleva el **Tech Level** sin necesidad de importar tanto talento o infraestructura externa.
+Adem�s de su funci�n formativa, la Universidad Imperial influye en el desarrollo tecnológico y social local: all� donde sus programas se implementan, los niveles de alfabetizaci�n tecnol�gica aumentan, mejoran las condiciones laborales y se eleva el **Tech Level** sin necesidad de importar tanto talento o infraestructura externa.
 
 ***
 
@@ -39,8 +39,8 @@ Adem�s de su funci�n formativa, la Universidad Imperial influye en el desarr
 
 En **The Corporate Wars**, los sistemas educativos �y especialmente la presencia de la Universidad Imperial� tienen un impacto directo en el desarrollo local.
 
-Un mundo con acceso a formaci�n acreditada produce mano de obra m�s cualificada, lo que mejora la eficiencia industrial, reduce costes y acelera el desarrollo del Nivel Tecnol�gico sin necesidad de importar expertos o equipos.
+Un mundo con acceso a formaci�n acreditada produce mano de obra más cualificada, lo que mejora la eficiencia industrial, reduce costes y acelera el desarrollo del Nivel Tecnol�gico sin necesidad de importar expertos o equipos.
 
-Esto permite a las corporaciones operar con m�s autonom�a y competitividad en esos planetas.
+Esto permite a las corporaciones operar con más autonom�a y competitividad en esos planetas.
 
 Adem�s, el acceso a educaci�n avanzada puede desbloquear tecnolog�as, mejorar la investigaci�n o incluso modificar el equilibrio de poder en regiones enteras.

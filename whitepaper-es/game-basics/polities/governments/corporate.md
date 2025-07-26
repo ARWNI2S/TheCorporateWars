@@ -23,7 +23,7 @@ layout:
 
 # Gobierno Corporativo
 
-Entre las formas de gobierno de la galaxia, destaca el **Gobierno Corporativo**, donde la administraci�n y el poder político est�n directamente en manos de una corporaci�n o consorcio empresarial.
+Entre las formas de gobierno de la galaxia, destaca el **Gobierno Corporativo**, donde la administraci�n y el poder político están  directamente en manos de una corporaci�n o consorcio empresarial.
 
 En este modelo, el consejo directivo o los accionistas reemplazan a los tradicionales �rganos de gobierno, y las decisiones se toman bajo la l�gica del beneficio y la expansi�n comercial.
 

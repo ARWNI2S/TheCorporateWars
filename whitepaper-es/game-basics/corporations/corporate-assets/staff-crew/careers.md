@@ -23,7 +23,7 @@ layout:
 
 # Carreras Profesionales
 
-Algunos individuos destacan m�s all� del personal común: son personajes con historia, trayectoria y capacidades definidas.
+Algunos individuos destacan más all� del personal común: son personajes con historia, trayectoria y capacidades definidas.
 
 Estos activos espec�ficos de la corporaci�n provienen de carreras profesionales reconocidas en instituciones alineadas con una _Lealtad_ concreta.
 

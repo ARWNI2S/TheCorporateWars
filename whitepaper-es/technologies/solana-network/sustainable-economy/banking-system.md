@@ -30,7 +30,7 @@ El **MCr** es un token SPL real desplegado sobre la red Solana, adoptado por el 
 
 Aunque el MCr funciona como **reserva de valor com�n** y referencia t�cnica para contratos, **no es obligatorio**. Ninguna Lealtad est� forzada a utilizarlo, y muchas mantienen o emiten su propia divisa con pol�ticas monetarias independientes.
 
-En muchos mundos, especialmente aquellos con bajo nivel tecnol�gico (TL<6) o en retroceso econ�mico, **emergen monedas alternativas**: desde cr�ditos locales f�sicos hasta tokens regionales respaldados por recursos, miner�a, cultos o deuda colonial.
+En muchos mundos, especialmente aquellos con bajo nivel tecnológico (TL<6) o en retroceso econ�mico, **emergen monedas alternativas**: desde cr�ditos locales f�sicos hasta tokens regionales respaldados por recursos, miner�a, cultos o deuda colonial.
 
 Estas divisas pueden:
 

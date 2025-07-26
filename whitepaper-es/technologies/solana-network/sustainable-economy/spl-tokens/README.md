@@ -8,7 +8,7 @@ coverY: 0
 
 **The Corporate Wars** emplea m�ltiples tokens SPL desplegados sobre la red Solana como base t�cnica de su economía simulada.
 
-Estos tokens representan diferentes tipos de valor dentro del sistema. Algunos est�n dise�ados para circular libremente entre usuarios: pueden transferirse, almacenarse en wallets externas, utilizarse en contratos o incluso interactuar con el ecosistema exterior. Otros, aunque t�cnicamente tambi�n son SPL, tienen un comportamiento restringido por dise�o: solo pueden utilizarse dentro del sistema, no se transfieren entre jugadores y no tienen funci�n fuera del entorno simulado.
+Estos tokens representan diferentes tipos de valor dentro del sistema. Algunos están  dise�ados para circular libremente entre usuarios: pueden transferirse, almacenarse en wallets externas, utilizarse en contratos o incluso interactuar con el ecosistema exterior. Otros, aunque t�cnicamente tambi�n son SPL, tienen un comportamiento restringido por dise�o: solo pueden utilizarse dentro del sistema, no se transfieren entre jugadores y no tienen funci�n fuera del entorno simulado.
 
 Los tokens SPL se utilizan como instrumentos econ�micos vers�tiles. En funci�n de su tipo y prop�sito, pueden servir para:
 

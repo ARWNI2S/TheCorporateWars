@@ -27,7 +27,7 @@ Las grandes inversiones representan apuestas estrat�gicas de alto coste y alto
 
 Son proyectos que movilizan megacr�ditos, requieren a�os de planificaci�n y recursos escasos: megainfraestructuras, desarrollos tecnol�gicos de frontera, terraformaci�n parcial, alianzas intersectoriales o adquisición de activos cr�ticos.
 
-Iniciar una de estas operaciones requiere no solo capital, sino tambi�n influencia pol�tica, informaci�n sensible y capacidad log�stica.
+Iniciar una de estas operaciones requiere no solo capital, sino tambi�n influencia pol�tica, informaci�n sensible y capacidad logística.
 
 Son decisiones que pueden elevar a una corporaci�n a la cima... o hundirla si fracasan.
 

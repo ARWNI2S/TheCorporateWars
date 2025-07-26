@@ -47,7 +47,7 @@ Y asume la responsabilidad de corregir, estabilizar o reconducir culturas entera
 
 En **The Corporate Wars**, la psicohistoria es una presencia invisible.
 
-Nadie juega como ella. Nadie habla con ella. Pero sus efectos est�n en todas partes.
+Nadie juega como ella. Nadie habla con ella. Pero sus efectos están  en todas partes.
 
 Jugadores que escarben en archivos perdidos, redes acad�micas o protocolos diplom�ticos pueden descubrir patrones que no encajan del todo.
 

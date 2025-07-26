@@ -33,7 +33,7 @@ Esto incluye tanto a firmas imperiales como a entidades extranjeras �todas deb
 
 El Ministerio no regula los precios ni dicta modelos econ�micos, pero s� establece est�ndares, valida contratos, media disputas y controla los t�rminos de acceso a rutas subsidiadas, zonas francas y plataformas log�sticas.
 
-Sus oficinas est�n presentes en la mayor�a de los astropuertos mayores y en sedes diplom�ticas imperiales.
+Sus oficinas están  presentes en la mayor�a de los astropuertos mayores y en sedes diplom�ticas imperiales.
 
 All� operan inspectores, notarios de contrato, auditores y agentes de enlace con otros organismos.
 
@@ -47,7 +47,7 @@ Sin licencia del MCI, ninguna actividad comercial es legal �ni transporte, ni 
 
 Los jugadores interact�an constantemente con esta instituci�n: solicitando permisos, defendiendo contratos, negociando acceso a rutas o esquivando normativas opresivas.
 
-En muchos casos, el Ministerio act�a m�s como �rbitro que como enemigo.
+En muchos casos, el Ministerio act�a más como �rbitro que como enemigo.
 
 Pero su firma es necesaria para que un negocio sea leg�timo en el Imperio.
 

@@ -53,7 +53,7 @@ Estas misiones se integran en tiempo real dentro del mapa estrat�gico, afectan
 
 Un agente bien colocado puede impedir una guerra o iniciarla.
 
-Un sabotaje exitoso puede arruinar meses de log�stica rival.
+Un sabotaje exitoso puede arruinar meses de logística rival.
 
 Las operaciones no son aleatorias: cada una responde a un contexto espec�fico, a una necesidad o a una oportunidad.
 

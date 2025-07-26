@@ -25,7 +25,7 @@ layout:
 
 A pesar de los intentos por mantener el orden, la inmensidad del espacio y las barreras en la comunicación hacen que la aplicaci�n de la ley sea inconsistente.
 
-En las fronteras m�s alejadas, la influencia de los grandes gobiernos se diluye, dando lugar a territorios donde la autoridad es disputada entre facciones, piratas, milicias y consorcios corporativos.
+En las fronteras más alejadas, la influencia de los grandes gobiernos se diluye, dando lugar a territorios donde la autoridad es disputada entre facciones, piratas, milicias y consorcios corporativos.
 
 En este entorno, la lealtad a la ley es a menudo una cuesti�n de pragmatismo, y la supervivencia depende de la capacidad para navegar las complejas din�micas del poder interestelar.
 

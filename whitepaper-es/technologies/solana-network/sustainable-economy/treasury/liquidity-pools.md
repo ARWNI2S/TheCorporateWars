@@ -10,7 +10,7 @@ Los Fondos de Liquidez son mecanismos internos de la Tesorer�a donde se agrupa
 
 Estas reservas no se concentran en un �nico fondo central, sino que pueden organizarse en estructuras separadas según su prop�sito: fondos de estabilizaci�n, fondos para sectores concretos, fondos de contingencia, o fondos orientados a la posible conversi�n externa del MCr.
 
-En escenarios donde el sistema genera m�s ingresos que gasto sostenido, parte de los excedentes puede destinarse a la creaci�n de un fondo de respaldo t�cnico para facilitar la liquidez del MCr en plataformas externas, sin comprometer los objetivos internos.
+En escenarios donde el sistema genera más ingresos que gasto sostenido, parte de los excedentes puede destinarse a la creaci�n de un fondo de respaldo t�cnico para facilitar la liquidez del MCr en plataformas externas, sin comprometer los objetivos internos.
 
 Adem�s, los Fondos de Liquidez permiten mantener operativas zonas con baja participaci�n, facilitar transiciones de escalado, respaldar contratos de gesti�n autom�tica y garantizar que los movimientos internos de capital no interrumpan la actividad del sistema.
 

@@ -31,6 +31,6 @@ El equipamiento b�sico suele permitir operaciones est�ndar, pero para destac
 
 Adem�s de aumentar la productividad, las mejoras pueden reducir el desgaste de materiales, minimizar el error humano o permitir el trabajo en entornos extremos.
 
-No todas las mejoras est�n disponibles en todos los mundos: su acceso depende del nivel tecnol�gico local, las relaciones comerciales y la log�stica interplanetaria.
+No todas las mejoras están  disponibles en todos los mundos: su acceso depende del nivel tecnológico local, las relaciones comerciales y la logística interplanetaria.
 
 Actualizar la maquinaria no es una decisi�n aislada, sino parte de una estrategia industrial que conecta con la planificaci�n a largo plazo de cada corporaci�n.

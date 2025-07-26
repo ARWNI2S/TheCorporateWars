@@ -33,7 +33,7 @@ Algunas de estas instituciones han surgido como consecuencia de acuerdos entre m
 
 Otras operan con un mandato corporativo, regulando los contratos, arbitrajes y est�ndares industriales para garantizar la interoperabilidad en la econom�a gal�ctica.
 
-Su grado de autoridad var�a seg�n la regi�n, y en algunos casos, son poco m�s que figuras simb�licas sin capacidad real de hacer cumplir sus regulaciones.
+Su grado de autoridad var�a seg�n la regi�n, y en algunos casos, son poco más que figuras simb�licas sin capacidad real de hacer cumplir sus regulaciones.
 
 ## Instituciones en el Juego
 

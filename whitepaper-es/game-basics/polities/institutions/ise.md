@@ -35,7 +35,7 @@ Su estructura est� dise�ada para mantener coherencia entre sistemas separado
 
 A pesar de su antig�edad y alcance, el mercado funciona sobre datos inherentemente fragmentados y desfasados.
 
-Esto introduce un margen permanente de especulaci�n y volatilidad, que los operadores m�s h�biles explotan sistem�ticamente.
+Esto introduce un margen permanente de especulaci�n y volatilidad, que los operadores más h�biles explotan sistem�ticamente.
 
 Las discrepancias de informaci�n entre sistemas generan oportunidades antes de que los precios se sincronicen.
 

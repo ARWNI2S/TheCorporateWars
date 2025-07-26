@@ -25,7 +25,7 @@ layout:
 
 El comercio interestelar conecta economías, culturas y estrategias corporativas, definiendo qu� mundos prosperan, qu� rutas se consolidan y qu� regiones quedan al margen del desarrollo.
 
-Las corporaciones especializadas operan redes de transporte, log�stica y cambio, negociando bienes comunes, ex�ticos o estratégicos.
+Las corporaciones especializadas operan redes de transporte, logística y cambio, negociando bienes comunes, ex�ticos o estratégicos.
 
 Un mercado rentable exige visi�n t�ctica, adaptaci�n y equilibrio entre riesgo y beneficio.
 

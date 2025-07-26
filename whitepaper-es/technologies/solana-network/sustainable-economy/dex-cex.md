@@ -28,7 +28,7 @@ No se puede justificar desviar fondos cr�ticos hacia un pool externo si eso co
 
 La posibilidad est� sobre la mesa, pero su ejecuci�n depender� completamente del nivel de participaci�n, apoyo y sostenibilidad alcanzado por el proyecto.
 
-A m�s contribuciones, m�s capacidad de equilibrar juego y liquidez.
+A más contribuciones, más capacidad de equilibrar juego y liquidez.
 
 Pero en esta etapa, la prioridad es clara: construir el sistema primero.
 

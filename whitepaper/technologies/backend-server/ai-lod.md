@@ -42,7 +42,7 @@ A character that is not visible to the player, or located far from any relevant 
 
 ### AI LOD in Distributed Simulation
 
-When the simulation engine operates in a distributed environment�that is, when multiple nodes execute different parts of the simulated world in parallel�the application of AI LOD becomes even more strategic.
+When the simulation engine operates in a distributed environment —that is, when multiple nodes execute different parts of the simulated world in parallel— the application of AI LOD becomes even more strategic.
 
 In such a context, each node may contain simulation regions with varying degrees of activity, relevance, or proximity to players or other observers.
 

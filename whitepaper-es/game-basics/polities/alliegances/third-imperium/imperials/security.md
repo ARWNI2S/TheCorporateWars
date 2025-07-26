@@ -49,6 +49,6 @@ Colaborar con el DSI puede otorgar acceso a informaci�n clasificada, rutas pro
 
 Pero tambi�n implica escrutinio, riesgos pol�ticos y el peligro constante de verse utilizados como peones en operaciones de alto secreto.
 
-Ignorar su existencia no lo hace desaparecer; de hecho, las corporaciones que m�s prosperan suelen ser aquellas que entienden **cu�ndo colaborar, cu�ndo resistir� y cu�ndo desaparecer de los registros**.
+Ignorar su existencia no lo hace desaparecer; de hecho, las corporaciones que más prosperan suelen ser aquellas que entienden **cu�ndo colaborar, cu�ndo resistir� y cu�ndo desaparecer de los registros**.
 
 En el Imperio, la informaci�n es poder. Y el DSI decide qui�n la tiene.

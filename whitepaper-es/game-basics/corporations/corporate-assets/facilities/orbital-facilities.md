@@ -27,7 +27,7 @@ Las instalaciones orbitales son plataformas estrat�gicas ubicadas en la �rbi
 
 Desde estaciones de carga y centros log�sticos hasta astilleros y laboratorios de alta tecnolog�a, su papel es fundamental en la infraestructura corporativa avanzada.
 
-A diferencia de las instalaciones planetarias, las estructuras orbitales permiten operaciones m�s r�pidas, seguras y especializadas.
+A diferencia de las instalaciones planetarias, las estructuras orbitales permiten operaciones más r�pidas, seguras y especializadas.
 
 Pueden gestionar el tr�nsito de mercanc�as sin depender de la superficie, facilitar lanzamientos y aterrizajes, servir como nodos de telecomunicaciones o actuar como bases para operaciones de seguridad y exploraci�n.
 

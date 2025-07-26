@@ -47,7 +47,7 @@ Las cadenas log�sticas conectan mundos, sistemas y recursos, y su eficiencia p
 
 La ubicaci�n, el tipo de instalaci�n, los niveles de automatizaci�n y la protecci�n ante contingencias determinan su rendimiento.
 
-En algunos casos, una f�brica mal ubicada puede ser m�s costosa que no tener ninguna.
+En algunos casos, una f�brica mal ubicada puede ser más costosa que no tener ninguna.
 
 ### Investigaci�n y desarrollo
 
@@ -65,9 +65,9 @@ Algunas tecnolog�as pueden tardar ciclos enteros en dar resultados, pero su im
 
 ## Optimizaci�n de activos
 
-No todo consiste en producir m�s.
+No todo consiste en producir más.
 
-A veces, el verdadero avance est� en hacer m�s con menos.
+A veces, el verdadero avance est� en hacer más con menos.
 
 Optimizar significa ajustar rutas, renegociar contratos, redirigir inversiones, sustituir estructuras obsoletas o simplemente cerrar una l�nea improductiva antes de que drene recursos.
 

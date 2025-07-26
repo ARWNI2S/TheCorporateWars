@@ -23,13 +23,13 @@ layout:
 
 # Autoridad Astroportuaria
 
-La Autoridad Astroportuaria Imperial (AAP) es una institución clave para la infraestructura log�stica y comercial de la civilizaci�n interestelar. Su responsabilidad no recae en la exploraci�n, la defensa ni la administraci�n pol�tica directa, sino en algo m�s fundamental: **mantener en funcionamiento los nodos donde se conectan los mundos del Imperio**.
+La Autoridad Astroportuaria Imperial (AAP) es una institución clave para la infraestructura logística y comercial de la civilizaci�n interestelar. Su responsabilidad no recae en la exploraci�n, la defensa ni la administraci�n pol�tica directa, sino en algo más fundamental: **mantener en funcionamiento los nodos donde se conectan los mundos del Imperio**.
 
 Establecida como una entidad aut�noma bajo carta imperial, la AAP supervisa y regula todos los astropuertos certificados �instalaciones cr�ticas para el tr�fico de naves, el comercio legal, el transporte de pasajeros, la gesti�n de mercanc�as y el cumplimiento aduanero interestelar.
 
 Su estructura est� dise�ada para funcionar en cooperaci�n con los gobiernos planetarios. En la mayor�a de los mundos, los astropuertos imperiales operan bajo administraci�n mixta: la infraestructura es propiedad del planeta, pero el control t�cnico, normativo y de tr�fico espacial est� bajo jurisdicci�n de la AAP. En mundos clave, la AAP mantiene **presencia directa**, con oficinas, inspectores y seguridad propia.
 
-Los protocolos de tr�fico, los c�digos de atraque, los servicios de carga y los procedimientos de inspecci�n est�n estandarizados en todo el Imperio �una nave puede saltar de un sistema a otro y encontrar siempre la misma interfaz de aterrizaje, las mismas se�ales de advertencia, las mismas reglas b�sicas.
+Los protocolos de tr�fico, los c�digos de atraque, los servicios de carga y los procedimientos de inspecci�n están  estandarizados en todo el Imperio �una nave puede saltar de un sistema a otro y encontrar siempre la misma interfaz de aterrizaje, las mismas se�ales de advertencia, las mismas reglas b�sicas.
 
 En las fronteras, la AAP representa una de las caras visibles del Imperio. Un astropuerto funcional no solo indica acceso al comercio y mantenimiento, sino que tambi�n implica **estatus legal y reconocimiento** dentro de la red imperial.
 
@@ -37,7 +37,7 @@ En las fronteras, la AAP representa una de las caras visibles del Imperio. Un as
 
 ## La AAP en el Juego
 
-La Autoridad Astroportuaria es una de las formas m�s directas y cotidianas de interacci�n entre las corporaciones de los jugadores y el Tercer Imperio.
+La Autoridad Astroportuaria es una de las formas más directas y cotidianas de interacci�n entre las corporaciones de los jugadores y el Tercer Imperio.
 
 Toda nave que opere en Espacio Imperial depende de los servicios, permisos y regulaciones de la AAP.
 
