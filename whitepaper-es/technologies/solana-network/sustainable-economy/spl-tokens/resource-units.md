@@ -44,29 +44,34 @@ El sistema reconoce esa huella como un respaldo mínimo real y no permitimos que
 
 ## Función en la simulación
 
-Las RU dispnibles existen en su totalidad: el numero de RU emitidos es el máximo permitido por la red Solana.
-
-`u64::MAX = 18,446,744,073,709,551,615`
-
-Ese es el total de RU disponibles en la galáxia.
-
-Los calculos actuales estiman una poblacion estelar en la via lactea con cifras de entre:
-
-`100,000,000,000` y `400,000,000,000`
-
-Lo cual nos proporciona una media de:
-
-$$
-\frac{18,\!446,\!744,\!073,\!709,\!551,\!615\ \text{RU}}{400,\!000,\!000,\!000\ \text{estrellas}} \approx 46,\!116\ \text{RU por estrella}
-$$
-
-18,446,744,073,709,551,615 RU ÷ 400,000,000,000 estrellas
-≈ 46,116 RU por estrella
-
 Las RU permiten cuantificar de forma abstracta el peso económico de cada región, el valor objetivo de ciertos eventos históricos y la prioridad relativa en procesos de replicación, escaneo, migración o degradación planetaria.
 
 También sirven como **memoria estructural** en escenarios de _Larga Noche_: si un mundo se desconecta, sus RU siguen existiendo y pueden ser reactivadas al restaurar su estado desde la misma derivación lógica (misma PDA).
 
-> El número total de RU es finito y determinado por el propio universo desplegado.\
-> Redistribuir RU requiere **eventos de escala mayor**, como guerras económicas, absorciones, colapsos o reconstrucciones regionales.
+### Distribución
+
+El número total de RU es finito y determinado por el propio universo desplegado.
+
+Distribuir —o redistribuir— RU requiere **eventos de escala mayor**: la expansión exploratoria del Tercer Imperio —Mileu 0 y Secon Survey— contemplada en el Despliegue Historico, las mecanicas de exploración de mundos desconocidos basadas en el **Tercer Censo (Third Survey)**, implementación de nuevos contenidos —parches o expansiones— y narrativas jugables de alto nivel —guerras fronterizas, colapsos o reconstrucciones regionales.
+
+Las RU dispnibles existen en su totalidad: el numero de RU emitidos es el máximo permitido por la red Solana.
+
+`u64::MAX = 18,446,744,073,709,551,615` es el total de RU disponibles en la galáxia.
+
+Los calculos actuales estiman una poblacion estelar en la via lactea con cifras de entre:
+
+`100,000,000,000` y `400,000,000,000` estrellas.
+
+Lo cual nos proporciona una media de:
+
+$$
+\frac{18,\!446,\!744,\!073,\!709,\!551,\!615\ \text{RU}}{400,\!000,\!000,\!000\ \text{estrellas}} \approx 46,\!116\ \text{RU/estrella}
+$$
+
+Tomando ese numero de $$46,\!116\ \text{RU/estrella}$$ y consideramos una media aproximada de entre `5` y `8` planetas $$\approx 6.5 \text{planetas/estrella}$$ 
+
+$$
+\frac{46,\!116\ \text{RU/estrella}}{6.5\ \text{planetas/estrella}} \approx 7,\!094\ \text{RU/planeta}
+$$
+
 
