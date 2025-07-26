@@ -23,14 +23,14 @@ layout:
 
 # Cargos Avanzados
 
-Algunos personajes van m�s allá de una carrera profesional convencional.
+Algunos personajes van más allá de una carrera profesional convencional.
 
-Son individuos con trayectoria �nica, formación poco com�n o experiencia en roles de alto impacto.
+Son individuos con trayectoria única, formación poco común o experiencia en roles de alto impacto.
 
-Capitanes veteranos, espías imperiales, agentes dobles, corsarios arrepentidos, nobles ca�dos en desgracia o ejecutivos con pasado militar: todos ellos representan perfiles excepcionales, dif�ciles de reclutar, pero con potencial disruptivo.
+Capitanes veteranos, espías imperiales, agentes dobles, corsarios arrepentidos, nobles caídos en desgracia o ejecutivos con pasado militar: todos ellos representan perfiles excepcionales, difíciles de reclutar, pero con potencial disruptivo.
 
-Estos cargos avanzados ofrecen ventajas técticas, diplom�ticas o log�sticas que pueden cambiar el curso de una operación o reforzar significativamente una rama de la corporación.
+Estos cargos avanzados ofrecen ventajas técticas, diplomáticas o logísticas que pueden cambiar el curso de una operación o reforzar significativamente una rama de la corporación.
 
-Sin embargo, tambi�n traen consigo pasados complejos, lealtades difusas y riesgos inherentes.
+Sin embargo, también traen consigo pasados complejos, lealtades difusas y riesgos inherentes.
 
 Integrarlos exige equilibrio, vigilancia y capacidad para gestionar personalidades tan valiosas como imprevisibles.

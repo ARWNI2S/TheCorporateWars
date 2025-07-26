@@ -25,17 +25,17 @@ layout:
 
 El Ministerio de Comercio Imperial (MCI) es el organismo encargado de regular, licenciar y fiscalizar toda actividad comercial que cruce las fronteras entre mundos dentro del espacio del Tercer Imperio.
 
-Su función central es **garantizar la interoperabilidad econ�mica** entre planetas, culturas, corporaciones y tecnologías diversas, sin imponer un modelo único, pero asegurando que todos los actores jueguen bajo normas comunes.
+Su función central es **garantizar la interoperabilidad económica** entre planetas, culturas, corporaciones y tecnologías diversas, sin imponer un modelo único, pero asegurando que todos los actores jueguen bajo normas comunes.
 
 El MCI otorga licencias de operación a corporaciones interesadas en comerciar, establecer rutas, montar sucursales o participar en consorcios interplanetarios.
 
-Esto incluye tanto a firmas imperiales como a entidades extranjeras �todas deben registrarse, declarar su naturaleza jur�dica y cumplir con los protocolos establecidos.
+Esto incluye tanto a firmas imperiales como a entidades extranjeras —todas deben registrarse, declarar su naturaleza jurídica y cumplir con los protocolos establecidos.
 
-El Ministerio no regula los precios ni dicta modelos económicos, pero s� establece estándares, valida contratos, media disputas y controla los términos de acceso a rutas subsidiadas, zonas francas y plataformas log�sticas.
+El Ministerio no regula los precios ni dicta modelos económicos, pero sí establece estándares, valida contratos, media disputas y controla los términos de acceso a rutas subsidiadas, zonas francas y plataformas logísticas.
 
-Sus oficinas están  presentes en la mayor�a de los astropuertos mayores y en sedes diplomáticas imperiales.
+Sus oficinas están  presentes en la mayoría de los astropuertos mayores y en sedes diplomáticas imperiales.
 
-All� operan inspectores, notarios de contrato, auditores y agentes de enlace con otros organismos.
+Allí operan inspectores, notarios de contrato, auditores y agentes de enlace con otros organismos.
 
 ***
 
@@ -43,12 +43,12 @@ All� operan inspectores, notarios de contrato, auditores y agentes de enlace c
 
 En **The Corporate Wars**, el Ministerio de Comercio es el punto de contacto clave para cualquier corporación que quiera operar a escala interestelar.
 
-Sin licencia del MCI, ninguna actividad comercial es legal �ni transporte, ni compraventa, ni intermediación financiera, ni explotación de recursos.
+Sin licencia del MCI, ninguna actividad comercial es legal —ni transporte, ni compraventa, ni intermediación financiera, ni explotación de recursos.
 
-Los jugadores interact�an constantemente con esta instituci�n: solicitando permisos, defendiendo contratos, negociando acceso a rutas o esquivando normativas opresivas.
+Los jugadores interactúan constantemente con esta institución: solicitando permisos, defendiendo contratos, negociando acceso a rutas o esquivando normativas opresivas.
 
-En muchos casos, el Ministerio act�a más como �rbitro que como enemigo.
+En muchos casos, el Ministerio actúa más como árbitro que como enemigo.
 
-Pero su firma es necesaria para que un negocio sea leg�timo en el Imperio.
+Pero su firma es necesaria para que un negocio sea legítimo en el Imperio.
 
 Y en el Imperio, **lo que no está licenciado... es contrabando**.

@@ -14,7 +14,7 @@
       - [X] Solomani
     - [X] Vargr
     - [X] Aslan
-    - [X] K'kree
+    - [X] k'Kree
     - [X] Hivers
     - [X] Other Sophonts
       - [X] Sophont Generation System

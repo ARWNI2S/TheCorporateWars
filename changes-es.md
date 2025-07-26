@@ -14,7 +14,7 @@
       - [X] Solomani
     - [X] Vargr
     - [X] Aslan
-    - [X] K'kree
+    - [X] k'Kree
     - [X] Hivers -> es una raza
     - [X] Otros Sofontes
       - [X] Sistema de Generación de Sofontes

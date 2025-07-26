@@ -23,11 +23,11 @@ layout:
 
 # Comercio
 
-El comercio interestelar conecta economías, culturas y estrategias corporativas, definiendo qu� mundos prosperan, qu� rutas se consolidan y qu� regiones quedan al margen del desarrollo.
+El comercio interestelar conecta economías, culturas y estrategias corporativas, definiendo qué mundos prosperan, qué rutas se consolidan y qué regiones quedan al margen del desarrollo.
 
-Las corporaciones especializadas operan redes de transporte, logística y cambio, negociando bienes comunes, ex�ticos o estratégicos.
+Las corporaciones especializadas operan redes de transporte, logística y cambio, negociando bienes comunes, exóticos o estratégicos.
 
-Un mercado rentable exige visi�n téctica, adaptación y equilibrio entre riesgo y beneficio.
+Un mercado rentable exige visión téctica, adaptación y equilibrio entre riesgo y beneficio.
 
 Las condiciones del mercado cambian con la política, los conflictos y los acuerdos locales.
 
@@ -36,5 +36,5 @@ Por eso, el comercio no solo mueve productos: ejerce influencia, abre territorio
 ***
 
 {% hint style="success" %}
-Operar en el comercio interestelar es el �mbito mas adecuado para jugadores que prefieren la exploración, la b�squeda de nuevas oportunidades y enfrentar desaf�os con recursos limitados.
+Operar en el comercio interestelar es el ámbito mas adecuado para jugadores que prefieren la exploración, la búsqueda de nuevas oportunidades y enfrentar desafíos con recursos limitados.
 {% endhint %}
