@@ -23,18 +23,18 @@ layout:
 
 # Las Extensiones Vargr
 
-Las **Extensiones Vargr** no constituyen un estado centralizado ni una federación formal. Son un conjunto fluido de dominios, clanes, flotas y mundos autónomos regidos por la especie vargr, una civilización descendiente de cánidos genéticamente modificados por los Ancients.
+Las **Extensiones Vargr** no constituyen un estado centralizado ni una federaciï¿½n formal. Son un conjunto fluido de dominios, clanes, flotas y mundos autï¿½nomos regidos por la especie vargr, una civilizaciÃ³n descendiente de cï¿½nidos genï¿½ticamente modificados por los Ancients.
 
-La sociedad vargr se organiza en torno a la noción de *charisma*, una forma de autoridad personal que combina liderazgo social, éxito militar y magnetismo cultural. Esta estructura líquida convierte al espacio vargr en un entorno caótico, impredecible y extraordinariamente vital.
+La sociedad vargr se organiza en torno a la nociï¿½n de _charisma_, una forma de autoridad personal que combina liderazgo social, ï¿½xito militar y magnetismo cultural. Esta estructura lï¿½quida convierte al espacio vargr en un entorno caï¿½tico, impredecible y extraordinariamente vital.
 
-No existe una capital vargr ni un gobierno común. Existen alianzas cambiantes, linajes flotantes, redes comerciales emergentes y jefaturas transitorias. Sin embargo, esa misma inestabilidad impide que sus enemigos los derroten de forma sistemática. No hay cabeza que cortar.
+No existe una capital vargr ni un gobierno comï¿½n. Existen alianzas cambiantes, linajes flotantes, redes comerciales emergentes y jefaturas transitorias. Sin embargo, esa misma inestabilidad impide que sus enemigos los derroten de forma sistemï¿½tica. No hay cabeza que cortar.
 
-En el año 1201, muchas de las Extensiones se han profesionalizado. Algunos clanes mantienen embajadas, alianzas tecnológicas, flotas de seguridad y tratados formales. Otros actúan como intermediarios, corsarios o proxies en conflictos que no pueden ser peleados oficialmente.
+En el aï¿½o 1201, muchas de las Extensiones se han profesionalizado. Algunos clanes mantienen embajadas, alianzas tecnolï¿½gicas, flotas de seguridad y tratados formales. Otros actï¿½an como intermediarios, corsarios o proxies en conflictos que no pueden ser peleados oficialmente.
 
 ## Las Extensiones Vargr en el Juego
 
-En **The Corporate Wars**, el espacio vargr es una tierra de oportunidad: mercados sin regulación, corporaciones móviles, rutas ilegales y alianzas tan volátiles como rentables.
+En **The Corporate Wars**, el espacio vargr es una tierra de oportunidad: mercados sin regulaciï¿½n, corporaciones mï¿½viles, rutas ilegales y alianzas tan volï¿½tiles como rentables.
 
-Los jugadores pueden negociar con líderes carismáticos de clanes flotantes, contratar flotas corsarias, o aprovechar la falta de control central para ejecutar operaciones que serían imposibles en otras zonas.
+Los jugadores pueden negociar con lï¿½deres carismï¿½ticos de clanes flotantes, contratar flotas corsarias, o aprovechar la falta de control central para ejecutar operaciones que serï¿½an imposibles en otras zonas.
 
-Pero deben recordar: lo que hoy es alianza, mañana puede ser rivalidad.
+Pero deben recordar: lo que hoy es alianza, maï¿½ana puede ser rivalidad.

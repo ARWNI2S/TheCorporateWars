@@ -6,24 +6,24 @@ coverY: 0
 
 # Mercado del Juego
 
-El sistema económico de **The Corporate Wars** incluye un mercado integrado donde los jugadores pueden adquirir bienes, servicios, estructuras, licencias y mejoras que complementan sus operaciones dentro del universo simulado.
+El sistema econÃ³mico de **The Corporate Wars** incluye un mercado integrado donde los jugadores pueden adquirir bienes, servicios, estructuras, licencias y mejoras que complementan sus operaciones dentro del universo simulado.
 
-El catálogo es amplio, con la intención de ofrecer posibilidades comparables a las de cualquier juego complejo.
+El catï¿½logo es amplio, con la intenciï¿½n de ofrecer posibilidades comparables a las de cualquier juego complejo.
 
-Sin embargo, todo lo que puede adquirirse está vinculado al sistema económico general: ningún elemento es externo o aislado.
+Sin embargo, todo lo que puede adquirirse estï¿½ vinculado al sistema econï¿½mico general: ningï¿½n elemento es externo o aislado.
 
-Cada adquisición tiene un lugar, un coste y un efecto dentro del equilibrio del juego.
+Cada adquisiciï¿½n tiene un lugar, un coste y un efecto dentro del equilibrio del juego.
 
 No existen compras directas de moneda ni atajos predefinidos.
 
-La entrada de recursos al sistema se produce a través de medios integrados en el gameplay y justificados en el mundo: concesiones, acuerdos institucionales, inversión encubierta, respaldo estratégico o participación en estructuras preexistentes.
+La entrada de recursos al sistema se produce a travï¿½s de medios integrados en el gameplay y justificados en el mundo: concesiones, acuerdos institucionales, inversiï¿½n encubierta, respaldo estratï¿½gico o participaciï¿½n en estructuras preexistentes.
 
-Esto permite que el mercado no funcione como una fuente de ventajas arbitrarias, sino como una capa más de interacción económica.
+Esto permite que el mercado no funcione como una fuente de ventajas arbitrarias, sino como una capa mï¿½s de interacciï¿½n econï¿½mica.
 
-Las oportunidades están ahí, pero su impacto depende del contexto, del momento y de cómo se gestionan dentro del sistema.
+Las oportunidades estï¿½n ahï¿½, pero su impacto depende del contexto, del momento y de cï¿½mo se gestionan dentro del sistema.
 
-El universo está diseñado para escalar, pero las proporciones importan.
+El universo estï¿½ diseï¿½ado para escalar, pero las proporciones importan.
 
-Alcanzar niveles de operación comparables a grandes estructuras galácticas no es imposible, pero requiere visión, coordinación y persistencia en múltiples frentes.
+Alcanzar niveles de operaciï¿½n comparables a grandes estructuras galï¿½cticas no es imposible, pero requiere visiï¿½n, coordinaciï¿½n y persistencia en mï¿½ltiples frentes.
 
-Lo importante no es cuánto se adquiere, sino cómo se integra dentro de un ecosistema que responde, se ajusta y evoluciona con cada movimiento.
+Lo importante no es cuï¿½nto se adquiere, sino cï¿½mo se integra dentro de un ecosistema que responde, se ajusta y evoluciona con cada movimiento.

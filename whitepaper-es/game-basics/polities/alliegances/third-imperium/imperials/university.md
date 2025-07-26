@@ -23,24 +23,24 @@ layout:
 
 # Universidad Imperial
 
-La Universidad Imperial es la institución educativa más prestigiosa y antigua del Tercer Imperio.
+La Universidad Imperial es la instituciÃ³n educativa mï¿½s prestigiosa y antigua del Tercer Imperio.
 
-Aunque su campus original se encuentra en Capital, mantiene filiales, academias asociadas y programas de acreditación en miles de mundos imperiales.
+Aunque su campus original se encuentra en Capital, mantiene filiales, academias asociadas y programas de acreditaciï¿½n en miles de mundos imperiales.
 
-Más que una universidad en el sentido moderno, es una **red de validación del conocimiento**, encargada de preservar, diseminar y actualizar el saber técnico, científico y cultural compatible con los estándares imperiales.
+Mï¿½s que una universidad en el sentido moderno, es una **red de validaciï¿½n del conocimiento**, encargada de preservar, diseminar y actualizar el saber tï¿½cnico, cientï¿½fico y cultural compatible con los estï¿½ndares imperiales.
 
-Sus facultades no solo forman funcionarios, ingenieros y científicos, sino también administradores, pilotos, diplomáticos y agentes capaces de operar en entornos interplanetarios complejos.
+Sus facultades no solo forman funcionarios, ingenieros y cientï¿½ficos, sino tambiï¿½n administradores, pilotos, diplomï¿½ticos y agentes capaces de operar en entornos interplanetarios complejos.
 
-Además de su función formativa, la Universidad Imperial influye en el desarrollo tecnológico y social local: allí donde sus programas se implementan, los niveles de alfabetización tecnológica aumentan, mejoran las condiciones laborales y se eleva el **Tech Level** sin necesidad de importar tanto talento o infraestructura externa.
+Ademï¿½s de su funciï¿½n formativa, la Universidad Imperial influye en el desarrollo tecnolï¿½gico y social local: allï¿½ donde sus programas se implementan, los niveles de alfabetizaciï¿½n tecnolï¿½gica aumentan, mejoran las condiciones laborales y se eleva el **Tech Level** sin necesidad de importar tanto talento o infraestructura externa.
 
 ***
 
 ## La Universidad en el Juego
 
-En **The Corporate Wars**, los sistemas educativos —y especialmente la presencia de la Universidad Imperial— tienen un impacto directo en el desarrollo local.
+En **The Corporate Wars**, los sistemas educativos ï¿½y especialmente la presencia de la Universidad Imperialï¿½ tienen un impacto directo en el desarrollo local.
 
-Un mundo con acceso a formación acreditada produce mano de obra más cualificada, lo que mejora la eficiencia industrial, reduce costes y acelera el desarrollo del Nivel Tecnológico sin necesidad de importar expertos o equipos.
+Un mundo con acceso a formaciï¿½n acreditada produce mano de obra mï¿½s cualificada, lo que mejora la eficiencia industrial, reduce costes y acelera el desarrollo del Nivel Tecnolï¿½gico sin necesidad de importar expertos o equipos.
 
-Esto permite a las corporaciones operar con más autonomía y competitividad en esos planetas.
+Esto permite a las corporaciones operar con mï¿½s autonomï¿½a y competitividad en esos planetas.
 
-Además, el acceso a educación avanzada puede desbloquear tecnologías, mejorar la investigación o incluso modificar el equilibrio de poder en regiones enteras.
+Ademï¿½s, el acceso a educaciï¿½n avanzada puede desbloquear tecnologï¿½as, mejorar la investigaciï¿½n o incluso modificar el equilibrio de poder en regiones enteras.

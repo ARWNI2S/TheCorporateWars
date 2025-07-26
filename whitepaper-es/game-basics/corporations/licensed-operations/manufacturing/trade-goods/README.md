@@ -23,11 +23,10 @@ layout:
 
 # Productos
 
-La producción de bienes manufacturados está directamente determinada por el nivel tecnológico disponible. Cada producto requiere una infraestructura, un grado de conocimiento y unos materiales compatibles con su Tech Level, lo que convierte a la tecnología en un factor limitante —y diferenciador— para las corporaciones.
+La producciÃ³n de bienes manufacturados estï¿½ directamente determinada por el nivel tecnolï¿½gico disponible. Cada producto requiere una infraestructura, un grado de conocimiento y unos materiales compatibles con su Tech Level, lo que convierte a la tecnologï¿½a en un factor limitante ï¿½y diferenciadorï¿½ para las corporaciones.
 
-Un mundo de bajo nivel tecnológico puede ensamblar herramientas simples, pero jamás replicar componentes de navegación interestelar o dispositivos médicos avanzados. Por eso, la distribución de productos de alto Tech Level se convierte en una ventaja estratégica: quien puede producir o importar lo que otros no pueden fabricar, impone las reglas del mercado.
+Un mundo de bajo nivel tecnolï¿½gico puede ensamblar herramientas simples, pero jamï¿½s replicar componentes de navegaciï¿½n interestelar o dispositivos mï¿½dicos avanzados. Por eso, la distribuciï¿½n de productos de alto Tech Level se convierte en una ventaja estratï¿½gica: quien puede producir o importar lo que otros no pueden fabricar, impone las reglas del mercado.
 
-Además, los niveles tecnológicos definen la naturaleza del producto final: su fiabilidad, complejidad, demanda y coste. Operar en esta escala requiere conocimiento técnico, acceso a materiales refinados y cumplimiento de regulaciones interplanetarias.
+Ademï¿½s, los niveles tecnolï¿½gicos definen la naturaleza del producto final: su fiabilidad, complejidad, demanda y coste. Operar en esta escala requiere conocimiento tï¿½cnico, acceso a materiales refinados y cumplimiento de regulaciones interplanetarias.
 
-En **The Corporate Wars**, los productos no son solo tecnología: su calidad, fiabilidad, adaptabilidad cultural o diseño específico para _sofontes_ distintos también determinan su valor real en el mercado.
-
+En **The Corporate Wars**, los productos no son solo tecnologï¿½a: su calidad, fiabilidad, adaptabilidad cultural o diseï¿½o especï¿½fico para _sofontes_ distintos tambiï¿½n determinan su valor real en el mercado.

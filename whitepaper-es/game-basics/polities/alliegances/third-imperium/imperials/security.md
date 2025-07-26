@@ -23,19 +23,19 @@ layout:
 
 # Departamento de Seguridad Imperial
 
-El Departamento de Seguridad Imperial (DSI) es la agencia responsable de proteger la integridad institucional del Tercer Imperio frente a amenazas internas, espionaje, subversión y filtraciones de información sensible.
+El Departamento de Seguridad Imperial (DSI) es la agencia responsable de proteger la integridad institucional del Tercer Imperio frente a amenazas internas, espionaje, subversiï¿½n y filtraciones de informaciÃ³n sensible.
 
-A diferencia de la Armada o el Ministerio de Justicia, su mandato no es público ni transparente —y su mera presencia en un mundo puede ser motivo de tensión o paranoia.
+A diferencia de la Armada o el Ministerio de Justicia, su mandato no es pï¿½blico ni transparente ï¿½y su mera presencia en un mundo puede ser motivo de tensiï¿½n o paranoia.
 
 El DSI opera tanto dentro como fuera del territorio imperial.
 
-Sus agentes —frecuentemente encubiertos o camuflados en otras instituciones— monitorizan a nobles, corporaciones, gobiernos locales e incluso otras agencias imperiales.
+Sus agentes ï¿½frecuentemente encubiertos o camuflados en otras institucionesï¿½ monitorizan a nobles, corporaciones, gobiernos locales e incluso otras agencias imperiales.
 
-Allí donde haya riesgo de corrupción, sedición o fuga de datos estratégicos, el DSI puede intervenir sin previo aviso.
+Allï¿½ donde haya riesgo de corrupciï¿½n, sediciï¿½n o fuga de datos estratï¿½gicos, el DSI puede intervenir sin previo aviso.
 
-Si bien el Departamento responde directamente al Emperador, muchas de sus operaciones quedan en manos de **células descentralizadas**, con altos niveles de autonomía operativa y acceso a canales de comunicación restringidos, muchas veces desfasados o deliberadamente aislados para dar continuidad de contexto a los agentes.
+Si bien el Departamento responde directamente al Emperador, muchas de sus operaciones quedan en manos de **cï¿½lulas descentralizadas**, con altos niveles de autonomï¿½a operativa y acceso a canales de comunicaciï¿½n restringidos, muchas veces desfasados o deliberadamente aislados para dar continuidad de contexto a los agentes.
 
-El Departamento también mantiene relaciones complejas con organizaciones extranjeras: desde operaciones de contrainteligencia en territorios Zhodani hasta infiltraciones en redes criminales Vargr, pasando por silenciosas guerras informativas contra clanes corporativos independientes.
+El Departamento tambiï¿½n mantiene relaciones complejas con organizaciones extranjeras: desde operaciones de contrainteligencia en territorios Zhodani hasta infiltraciones en redes criminales Vargr, pasando por silenciosas guerras informativas contra clanes corporativos independientes.
 
 ***
 
@@ -43,12 +43,12 @@ El Departamento también mantiene relaciones complejas con organizaciones extranj
 
 En **The Corporate Wars**, el Departamento de Seguridad Imperial es una figura ambigua y poderosa.
 
-Puede actuar como perseguidor implacable, patrón encubierto o fuente privilegiada de inteligencia —según cómo los jugadores se posicionen frente a la autoridad imperial.
+Puede actuar como perseguidor implacable, patrï¿½n encubierto o fuente privilegiada de inteligencia ï¿½segï¿½n cï¿½mo los jugadores se posicionen frente a la autoridad imperial.
 
-Colaborar con el DSI puede otorgar acceso a información clasificada, rutas protegidas o inmunidad temporal.
+Colaborar con el DSI puede otorgar acceso a informaciï¿½n clasificada, rutas protegidas o inmunidad temporal.
 
-Pero también implica escrutinio, riesgos políticos y el peligro constante de verse utilizados como peones en operaciones de alto secreto.
+Pero tambiï¿½n implica escrutinio, riesgos polï¿½ticos y el peligro constante de verse utilizados como peones en operaciones de alto secreto.
 
-Ignorar su existencia no lo hace desaparecer; de hecho, las corporaciones que más prosperan suelen ser aquellas que entienden **cuándo colaborar, cuándo resistir… y cuándo desaparecer de los registros**.
+Ignorar su existencia no lo hace desaparecer; de hecho, las corporaciones que mï¿½s prosperan suelen ser aquellas que entienden **cuï¿½ndo colaborar, cuï¿½ndo resistirï¿½ y cuï¿½ndo desaparecer de los registros**.
 
-En el Imperio, la información es poder. Y el DSI decide quién la tiene.
+En el Imperio, la informaciï¿½n es poder. Y el DSI decide quiï¿½n la tiene.

@@ -23,16 +23,16 @@ layout:
 
 # Clanes Corsarios
 
-Los **Clanes Corsarios Vargr** son la manifestación más visible —y temida— de la cultura vargr en el espacio intermedio. No son simples piratas: son estructuras sociales móviles, con jerarquías internas, doctrinas heredadas y códigos de conducta tan rigurosos como impredecibles.
+Los **Clanes Corsarios Vargr** son la manifestaciï¿½n mï¿½s visible ï¿½y temidaï¿½ de la cultura vargr en el espacio intermedio. No son simples piratas: son estructuras sociales mï¿½viles, con jerarquï¿½as internas, doctrinas heredadas y cÃ³digos de conducta tan rigurosos como impredecibles.
 
-Un clan corsario puede estar compuesto por una sola nave con una tripulación extendida, o por una flotilla completa que controla mundos, rutas y enclaves dispersos. Algunos actúan por encargo, otros por necesidad, y los más sofisticados como brazo militar de agendas políticas mayores.
+Un clan corsario puede estar compuesto por una sola nave con una tripulaciï¿½n extendida, o por una flotilla completa que controla mundos, rutas y enclaves dispersos. Algunos actï¿½an por encargo, otros por necesidad, y los mï¿½s sofisticados como brazo militar de agendas polï¿½ticas mayores.
 
-Su legitimidad se basa en el carisma del líder y la capacidad del clan para sostener sus éxitos. Si fracasan, se disuelven. Si vencen, dictan reglas. Es un sistema darwinista, pero altamente funcional.
+Su legitimidad se basa en el carisma del lï¿½der y la capacidad del clan para sostener sus ï¿½xitos. Si fracasan, se disuelven. Si vencen, dictan reglas. Es un sistema darwinista, pero altamente funcional.
 
-Aunque operan fuera de las leyes imperiales o solomani, muchos corsarios vargr mantienen relaciones estables con potencias regionales, a cambio de servicios concretos: sabotaje, transporte encubierto, protección asimétrica o guerra proxy.
+Aunque operan fuera de las leyes imperiales o solomani, muchos corsarios vargr mantienen relaciones estables con potencias regionales, a cambio de servicios concretos: sabotaje, transporte encubierto, protecciï¿½n asimï¿½trica o guerra proxy.
 
 ## Clanes Corsarios en el Juego
 
-En **The Corporate Wars**, los clanes corsarios pueden ser aliados letales, intermediarios oportunistas o enemigos ineludibles. Su presencia puede definir la seguridad de una ruta, el éxito de una operación o la supervivencia de una estación aislada.
+En **The Corporate Wars**, los clanes corsarios pueden ser aliados letales, intermediarios oportunistas o enemigos ineludibles. Su presencia puede definir la seguridad de una ruta, el ï¿½xito de una operaciï¿½n o la supervivencia de una estaciï¿½n aislada.
 
-Los jugadores que traten con ellos deben entender su código interno, respetar su jerarquía y nunca subestimar su adaptabilidad. En el espacio vargr, la reputación es la moneda más estable.
+Los jugadores que traten con ellos deben entender su cï¿½digo interno, respetar su jerarquï¿½a y nunca subestimar su adaptabilidad. En el espacio vargr, la reputaciï¿½n es la moneda mï¿½s estable.

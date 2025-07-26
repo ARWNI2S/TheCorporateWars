@@ -23,18 +23,18 @@ layout:
 
 # Los Dos Mil Mundos
 
-La **Concordancia de los Dos Mil Mundos** es el bloque civilizacional dominado por la especie **K’kree**, una cultura profundamente herbívora, colectiva y militante, cuyo sistema político se estructura como una teocracia expansionista con fundamentos ecológicos radicales.
+La **Concordancia de los Dos Mil Mundos** es el bloque civilizacional dominado por la especie **Kï¿½kree**, una cultura profundamente herbÃ­vora, colectiva y militante, cuyo sistema polï¿½tico se estructura como una teocracia expansionista con fundamentos ecolï¿½gicos radicales.
 
-A pesar de su nombre, la Concordancia incluye muchos más de dos mil planetas. La cifra es simbólica: representa la visión original de un orden galáctico sin depredadores, donde todos los mundos han sido purificados de especies carnívoras y sus derivados.
+A pesar de su nombre, la Concordancia incluye muchos mï¿½s de dos mil planetas. La cifra es simbï¿½lica: representa la visiï¿½n original de un orden galï¿½ctico sin depredadores, donde todos los mundos han sido purificados de especies carnï¿½voras y sus derivados.
 
-Los K’kree son xenófobos, pero no genocidas por impulso. Su doctrina no exige exterminio indiscriminado, sino reeducación, conversión y terraformación masiva. Sin embargo, su intolerancia hacia culturas carnívoras o incluso omnívoras los convierte en una potencia de alto riesgo diplomático.
+Los Kï¿½kree son xenï¿½fobos, pero no genocidas por impulso. Su doctrina no exige exterminio indiscriminado, sino reeducaciï¿½n, conversiï¿½n y terraformaciï¿½n masiva. Sin embargo, su intolerancia hacia culturas carnï¿½voras o incluso omnï¿½voras los convierte en una potencia de alto riesgo diplomï¿½tico.
 
-A nivel interno, la Concordancia funciona como una red jerárquica de clanes, liderados por un consejo de ancianos visionarios. Sus decisiones combinan doctrina religiosa, análisis ecológico y objetivos estratégicos. Aunque rechazan la psiónica, poseen una organización logística y social de alta eficiencia.
+A nivel interno, la Concordancia funciona como una red jerï¿½rquica de clanes, liderados por un consejo de ancianos visionarios. Sus decisiones combinan doctrina religiosa, anï¿½lisis ecolï¿½gico y objetivos estratï¿½gicos. Aunque rechazan la psiï¿½nica, poseen una organizaciï¿½n logï¿½stica y social de alta eficiencia.
 
-En el año 1201, la Concordancia mantiene un equilibrio tenso con sus vecinos. Aunque sus campañas de “purificación” han disminuido, su doctrina no ha cambiado: el universo debe limpiarse. Lo que ha cambiado es su táctica: hoy operan con alianzas transaccionales, presión ideológica y una diplomacia agresiva pero formalmente legítima.
+En el aï¿½o 1201, la Concordancia mantiene un equilibrio tenso con sus vecinos. Aunque sus campaï¿½as de ï¿½purificaciï¿½nï¿½ han disminuido, su doctrina no ha cambiado: el universo debe limpiarse. Lo que ha cambiado es su tï¿½ctica: hoy operan con alianzas transaccionales, presiï¿½n ideolï¿½gica y una diplomacia agresiva pero formalmente legï¿½tima.
 
 ## Los Dos Mil Mundos en el Juego
 
-En **The Corporate Wars**, la Concordancia representa una civilización con objetivos no negociables y métodos implacables. Su poder militar es formidable, pero su herramienta más disruptiva es la presión cultural y la imposición de normas ecológicas absolutas.
+En **The Corporate Wars**, la Concordancia representa una civilizaciï¿½n con objetivos no negociables y mï¿½todos implacables. Su poder militar es formidable, pero su herramienta mï¿½s disruptiva es la presiï¿½n cultural y la imposiciï¿½n de normas ecolï¿½gicas absolutas.
 
-Corporaciones que operan cerca de sus zonas de influencia deben adaptarse a códigos bioéticos extremos o enfrentarse a sanciones sagradas. Los jugadores pueden interactuar con ellos como aliados fanáticos, adversarios sistemáticos o fuerzas de disrupción ecológica masiva.
+Corporaciones que operan cerca de sus zonas de influencia deben adaptarse a cï¿½digos bioï¿½ticos extremos o enfrentarse a sanciones sagradas. Los jugadores pueden interactuar con ellos como aliados fanï¿½ticos, adversarios sistemï¿½ticos o fuerzas de disrupciï¿½n ecolï¿½gica masiva.

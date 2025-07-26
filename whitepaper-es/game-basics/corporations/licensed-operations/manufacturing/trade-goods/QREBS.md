@@ -23,14 +23,14 @@ layout:
 
 # CFMES
 
-El sistema de **Calidad, Fiabilidad, Manejabilidad, Estorbo y Seguridad** (CFMES) es un modelo estandarizado de evaluación y clasificación de productos ampliamente utilizado por la Comunidad Interestelar.
+El sistema de **Calidad, Fiabilidad, Manejabilidad, Estorbo y Seguridad** (CFMES) es un modelo estandarizado de evaluaciÃ³n y clasificaciï¿½n de productos ampliamente utilizado por la Comunidad Interestelar.
 
-Más allá del nivel tecnológico, CFMES mide la experiencia real de uso de un producto: cuánto dura, qué tan fácil es de usar, si genera residuos o problemas logísticos, y qué tan seguro resulta para sus operadores o usuarios.
+Mï¿½s allï¿½ del nivel tecnolï¿½gico, CFMES mide la experiencia real de uso de un producto: cuï¿½nto dura, quï¿½ tan fï¿½cil es de usar, si genera residuos o problemas logï¿½sticos, y quï¿½ tan seguro resulta para sus operadores o usuarios.
 
-Estos factores no solo afectan la calidad de vida y las condiciones laborales, sino también la eficiencia operativa, los costes de mantenimiento y la percepción pública de una marca.
+Estos factores no solo afectan la calidad de vida y las condiciones laborales, sino tambiï¿½n la eficiencia operativa, los costes de mantenimiento y la percepciï¿½n pï¿½blica de una marca.
 
-Desde una cafetera de estación orbital hasta un sistema de navegación para cruceros de salto, cada componente puede ser optimizado bajo los criterios CFMES, y esa optimización tiene consecuencias sistémicas: menor desgaste de materiales, mejores rendimientos, mayor satisfacción del cliente, y sobre todo, patentes más valiosas.
+Desde una cafetera de estaciï¿½n orbital hasta un sistema de navegaciï¿½n para cruceros de salto, cada componente puede ser optimizado bajo los criterios CFMES, y esa optimizaciï¿½n tiene consecuencias sistï¿½micas: menor desgaste de materiales, mejores rendimientos, mayor satisfacciï¿½n del cliente, y sobre todo, patentes mï¿½s valiosas.
 
-En **The Corporate Wars**, mejorar las puntuaciones CFMES de un producto puede significar la diferencia entre un artículo funcional y uno imprescindible.
+En **The Corporate Wars**, mejorar las puntuaciones CFMES de un producto puede significar la diferencia entre un artï¿½culo funcional y uno imprescindible.
 
-Las corporaciones que dominan esta métrica no solo venden más, sino que definen estándares, acumulan licencias de producción y, en muchos casos, imponen su cultura tecnológica sobre mundos enteros.
+Las corporaciones que dominan esta mï¿½trica no solo venden mï¿½s, sino que definen estï¿½ndares, acumulan licencias de producciï¿½n y, en muchos casos, imponen su cultura tecnolï¿½gica sobre mundos enteros.

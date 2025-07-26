@@ -6,72 +6,72 @@ coverY: 0
 
 # Sistemas Financieros
 
-El sistema financiero de *The Corporate Wars* se estructura sobre un modelo descentralizado de **reserva de valor _simulada_**, representado por los _stacks_ de **MegaCréditos (MCr)** en la red Solana.
+El sistema financiero de _The Corporate Wars_ se estructura sobre un modelo descentralizado de **reserva de valor&#x20;**_**simulada**_, representado por los _stacks_ de **MegaCrï¿½ditos (MCr)** en la red Solana.
 
-Cada _Política_ (facción, institución o entidad, jugable o controlada por la IA) mantiene **reservas activas de MCr** asociadas a su Lealtad.
+Cada _Polï¿½tica_ (facciï¿½n, instituciÃ³n o entidad, jugable o controlada por la IA) mantiene **reservas activas de MCr** asociadas a su Lealtad.
 
 Estas reservas determinan su:
 
-- Capacidad de financiar operaciones,
-- Poder de influencia dentro de su red,
-- Acceso a licencias, espacios comerciales y canales prioritarios.
+* Capacidad de financiar operaciones,
+* Poder de influencia dentro de su red,
+* Acceso a licencias, espacios comerciales y canales prioritarios.
 
-Las **Lealtades** (Alliegances) operan como marcos económicos supra-institucionales.
+Las **Lealtades** (Alliegances) operan como marcos econï¿½micos supra-institucionales.
 
 Cada una establece su propia **doctrina financiera**:
 
-- Algunas mantienen una **política de estabilidad algorítmica** (como el Tercer Imperio, con su banca imperial respaldando el MCr).
-- Otras adoptan sistemas de emisión dual (MCr + token local, como las repúblicas comerciales).
-- Y otras simplemente se rigen por el flujo de reservas disponibles, sin ninguna garantía de respaldo, absorbiendo así la volatilidad del entorno.
+* Algunas mantienen una **polï¿½tica de estabilidad algorï¿½tmica** (como el Tercer Imperio, con su banca imperial respaldando el MCr).
+* Otras adoptan sistemas de emisiï¿½n dual (MCr + token local, como las repï¿½blicas comerciales).
+* Y otras simplemente se rigen por el flujo de reservas disponibles, sin ninguna garantï¿½a de respaldo, absorbiendo asï¿½ la volatilidad del entorno.
 
 ### Multipolaridad monetaria
 
-El **MCr** es un token SPL real desplegado sobre la red Solana, adoptado por el **Tercer Imperio** como divisa oficial, pero originalmente definido y emitido por el **ISE (Interstellar Stock Exchange)** como unidad estándar de valor interestelar.
+El **MCr** es un token SPL real desplegado sobre la red Solana, adoptado por el **Tercer Imperio** como divisa oficial, pero originalmente definido y emitido por el **ISE (Interstellar Stock Exchange)** como unidad estï¿½ndar de valor interestelar.
 
-Aunque el MCr funciona como **reserva de valor común** y referencia técnica para contratos, **no es obligatorio**. Ninguna Lealtad está forzada a utilizarlo, y muchas mantienen o emiten su propia divisa con políticas monetarias independientes.
+Aunque el MCr funciona como **reserva de valor comï¿½n** y referencia tï¿½cnica para contratos, **no es obligatorio**. Ninguna Lealtad estï¿½ forzada a utilizarlo, y muchas mantienen o emiten su propia divisa con polï¿½ticas monetarias independientes.
 
-En muchos mundos, especialmente aquellos con bajo nivel tecnológico (TL<6) o en retroceso económico, **emergen monedas alternativas**: desde créditos locales físicos hasta tokens regionales respaldados por recursos, minería, cultos o deuda colonial.
+En muchos mundos, especialmente aquellos con bajo nivel tecnolï¿½gico (TL<6) o en retroceso econï¿½mico, **emergen monedas alternativas**: desde crï¿½ditos locales fï¿½sicos hasta tokens regionales respaldados por recursos, minerï¿½a, cultos o deuda colonial.
 
 Estas divisas pueden:
 
-- Convertirse parcialmente a MCr mediante contratos inteligentes con tasas de cambio variables.
-- Estar sujetas a restricciones, controles de cambio o mercados negros.
-- Ser aceptadas o rechazadas dinámicamente por otras _Políticas_, según contexto, reputación o alineamiento estratégico.
+* Convertirse parcialmente a MCr mediante contratos inteligentes con tasas de cambio variables.
+* Estar sujetas a restricciones, controles de cambio o mercados negros.
+* Ser aceptadas o rechazadas dinï¿½micamente por otras _Polï¿½ticas_, segï¿½n contexto, reputaciï¿½n o alineamiento estratï¿½gico.
 
-> El ecosistema financiero de *The Corporate Wars* no impone un patrón único.\
-> **Cada entidad define su política monetaria según sus recursos, su doctrina económica y su posición en el tablero galáctico.**
+> El ecosistema financiero de _The Corporate Wars_ no impone un patrï¿½n ï¿½nico.\
+> **Cada entidad define su polï¿½tica monetaria segï¿½n sus recursos, su doctrina econï¿½mica y su posiciï¿½n en el tablero galï¿½ctico.**
 
 ***
 
 ## Instituciones simuladas y control invisible
 
-Aunque los jugadores interactúan con el sistema financiero a través de reservas, staking y contratos explícitos, **la arquitectura monetaria del juego incluye un subsistema invisible**: una red de **instituciones simuladas** gobernadas por inteligencia artificial.
+Aunque los jugadores interactï¿½an con el sistema financiero a travï¿½s de reservas, staking y contratos explï¿½citos, **la arquitectura monetaria del juego incluye un subsistema invisible**: una red de **instituciones simuladas** gobernadas por inteligencia artificial.
 
-Estas entidades —bancos regionales, fondos imperiales, agencias de estabilización, cámaras de compensación, etc.— no tienen interfaz directa, pero existen en el modelo económico y afectan:
+Estas entidades ï¿½bancos regionales, fondos imperiales, agencias de estabilizaciï¿½n, cï¿½maras de compensaciï¿½n, etc.ï¿½ no tienen interfaz directa, pero existen en el modelo econï¿½mico y afectan:
 
-- La distribución silenciosa del MCr,
-- La liquidez regional,
-- La aparición de crédito endógeno,
-- El rescate indirecto de sectores clave,
-- Y la amortiguación de shocks sistémicos.
+* La distribuciï¿½n silenciosa del MCr,
+* La liquidez regional,
+* La apariciï¿½n de crï¿½dito endï¿½geno,
+* El rescate indirecto de sectores clave,
+* Y la amortiguaciï¿½n de shocks sistï¿½micos.
 
-El sistema está diseñado para que la IA **reaccione a los desequilibrios agregados** del universo simulado: si una región entra en colapso, puede recibir fondos invisibles; si una Lealtad acumula excesivo poder financiero, puede verse sometida a presiones difusas o drenajes sutiles.
+El sistema estï¿½ diseï¿½ado para que la IA **reaccione a los desequilibrios agregados** del universo simulado: si una regiï¿½n entra en colapso, puede recibir fondos invisibles; si una Lealtad acumula excesivo poder financiero, puede verse sometida a presiones difusas o drenajes sutiles.
 
-Esta lógica **no es tramposa**: es estructural, verificable desde los efectos agregados y coherente con las reglas del universo.
+Esta lï¿½gica **no es tramposa**: es estructural, verificable desde los efectos agregados y coherente con las reglas del universo.
 
 > Como en los mercados reales, el jugador nunca ve la totalidad del sistema:\
-> solo interpreta sus señales, reacciona a sus síntomas y aprende a jugar con la incertidumbre.
+> solo interpreta sus seï¿½ales, reacciona a sus sï¿½ntomas y aprende a jugar con la incertidumbre.
 
 ### Reservas y riesgo
 
-Los _stacks_ de MCr no solo otorgan poder: también imponen riesgo.
+Los _stacks_ de MCr no solo otorgan poder: tambiï¿½n imponen riesgo.
 
-- Una _Política_ sobreexpuesta a operaciones sin respaldo puede **quebrar**.
-- Las _Lealtades_ que pierden reservas estratégicas pueden **entrar en contracción**, forzando decisiones drásticas.
-- Los _embargos_, _congelaciones_ o _fugas de capital_ entre bloques generan dinámicas de inestabilidad reales.
+* Una _Polï¿½tica_ sobreexpuesta a operaciones sin respaldo puede **quebrar**.
+* Las _Lealtades_ que pierden reservas estratï¿½gicas pueden **entrar en contracciï¿½n**, forzando decisiones drï¿½sticas.
+* Los _embargos_, _congelaciones_ o _fugas de capital_ entre bloques generan dinï¿½micas de inestabilidad reales.
 
 Este modelo bancario emergente permite:
 
-- Simular **ciclos financieros interestelares**.
-- Representar **crisis de liquidez**, defaults, rescates y recuperación.
-- Diseñar estrategias fiscales, de inversión y de manipulación monetaria dentro de un marco técnico verificable.
+* Simular **ciclos financieros interestelares**.
+* Representar **crisis de liquidez**, defaults, rescates y recuperaciï¿½n.
+* Diseï¿½ar estrategias fiscales, de inversiï¿½n y de manipulaciï¿½n monetaria dentro de un marco tï¿½cnico verificable.

@@ -21,22 +21,22 @@ layout:
     visible: true
 ---
 
-# Tesorería Imperial
+# TesorerÃ­a Imperial
 
-La Tesorería Imperial es el organismo encargado de la recaudación, asignación y supervisión de los recursos económicos del Tercer Imperio. Su función no es dirigir la economía interna de los mundos —cada planeta mantiene sus propios sistemas fiscales— sino gestionar los flujos macroeconómicos que permiten el sostenimiento del Imperio como entidad interestelar.
+La TesorerÃ­a Imperial es el organismo encargado de la recaudaciï¿½n, asignaciï¿½n y supervisiï¿½n de los recursos econï¿½micos del Tercer Imperio. Su funciï¿½n no es dirigir la economï¿½a interna de los mundos ï¿½cada planeta mantiene sus propios sistemas fiscalesï¿½ sino gestionar los flujos macroeconï¿½micos que permiten el sostenimiento del Imperio como entidad interestelar.
 
-La Tesorería recauda tributos y tasas por el uso de rutas imperiales, licencias de comercio, servicios diplomáticos, registros notariales y validación legal de grandes contratos. También administra los fondos destinados a subvencionar líneas de correo, misiones diplomáticas o intervenciones estratégicas.
+La Tesorerï¿½a recauda tributos y tasas por el uso de rutas imperiales, licencias de comercio, servicios diplomï¿½ticos, registros notariales y validaciï¿½n legal de grandes contratos. Tambiï¿½n administra los fondos destinados a subvencionar lï¿½neas de correo, misiones diplomï¿½ticas o intervenciones estratï¿½gicas.
 
-A diferencia de otras instituciones, la Tesorería no se relaciona directamente con individuos o pequeñas organizaciones. Su interlocución se limita a gobiernos planetarios y **corporaciones con participación relevante en rutas o infraestructura imperial**.
+A diferencia de otras instituciones, la Tesorerï¿½a no se relaciona directamente con individuos o pequeï¿½as organizaciones. Su interlocuciï¿½n se limita a gobiernos planetarios y **corporaciones con participaciï¿½n relevante en rutas o infraestructura imperial**.
 
-La presencia física de la Tesorería se concentra en capitales sectoriales, estaciones logísticas mayores y sedes administrativas de alta importancia. Desde allí se coordinan inspecciones, auditorías y negociaciones macroeconómicas de largo alcance.
+La presencia fï¿½sica de la Tesorerï¿½a se concentra en capitales sectoriales, estaciones logï¿½sticas mayores y sedes administrativas de alta importancia. Desde allï¿½ se coordinan inspecciones, auditorï¿½as y negociaciones macroeconï¿½micas de largo alcance.
 
 ***
 
-## La Tesorería en el Juego
+## La Tesorerï¿½a en el Juego
 
-Para los jugadores, la Tesorería no es un actor cotidiano —pero puede ser una fuerza determinante.
+Para los jugadores, la Tesorerï¿½a no es un actor cotidiano ï¿½pero puede ser una fuerza determinante.
 
-Controlar una ruta estratégica o participar en un mercado clave puede llamar su atención, y con ello abrir oportunidades de subvención, respaldo legal o participación en consorcios imperiales… o enfrentar auditorías, ajustes tributarios y presiones regulatorias.
+Controlar una ruta estratï¿½gica o participar en un mercado clave puede llamar su atenciï¿½n, y con ello abrir oportunidades de subvenciï¿½n, respaldo legal o participaciï¿½n en consorcios imperialesï¿½ o enfrentar auditorï¿½as, ajustes tributarios y presiones regulatorias.
 
-En **The Corporate Wars**, la Tesorería no es una autoridad militar ni política. Pero es la que firma los presupuestos. Y sin presupuesto, nada se mueve en el Imperio.
+En **The Corporate Wars**, la Tesorerï¿½a no es una autoridad militar ni polï¿½tica. Pero es la que firma los presupuestos. Y sin presupuesto, nada se mueve en el Imperio.

@@ -23,14 +23,14 @@ layout:
 
 # Instalaciones Orbitales
 
-Las instalaciones orbitales son plataformas estratégicas ubicadas en la órbita de un mundo o en puntos de tránsito estelar.
+Las instalaciones orbitales son plataformas estratï¿½gicas ubicadas en la ï¿½rbita de un mundo o en puntos de trÃ¡nsito estelar.
 
-Desde estaciones de carga y centros logísticos hasta astilleros y laboratorios de alta tecnología, su papel es fundamental en la infraestructura corporativa avanzada.
+Desde estaciones de carga y centros logï¿½sticos hasta astilleros y laboratorios de alta tecnologï¿½a, su papel es fundamental en la infraestructura corporativa avanzada.
 
-A diferencia de las instalaciones planetarias, las estructuras orbitales permiten operaciones más rápidas, seguras y especializadas.
+A diferencia de las instalaciones planetarias, las estructuras orbitales permiten operaciones mï¿½s rï¿½pidas, seguras y especializadas.
 
-Pueden gestionar el tránsito de mercancías sin depender de la superficie, facilitar lanzamientos y aterrizajes, servir como nodos de telecomunicaciones o actuar como bases para operaciones de seguridad y exploración.
+Pueden gestionar el trï¿½nsito de mercancï¿½as sin depender de la superficie, facilitar lanzamientos y aterrizajes, servir como nodos de telecomunicaciones o actuar como bases para operaciones de seguridad y exploraciï¿½n.
 
-Su construcción y mantenimiento requieren inversiones considerables y autorizaciones legales, a menudo sujetas a regulaciones del gobierno local o de las _Lealtades_ imperiales.
+Su construcciï¿½n y mantenimiento requieren inversiones considerables y autorizaciones legales, a menudo sujetas a regulaciones del gobierno local o de las _Lealtades_ imperiales.
 
-Controlar una órbita no es solo un logro logístico: es un gesto de dominio estratégico.
+Controlar una ï¿½rbita no es solo un logro logï¿½stico: es un gesto de dominio estratï¿½gico.

@@ -27,16 +27,16 @@ Ademas de la diversas _instituciones_ que componen y determinan el funcionamient
 
 Estas instituciones son atemporales y han sido mantenidas por las distintas civilizaciones a lo largo de la historia de la Sociedad Interestelar.
 
-Aunque las grandes _Lealtades_ controlan amplios territorios, estas organizaciones funcionan de manera transversal, regulando actividades a gran escala, garantizando las relaciones entre civilizaciones, megacorporaciones y entidades autónomas.
+Aunque las grandes _Lealtades_ controlan amplios territorios, estas organizaciones funcionan de manera transversal, regulando actividades a gran escala, garantizando las relaciones entre civilizaciones, megacorporaciones y entidades autï¿½nomas.
 
-Algunas de estas instituciones han surgido como consecuencia de acuerdos entre múltiples gobiernos, estableciendo normas para el comercio, la exploración y la intervención militar en zonas disputadas.
+Algunas de estas instituciones han surgido como consecuencia de acuerdos entre mï¿½ltiples gobiernos, estableciendo normas para el comercio, la exploraciÃ³n y la intervenciï¿½n militar en zonas disputadas.
 
-Otras operan con un mandato corporativo, regulando los contratos, arbitrajes y estándares industriales para garantizar la interoperabilidad en la economía galáctica.
+Otras operan con un mandato corporativo, regulando los contratos, arbitrajes y estï¿½ndares industriales para garantizar la interoperabilidad en la economï¿½a galï¿½ctica.
 
-Su grado de autoridad varía según la región, y en algunos casos, son poco más que figuras simbólicas sin capacidad real de hacer cumplir sus regulaciones.
+Su grado de autoridad varï¿½a segï¿½n la regiï¿½n, y en algunos casos, son poco mï¿½s que figuras simbï¿½licas sin capacidad real de hacer cumplir sus regulaciones.
 
 ## Instituciones en el Juego
 
-Para las corporaciones en **The Corporate Wars**, estas instituciones pueden representar tanto un obstáculo burocrático como una herramienta estratégica.
+Para las corporaciones en **The Corporate Wars**, estas instituciones pueden representar tanto un obstï¿½culo burocrï¿½tico como una herramienta estratï¿½gica.
 
 Cumplir con sus normativas y obtener su respaldo puede otorgar acceso a mercados exclusivos y protecciones legales, mientras que operar fuera de su marco implica riesgos significativos, desde sanciones hasta bloqueos comerciales o intervenciones directas.

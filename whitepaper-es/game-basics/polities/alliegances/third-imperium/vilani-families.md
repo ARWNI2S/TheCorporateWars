@@ -37,7 +37,7 @@ Esta tensión —a menudo latente— define al Ziru Sirka como una **facción in
 
 ## Estructura y Poder
 
-El Ziru Sirka se articula en torno a **familias extendidas como _consorcios_ de linaje y megacorporaciones**.
+El Ziru Sirka se articula en torno a **familias extendidas como&#x20;**_**consorcios**_**&#x20;de linaje y megacorporaciones**.
 
 Estos grupos controlan rutas comerciales clave, infraestructura logística y nodos culturales.
 
@@ -63,8 +63,6 @@ En términos prácticos, se trata de **fortunas que han crecido durante milenios
 
 Este poder financiero explica por qué el Ziru Sirka nunca desaparece del tablero galáctico: aunque pierda influencia política o militar, **sus activos generan beneficios interestelares imposibles de igualar**, garantizando su resiliencia estructural a lo largo de las eras.
 
-***
-
 ## El Ziru Sirka en el Juego
 
 En The Corporate Wars, el Ziru Sirka no es simplemente una facción cultural: es una infraestructura de poder milenaria, viva y operativa dentro del Tercer Imperio.
@@ -78,5 +76,5 @@ A través de sus casas, corporaciones y bancos de datos, el Ziru Sirka puede: fi
 Para los jugadores, formar parte del Ziru Sirka —o enfrentarse a él— es entrar en una partida de ajedrez en la que cada ficha tiene miles de años de historia, en la que el poder raramente se ejerce con violencia directa, pero siempre con consecuencias definitivas.
 
 ### Karamshidukagim (Las Guerras Corporativas)
-Las casas vilani del Ziru Sirka están reactivando esta antigua forma de conflicto corporativo, amparándose en las leyes de guerra del Tercer Imperio.
-No como traición al Tercer Imperio, sino como regulación -civilizadora- Imperial.
+
+Las casas vilani del Ziru Sirka están reactivando esta antigua forma de conflicto corporativo, amparándose en las leyes de guerra del Tercer Imperio. No como traición al Tercer Imperio, sino como regulación -civilizadora- Imperial.

@@ -21,22 +21,22 @@ layout:
     visible: true
 ---
 
-# Confederación Solomani
+# ConfederaciÃ³n Solomani
 
-La **Confederación Solomani** es una potencia interestelar cohesionada por una doctrina política y cultural que reivindica la primacía del ser humano originario de la Tierra. A pesar de haber sido derrotada en la Guerra de la Frontera Solomani, y de haber perdido el control sobre Sol, la Confederación no solo sobrevivió, sino que ha reconstruido su red de influencia con una mezcla de pragmatismo, ideología y presencia estratégica.
+La **ConfederaciÃ³n Solomani** es una potencia interestelar cohesionada por una doctrina polï¿½tica y cultural que reivindica la primacï¿½a del ser humano originario de la Tierra. A pesar de haber sido derrotada en la Guerra de la Frontera Solomani, y de haber perdido el control sobre Sol, la Confederaciï¿½n no solo sobreviviï¿½, sino que ha reconstruido su red de influencia con una mezcla de pragmatismo, ideologï¿½a y presencia estratï¿½gica.
 
-Actualmente, en el año 1201, mantiene un bloque federal de mundos firmemente alineados con su visión, una estructura institucional en evolución y un aparato doctrinal capaz de proyectar poder más allá de sus fronteras reconocidas. Su legitimidad se nutre tanto de su pasado como de su capacidad presente para intervenir, infiltrar o moldear el tablero galáctico según sus intereses.
+Actualmente, en el aï¿½o 1201, mantiene un bloque federal de mundos firmemente alineados con su visiï¿½n, una estructura institucional en evoluciï¿½n y un aparato doctrinal capaz de proyectar poder mï¿½s allï¿½ de sus fronteras reconocidas. Su legitimidad se nutre tanto de su pasado como de su capacidad presente para intervenir, infiltrar o moldear el tablero galï¿½ctico segï¿½n sus intereses.
 
-## Doctrina y Proyección
+## Doctrina y Proyecciï¿½n
 
-La Confederación se sostiene sobre un principio ideológico central: los humanos de la Tierra son los legítimos herederos del orden galáctico. Esta doctrina se manifiesta no solo en sus instituciones, sino en su política exterior, su aparato de inteligencia (el **SolSec**) y en sus vínculos con enclaves y corporaciones simpatizantes.
+La Confederaciï¿½n se sostiene sobre un principio ideolï¿½gico central: los humanos de la Tierra son los legï¿½timos herederos del orden galï¿½ctico. Esta doctrina se manifiesta no solo en sus instituciones, sino en su polï¿½tica exterior, su aparato de inteligencia (el **SolSec**) y en sus vï¿½nculos con enclaves y corporaciones simpatizantes.
 
-Cada expansión económica o alianza táctica se presenta como un acto de restauración. La Confederación no busca conquistar territorios por codicia imperial, sino por una convicción: la humanidad legítima debe recuperar el lugar que le corresponde.
+Cada expansiï¿½n econï¿½mica o alianza tï¿½ctica se presenta como un acto de restauraciï¿½n. La Confederaciï¿½n no busca conquistar territorios por codicia imperial, sino por una convicciï¿½n: la humanidad legï¿½tima debe recuperar el lugar que le corresponde.
 
-En el 1201, la Confederación mantiene una red estable de mundos leales, influencia diplomática en zonas disputadas y presencia doctrinal en múltiples frentes. Es una fuerza paciente, doctrinal y estratégica.
+En el 1201, la Confederaciï¿½n mantiene una red estable de mundos leales, influencia diplomï¿½tica en zonas disputadas y presencia doctrinal en mï¿½ltiples frentes. Es una fuerza paciente, doctrinal y estratï¿½gica.
 
-## La Confederación Solomani en el Juego
+## La Confederaciï¿½n Solomani en el Juego
 
-En **The Corporate Wars**, la Confederación Solomani es una de las potencias ideológicas más activas. Su capacidad para infiltrar corporaciones, alinear sistemas mediante acuerdos doctrinales o subvertir lealtades es parte de su estrategia natural.
+En **The Corporate Wars**, la Confederaciï¿½n Solomani es una de las potencias ideolï¿½gicas mï¿½s activas. Su capacidad para infiltrar corporaciones, alinear sistemas mediante acuerdos doctrinales o subvertir lealtades es parte de su estrategia natural.
 
-Los jugadores pueden enfrentarse a sus agentes, negociar con sus enviados, o ser absorbidos —literal o ideológicamente— por una red de influencia que opera más como movimiento cultural que como imperio convencional. En el juego, aliarse con la Confederación puede ofrecer ventajas estratégicas de largo alcance, pero siempre implica aceptar los términos de su visión histórica.
+Los jugadores pueden enfrentarse a sus agentes, negociar con sus enviados, o ser absorbidos ï¿½literal o ideolï¿½gicamenteï¿½ por una red de influencia que opera mï¿½s como movimiento cultural que como imperio convencional. En el juego, aliarse con la Confederaciï¿½n puede ofrecer ventajas estratï¿½gicas de largo alcance, pero siempre implica aceptar los tï¿½rminos de su visiï¿½n histï¿½rica.

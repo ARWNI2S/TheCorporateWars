@@ -23,14 +23,14 @@ layout:
 
 # Maquinaria y Mejoras
 
-Las instalaciones corporativas funcionan gracias a un ecosistema de maquinaria, herramientas especializadas y sistemas de soporte técnico.
+Las instalaciones corporativas funcionan gracias a un ecosistema de maquinaria, herramientas especializadas y sistemas de soporte tÃ©cnico.
 
-Este conjunto define su capacidad de producción, su grado de autonomía y su nivel de eficiencia.
+Este conjunto define su capacidad de producciï¿½n, su grado de autonomï¿½a y su nivel de eficiencia.
 
-El equipamiento básico suele permitir operaciones estándar, pero para destacar en un sector competitivo, las corporaciones deben invertir en mejoras: automatización, sistemas energéticos avanzados, líneas de ensamblaje optimizadas o herramientas específicas para recursos locales.
+El equipamiento bï¿½sico suele permitir operaciones estï¿½ndar, pero para destacar en un sector competitivo, las corporaciones deben invertir en mejoras: automatizaciï¿½n, sistemas energï¿½ticos avanzados, lï¿½neas de ensamblaje optimizadas o herramientas especï¿½ficas para recursos locales.
 
-Además de aumentar la productividad, las mejoras pueden reducir el desgaste de materiales, minimizar el error humano o permitir el trabajo en entornos extremos.
+Ademï¿½s de aumentar la productividad, las mejoras pueden reducir el desgaste de materiales, minimizar el error humano o permitir el trabajo en entornos extremos.
 
-No todas las mejoras están disponibles en todos los mundos: su acceso depende del nivel tecnológico local, las relaciones comerciales y la logística interplanetaria.
+No todas las mejoras estï¿½n disponibles en todos los mundos: su acceso depende del nivel tecnolï¿½gico local, las relaciones comerciales y la logï¿½stica interplanetaria.
 
-Actualizar la maquinaria no es una decisión aislada, sino parte de una estrategia industrial que conecta con la planificación a largo plazo de cada corporación.
+Actualizar la maquinaria no es una decisiï¿½n aislada, sino parte de una estrategia industrial que conecta con la planificaciï¿½n a largo plazo de cada corporaciï¿½n.

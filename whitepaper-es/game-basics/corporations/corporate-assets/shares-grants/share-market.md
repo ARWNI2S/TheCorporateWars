@@ -23,18 +23,18 @@ layout:
 
 # Mercado de Valores
 
-Las acciones corporativas no solo representan propiedad: son herramientas de inversión, especulación y control.
+Las acciones corporativas no solo representan propiedad: son herramientas de inversiï¿½n, especulaciï¿½n y control.
 
 En **The Corporate Wars**, las corporaciones pueden emitir, negociar y recomprar participaciones en mercados locales o interestelares.
 
-El valor de estas acciones fluctúa según el rendimiento, la reputación y las decisiones estratégicas de cada corporación.
+El valor de estas acciones fluctï¿½a segï¿½n el rendimiento, la reputaciï¿½n y las decisiones estratï¿½gicas de cada corporaciÃ³n.
 
-Comprar participaciones en empresas ajenas permite influir en su rumbo, acceder a información privilegiada o incluso sabotearlas desde dentro.
+Comprar participaciones en empresas ajenas permite influir en su rumbo, acceder a informaciï¿½n privilegiada o incluso sabotearlas desde dentro.
 
-Para el jugador, operar en el mercado de valores es tanto una oportunidad financiera como una vía para expandir su red de poder.
+Para el jugador, operar en el mercado de valores es tanto una oportunidad financiera como una vï¿½a para expandir su red de poder.
 
-Pero también es un riesgo: perder el control accionarial puede significar perder la dirección de la propia corporación.
+Pero tambiï¿½n es un riesgo: perder el control accionarial puede significar perder la direcciï¿½n de la propia corporaciï¿½n.
 
 Algunos mundos ofrecen mercados regulados, otros espacios opacos donde se mueven capitales menos escrutados.
 
-Elegir dónde y cómo jugar con el capital puede marcar la diferencia entre el crecimiento sostenido y el colapso financiero.
+Elegir dï¿½nde y cï¿½mo jugar con el capital puede marcar la diferencia entre el crecimiento sostenido y el colapso financiero.

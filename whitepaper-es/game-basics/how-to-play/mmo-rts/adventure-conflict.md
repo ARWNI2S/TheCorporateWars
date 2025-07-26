@@ -25,40 +25,40 @@ layout:
 
 No todo se resuelve con tratados, balances y mercados.
 
-En el trasfondo de **The Corporate Wars**, muchas cuentas se ajustan con acciones encubiertas, choques tácticos o intervenciones no autorizadas.
+En el trasfondo de **The Corporate Wars**, muchas cuentas se ajustan con acciones encubiertas, choques tï¿½cticos o intervenciones no autorizadas.
 
-En esta dimensión, el juego da paso a la iniciativa, el riesgo y la improvisación.
+En esta dimensiï¿½n, el juego da paso a la iniciativa, el riesgo y la improvisaciÃ³n.
 
 El conflicto no es siempre abierto ni formal.
 
-A menudo, se trata de una guerra silenciosa entre agendas, donde el movimiento correcto en el momento oportuno puede tener más impacto que una flota entera.
+A menudo, se trata de una guerra silenciosa entre agendas, donde el movimiento correcto en el momento oportuno puede tener mï¿½s impacto que una flota entera.
 
 ### Misiones especiales
 
-Las corporaciones no solo compiten por contratos: compiten por información, influencia y ventaja.
+Las corporaciones no solo compiten por contratos: compiten por informaciï¿½n, influencia y ventaja.
 
-A través de misiones especiales, los jugadores pueden intervenir en situaciones sensibles que requieren habilidad, discreción o audacia.
+A travï¿½s de misiones especiales, los jugadores pueden intervenir en situaciones sensibles que requieren habilidad, discreciï¿½n o audacia.
 
-Operaciones de sabotaje industrial, infiltraciones en centros de datos, extracción de ejecutivos, chantajes, alteración de contratos, rescates encubiertos o manipulación de sistemas logísticos forman parte de este repertorio.
+Operaciones de sabotaje industrial, infiltraciones en centros de datos, extracciï¿½n de ejecutivos, chantajes, alteraciï¿½n de contratos, rescates encubiertos o manipulaciï¿½n de sistemas logï¿½sticos forman parte de este repertorio.
 
-Cada misión responde a un contexto, y su ejecución puede cambiar radicalmente la situación en un sistema.
+Cada misiï¿½n responde a un contexto, y su ejecuciï¿½n puede cambiar radicalmente la situaciï¿½n en un sistema.
 
-El éxito depende de los agentes seleccionados, de su preparación, del apoyo logístico y del conocimiento previo del entorno.
+El ï¿½xito depende de los agentes seleccionados, de su preparaciï¿½n, del apoyo logï¿½stico y del conocimiento previo del entorno.
 
-No hay fórmulas fijas: cada intervención es única, y sus consecuencias se proyectan más allá del objetivo inmediato.
+No hay fï¿½rmulas fijas: cada intervenciï¿½n es ï¿½nica, y sus consecuencias se proyectan mï¿½s allï¿½ del objetivo inmediato.
 
 ## Conflicto militar o paramilitar
 
-Cuando las tensiones superan ciertos umbrales, el conflicto adopta formas más directas.
+Cuando las tensiones superan ciertos umbrales, el conflicto adopta formas mï¿½s directas.
 
-Aunque las corporaciones no poseen ejércitos en sentido clásico, sí cuentan con unidades de seguridad, contratos con fuerzas mercenarias, licencias de protección armada o acuerdos de asistencia defensiva.
+Aunque las corporaciones no poseen ejï¿½rcitos en sentido clï¿½sico, sï¿½ cuentan con unidades de seguridad, contratos con fuerzas mercenarias, licencias de protecciï¿½n armada o acuerdos de asistencia defensiva.
 
-Estos recursos pueden utilizarse para intervenir en zonas disputadas, proteger rutas críticas, bloquear operaciones rivales o ejecutar represalias.
+Estos recursos pueden utilizarse para intervenir en zonas disputadas, proteger rutas crï¿½ticas, bloquear operaciones rivales o ejecutar represalias.
 
-En algunos casos, incluso pueden actuar como fuerza de estabilización en sistemas sin autoridad clara.
+En algunos casos, incluso pueden actuar como fuerza de estabilizaciï¿½n en sistemas sin autoridad clara.
 
-La línea entre legalidad y _corsarismo_ es delgada, y muchas acciones militares se amparan en vacíos jurídicos, interpretaciones contractuales o lealtades flexibles.
+La lï¿½nea entre legalidad y _corsarismo_ es delgada, y muchas acciones militares se amparan en vacï¿½os jurï¿½dicos, interpretaciones contractuales o lealtades flexibles.
 
 Algunas corporaciones convierten el conflicto armado en parte estructural de su estrategia.
 
-El campo de batalla en **The Corporate Wars** no está lleno de banderas: está lleno de cláusulas, discretas autorizaciones y movimientos calculados.
+El campo de batalla en **The Corporate Wars** no estï¿½ lleno de banderas: estï¿½ lleno de clï¿½usulas, discretas autorizaciones y movimientos calculados.

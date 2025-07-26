@@ -23,10 +23,10 @@ layout:
 
 # Clanes y Alianzas
 
-Clanes y alianzas son agrupaciones de jugadores que operan como _políticas_ dentro del juego, con los mismos derechos, capacidades y consecuencias que cualquier otra estructura del sistema.
+Clanes y alianzas son agrupaciones de jugadores que operan como _polï¿½ticas_ dentro del juego, con los mismos derechos, capacidades y consecuencias que cualquier otra estructura del sistema.
 
-Pueden adoptar formas reconocibles —consorcios, trusts, federaciones logísticas, comunidades religiosas, redes culturales o modelos híbridos— y desplegar su influencia en función de cómo estructuren su presencia en el entorno.
+Pueden adoptar formas reconocibles ï¿½consorcios, trusts, federaciones logï¿½sticas, comunidades religiosas, redes culturales o modelos hï¿½bridosï¿½ y desplegar su influencia en funciÃ³n de cï¿½mo estructuren su presencia en el entorno.
 
-Estas organizaciones funcionan como cualquier otra _política_ operativa: controlan activos, establecen rutas, firman contratos, ejercen presión, se fragmentan o se consolidan según sus intereses y capacidades.
+Estas organizaciones funcionan como cualquier otra _polï¿½tica_ operativa: controlan activos, establecen rutas, firman contratos, ejercen presiï¿½n, se fragmentan o se consolidan segï¿½n sus intereses y capacidades.
 
-Su forma interna depende de la voluntad de sus miembros. Su alcance, de su capacidad para actuar con continuidad y cohesión.
+Su forma interna depende de la voluntad de sus miembros. Su alcance, de su capacidad para actuar con continuidad y cohesiï¿½n.

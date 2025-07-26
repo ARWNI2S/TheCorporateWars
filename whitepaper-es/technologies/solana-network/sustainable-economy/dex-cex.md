@@ -6,30 +6,30 @@ coverY: 0
 
 # Mercados Externos
 
-Aunque **The Corporate Wars** se apoya en tecnología blockchain y tokens SPL, la finalidad del proyecto **no** es listar el MCr, ni otras divisas del sistema, en mercados descentralizados (DEX) o centralizados (CEX).
+Aunque **The Corporate Wars** se apoya en tecnologï¿½a blockchain y tokens SPL, la finalidad del proyecto **no** es listar el MCr, ni otras divisas del sistema, en mercados descentralizados (DEX) o centralizados (CEX).
 
-El sistema económico está diseñado para operar internamente, sin depender de liquidez externa ni de flujos especulativos.
+El sistema econï¿½mico estï¿½ diseï¿½ado para operar internamente, sin depender de liquidez externa ni de flujos especulativos.
 
-La prioridad es desarrollar un entorno jugable completo, con profundidad técnica, mecánicas consistentes y contenido de calidad.
+La prioridad es desarrollar un entorno jugable completo, con profundidad tï¿½cnica, mecï¿½nicas consistentes y contenido de calidad.
 
-Dicho esto, si la participación comunitaria lo permite y el proyecto alcanza una escala suficiente, se evaluará la posibilidad de habilitar mercados secundarios.
+Dicho esto, si la participaciÃ³n comunitaria lo permite y el proyecto alcanza una escala suficiente, se evaluarï¿½ la posibilidad de habilitar mercados secundarios.
 
-No por ideología, sino por sentido práctico: no tendría sentido dejar inactivos grandes volúmenes de reservas si pueden usarse para abrir acceso a herramientas financieras útiles para los jugadores.
+No por ideologï¿½a, sino por sentido prï¿½ctico: no tendrï¿½a sentido dejar inactivos grandes volï¿½menes de reservas si pueden usarse para abrir acceso a herramientas financieras ï¿½tiles para los jugadores.
 
 Sin embargo, los costes asociados a ese tipo de operaciones son significativos.
 
-Establecer un pool de liquidez en condiciones reales requiere cantidades mínimas del orden de 50.000, 100.000 o incluso 200.000 USD en activos bloqueados.
+Establecer un pool de liquidez en condiciones reales requiere cantidades mï¿½nimas del orden de 50.000, 100.000 o incluso 200.000 USD en activos bloqueados.
 
-Esto no tiene sentido en una fase temprana, donde esos mismos recursos podrían destinarse al desarrollo del sistema, la producción de contenido, la mejora técnica o la expansión funcional.
+Esto no tiene sentido en una fase temprana, donde esos mismos recursos podrï¿½an destinarse al desarrollo del sistema, la producciï¿½n de contenido, la mejora tï¿½cnica o la expansiï¿½n funcional.
 
-El coste técnico de emitir 1 MCr o 1.000.000 MCr es prácticamente el mismo, pero la liquidez real requiere respaldo, volumen y responsabilidad.
+El coste tï¿½cnico de emitir 1 MCr o 1.000.000 MCr es prï¿½cticamente el mismo, pero la liquidez real requiere respaldo, volumen y responsabilidad.
 
-No se puede justificar desviar fondos críticos hacia un pool externo si eso compromete el ritmo de construcción del juego.
+No se puede justificar desviar fondos crï¿½ticos hacia un pool externo si eso compromete el ritmo de construcciï¿½n del juego.
 
-La posibilidad está sobre la mesa, pero su ejecución dependerá completamente del nivel de participación, apoyo y sostenibilidad alcanzado por el proyecto.
+La posibilidad estï¿½ sobre la mesa, pero su ejecuciï¿½n dependerï¿½ completamente del nivel de participaciï¿½n, apoyo y sostenibilidad alcanzado por el proyecto.
 
-A más contribuciones, más capacidad de equilibrar juego y liquidez.
+A mï¿½s contribuciones, mï¿½s capacidad de equilibrar juego y liquidez.
 
 Pero en esta etapa, la prioridad es clara: construir el sistema primero.
 
-Lo demás vendrá después.
+Lo demï¿½s vendrï¿½ despuï¿½s.

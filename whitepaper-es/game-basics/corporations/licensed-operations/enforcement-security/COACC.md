@@ -23,16 +23,16 @@ layout:
 
 # CCAOC
 
-El Control del Comando Aeroespacial y de Órbita Cercana (CCAOC) es una actividad estratégica dentro de la administración planetaria avanzada, que garantiza la seguridad del espacio próximo a un mundo habitado.
+El Control del Comando Aeroespacial y de ï¿½rbita Cercana (CCAOC) es una actividad estratï¿½gica dentro de la administraciÃ³n planetaria avanzada, que garantiza la seguridad del espacio prï¿½ximo a un mundo habitado.
 
-Comprende el monitoreo y regulación del tránsito en órbita baja, aproximaciones atmosféricas, rutas de ascenso y reentrada, así como el control de plataformas espaciales, estaciones orbitales y zonas militarizadas cercanas a la atmósfera.
+Comprende el monitoreo y regulaciï¿½n del trï¿½nsito en ï¿½rbita baja, aproximaciones atmosfï¿½ricas, rutas de ascenso y reentrada, asï¿½ como el control de plataformas espaciales, estaciones orbitales y zonas militarizadas cercanas a la atmï¿½sfera.
 
-En muchos mundos, esta función es ejercida directamente por las autoridades locales o por ramas militares del gobierno planetario.
+En muchos mundos, esta funciï¿½n es ejercida directamente por las autoridades locales o por ramas militares del gobierno planetario.
 
-Pero no es infrecuente que su ejecución se delegue a corporaciones especializadas o consorcios interplanetarios mediante contratos de seguridad o licencias operativas.
+Pero no es infrecuente que su ejecuciï¿½n se delegue a corporaciones especializadas o consorcios interplanetarios mediante contratos de seguridad o licencias operativas.
 
-La gestión eficaz del CCAOC implica tanto capacidad técnica —sensores orbitales, protocolos de tráfico, armamento de interceptación— como legitimidad política, ya que las decisiones sobre tránsito, acceso o exclusión afectan intereses diplomáticos y comerciales.
+La gestiï¿½n eficaz del CCAOC implica tanto capacidad tï¿½cnica ï¿½sensores orbitales, protocolos de trï¿½fico, armamento de interceptaciï¿½nï¿½ como legitimidad polï¿½tica, ya que las decisiones sobre trï¿½nsito, acceso o exclusiï¿½n afectan intereses diplomï¿½ticos y comerciales.
 
-Una corporación que actúe en este ámbito debe mantener un equilibrio delicado: ejercer autoridad sin provocar tensiones, garantizar seguridad sin obstaculizar el flujo económico, y defender sin escalar innecesariamente conflictos.
+Una corporaciï¿½n que actï¿½e en este ï¿½mbito debe mantener un equilibrio delicado: ejercer autoridad sin provocar tensiones, garantizar seguridad sin obstaculizar el flujo econï¿½mico, y defender sin escalar innecesariamente conflictos.
 
-El control del CCAOC puede transformar a una corporación en actor clave dentro de un sistema, con capacidad para proteger, bloquear o condicionar el acceso a recursos estratégicos.
+El control del CCAOC puede transformar a una corporaciï¿½n en actor clave dentro de un sistema, con capacidad para proteger, bloquear o condicionar el acceso a recursos estratï¿½gicos.

@@ -23,29 +23,29 @@ layout:
 
 # Nobiliti
 
-Nobiliti es la clase aristocrática del Tercer Imperio.
+Nobiliti es la clase aristocrÃ¡tica del Tercer Imperio.
 
-Su existencia no es simbólica ni decorativa: constituye uno de los pilares fundamentales del sistema imperial.
+Su existencia no es simbï¿½lica ni decorativa: constituye uno de los pilares fundamentales del sistema imperial.
 
-Los nobles no solo poseen títulos, sino también responsabilidades legales, jurisdicción territorial y deberes de lealtad al Emperador.
+Los nobles no solo poseen tï¿½tulos, sino tambiï¿½n responsabilidades legales, jurisdicciï¿½n territorial y deberes de lealtad al Emperador.
 
-Su autoridad emana de la concesión imperial, y su función es garantizar la estabilidad, el desarrollo y la continuidad del orden interestelar.
+Su autoridad emana de la concesiï¿½n imperial, y su funciï¿½n es garantizar la estabilidad, el desarrollo y la continuidad del orden interestelar.
 
 ### Las Casas Nobles
 
-Las casas nobles imperiales son linajes hereditarios con siglos —incluso milenios— de historia.
+Las casas nobles imperiales son linajes hereditarios con siglos ï¿½incluso mileniosï¿½ de historia.
 
-Pueden tener orígenes syleanos, solomani, vilani, vargr u otros, y en muchos casos combinan herencia genética con adquisiciones políticas o económicas.
+Pueden tener orï¿½genes syleanos, solomani, vilani, vargr u otros, y en muchos casos combinan herencia genï¿½tica con adquisiciones polï¿½ticas o econï¿½micas.
 
-Estas casas mantienen redes de influencia que incluyen alianzas matrimoniales, vínculos con corporaciones, control de rutas y acceso directo a otras instituciones imperiales.
+Estas casas mantienen redes de influencia que incluyen alianzas matrimoniales, vï¿½nculos con corporaciones, control de rutas y acceso directo a otras instituciones imperiales.
 
-Cada casa posee un **grado** (ducal, marquesal, baronal, etc.) y una **jurisdicción**, que puede abarcar desde un solo planeta hasta sectores enteros, dependiendo de su importancia.
+Cada casa posee un **grado** (ducal, marquesal, baronal, etc.) y una **jurisdicciï¿½n**, que puede abarcar desde un solo planeta hasta sectores enteros, dependiendo de su importancia.
 
 ## Dominios Imperiales
 
-Los Dominios Imperiales son grandes regiones administrativas que agrupan múltiples sectores bajo la autoridad de un Archiduque. Representan la descentralización efectiva del poder imperial.
+Los Dominios Imperiales son grandes regiones administrativas que agrupan mï¿½ltiples sectores bajo la autoridad de un Archiduque. Representan la descentralizaciï¿½n efectiva del poder imperial.
 
-Los dominios funcionan como zonas de poder autónomo dentro del Imperio, con capacidad para organizar flotas locales, nombrar funcionarios y mantener el orden.
+Los dominios funcionan como zonas de poder autï¿½nomo dentro del Imperio, con capacidad para organizar flotas locales, nombrar funcionarios y mantener el orden.
 
 ***
 
@@ -53,12 +53,12 @@ Los dominios funcionan como zonas de poder autónomo dentro del Imperio, con capa
 
 En **The Corporate Wars**, Nobiliti es una fuente de autoridad, conflicto y oportunidades.
 
-Los jugadores pueden **ganarse el favor** de una Casa Noble para obtener privilegios en rutas, protección o legitimidad.
+Los jugadores pueden **ganarse el favor** de una Casa Noble para obtener privilegios en rutas, protecciï¿½n o legitimidad.
 
-Pueden **enfrentarse a nobles locales** en disputas políticas o económicas.
+Pueden **enfrentarse a nobles locales** en disputas polï¿½ticas o econï¿½micas.
 
 O pueden ver su progreso **limitado por linajes** que controlan sectores clave del comercio, la diplomacia o la infraestructura.
 
 Nobiliti no se controla, se gestiona.
 
-Y una mala decisión frente a un noble equivocado puede tener consecuencias... _imperiales_.
+Y una mala decisiï¿½n frente a un noble equivocado puede tener consecuencias... _imperiales_.

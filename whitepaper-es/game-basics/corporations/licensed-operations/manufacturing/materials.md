@@ -23,12 +23,12 @@ layout:
 
 # Materiales
 
-Toda operación de manufactura depende de una base estable de materias primas. Desde metales raros hasta compuestos orgánicos, pasando por gases industriales y elementos sintéticos, los materiales son el insumo esencial de toda economía productiva.
+Toda operaciÃ³n de manufactura depende de una base estable de materias primas. Desde metales raros hasta compuestos orgï¿½nicos, pasando por gases industriales y elementos sintï¿½ticos, los materiales son el insumo esencial de toda economï¿½a productiva.
 
-Las corporaciones dedicadas a esta actividad no generan productos finales, sino que transforman recursos crudos —extraídos localmente o importados— en materiales procesados, listos para alimentar cadenas industriales más complejas.
+Las corporaciones dedicadas a esta actividad no generan productos finales, sino que transforman recursos crudos ï¿½extraï¿½dos localmente o importadosï¿½ en materiales procesados, listos para alimentar cadenas industriales mï¿½s complejas.
 
-En entornos bien desarrollados, contar con una fuente local reduce costes logísticos y garantiza continuidad de suministro. Pero en regiones especializadas o de alto valor tecnológico, importar desde mundos remotos puede ser más rentable, incluso con riesgos asociados al transporte interestelar.
+En entornos bien desarrollados, contar con una fuente local reduce costes logï¿½sticos y garantiza continuidad de suministro. Pero en regiones especializadas o de alto valor tecnolï¿½gico, importar desde mundos remotos puede ser mï¿½s rentable, incluso con riesgos asociados al transporte interestelar.
 
-Dominar este sector implica eficiencia en el refinado, previsión en la cadena de abastecimiento y capacidad para responder ante crisis de escasez, bloqueos comerciales o cambios en la demanda galáctica.
+Dominar este sector implica eficiencia en el refinado, previsiï¿½n en la cadena de abastecimiento y capacidad para responder ante crisis de escasez, bloqueos comerciales o cambios en la demanda galï¿½ctica.
 
-Una corporación que controla materiales controla el ritmo de producción, y con ello, las oportunidades de toda una región.
+Una corporaciï¿½n que controla materiales controla el ritmo de producciï¿½n, y con ello, las oportunidades de toda una regiï¿½n.

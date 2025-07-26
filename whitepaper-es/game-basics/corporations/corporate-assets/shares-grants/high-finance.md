@@ -23,14 +23,14 @@ layout:
 
 # Grandes Inversiones
 
-Las grandes inversiones representan apuestas estratégicas de alto coste y alto impacto.
+Las grandes inversiones representan apuestas estratï¿½gicas de alto coste y alto impacto.
 
-Son proyectos que movilizan megacréditos, requieren años de planificación y recursos escasos: megainfraestructuras, desarrollos tecnológicos de frontera, terraformación parcial, alianzas intersectoriales o adquisición de activos críticos.
+Son proyectos que movilizan megacrï¿½ditos, requieren aï¿½os de planificaciï¿½n y recursos escasos: megainfraestructuras, desarrollos tecnolï¿½gicos de frontera, terraformaciï¿½n parcial, alianzas intersectoriales o adquisiciÃ³n de activos crï¿½ticos.
 
-Iniciar una de estas operaciones requiere no solo capital, sino también influencia política, información sensible y capacidad logística.
+Iniciar una de estas operaciones requiere no solo capital, sino tambiï¿½n influencia polï¿½tica, informaciï¿½n sensible y capacidad logï¿½stica.
 
-Son decisiones que pueden elevar a una corporación a la cima... o hundirla si fracasan.
+Son decisiones que pueden elevar a una corporaciï¿½n a la cima... o hundirla si fracasan.
 
-Estas inversiones suelen estar ligadas a contratos mayores con gobiernos, _Lealtades_ o consorcios, y su éxito puede alterar significativamente el equilibrio económico de una región.
+Estas inversiones suelen estar ligadas a contratos mayores con gobiernos, _Lealtades_ o consorcios, y su ï¿½xito puede alterar significativamente el equilibrio econï¿½mico de una regiï¿½n.
 
-En términos jugables, son oportunidades que convierten _Unidades de Recursos_ y megacréditos en ventajas sistémicas, desbloqueando nuevas capacidades, modificadores estructurales o relaciones diplomáticas clave.
+En tï¿½rminos jugables, son oportunidades que convierten _Unidades de Recursos_ y megacrï¿½ditos en ventajas sistï¿½micas, desbloqueando nuevas capacidades, modificadores estructurales o relaciones diplomï¿½ticas clave.

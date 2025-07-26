@@ -6,17 +6,17 @@ coverY: 0
 
 # Tokens SPL
 
-**The Corporate Wars** emplea múltiples tokens SPL desplegados sobre la red Solana como base técnica de su economía simulada.
+**The Corporate Wars** emplea mï¿½ltiples tokens SPL desplegados sobre la red Solana como base tï¿½cnica de su economÃ­a simulada.
 
-Estos tokens representan diferentes tipos de valor dentro del sistema. Algunos están diseñados para circular libremente entre usuarios: pueden transferirse, almacenarse en wallets externas, utilizarse en contratos o incluso interactuar con el ecosistema exterior. Otros, aunque técnicamente también son SPL, tienen un comportamiento restringido por diseño: solo pueden utilizarse dentro del sistema, no se transfieren entre jugadores y no tienen función fuera del entorno simulado.
+Estos tokens representan diferentes tipos de valor dentro del sistema. Algunos estï¿½n diseï¿½ados para circular libremente entre usuarios: pueden transferirse, almacenarse en wallets externas, utilizarse en contratos o incluso interactuar con el ecosistema exterior. Otros, aunque tï¿½cnicamente tambiï¿½n son SPL, tienen un comportamiento restringido por diseï¿½o: solo pueden utilizarse dentro del sistema, no se transfieren entre jugadores y no tienen funciï¿½n fuera del entorno simulado.
 
-Los tokens SPL se utilizan como instrumentos económicos versátiles. En función de su tipo y propósito, pueden servir para:
+Los tokens SPL se utilizan como instrumentos econï¿½micos versï¿½tiles. En funciï¿½n de su tipo y propï¿½sito, pueden servir para:
 
-- Respaldar políticamente a las entidades institucionales del sistema, mediante mecanismos de stake.
-- Proporcionar liquidez económica a holdings y corporaciones gestionadas por jugadores.
-- Representar el peso económico estructural de mundos o regiones en el modelo galáctico.
-- Registrar compromisos financieros, reservas, subsidios o redistribuciones internas entre partes del sistema.
+* Respaldar polï¿½ticamente a las entidades institucionales del sistema, mediante mecanismos de stake.
+* Proporcionar liquidez econï¿½mica a holdings y corporaciones gestionadas por jugadores.
+* Representar el peso econï¿½mico estructural de mundos o regiones en el modelo galï¿½ctico.
+* Registrar compromisos financieros, reservas, subsidios o redistribuciones internas entre partes del sistema.
 
-Todos estos tokens comparten la misma infraestructura técnica: son activos SPL estándar sobre la red Solana. Sin embargo, su comportamiento está determinado por los contratos y políticas internas del juego, que definen qué se puede transferir, qué se puede intercambiar y qué solo tiene validez dentro del propio sistema.
+Todos estos tokens comparten la misma infraestructura tï¿½cnica: son activos SPL estï¿½ndar sobre la red Solana. Sin embargo, su comportamiento estï¿½ determinado por los contratos y polï¿½ticas internas del juego, que definen quï¿½ se puede transferir, quï¿½ se puede intercambiar y quï¿½ solo tiene validez dentro del propio sistema.
 
-Esta arquitectura permite que el sistema económico simulado se mantenga coherente y verificable, sin romper la interoperabilidad técnica con el exterior.
+Esta arquitectura permite que el sistema econï¿½mico simulado se mantenga coherente y verificable, sin romper la interoperabilidad tï¿½cnica con el exterior.

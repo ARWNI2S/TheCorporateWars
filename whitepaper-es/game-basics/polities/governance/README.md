@@ -23,19 +23,18 @@ layout:
 
 # Reglas y Leyes
 
-A pesar de los intentos por mantener el orden, la inmensidad del espacio y las barreras en la comunicación hacen que la aplicación de la ley sea inconsistente.
+A pesar de los intentos por mantener el orden, la inmensidad del espacio y las barreras en la comunicaciÃ³n hacen que la aplicaciï¿½n de la ley sea inconsistente.
 
-En las fronteras más alejadas, la influencia de los grandes gobiernos se diluye, dando lugar a territorios donde la autoridad es disputada entre facciones, piratas, milicias y consorcios corporativos.
+En las fronteras mï¿½s alejadas, la influencia de los grandes gobiernos se diluye, dando lugar a territorios donde la autoridad es disputada entre facciones, piratas, milicias y consorcios corporativos.
 
-En este entorno, la lealtad a la ley es a menudo una cuestión de pragmatismo, y la supervivencia depende de la capacidad para navegar las complejas dinámicas del poder interestelar.
+En este entorno, la lealtad a la ley es a menudo una cuestiï¿½n de pragmatismo, y la supervivencia depende de la capacidad para navegar las complejas dinï¿½micas del poder interestelar.
 
 ***
 
-Las leyes, en *The Corporate Wars*, emergen de la combinación entre Gobiernos, Lealtades e Instituciones. Los Gobiernos determinan qué tipo de autoridad impera en un sistema. Las Lealtades definen a quién responde esa autoridad. Las Instituciones —imperiales, locales o privadas— imponen reglas concretas que regulan el comercio, el tránsito y la propiedad.
+Las leyes, en _The Corporate Wars_, emergen de la combinaciï¿½n entre Gobiernos, Lealtades e Instituciones. Los Gobiernos determinan quï¿½ tipo de autoridad impera en un sistema. Las Lealtades definen a quiï¿½n responde esa autoridad. Las Instituciones ï¿½imperiales, locales o privadasï¿½ imponen reglas concretas que regulan el comercio, el trï¿½nsito y la propiedad.
 
-El resultado es un mosaico de sistemas legales, donde cada sector del espacio tiene sus propias normas sobre quién puede actuar, qué está permitido y qué se considera delito.
+El resultado es un mosaico de sistemas legales, donde cada sector del espacio tiene sus propias normas sobre quiï¿½n puede actuar, quï¿½ estï¿½ permitido y quï¿½ se considera delito.
 
-Incumplir estas reglas puede desencadenar consecuencias específicas: sanciones, embargos, confiscaciones, bloqueos aduaneros o intervención armada. Un contrato roto en un puerto puede convertirse en una orden de arresto en otro, o quedar impune si el jugador cruza a una jurisdicción sin tratado de extradición.
+Incumplir estas reglas puede desencadenar consecuencias especï¿½ficas: sanciones, embargos, confiscaciones, bloqueos aduaneros o intervenciï¿½n armada. Un contrato roto en un puerto puede convertirse en una orden de arresto en otro, o quedar impune si el jugador cruza a una jurisdicciï¿½n sin tratado de extradiciï¿½n.
 
-Comprender y manipular estas dinámicas legales no es opcional: es parte del juego. Saber cuándo registrar una operación, cuándo sobornar a un burócrata o cuándo borrar un manifiesto de carga puede marcar la diferencia entre expandirse o ser desmantelado.
-
+Comprender y manipular estas dinï¿½micas legales no es opcional: es parte del juego. Saber cuï¿½ndo registrar una operaciï¿½n, cuï¿½ndo sobornar a un burï¿½crata o cuï¿½ndo borrar un manifiesto de carga puede marcar la diferencia entre expandirse o ser desmantelado.

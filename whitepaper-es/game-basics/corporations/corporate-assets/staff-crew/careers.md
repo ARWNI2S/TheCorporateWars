@@ -23,12 +23,12 @@ layout:
 
 # Carreras Profesionales
 
-Algunos individuos destacan más allá del personal común: son personajes con historia, trayectoria y capacidades definidas.
+Algunos individuos destacan mï¿½s allï¿½ del personal comÃºn: son personajes con historia, trayectoria y capacidades definidas.
 
-Estos activos específicos de la corporación provienen de carreras profesionales reconocidas en instituciones alineadas con una _Lealtad_ concreta.
+Estos activos especï¿½ficos de la corporaciï¿½n provienen de carreras profesionales reconocidas en instituciones alineadas con una _Lealtad_ concreta.
 
-Cada carrera profesional —militar, técnica, científica, ejecutiva, médica o especializada— confiere un conjunto de habilidades, redes de contacto y características personales que los convierten en piezas clave para operaciones sensibles o estratégicas.
+Cada carrera profesional ï¿½militar, tï¿½cnica, cientï¿½fica, ejecutiva, mï¿½dica o especializadaï¿½ confiere un conjunto de habilidades, redes de contacto y caracterï¿½sticas personales que los convierten en piezas clave para operaciones sensibles o estratï¿½gicas.
 
-Reclutar un personaje con experiencia en una carrera concreta no solo mejora el rendimiento en su área de competencia, sino que puede desbloquear nuevas opciones tácticas, contractuales o de desarrollo dentro del juego.
+Reclutar un personaje con experiencia en una carrera concreta no solo mejora el rendimiento en su ï¿½rea de competencia, sino que puede desbloquear nuevas opciones tï¿½cticas, contractuales o de desarrollo dentro del juego.
 
-Su origen, formación y fidelidad ideológica pueden suponer tanto una ventaja como un riesgo, dependiendo del entorno político y la alineación corporativa.
+Su origen, formaciï¿½n y fidelidad ideolï¿½gica pueden suponer tanto una ventaja como un riesgo, dependiendo del entorno polï¿½tico y la alineaciï¿½n corporativa.

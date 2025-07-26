@@ -23,24 +23,24 @@ layout:
 
 # SolSec
 
-El **SolSec** —acrónimo de *Solomani Security*— es el aparato de inteligencia, contrainteligencia e ideología de la Confederación Solomani. Fundado como una agencia de seguridad estatal, se transformó con el tiempo en una institución transversal, cuya influencia penetra tanto las estructuras gubernamentales como las corporativas, civiles y militares.
+El **SolSec** ï¿½acrï¿½nimo de _Solomani Security_ï¿½ es el aparato de inteligencia, contrainteligencia e ideologÃ­a de la Confederaciï¿½n Solomani. Fundado como una agencia de seguridad estatal, se transformï¿½ con el tiempo en una instituciï¿½n transversal, cuya influencia penetra tanto las estructuras gubernamentales como las corporativas, civiles y militares.
 
-Más que una policía secreta, el SolSec actúa como garante doctrinal: protege la narrativa fundacional de la Confederación, vigila la pureza ideológica de sus élites y neutraliza amenazas internas y externas, sean políticas, culturales o biotecnológicas.
+Mï¿½s que una policï¿½a secreta, el SolSec actï¿½a como garante doctrinal: protege la narrativa fundacional de la Confederaciï¿½n, vigila la pureza ideolï¿½gica de sus ï¿½lites y neutraliza amenazas internas y externas, sean polï¿½ticas, culturales o biotecnolï¿½gicas.
 
-En el año 1201, su poder se ejerce con precisión quirúrgica: no necesita reprimir visiblemente para dominar, basta con estar presente.
+En el aï¿½o 1201, su poder se ejerce con precisiï¿½n quirï¿½rgica: no necesita reprimir visiblemente para dominar, basta con estar presente.
 
 ## Naturaleza y Funciones
 
-El SolSec opera bajo el mandato directo del **Concilio de Terra**, pero mantiene una autonomía operativa absoluta. Controla sus propias flotas, redes de datos, unidades encubiertas y sistemas de vigilancia cuántica. Está estructurado en departamentos funcionales: vigilancia exterior, control interior, neutralización, análisis doctrinal y operaciones extranjeras.
+El SolSec opera bajo el mandato directo del **Concilio de Terra**, pero mantiene una autonomï¿½a operativa absoluta. Controla sus propias flotas, redes de datos, unidades encubiertas y sistemas de vigilancia cuï¿½ntica. Estï¿½ estructurado en departamentos funcionales: vigilancia exterior, control interior, neutralizaciï¿½n, anï¿½lisis doctrinal y operaciones extranjeras.
 
-Su doctrina es clara: todo aquello que debilite la visión restauradora de la Confederación es considerado una amenaza. Desde corporaciones que comercian con enemigos ideológicos, hasta científicos que cuestionan el origen humano de la hegemonía estelar: todo es susceptible de intervención.
+Su doctrina es clara: todo aquello que debilite la visiï¿½n restauradora de la Confederaciï¿½n es considerado una amenaza. Desde corporaciones que comercian con enemigos ideolï¿½gicos, hasta cientï¿½ficos que cuestionan el origen humano de la hegemonï¿½a estelar: todo es susceptible de intervenciï¿½n.
 
-El SolSec no se limita a proteger mundos: protege el relato. Su tarea principal no es la defensa de fronteras físicas, sino de los límites mentales de lo posible y lo aceptable.
+El SolSec no se limita a proteger mundos: protege el relato. Su tarea principal no es la defensa de fronteras fï¿½sicas, sino de los lï¿½mites mentales de lo posible y lo aceptable.
 
 ## SolSec en el Juego
 
-En **The Corporate Wars**, el SolSec es tanto un enemigo invisible como un aliado temido. Puede infiltrar corporaciones, manipular contratos, reprogramar inteligencias artificiales o interceptar tramas enteras antes de que se desarrollen. Los jugadores pueden ser contactados por agentes del SolSec para ejecutar misiones de sabotaje, contrainteligencia o “rectificación doctrinal”.
+En **The Corporate Wars**, el SolSec es tanto un enemigo invisible como un aliado temido. Puede infiltrar corporaciones, manipular contratos, reprogramar inteligencias artificiales o interceptar tramas enteras antes de que se desarrollen. Los jugadores pueden ser contactados por agentes del SolSec para ejecutar misiones de sabotaje, contrainteligencia o ï¿½rectificaciï¿½n doctrinalï¿½.
 
-Aceptar su ayuda implica someterse a cláusulas ideológicas. Oponerse, significa jugar contra una entidad que conoce tus movimientos antes de que los pienses. El SolSec no se enfrenta: se sobrevive, se negocia, o se elude.
+Aceptar su ayuda implica someterse a clï¿½usulas ideolï¿½gicas. Oponerse, significa jugar contra una entidad que conoce tus movimientos antes de que los pienses. El SolSec no se enfrenta: se sobrevive, se negocia, o se elude.
 
-> *“No somos vigilancia. Somos certeza.”*
+> _ï¿½No somos vigilancia. Somos certeza.ï¿½_

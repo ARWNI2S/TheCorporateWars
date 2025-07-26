@@ -6,23 +6,22 @@ coverY: 0
 
 # Otras Divisas
 
-Además de los tokens estructurales del sistema, **The Corporate Wars** contempla la existencia de otras divisas en distintos niveles del universo simulado.
+Ademï¿½s de los tokens estructurales del sistema, **The Corporate Wars** contempla la existencia de otras divisas en distintos niveles del universo simulado.
 
 ### Moneda Local
 
-Las divisas locales emitidas por gobiernos planetarios, regiones autónomas o actores menores se gestionan exclusivamente dentro del juego.
+Las divisas locales emitidas por gobiernos planetarios, regiones autï¿½nomas o actores menores se gestionan exclusivamente dentro del juego.
 
-No están representadas como tokens SPL y forman parte del sistema narrativo y económico interno, sin interfaz directa con la red Solana.
+No estÃ¡n representadas como tokens SPL y forman parte del sistema narrativo y econï¿½mico interno, sin interfaz directa con la red Solana.
 
 ***
 
-Sin embargo, el sistema podría permitir que ciertas _Lealtades_ o _Instituciones_ —ya sean entidades del juego o estructuras futuras— emitan sus propios tokens SPL, con usos y reglas definidas por sus propios contratos.
+Sin embargo, el sistema podrï¿½a permitir que ciertas _Lealtades_ o _Instituciones_ ï¿½ya sean entidades del juego o estructuras futurasï¿½ emitan sus propios tokens SPL, con usos y reglas definidas por sus propios contratos.
 
-Estas divisas paralelas pueden servir para expresar políticas económicas independientes, representar redes de confianza regionales, o crear incentivos específicos dentro de zonas o facciones concretas.
+Estas divisas paralelas pueden servir para expresar polï¿½ticas econï¿½micas independientes, representar redes de confianza regionales, o crear incentivos especï¿½ficos dentro de zonas o facciones concretas.
 
-La viabilidad de estas divisas adicionales depende directamente del alcance del proyecto y de la participación activa de la comunidad.
+La viabilidad de estas divisas adicionales depende directamente del alcance del proyecto y de la participaciï¿½n activa de la comunidad.
 
-Su aparición no es obligatoria ni automática: requiere soporte técnico, diseño económico y gestión activa por parte del equipo de desarrollo, con respaldo de la Tesorería.
+Su apariciï¿½n no es obligatoria ni automï¿½tica: requiere soporte tï¿½cnico, diseï¿½o econï¿½mico y gestiï¿½n activa por parte del equipo de desarrollo, con respaldo de la Tesorerï¿½a.
 
-Estas monedas, si se implementan, estarán sujetas a las mismas garantías técnicas que el resto de los activos SPL del sistema: interoperabilidad controlada, uso regulado por contratos, y coherencia con el modelo económico general del universo.
-
+Estas monedas, si se implementan, estarï¿½n sujetas a las mismas garantï¿½as tï¿½cnicas que el resto de los activos SPL del sistema: interoperabilidad controlada, uso regulado por contratos, y coherencia con el modelo econï¿½mico general del universo.

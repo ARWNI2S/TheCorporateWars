@@ -23,12 +23,12 @@ layout:
 
 # Licencia de Libre Comercio
 
-La licencia de libre comercio permite a una corporación operar como intermediaria en el movimiento de bienes entre mundos, estaciones y enclaves.
+La licencia de libre comercio permite a una corporaciÃ³n operar como intermediaria en el movimiento de bienes entre mundos, estaciones y enclaves.
 
-Este tipo de operación es flexible, adaptable y potencialmente muy rentable, pero también implica riesgos constantes y un entorno de competencia feroz.
+Este tipo de operaciï¿½n es flexible, adaptable y potencialmente muy rentable, pero tambiï¿½n implica riesgos constantes y un entorno de competencia feroz.
 
-Un jugador con esta licencia puede asumir contratos comerciales —con responsabilidad directa sobre la mercancía— o actuar como comerciante independiente, comprando y vendiendo por cuenta propia según las condiciones del mercado local.
+Un jugador con esta licencia puede asumir contratos comerciales ï¿½con responsabilidad directa sobre la mercancï¿½aï¿½ o actuar como comerciante independiente, comprando y vendiendo por cuenta propia segï¿½n las condiciones del mercado local.
 
-La clave del éxito está en la reputación: cumplir plazos, proteger las cargas y mantener relaciones estables con corredores y autoridades abre nuevas rutas y oportunidades.
+La clave del ï¿½xito estï¿½ en la reputaciï¿½n: cumplir plazos, proteger las cargas y mantener relaciones estables con corredores y autoridades abre nuevas rutas y oportunidades.
 
-Fallar puede cerrar puertas y marcar la corporación como poco fiable, algo difícil de revertir en los circuitos comerciales del Espacio Conocido.
+Fallar puede cerrar puertas y marcar la corporaciï¿½n como poco fiable, algo difï¿½cil de revertir en los circuitos comerciales del Espacio Conocido.

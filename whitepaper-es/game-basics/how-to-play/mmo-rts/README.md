@@ -23,38 +23,38 @@ layout:
 
 # MMORTS
 
-En su capa estratégica, **The Corporate Wars** se presenta como un juego multijugador en tiempo real donde cada corporación compite, colabora o colisiona con otras en un universo vivo.
+En su capa estratÃ©gica, **The Corporate Wars** se presenta como un juego multijugador en tiempo real donde cada corporaciï¿½n compite, colabora o colisiona con otras en un universo vivo.
 
-Las decisiones no son simples maniobras individuales: alteran rutas comerciales, transforman zonas neutrales en campos de disputa y pueden desencadenar eventos de escala galáctica.
+Las decisiones no son simples maniobras individuales: alteran rutas comerciales, transforman zonas neutrales en campos de disputa y pueden desencadenar eventos de escala galï¿½ctica.
 
-Este entorno compartido obliga a pensar no solo en términos de crecimiento económico, sino también en la forma en que ese crecimiento afecta al equilibrio general del sector.
+Este entorno compartido obliga a pensar no solo en tï¿½rminos de crecimiento econï¿½mico, sino tambiï¿½n en la forma en que ese crecimiento afecta al equilibrio general del sector.
 
 No hay turnos, no hay pausas: todo ocurre en tiempo real, y lo que no se vigila puede perderse.
 
-### Conflicto Económico y Astropolítico
+### Conflicto Econï¿½mico y Astropolï¿½tico
 
-A medida que las corporaciones expanden su red de operaciones, surgen inevitables zonas de fricción.
+A medida que las corporaciones expanden su red de operaciones, surgen inevitables zonas de fricciï¿½n.
 
-Competencia por recursos estratégicos, disputas sobre rutas de salto, enfrentamientos por licencias exclusivas o diferencias ideológicas entre _Lealtades_ pueden derivar en conflictos abiertos o tensiones latentes.
+Competencia por recursos estratï¿½gicos, disputas sobre rutas de salto, enfrentamientos por licencias exclusivas o diferencias ideolï¿½gicas entre _Lealtades_ pueden derivar en conflictos abiertos o tensiones latentes.
 
-Los sectores con mayor densidad de nodos económicos se convierten en puntos calientes, donde el equilibrio puede mantenerse mediante acuerdos... o romperse con una sola provocación.
+Los sectores con mayor densidad de nodos econï¿½micos se convierten en puntos calientes, donde el equilibrio puede mantenerse mediante acuerdos... o romperse con una sola provocaciï¿½n.
 
 Algunas corporaciones prosperan en la estabilidad; otras, en el caos.
 
-El mapa del juego no es solo geográfico: es político, económico y simbólico.
+El mapa del juego no es solo geogrï¿½fico: es polï¿½tico, econï¿½mico y simbï¿½lico.
 
 Controlar un sistema puede equivaler a controlar un mensaje.
 
 ## Operaciones y Misiones
 
-Más allá de la gestión de infraestructuras, el jugador puede desplegar agentes especializados para realizar operaciones puntuales: sabotajes, infiltraciones, negociaciones, escoltas, reconocimientos, manipulación informativa o recuperación de activos.
+Mï¿½s allï¿½ de la gestiï¿½n de infraestructuras, el jugador puede desplegar agentes especializados para realizar operaciones puntuales: sabotajes, infiltraciones, negociaciones, escoltas, reconocimientos, manipulaciï¿½n informativa o recuperaciï¿½n de activos.
 
-Estas misiones se integran en tiempo real dentro del mapa estratégico, afectando directamente el curso de eventos.
+Estas misiones se integran en tiempo real dentro del mapa estratï¿½gico, afectando directamente el curso de eventos.
 
 Un agente bien colocado puede impedir una guerra o iniciarla.
 
-Un sabotaje exitoso puede arruinar meses de logística rival.
+Un sabotaje exitoso puede arruinar meses de logï¿½stica rival.
 
-Las operaciones no son aleatorias: cada una responde a un contexto específico, a una necesidad o a una oportunidad.
+Las operaciones no son aleatorias: cada una responde a un contexto especï¿½fico, a una necesidad o a una oportunidad.
 
-La diferencia entre una corporación que sobrevive y una que lidera puede estar en una decisión táctica bien ejecutada en el momento exacto.
+La diferencia entre una corporaciï¿½n que sobrevive y una que lidera puede estar en una decisiï¿½n tï¿½ctica bien ejecutada en el momento exacto.

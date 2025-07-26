@@ -6,16 +6,16 @@ coverY: 0
 
 # Coste Operativo
 
-El coste operativo representa el conjunto de recursos necesarios para que **The Corporate Wars** funcione de forma continua, tanto en su despliegue sobre la red Solana como en la infraestructura técnica que lo sostiene fuera de ella.
+El coste operativo representa el conjunto de recursos necesarios para que **The Corporate Wars** funcione de forma continua, tanto en su despliegue sobre la red Solana como en la infraestructura tï¿½cnica que lo sostiene fuera de ella.
 
-A nivel blockchain, incluye el mantenimiento de cuentas y programas activos, el pago de _rent_ proporcional al tamaño del estado, y las comisiones (_fees_) por cada operación ejecutada, ya sea por los jugadores o por procesos internos del sistema.
+A nivel blockchain, incluye el mantenimiento de cuentas y programas activos, el pago de _rent_ proporcional al tamaï¿½o del estado, y las comisiones (_fees_) por cada operaciï¿½n ejecutada, ya sea por los jugadores o por procesos internos del sistema.
 
-Pero más allá de la red Solana, el sistema requiere una base técnica permanente: servidores en la nube, bases de datos, almacenamiento auxiliar, servicios de autenticación, servidores web, APIs, procesamiento de eventos, herramientas de orquestación, monitorización, seguridad, backups y más.
+Pero mï¿½s allï¿½ de la red Solana, el sistema requiere una base tï¿½cnica permanente: servidores en la nube, bases de datos, almacenamiento auxiliar, servicios de autenticaciï¿½n, servidores web, APIs, procesamiento de eventos, herramientas de orquestaciÃ³n, monitorizaciï¿½n, seguridad, backups y mï¿½s.
 
-Sin esta capa operativa, el universo no sería accesible, estable ni funcional.
+Sin esta capa operativa, el universo no serï¿½a accesible, estable ni funcional.
 
 Todos estos elementos tienen un coste real y sostenido, que debe cubrirse con regularidad.
 
-La Tesorería está diseñada para sostener este gasto estructural de forma continua, canalizando parte de los fondos recibidos hacia el mantenimiento de la infraestructura y la operativa general.
+La Tesorerï¿½a estï¿½ diseï¿½ada para sostener este gasto estructural de forma continua, canalizando parte de los fondos recibidos hacia el mantenimiento de la infraestructura y la operativa general.
 
-> Si el universo sigue funcionando cuando nadie está jugando, es porque hay un sistema real manteniéndolo encendido.
+> Si el universo sigue funcionando cuando nadie estï¿½ jugando, es porque hay un sistema real manteniï¿½ndolo encendido.

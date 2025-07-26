@@ -47,7 +47,7 @@
     * [Aventura y Conflicto](game-basics/how-to-play/mmo-rts/adventure-conflict.md)
   * [Tycoon](game-basics/how-to-play/tycoon/README.md)
     * [Gestión y Desarrollo](game-basics/how-to-play/tycoon/manage-develop.md)
-  * [Políticas y Governanza](game-basics/how-to-play/polities-governance.md)
+  * [Políticas y Gobernanza](game-basics/how-to-play/polities-governance.md)
 * [Corporaciones](game-basics/corporations/README.md)
   * [Operaciones Autorizadas](game-basics/corporations/licensed-operations/README.md)
     * [Comercio](game-basics/corporations/licensed-operations/trade-commerce/README.md)
