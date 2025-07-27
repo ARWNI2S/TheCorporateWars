@@ -1,49 +1,85 @@
----
-icon: pen
----
-
 # Milestones
 
 {% stepper %}
 {% step %}
-**Project Start**
+**Project Kickoff**
 
-_**1-1-2025**_ - New year, new project. Ideas mature, and the technology is available; everything falls into place.
+_**1-1-2025**_ — New year, new project. The ideas have matured, the technology is available; all the pieces fall into place.
 {% endstep %}
 
 {% step %}
-**Document Publication**
+**Publication of This Document**
 
-_**31-3-2025**_ - The arduous task of reflecting the concepts in an intelligible way for most humans is complete.
+_**31-3-2025**_ — The arduous task of making the concepts intelligible to most humans is finally complete.
 {% endstep %}
 
 {% step %}
 **Legal Milestone**
 
-_**4-6-2025**_ – We received written confirmation from Mongoose Publishing that **The Corporate Wars** may reference Traveller™ as inspiration under the Fair Use Policy 2025, without infringing copyright or trademarks. All third-party licenses (Epic, Unreal Engine, EOS, Solana, Microsoft) have been collected, reviewed, and made public when legally allowed. The legal architecture of the project is now stable and ready for audit, publication, and store compliance.
+_**4-6-2025**_ — We received written confirmation from Mongoose Publishing authorizing **The Corporate Wars** to reference Traveller™ as inspiration, under the terms of the Fair Use Policy 2025, without infringing copyright or trademark.  
+All third-party licenses (Epic, Unreal Engine, EOS, Solana, Microsoft) have been collected, reviewed, and published where legally permitted.  
+The project’s legal architecture is consolidated and ready for audits, store publication, and regulatory compliance.
 {% endstep %}
 
 {% step %}
-**Gameplay Prototyping**
+**Traveller™ Adaptation**
 
-Currently in process. In this stage, we are developing the basic client gameplay in **Unreal Engine 5**, implementing the macroeconomy on **Solana devnet**, and developing the game’s secure APIs and services.
+_**Q2 2025**_ — Having inspired the entire design process, with key elements directly adopted from conventional structures or tabletop mechanics, adapting **The Corporate Wars** to the _next milieu_ has been remarkably smooth.
 {% endstep %}
 
 {% step %}
-**Alphatest**
+### **Milieu 0 – First Survey**
 
-Deployment of blockchain infrastructure on **Solana testnet**, low-performance cloud servers. Analyzing gameplay improvements and economic balance. Adjustments to blockchain dynamics, automation, and batching of transactions with no fees for users.
+_**Q3 2025**_ — Launch of the **First Survey**, consolidation of the initial **Políticas**, and activation of the base economy.
+
+This phase represents the system’s **foundational fundraising**, aligned with governance logic and economic simulation.  
+The first **MCr** are distributed, the legal architecture is defined, and key contracts are deployed on **Solana**.  
+In parallel, the **client framework** is developed in **Unreal Engine 5**, focused on visual navigation of Solana-deployed content.
 {% endstep %}
 
 {% step %}
-**Fundraising**
+### **Traveller™ – Second Survey**
 
-Start of commercial product development, ICO launch, and **MCr** vesting contracts on **Solana mainnet**. Recruitment and operational kick-off, preparing to conquer the interstellar economy.
+Stage focused on visual deployment, art, interfaces, effects, and the interactive client.
+
+Worlds, routes, Políticas, and economies external to the Third Imperium are integrated.  
+The service network is deployed and real testing begins on complex environments.
+
+Minimum gameplay mechanics are activated, along with interstellar navigation and structural data inspection.  
+The galaxy begins to be seen, felt, and explored.
+
+Lore, gameplay, and real-time systems start to converge.  
+Additional gameplay modules are developed incrementally.
 {% endstep %}
 
 {% step %}
-**Betatest**
+### **The Corporate Wars – Closed Beta**
 
-Launch on **Epic Games**, full gameplay, no DLC, no Pay to Win, no exclusive marketplaces — just **The Corporate Wars**, install, link wallet, and recapitalize the company from day 0 because you didn’t understand what this is about.
+_**TBD 2027**_ — Restricted testing stage with selected players.
+
+The complete system is tested in a production-grade environment: playable economy, real-time services, security, performance, and distributed synchronization.
+
+Includes full visualization, stellar navigation, basic economy modules, and initial governance structures.
+{% endstep %}
+
+{% step %}
+### **Open Beta**
+
+_**TBD 2027**_ — Public access for all players, with persistent progression.
+
+The full system enters massive stress testing: interstellar logistics, functional corporations, decentralized governance, and active deep-space exploration.
+{% endstep %}
+
+{% step %}
+### **Official Launch**
+
+_**TBD 2027**_ — Full deployment of **The Corporate Wars** with integrated gameplay, live services, and real governance activation.
+
+The living economy begins, with players acting as full corporate entities within the interstellar economic system.
 {% endstep %}
 {% endstepper %}
+
+{% hint style="danger" %}
+These milestones do not constitute a public offering, investment roadmap, or contractual commitment.\
+They solely represent the technical and narrative planning of the system, subject to change based on development progress.
+{% endhint %}
