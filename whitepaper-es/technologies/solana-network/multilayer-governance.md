@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../.gitbook/assets/tcw-glayers.jpg
 coverY: 0
 ---
 
