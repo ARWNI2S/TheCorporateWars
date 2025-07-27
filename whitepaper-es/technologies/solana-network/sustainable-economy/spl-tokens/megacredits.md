@@ -42,7 +42,7 @@ Las aportaciones de los jugadores a dichos _stakes_ proporcionan ventajas jugabl
 
 Los jugadores pueden utilizar MCr como **liquidez macroeconómica** directa en el Mercado de Valores Interestelar, el cual emite una amplia variedad de instrumentos basados en **Unidades de Recursos (RU)**, _Bonos de Ruta_ y un surtido de acciones, participaciones y fondos de inversion.
 
-El resultado en el juego es la intervencion de _Políticas_ financieras locales, con respaldo institucional y financiero del MVI, dispuestas a patrocinar operaciones a gran escala, realizar inversiones especulativas en rutas mercantiles, ayudar en la fundación de _Politicas_ —gobiernos corporativos, alianzas, trusts, holdigns... incluso _lealtades_—.
+El resultado en el juego es la intervencion de _Políticas_ financieras locales, con respaldo institucional y financiero del MVI, dispuestas a patrocinar operaciones a gran escala, realizar inversiones especulativas en rutas mercantiles, ayudar en la fundación de _Politicas_ —gobiernos corporativos, alianzas, trusts, holdings... incluso _lealtades_—.
 
 Los participantes del MVI reciben acceso a funcionalidades adicionales del sistema, no disponibles para otros jugadores, sin liquidez en el Mercado de Valores Interestelar.
 
@@ -58,7 +58,7 @@ Aunque la simulación económica representa un universo diverso en divisas, tasa
 
 Todas las transacciones financieras que una corporacion realiza en sus interacciones dentro del juego son traducibles a una escala de 1:1000000 MCr, es decir 0,000001 MCr o 1 Crédito Imperial —o la divisa _estable_ determinada por la _Lealtad_ correspondiente.
 
-Los jugadores pueden retirar MCr del juego, iniciando una solicitud que, una vez aprobada, iniciará un flujo de salida regulado, persistente, alineado con la simulacion economica y la jugabilidad narrativa.
+Los jugadores pueden convertir sus divisas a MCr y retirarlos del juego, iniciando una solicitud que, una vez aprobada, iniciará un flujo de salida regulado, persistente, alineado con la simulacion economica y la jugabilidad narrativa.
 
 Estos flujos de salida solo estaran disponibles para corporaciones que cumplan condiciones de _beneficios netos_, _solvencia financiaera_ y esté libre de _apalancamientos o garantías_.
 
@@ -66,11 +66,49 @@ Finalmente, el MCr tambien puede emplearse como **moneda de intercambio directo 
 
 ***
 
-Los MegaCréditos no representan una divisa aislada o ficticia: son tokens SPL estándar, emitidos con tecnología verificable, y con interoperabilidad completa en la red Solana.
+## Distribución
 
-Su valor, circulación y custodia estén sujetos a los mismos principios que cualquier otro activo sobre la red, pero regulados por programas específicos dentro del sistema de juego.
+Los MCr son un instrumento simulado de intercambio e inversión macroeconomica, definido y emitido por el Mercado de Valores Interestelar.
 
-Su uso está condicionado por reglas internas que garantizan su integración en la lógica de la simulación, pero sin perder compatibilidad con el ecosistema técnico exterior.
+Internamente estan diseñados como un Token SPL estabilizado algoritmicamente que se emite y se destruye segun el equilibrio epistemico del sistema.
+
+Las distribuiciones estandar de Tokens SPL '_preminados_' no pueden aplicarse en este escenario: los _preminados_, las _reservas para recompensas_ y otras distribuciones arbitrarias no solo no tienen sentido, sino que van en contra de los principios basicos de diseño un sistema eestabilizado algoritmicamente.
+
+### Estrategias de Equilibrio
+
+Los MCr se crean y destruyen programaticamente mediante estrategias de equilibrio de alto nivel seleccionadas por la IA, como parte de su estrategia de juego competitivo-colaborativo.
+
+Estas estrategias persiguen la distribución y absorción equivalente de MCr del sistema: no todas tendran exito, pero los resultados son cuantificables y observables, permitiendo al sistema optimizar sus estrategias para el ciclo siguiente.
+
+El objetivo final es mantener equilibrado el poder adquisitivo del MCr dentro del juego, ofreciendo el comportamiento de un _stablecoin intergalactico_ en la simulación, independientemente de su demanda, disponibilidad o precio en mercados especulativos extenos al juego.
+
+### Estrategias de Participación
+
+La Participación Comunitaria directa, mediante aportaciones voluntarias al sistema económico (conversión de SOL o actividades jugables compensadas) se plantea como una más de las estrategia disponibles para el conjunto del sistema de estabilización.
+
+Eventos sistémicos planificados, como fases de expansión, crisis simuladas o campañas estructuradas permiten mantener flujos de entrada y salida de MCr persistentes, que reflejan logros a largo plazo, influencia narrativa o aportaciones estratégicas.
+
+El sistema no permite la participación indiscriminada, sino que mantiene un equilibrio de Paricipación Comunitaria.
+
+### Emisión Controlada
+
+La emisión de MCr no es libre ni descentralizada: está gestionada exclusivamente por el sistema de Tesorería y sus programas asociados, que aplican un modelo de estabilización algorítmica en tiempo real basado en:
+
+- La salud estructural del sistema. $$\text{Salud} = \frac{1}{1 + |\text{SUMA}|}$$
+
+- La capacidad operativa de las _Lealtades_.
+
+- El volumen total de circulación y la demanda agregada.
+
+La emisión está cuantificada en cada ciclo económico simulado, y cualquier exceso es absorbido automáticamente por el Algoritmo de Estabilización, mediante mecanismos de retención, fusión o reconversión.
+
+***
+
+> Los MegaCréditos no representan una divisa aislada o ficticia: son tokens SPL estándar, emitidos con tecnología verificable, y con interoperabilidad completa en la red Solana.
+> 
+> Su valor, circulación y custodia estén sujetos a los mismos principios que cualquier otro activo sobre la red, pero regulados por programas específicos dentro del sistema de juego.
+> 
+> Su uso está condicionado por reglas internas que garantizan su integración en la lógica de la simulación, pero sin perder compatibilidad con el ecosistema técnico exterior.
 
 {% hint style="danger" %}
 **Advertencia**: actualmente los MegaCréditos no están listados en ningún DEX ni CEX.\
