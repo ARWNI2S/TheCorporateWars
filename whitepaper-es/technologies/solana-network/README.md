@@ -27,11 +27,15 @@ La elección de **Solana** como base tecnológica en **The Corporate Wars** no e
 
 A continuación, detallamos los motivos, ventajas y desafíos de esta integración.
 
+***
+
 ### Proof-of-History y Merkle Trees
 
 Solana implementa un sistema de **proof-of-history (PoH)**, donde cada bloque y transacción queda anclado a una secuencia temporal verificable. Esto permite construir un **versionado de estados diferenciados en el tiempo**, donde cada actualización de juego contiene un `hash_root` que actúa como marca temporal única.
 
 Los Merkle trees permiten comprimir y validar estos estados de forma eficiente, sirviendo como un ledger histórico de cambios que puede ser auditado y referenciado en cualquier momento pasado.
+
+***
 
 ### Programas stateless y claves derivadas
 
@@ -41,6 +45,8 @@ Esto permite modelar estructuras complejas mediante nomenclaturas implícitas.\
 Una `key` principal, asociada a una `foreign key`, define relaciones de datos **sin necesidad de SQL ni tablas**.
 
 En esencia, se trata de un mapa estructural activo donde las relaciones están codificadas en el diseño de las claves, reduciendo la dependencia de modelos relacionales clásicos.
+
+***
 
 ### noNFTs y gobernanza multicapa
 
@@ -58,6 +64,8 @@ Aquí, los llamados "noNFTs" son registros de gobernanza en PDAs asignadas a las
 Este enfoque supera las limitaciones de los estándares NFT existentes en Solana, evitando depender de esquemas que imitan ERC-XXX.
 
 En su lugar, aprovechamos la flexibilidad de Solana como ecosistema de programas reusables para modelar relaciones, gobernanza y estructuras dinámicas dentro de un universo persistente.
+
+***
 
 ### ¿Qué almacenamos on-chain?
 
