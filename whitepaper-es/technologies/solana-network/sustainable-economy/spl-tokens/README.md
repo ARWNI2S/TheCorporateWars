@@ -1,6 +1,23 @@
 ---
-cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../../../.gitbook/assets/tcw-economy-tokens.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Tokens SPL
@@ -9,9 +26,8 @@ coverY: 0
 
 Estos tokens representan dos tipos de valor muy diferentes dentro del sistema:
 
-- **RU** —Unidades de Recursos (Resource Units)— que son Tokens SPL estrucutrales, que representan el _peso macroeconomico_ de los mundos, y que no esta diseñado para transferirse fuera del sistema de juego.
-
-- **MCr** —Megacreditos— diseñados para circular libremente entre usuarios como una forma de _moneda del juego_.
+* **RU** —Unidades de Recursos (Resource Units)— que son Tokens SPL estrucutrales, que representan el _peso macroeconomico_ de los mundos, y que no esta diseñado para transferirse fuera del sistema de juego.
+* **MCr** —Megacreditos— diseñados para circular libremente entre usuarios como una forma de _moneda del juego_.
 
 El sistema, en su simulacion economica basada en **juegos de suma cero** y **estabilización algorítmica** _**hayekiana**_, se traduce estructuralmente en un grafo de rutas que utiliza los tokens SPL —instrumentos económico-financiaros— como pesos nodales, que afectan la modulación general del sistema: donde existen RU depositados hay riqueza estructural explotable, donde existen _stakes_ de **MCr**, hay liquidez financiera inmediata.
 
