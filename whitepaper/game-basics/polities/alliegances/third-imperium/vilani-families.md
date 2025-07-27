@@ -53,7 +53,7 @@ It’s unclear whether the Ziru Sirka founded the Interstellar Stock Exchange, i
 
 What is clear is that Vilani houses and consortia linked to the Ziru Sirka hold long-standing, highly profitable financial positions within this system.
 
-These millennia-old investments, passed down through generations, have made the Ziru Sirka an economic pillar —not just of the Imperium, but of all Known Space.
+These millennia-old investments, passed down through generations, have made the Ziru Sirka an economic pillar —not just of the Imperium, but of all Charted Space.
 
 During the Fall of the First Imperium and the Terran rule of the Rule of Man, the Ziru Sirka suffered catastrophic losses. Its power fragmented, many fortunes evaporated, and its institutional influence waned.
 
@@ -69,7 +69,7 @@ This financial power explains why the Ziru Sirka never disappears from the galac
 
 In **The Corporate Wars**, the Ziru Sirka is not merely a cultural faction: it is an ancient, living infrastructure of power operating within the Third Imperium.
 
-Interacting with the Ziru Sirka means dealing with the Vilani aristocracy, the oldest consortia, the most influential lobbies, and the deepest financial networks in Known Space.
+Interacting with the Ziru Sirka means dealing with the Vilani aristocracy, the oldest consortia, the most influential lobbies, and the deepest financial networks in Charted Space.
 
 Its actors can be valuable allies for large-scale projects —if you share their vision and respect their hierarchy— or insurmountable obstacles to any attempt at disruptive innovation or power redistribution.
 

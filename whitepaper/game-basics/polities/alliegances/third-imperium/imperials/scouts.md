@@ -29,7 +29,7 @@ After the completion of the Second Interstellar Census, it focused on strengthen
 
 ## The Third Census
 
-Today, the Imperial Interstellar Scout Service (IISS) leads the ambitious project of the **Third Interstellar Census**: a long-term initiative aimed at updating and validating all cartographic, demographic, and economic data across Known Space.
+Today, the Imperial Interstellar Scout Service (IISS) leads the ambitious project of the **Third Interstellar Census**: a long-term initiative aimed at updating and validating all cartographic, demographic, and economic data across Charted Space.
 
 Unlike its predecessors —which were focused on raw discovery and the initial mapping of the Imperium— the Third Census is oriented toward administrative consolidation and interstate interoperability.
 

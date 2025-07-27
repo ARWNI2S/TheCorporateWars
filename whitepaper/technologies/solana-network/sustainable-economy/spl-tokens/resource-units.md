@@ -94,7 +94,7 @@ This number of RU per planet ensures that each **world** —as a star system abs
 
 > The calculations above represent system _limits_, not real figures the system will use.
 
-The Known Space of the year 1201 Imperial covers about `80,000` worlds spread across ~1,000 Sectors.
+The Charted Space of the year 1201 Imperial covers about `80,000` worlds spread across ~1,000 Sectors.
 
 This gives an assignable RU reserve of:
 
@@ -114,7 +114,7 @@ Not all worlds will be fully charted, nor registered by a single _Institution_ o
 
 ### RU “Mining”
 
-Exploring the frontier of Known Space implies discovering new worlds, establishing first contact with civilizations, and triggering other gameplay elements.
+Exploring the frontier of Charted Space implies discovering new worlds, establishing first contact with civilizations, and triggering other gameplay elements.
 
 Internally, the system unfolds gameplay processes that consume MCr —directly or indirectly— to establish the **minimums required** to register a discovered world in the **Third Survey**.
 

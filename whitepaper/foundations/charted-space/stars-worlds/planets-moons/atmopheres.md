@@ -22,7 +22,7 @@ layout:
 
 # Hostile Environments
 
-Most worlds within Known Space are inhospitable: extreme temperatures and pressures, frozen wastelands, toxic or corrosive atmospheres.
+Most worlds within Charted Space are inhospitable: extreme temperatures and pressures, frozen wastelands, toxic or corrosive atmospheres.
 
 > Rains of molten metal or glass, supersonic winds, lava seas, lethal radiation, frozen oceans, and even more exotic phenomena.
 
