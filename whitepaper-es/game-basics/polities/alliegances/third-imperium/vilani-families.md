@@ -61,7 +61,7 @@ Sin embargo, bajo el Tercer Imperio, ha iniciado una lenta pero sostenida recupe
 
 En términos prácticos, se trata de **fortunas que han crecido durante milenios** —la equivalencia en riqueza real seria como si el "bitcoin galáctico" hubiera sido acumulado y capitalizado sin interrupción durante más de 7000 años.
 
-Este poder financiero explica por qué el Ziru Sirka nunca desaparece del tablero galáctico: aunque pierda influencia política o militar, **sus activos generan beneficios interestelares imposibles de igualar**, garantizando su resiliencia estructural a lo largo de las eras.
+Este poder financiero explica por qué el Ziru Sirka nunca desaparece del tablero: aunque pierda influencia política o militar, **sus activos generan beneficios interestelares imposibles de igualar**, garantizando su resiliencia estructural a lo largo de las eras.
 
 ## El Ziru Sirka en el Juego
 

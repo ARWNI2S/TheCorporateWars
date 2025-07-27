@@ -71,7 +71,7 @@ El espionaje psiónico, la manipulación indirecta y los conflictos por influenc
 
 En **The Corporate Wars**, el Consulado Zhodani es una facción poderosa y sutil.
 
-Su dominio sobre la psiónica les permite manipular información, influencias y hasta emociones en el tablero galáctico.
+Su dominio sobre la psiónica les permite manipular información, influencias y hasta emociones en el teatro galáctico.
 
 Los jugadores que interactúan con los Zhodani encontrarán aliados sofisticados, pero también peligrosamente invasivos.
 
