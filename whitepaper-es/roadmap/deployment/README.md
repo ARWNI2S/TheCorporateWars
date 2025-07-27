@@ -6,7 +6,6 @@
 > ¡Así no se puede trabajar! ;)\
 > —_ManOguaR, Lead Developer_
 
-
 Los requisitos se acumulan, la red Solana no es gratis, y el volumen de información requiere de soluciones creativas.
 
 ## Cronología Imperial
@@ -27,9 +26,9 @@ Es por ello que hemos diseñado un despliegue en etapas, alineado con la cronolo
 
 Queremos que la participación de la comunidad en el despliegue del sistema refleje:
 
-* el crecimiento del Tercer Imperio en el tiempo,
-* los ámbitos de influencia de las _lealtades_,
-* de las _megacorporaciones_,
-* y de las _Políticas_ históricamente relevantes.
+- el crecimiento del Tercer Imperio en el tiempo,
+- los ámbitos de influencia de las _lealtades_,
+- de las _megacorporaciones_,
+- y de las _Políticas_ históricamente relevantes.
 
 La participación en el despliegue inicial de los sistemas se representa con actores reales dentro del sistema de juego: los activos de las grandes potencias e instituciones de la galaxia.
