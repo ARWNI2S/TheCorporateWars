@@ -24,7 +24,7 @@ The project’s legal architecture is consolidated and ready for audits, store p
 {% step %}
 **Traveller™ Adaptation**
 
-_**Q2 2025**_ — Having inspired the entire design process, with key elements directly adopted from conventional structures or tabletop mechanics, adapting **The Corporate Wars** to the _next milieu_ has been remarkably smooth.
+_**Q2 2025**_ — Having inspired the entire design process, with key elements directly adopted from conventional structures of tabletop mechanics, adapting **The Corporate Wars** to the _next milieu_ has been remarkably smooth.
 {% endstep %}
 
 {% step %}
