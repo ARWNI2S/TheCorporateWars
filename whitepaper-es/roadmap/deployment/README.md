@@ -4,7 +4,8 @@
 
 > La máxima —**All is driven by economics**— resuena mientras diseño un sistema de red neural para un juego de economía de suma cero, y un susurro me recuerda que esa misma red coincide con la descripción de la economía a gran escala del Tercer Imperio.\
 > ¡Así no se puede trabajar! ;)\
-> —ManOguaR
+> —_ManOguaR, Lead Developer_
+
 
 Los requisitos se acumulan, la red Solana no es gratis, y el volumen de información requiere de soluciones creativas.
 
@@ -16,7 +17,7 @@ La idea original era desplegar los mundos progresivamente, autofinanciando al pr
 
 > ...y ahí, en ese momento, la expansión de _Milieu 0_ (_T4_), con su 'minijuego' de la _First Survey_. —Zas! En toda la boca!\
 > ...más o menos algo así. :P\
-> —ManOguaR
+> —_ManOguaR, Lead Developer_
 
 El diseño de los sistemas de juego se fue definiendo progresivamente, incorporando sistemas agregados de gobernanza, el uso de árboles históricos para acceder a la información desfasada, la economía de suma cero y los sistemas de estabilización algorítmica.
 
