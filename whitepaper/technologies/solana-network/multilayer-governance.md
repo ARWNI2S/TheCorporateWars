@@ -1,9 +1,26 @@
 ---
-cover: ../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../.gitbook/assets/tcw-glayers.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
-# Multilayer Governance
+# Governance Layers
 
 Governance in **The Corporate Wars** is not a monolithic system, but a superposition of functional layers that reflect the complexity of political, economic, and operational power in the game universe.
 
@@ -67,10 +84,10 @@ A noNFT is not an image nor a collectible: it is a **coded representation of pow
 
 Each is stored in a **PDA derived from the governance program**, and its validity depends on:
 
-- the public key of the _Polity_;
-- the type of authority it represents (legislative, executive, operational, etc.);
-- the date and context of issuance;
-- its legal status (active, suspended, transferred, revoked, etc.).
+* the public key of the _Polity_;
+* the type of authority it represents (legislative, executive, operational, etc.);
+* the date and context of issuance;
+* its legal status (active, suspended, transferred, revoked, etc.).
 
 Technically, noNFTs do not use the standard Solana model where each NFT requires its own individual _mint_ (1:1).
 
@@ -80,10 +97,10 @@ These accounts —analogous to an extended ATA— store the corresponding noNFTs
 
 This allows, for example:
 
-- delegating facility usage permissions;
-- granting temporary exploitation licenses;
-- establishing internal voting hierarchies for elections or reforms;
-- validating interstellar contracts between _Polities_ without external oracles.
+* delegating facility usage permissions;
+* granting temporary exploitation licenses;
+* establishing internal voting hierarchies for elections or reforms;
+* validating interstellar contracts between _Polities_ without external oracles.
 
 Technically, each noNFT behaves like a **programmatic metadata account**, not dependent on visual standards like traditional NFTs.
 

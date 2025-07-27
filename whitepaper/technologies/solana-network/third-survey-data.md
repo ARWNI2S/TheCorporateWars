@@ -1,6 +1,23 @@
 ---
-cover: ../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../.gitbook/assets/tcw-survey3-db.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Third Survey Database
@@ -41,23 +58,23 @@ This logic faithfully replicates the physical limits of interstellar communicati
 
 ***
 
-> This entire framework is where the _Allegiances_ operate — the governance entities of the system.  
+> This entire framework is where the _Allegiances_ operate — the governance entities of the system.
 >
-> None can exercise authority in the abstract: they need **controlled worlds** and **operational routes** connecting them.  
+> None can exercise authority in the abstract: they need **controlled worlds** and **operational routes** connecting them.
 >
-> Without infrastructure validated by the system, their ability to act is null or symbolic. Authority depends on topology: one does not govern where one cannot reach.  
->  
-> The structure is also alive. Worlds may be founded, change hands, be terraformed, abandoned, or destroyed.  
+> Without infrastructure validated by the system, their ability to act is null or symbolic. Authority depends on topology: one does not govern where one cannot reach.
 >
-> Routes may close, degrade, or open due to diplomatic decisions, systemic events, or technological shifts.  
->  
+> The structure is also alive. Worlds may be founded, change hands, be terraformed, abandoned, or destroyed.
+>
+> Routes may close, degrade, or open due to diplomatic decisions, systemic events, or technological shifts.
+>
 > All of it is registered and reflected in the program-derived accounts of the Third Survey.
 
 ***
 
 {% hint style="warning" %}
-In summary, the Third Survey doesn’t just describe the universe: it defines it.  
-It is the ontological source of the game.  
-What is not in the Third Survey does not exist.  
+In summary, the Third Survey doesn’t just describe the universe: it defines it.\
+It is the ontological source of the game.\
+What is not in the Third Survey does not exist.\
 And what is not up to date, is uncertain.
 {% endhint %}

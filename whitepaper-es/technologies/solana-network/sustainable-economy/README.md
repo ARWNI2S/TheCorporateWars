@@ -1,6 +1,23 @@
 ---
 cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Economía Autosostenible
@@ -29,10 +46,10 @@ Toda entrada de **SOL** al sistema (participación de jugadores, donaciones, inv
 
 Estas tesorerías financian:
 
-- el mantenimiento de las cuentas activas ('_rent_'),
-- las comisiones por uso de red del backend,
-- los costes derivados de desarrollo y mantenimiento,
-- y la operación general del sistema (infraestructura, cómputo, validación de datos, etc...).
+* el mantenimiento de las cuentas activas ('_rent_'),
+* las comisiones por uso de red del backend,
+* los costes derivados de desarrollo y mantenimiento,
+* y la operación general del sistema (infraestructura, cómputo, validación de datos, etc...).
 
 Esta sostenibilidad no solo garantiza la continuidad técnica del sistema, sino que refuerza la premisa central de The Corporate Wars: un universo persistente, dinámico y auténticamente simulado.
 
@@ -40,32 +57,34 @@ Esta sostenibilidad no solo garantiza la continuidad técnica del sistema, sino 
 
 ## Economía y Jugabilidad
 
-El diseño económico de *The Corporate Wars* no es un _método de financiación_, no es _p2e_, ni ningun constructo _crypto_: **es el propio sistema de juego**, que tiene en cuenta los costes operativos reales y que adopta la experiencia de usuario de los métodos de monetización habituales en los videojuegos, como una interfaz de aprovisionamiento.
+El diseño económico de _The Corporate Wars_ no es un _método de financiación_, no es _p2e_, ni ningun constructo _crypto_: **es el propio sistema de juego**, que tiene en cuenta los costes operativos reales y que adopta la experiencia de usuario de los métodos de monetización habituales en los videojuegos, como una interfaz de aprovisionamiento.
 
 Reconsideramos el concepto de _game marketplace_, integrándolo con la causalidad, persistencia y escala del universo de juego, donde se adquieren elementos integrados al _lore_ y a las mecánicas economicas participativas del sistema.
 
 El modelo autosostenible no solo garantiza la viabilidad técnica del universo persistente, sino que **modula directamente la experiencia de juego**:
 
-- La entrada masiva de jugadores o fondos provoca un aumento de liquidez: los **pools de financiación se expanden**, se activan nuevas cuentas, se despliegan programas latentes, y los sistemas estelares antes abandonados se reactivan.
-  > Con el tiempo esto puede desencadenar una **bonanza galáctica**, acompañada de eventos visibles, mejores condiciones financieras en el juego, etc... 
-- Por el contrario, si una facción pierde influencia, si un holding se retira o si se produce una fuga de _stakes_ de megacréditos, el sistema puede responder: recortando automáticamente _rent_ asignado, consolidando cuentas, o cancelando inactivos.
-  > Este deterioro provoca una **contracción económica** visible desde el gameplay.
+*   La entrada masiva de jugadores o fondos provoca un aumento de liquidez: los **pools de financiación se expanden**, se activan nuevas cuentas, se despliegan programas latentes, y los sistemas estelares antes abandonados se reactivan.
+
+    > Con el tiempo esto puede desencadenar una **bonanza galáctica**, acompañada de eventos visibles, mejores condiciones financieras en el juego, etc...
+*   Por el contrario, si una facción pierde influencia, si un holding se retira o si se produce una fuga de _stakes_ de megacréditos, el sistema puede responder: recortando automáticamente _rent_ asignado, consolidando cuentas, o cancelando inactivos.
+
+    > Este deterioro provoca una **contracción económica** visible desde el gameplay.
 
 La situación económica global afecta al sistema con dinamicas efectivas a:
 
-- A las decisiones estratégicas de los actores controlados por la IA (_Leatadaes_, _Instituciones_, _megacorporaciones_).
-- Al poder adquisitivo de las divisas simuladas.
-- A la **capacidad de expansión territorial o tecnológica**.
-- Al acceso a servicios, licencias, o concesiones.
-- Al valor relativo de los Tokens SPL del sistema.
- 
+* A las decisiones estratégicas de los actores controlados por la IA (_Leatadaes_, _Instituciones_, _megacorporaciones_).
+* Al poder adquisitivo de las divisas simuladas.
+* A la **capacidad de expansión territorial o tecnológica**.
+* Al acceso a servicios, licencias, o concesiones.
+* Al valor relativo de los Tokens SPL del sistema.
+
 El sistema reacciona con lógica interna: no hay magia, son hechos.
 
-- Si nadie sostiene el _rent_ de una cuenta, se perderán los datos.
-- Si una _Política_ retira sus _stakes_, perderá poder.
-- Si una _Política_ se sobreexpone, puede quebrar.
-- Si una _Política_ se queda sin fondos, colapsará.
-- Si el conjunto colapsa, podemos caer en un escenario de _Larga Noche_.
+* Si nadie sostiene el _rent_ de una cuenta, se perderán los datos.
+* Si una _Política_ retira sus _stakes_, perderá poder.
+* Si una _Política_ se sobreexpone, puede quebrar.
+* Si una _Política_ se queda sin fondos, colapsará.
+* Si el conjunto colapsa, podemos caer en un escenario de _Larga Noche_.
 
 Pero el sistema, aun sin recursos operativos, debería poder mantenerse jugable para los jugadores, desconectados del resto de la galaxia, sin acceso a rutas interestelares (servidores), hasta que una nueva _Lealtad_ emerja, unificando rutas y mundos en un sistema estructurado y... haga contacto.
 
