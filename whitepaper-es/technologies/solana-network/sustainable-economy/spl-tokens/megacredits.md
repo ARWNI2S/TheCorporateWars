@@ -1,5 +1,4 @@
 ---
-icon: user-helmet-safety
 cover: ../../../../.gitbook/assets/tcw-mcr.jpg
 coverY: 0
 ---
@@ -94,7 +93,7 @@ El sistema no permite la participación indiscriminada, sino que mantiene un equ
 
 La emisión de MCr no es libre ni descentralizada: está gestionada exclusivamente por el sistema de Tesorería y sus programas asociados, que aplican un modelo de estabilización algorítmica en tiempo real basado en:
 
-- La salud estructural del sistema. $$\text{Salud} = \frac{1}{1 + |\text{SUMA}|}$$
+- La salud estructural del sistema: $$\text{salud} = \frac{1}{1 + |\text{SUMA}|}$$
 
 - La capacidad operativa de las _Lealtades_.
 

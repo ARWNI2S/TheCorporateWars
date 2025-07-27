@@ -5,59 +5,59 @@ coverY: 0
 
 # Third Survey Database
 
-The Third Survey is the structural core of the simulated universe in **The Corporate Wars**.
+The **Third Survey** is the structural core of the simulated universe in **The Corporate Wars**. It is not a mere catalog of planets or a route map, but an active, decentralized, and asynchronous database that models the physical and logical elements of charted space.
 
-It is not a simple catalog of planets or a route map, but an active, decentralized, and asynchronous database that models the physical and logical elements of known space.
-
+{% hint style="info" %}
 It defines what exists, what is connected, and who can exert authority over what.
+{% endhint %}
 
-Information is not static: it evolves over time, is transmitted partially, and experiences delay based on actual data flow.
+> Information is not static: it evolves over time, is transmitted partially, and experiences delay depending on real information flow.
 
-This behavior is not a narrative device, but a direct consequence of the model itself: worlds, routes, and power structures are stored, processed, and updated within program-derived accounts (PDAs) anchored to specific programs.
+This behavior is not a narrative device, but a direct consequence of the model: worlds, routes, and power structures are stored, processed, and updated within program-derived accounts (PDA), anchored to specific programs.
 
 ## Worlds as dynamic nodes
 
-Each world is a program-derived account (PDA), whose content is compressed into a Merkle Tree representing a **dehydrated profile** of the planet's essential data encoded efficiently and verifiably.
+Each world is a program-derived account (PDA), whose contents are compressed into a Merkle Tree representing a **dehydrated profile** of the planet: essential data encoded in an efficient and verifiable manner.
 
-This includes population, technological level, legal regime, estimated GDP, form of government, climate, and other key attributes.
+This includes population, tech level, legal regime, estimated GDP, government type, climate, and other key attributes.
 
-In addition, each world maintains a **version history**. Instead of overwriting its state, every change is stored as a difference (_diff_) from the previous version, allowing its evolution to be precisely reconstructed at any point in the past.
+Moreover, each world maintains a **version history**. Instead of overwriting its state, each change is stored as a _diff_ from the previous version, allowing precise reconstruction of its evolution at any point in the past.
 
-These worlds do not exist in isolation: they are connected by routes that determine not only physical transit, but also access to updated information, valid orders, and applicable authority.
+These worlds do not exist in isolation: they are linked by routes that determine not only physical transit, but also access to updated information, valid orders, and applicable authority.
 
 ## Routes, visibility, and governance
 
-**Jump routes** are program-derived accounts that represent _all functional connections between worlds_. They record latency, traffic volume, operational conditions, and active restrictions.
+**Jump routes** are program-derived accounts that represent _all functional connections between worlds_. They record latency, traffic volume, operational conditions, and restrictions.
 
-They are technical entities, but also political ones: they enable or block the transmission of orders, goods, data, and power.
+They are technical entities, but also political: they enable or block the transmission of orders, goods, data, and power.
 
-The system simulates an **asynchronous and partially visible** universe. Each world sees only what has been transmitted through its active routes.
+The system simulates an **asynchronous and partially visible** universe. Each world only sees what has been transmitted through its active routes.
 
 > There is no instant global truth: two worlds may hold different versions of the same event, depending on their position in the topological graph and the delay in information propagation.
 
 {% hint style="success" %}
-This logic faithfully reproduces the physical limits of interstellar communication.
+This logic faithfully replicates the physical limits of interstellar communication.
 {% endhint %}
 
 ***
 
-> Operating on top of this framework are the _Polities_ —the system's governance entities.
+> This entire framework is where the _Allegiances_ operate — the governance entities of the system.  
 >
-> None of them can exert authority in the abstract: they require **controlled worlds** and **operational routes** to reach them.
+> None can exercise authority in the abstract: they need **controlled worlds** and **operational routes** connecting them.  
 >
-> Without that infrastructure validated by the system, their capacity for action is null or merely symbolic. Authority depends on topology: nothing is governed where nothing can be reached.
+> Without infrastructure validated by the system, their ability to act is null or symbolic. Authority depends on topology: one does not govern where one cannot reach.  
+>  
+> The structure is also alive. Worlds may be founded, change hands, be terraformed, abandoned, or destroyed.  
 >
-> Moreover, the whole system is alive. Worlds may be founded, conquered, terraformed, abandoned, or destroyed.
->
-> Routes may close, degrade, or reopen through diplomatic decisions, systemic events, or technological shifts.
->
-> All of this is recorded and reflected in the programmatic accounts of the Third Survey.
+> Routes may close, degrade, or open due to diplomatic decisions, systemic events, or technological shifts.  
+>  
+> All of it is registered and reflected in the program-derived accounts of the Third Survey.
 
 ***
 
 {% hint style="warning" %}
-In summary, the Third Survey does not merely describe the universe: it defines it.\
-It is the ontological foundation of the game.\
-What is not in the Third Survey does not exist.\
-And what is not updated is uncertain.
+In summary, the Third Survey doesn’t just describe the universe: it defines it.  
+It is the ontological source of the game.  
+What is not in the Third Survey does not exist.  
+And what is not up to date, is uncertain.
 {% endhint %}

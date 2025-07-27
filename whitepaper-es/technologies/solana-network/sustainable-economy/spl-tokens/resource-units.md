@@ -1,5 +1,4 @@
 ---
-icon: user-helmet-safety
 cover: ../../../../.gitbook/assets/tcw-ru.jpg
 coverY: 0
 ---
