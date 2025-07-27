@@ -1,6 +1,23 @@
 ---
 cover: ../../../../.gitbook/assets/tcw-ru.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Unidades de Recursos
@@ -31,7 +48,7 @@ Su aparición en entornos externos indicaría un fallo de seguridad o una manipu
 
 Dentro del sistema, las RU permiten modelar el flujo de riqueza, calcular el impacto económico de acciones políticas o comerciales, y establecer jerarquías entre regiones galácticas según su importancia estructural.
 
-Además, las RU están ancladas a una realidad técnica concreta: **cada unidad está respaldada por el SOL efectivamente depositado como _rent_ al desplegar los mundos y rutas que la sostienen.**
+Además, las RU están ancladas a una realidad técnica concreta: **cada unidad está respaldada por el SOL efectivamente depositado como&#x20;**_**rent**_**&#x20;al desplegar los mundos y rutas que la sostienen.**
 
 Durante los eventos de Despliegue Histórico, las aportaciones comunitarias no solo activan mundos y rutas: construyen el universo con una base económica tangible.
 
@@ -79,7 +96,7 @@ $$
 \frac{18,\!446,\!744,\!073,\!709,\!551,\!615\ \text{RU}}{400,\!000,\!000,\!000\ \text{estrellas}} \approx 46,\!116\ \text{RU/estrella}
 $$
 
-Tomando ese número de $$46,\!116\ \text{RU/estrella}$$ y asumimos una media aproximada de entre `5` y `8` planetas $$\approx 6.5 \text{planetas/estrella}$$ 
+Tomando ese número de $$46,\!116\ \text{RU/estrella}$$ y asumimos una media aproximada de entre `5` y `8` planetas $$\approx 6.5 \text{planetas/estrella}$$
 
 $$
 \frac{46,\!116\ \text{RU/estrella}}{6.5\ \text{planetas/estrella}} \approx 7,\!094\ \text{RU/planeta}
@@ -129,5 +146,3 @@ Mundos con civilizaciones nativas complejas requieren de mayor aporte estructura
 Por otro lado, mundos deshabitados, con dinamicas simples, de extraccion de recusos y colonizacion a futuros, requieren de menores despliegues estrucutrales —menos _rent_ y RU.
 
 Este funcionamiento emerge organicamente integrando _de forma natural_ la "_minería_ de RU" con la exploración interestelar y el escenario temático del **Tercer Censo (Third Survey)**.
-
-

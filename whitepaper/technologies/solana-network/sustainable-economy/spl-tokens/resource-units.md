@@ -1,6 +1,23 @@
-﻿---
+---
 cover: ../../../../.gitbook/assets/tcw-ru.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Resource Units
@@ -31,7 +48,7 @@ Their appearance in external environments would indicate a security breach or un
 
 Within the system, RUs are used to model the flow of wealth, calculate the economic impact of political or commercial actions, and establish hierarchies among galactic regions based on structural importance.
 
-Additionally, RUs are anchored to a concrete technical reality: **each unit is backed by SOL effectively deposited as _rent_ during the deployment of the worlds and routes that support it.**
+Additionally, RUs are anchored to a concrete technical reality: **each unit is backed by SOL effectively deposited as&#x20;**_**rent**_**&#x20;during the deployment of the worlds and routes that support it.**
 
 During Historical Deployment events, community contributions not only activate worlds and routes —they build the universe with a tangible economic foundation.
 
@@ -79,7 +96,7 @@ $$
 \frac{18,\!446,\!744,\!073,\!709,\!551,\!615\ \text{RU}}{400,\!000,\!000,\!000\ \text{stars}} \approx 46,\!116\ \text{RU/star}
 $$
 
-Assuming ~6.5 planets per star:
+Assuming \~6.5 planets per star:
 
 $$
 \frac{46,\!116\ \text{RU/star}}{6.5\ \text{planets/star}} \approx 7,\!094\ \text{RU/planet}

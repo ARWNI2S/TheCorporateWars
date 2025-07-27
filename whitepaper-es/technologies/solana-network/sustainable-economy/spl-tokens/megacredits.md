@@ -1,6 +1,23 @@
 ---
 cover: ../../../../.gitbook/assets/tcw-mcr.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # MegaCréditos
@@ -9,7 +26,7 @@ Los **MegaCréditos** son tokens SPL transferibles que actúan como unidad de cu
 
 Están diseñados para circular libremente tanto dentro como fuera del juego, almacenarse en wallets externas, transferirse entre usuarios y utilizarse en contratos inteligentes desplegados en la red Solana.
 
-Dentro del universo simulado, su existencia se justifica como un instrumento financiero emitido por el **Mercado de Valores Interestelar (Interstellar Stock Exchange)** y  están integrados en las reglas del juego como recurso económico de largo alcance —macroeconómico— que _Lealtades_ emplean para respaldar sus _instituciones_ financieras.
+Dentro del universo simulado, su existencia se justifica como un instrumento financiero emitido por el **Mercado de Valores Interestelar (Interstellar Stock Exchange)** y están integrados en las reglas del juego como recurso económico de largo alcance —macroeconómico— que _Lealtades_ emplean para respaldar sus _instituciones_ financieras.
 
 ## Paricipación Comunitaria
 
@@ -61,7 +78,7 @@ Los jugadores pueden convertir sus divisas a MCr y retirarlos del juego, inician
 
 Estos flujos de salida solo estaran disponibles para corporaciones que cumplan condiciones de _beneficios netos_, _solvencia financiaera_ y esté libre de _apalancamientos o garantías_.
 
-Finalmente, el MCr tambien puede emplearse como **moneda de intercambio directo en _Marketplace_**, lo cual plantea un flujo de retorno directo del MCr al sistema.
+Finalmente, el MCr tambien puede emplearse como **moneda de intercambio directo en&#x20;**_**Marketplace**_, lo cual plantea un flujo de retorno directo del MCr al sistema.
 
 ***
 
@@ -93,20 +110,18 @@ El sistema no permite la participación indiscriminada, sino que mantiene un equ
 
 La emisión de MCr no es libre ni descentralizada: está gestionada exclusivamente por el sistema de Tesorería y sus programas asociados, que aplican un modelo de estabilización algorítmica en tiempo real basado en:
 
-- La salud estructural del sistema: $$\text{salud} = \frac{1}{1 + |\text{SUMA}|}$$
-
-- La capacidad operativa de las _Lealtades_.
-
-- El volumen total de circulación y la demanda agregada.
+* La salud estructural del sistema: $$\text{salud} = \frac{1}{1 + |\text{SUMA}|}$$
+* La capacidad operativa de las _Lealtades_.
+* El volumen total de circulación y la demanda agregada.
 
 La emisión está cuantificada en cada ciclo económico simulado, y cualquier exceso es absorbido automáticamente por el Algoritmo de Estabilización, mediante mecanismos de retención, fusión o reconversión.
 
 ***
 
 > Los MegaCréditos no representan una divisa aislada o ficticia: son tokens SPL estándar, emitidos con tecnología verificable, y con interoperabilidad completa en la red Solana.
-> 
+>
 > Su valor, circulación y custodia estén sujetos a los mismos principios que cualquier otro activo sobre la red, pero regulados por programas específicos dentro del sistema de juego.
-> 
+>
 > Su uso está condicionado por reglas internas que garantizan su integración en la lógica de la simulación, pero sin perder compatibilidad con el ecosistema técnico exterior.
 
 {% hint style="danger" %}

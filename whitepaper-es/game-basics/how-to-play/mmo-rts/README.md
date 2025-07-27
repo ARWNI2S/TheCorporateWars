@@ -29,7 +29,9 @@ Las decisiones no son simples maniobras individuales: alteran rutas comerciales,
 
 Este entorno compartido obliga a pensar no solo en términos de crecimiento económico, sino también en la forma en que ese crecimiento afecta al equilibrio general del sector.
 
-No hay turnos, no hay pausas: todo ocurre en tiempo real, y lo que no se vigila puede perderse.
+> No hay turnos, no hay pausas: todo ocurre en tiempo real, y lo que no se vigila puede perderse.
+
+***
 
 ### Conflicto Económico y Astropolítico
 
@@ -44,6 +46,8 @@ Algunas corporaciones prosperan en la estabilidad; otras, en el caos.
 El mapa del juego no es solo geográfico: es político, económico y simbólico.
 
 Controlar un sistema puede equivaler a controlar un mensaje.
+
+***
 
 ## Operaciones y Misiones
 
