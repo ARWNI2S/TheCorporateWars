@@ -1,5 +1,4 @@
 ---
-icon: user-helmet-safety
 cover: ../../.gitbook/assets/tcw-game.jpg
 coverY: 0
 ---
@@ -16,7 +15,9 @@ Cada acción tiene peso, y cada movimiento estratégico puede desencadenar conse
 
 La gestión de recursos, el despliegue de agentes, la expansión hacia nuevos sistemas y el establecimiento de relaciones clave con poderes locales o mayores son aspectos centrales del progreso.
 
-El jugador no solo hace crecer una corporación, sino que moldea su lugar en la historia galáctica.
+> El jugador no solo hace crecer una corporación, sino que moldea su lugar en la historia galáctica.
+
+***
 
 ## La Corporación
 
@@ -28,4 +29,6 @@ Las decisiones que tome afectarán su red comercial, sus aliados, sus enemigos y
 
 ***
 
+{% hint style="warning" %}
 El juego se desarrolla en tiempo persistente, con eventos simultáneos en múltiples regiones, y permite operar tanto desde una interfaz estratégica general como mediante agentes, especialistas o ejecutivos desplegados en zonas concretas.
+{% endhint %}
