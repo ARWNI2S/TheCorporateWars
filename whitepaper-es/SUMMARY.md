@@ -39,6 +39,36 @@
     * [Gigantes de Gas](foundations/charted-space/stars-worlds/gas-giants.md)
     * [Cinturones de Asteroides](foundations/charted-space/stars-worlds/asteroid-belts.md)
 
+## Tecnología Implicada <a href="#technologies" id="technologies"></a>
+
+* [Teoría de Juegos](technologies/gameplay/README.md)
+  * [Juego Económico de Suma Cero](technologies/gameplay/zero-sum.md)
+  * [Individualismo Colaborativo](technologies/gameplay/compete-collaborate.md)
+  * [Causalidad Interactiva](technologies/gameplay/deep-causality.md)
+  * [Despliegue Comunitario](technologies/gameplay/community-deployment.md)
+* [Blockchain Stateless](technologies/solana-network/README.md)
+  * [Base de Datos del Tercer Censo](technologies/solana-network/third-survey-data.md)
+  * [El Modelo de Información Desfasada](technologies/solana-network/outdated-information-model.md)
+  * [Capas de Governanza](technologies/solana-network/multilayer-governance.md)
+  * [Economía Autosostenible](technologies/solana-network/sustainable-economy/README.md)
+    * [Estabilización Algorítmica](technologies/solana-network/sustainable-economy/hayek-money.md)
+    * [Sistemas Financieros](technologies/solana-network/sustainable-economy/banking-system.md)
+    * [Tesorería](technologies/solana-network/sustainable-economy/treasury/README.md)
+      * [Coste Operativo](technologies/solana-network/sustainable-economy/treasury/operation-cost.md)
+      * [Financiación del Desarrollo](technologies/solana-network/sustainable-economy/treasury/funding.md)
+      * [Fondos de Liquidez](technologies/solana-network/sustainable-economy/treasury/liquidity-pools.md)
+    * [Tokens SPL](technologies/solana-network/sustainable-economy/spl-tokens/README.md)
+      * [Unidades de Recursos](technologies/solana-network/sustainable-economy/spl-tokens/resource-units.md)
+      * [MegaCréditos](technologies/solana-network/sustainable-economy/spl-tokens/megacredits.md)
+      * [Otras Divisas](technologies/solana-network/sustainable-economy/spl-tokens/other-currencies.md)
+    * [Mercado del Juego](technologies/solana-network/sustainable-economy/game-marketplace.md)
+    * [Mercados Externos](technologies/solana-network/sustainable-economy/dex-cex.md)
+* [Unreal Engine](technologies/unreal-engine.md)
+* [Servicios Propios](technologies/backend-server/README.md)
+  * [Simulación Distribuida](technologies/backend-server/distributed-simulation.md)
+  * [AI LOD](technologies/backend-server/ai-lod.md)
+  * [Servicios Solana](technologies/backend-server/solana-rpc.md)
+
 ## El Juego <a href="#game-basics" id="game-basics"></a>
 
 * [Jugabilidad](game-basics/how-to-play/README.md)
@@ -122,36 +152,6 @@
     * [Mercado de Valores Interestelar](game-basics/polities/institutions/ise.md)
   * [Otras Políticas](game-basics/polities/other-polities/README.md)
     * [Clanes y Alianzas](game-basics/polities/other-polities/guilds.md)
-
-## Tecnología Implicada <a href="#technologies" id="technologies"></a>
-
-* [Teoría de Juegos](technologies/gameplay/README.md)
-  * [Juego Económico de Suma Cero](technologies/gameplay/zero-sum.md)
-  * [Individualismo Colaborativo](technologies/gameplay/compete-collaborate.md)
-  * [Causalidad Interactiva](technologies/gameplay/deep-causality.md)
-  * [Despliegue Comunitario](technologies/gameplay/community-deployment.md)
-* [Blockchain Stateless](technologies/solana-network/README.md)
-  * [Base de Datos del Tercer Censo](technologies/solana-network/third-survey-data.md)
-  * [El Modelo de Información Desfasada](technologies/solana-network/outdated-information-model.md)
-  * [Capas de Governanza](technologies/solana-network/multilayer-governance.md)
-  * [Economía Autosostenible](technologies/solana-network/sustainable-economy/README.md)
-    * [Estabilización Algorítmica](technologies/solana-network/sustainable-economy/hayek-money.md)
-    * [Sistemas Financieros](technologies/solana-network/sustainable-economy/banking-system.md)
-    * [Tesorería](technologies/solana-network/sustainable-economy/treasury/README.md)
-      * [Coste Operativo](technologies/solana-network/sustainable-economy/treasury/operation-cost.md)
-      * [Financiación del Desarrollo](technologies/solana-network/sustainable-economy/treasury/funding.md)
-      * [Fondos de Liquidez](technologies/solana-network/sustainable-economy/treasury/liquidity-pools.md)
-    * [Tokens SPL](technologies/solana-network/sustainable-economy/spl-tokens/README.md)
-      * [Unidades de Recursos](technologies/solana-network/sustainable-economy/spl-tokens/resource-units.md)
-      * [MegaCréditos](technologies/solana-network/sustainable-economy/spl-tokens/megacredits.md)
-      * [Otras Divisas](technologies/solana-network/sustainable-economy/spl-tokens/other-currencies.md)
-    * [Mercado del Juego](technologies/solana-network/sustainable-economy/game-marketplace.md)
-    * [Mercados Externos](technologies/solana-network/sustainable-economy/dex-cex.md)
-* [Unreal Engine](technologies/unreal-engine.md)
-* [Servicios Propios](technologies/backend-server/README.md)
-  * [Simulación Distribuida](technologies/backend-server/distributed-simulation.md)
-  * [AI LOD](technologies/backend-server/ai-lod.md)
-  * [Servicios Solana](technologies/backend-server/solana-rpc.md)
 
 ## Proceso de Desarrollo <a href="#roadmap" id="roadmap"></a>
 
