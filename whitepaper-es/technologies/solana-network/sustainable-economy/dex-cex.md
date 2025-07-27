@@ -10,7 +10,7 @@ Aunque **The Corporate Wars** se apoya en tecnología blockchain y tokens SPL, l
 
 El sistema económico está diseñado para operar internamente, sin depender de liquidez externa ni de flujos especulativos.
 
-La prioridad es desarrollar un entorno jugable completo, con profundidad técnica, mecúnicas consistentes y contenido de calidad.
+La prioridad es desarrollar un entorno jugable completo, con profundidad técnica, mecánicas consistentes y contenido de calidad.
 
 Dicho esto, si la participación comunitaria lo permite y el proyecto alcanza una escala suficiente, se evaluará la posibilidad de habilitar mercados secundarios.
 
