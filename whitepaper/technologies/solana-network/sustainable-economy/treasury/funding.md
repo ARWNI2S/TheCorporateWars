@@ -5,9 +5,9 @@ coverY: 0
 
 # Development Funding
 
-**The Corporate Wars** is a system under construction whose technical architecture —programmatic contracts, treasury, economic and political structure� is already implemented at its core, but the playable universe has not yet been born.
+**The Corporate Wars** is a system under construction whose technical architecture —programmatic contracts, treasury, economic and political structure— is already implemented at its core, but the playable universe has not yet been born.
 
-This is a production reality: building a living environment requires resources. Without speculative phases or future promises, the elements that connect internal logic to player experience �visual client, interfaces, real-time validations, minimum playable cycle� must be developed with professional quality.
+This is a production reality: building a living environment requires resources. Without speculative phases or future promises, the elements that connect internal logic to player experience —visual client, interfaces, real-time validations, minimum playable cycle— must be developed with professional quality.
 
 ### Initial Production
 

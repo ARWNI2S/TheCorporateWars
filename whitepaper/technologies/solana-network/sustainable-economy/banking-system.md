@@ -7,7 +7,7 @@ coverY: 0
 
 The financial system of _The Corporate Wars_ is built on a decentralized model of **simulated reserve of value**, represented by **MegaCredit (MCr)** stacks on the Solana network.
 
-Each _Polity_ —whether player-controlled or AI-managed� maintains **active MCr reserves** tied to the _Treasury_ mechanics of their subscribed _Allegiances_.
+Each _Polity_ —whether player-controlled or AI-managed— maintains **active MCr reserves** tied to the _Treasury_ mechanics of their subscribed _Allegiances_.
 
 These reserves determine their ability to finance operations, their influence within their network of _Polities_, and their access to operational _licenses_, channels, and priority commercial zones.
 
@@ -17,23 +17,23 @@ These reserves determine their ability to finance operations, their influence wi
 
 The Multilayer Governance system based on _Polities_ allows **Allegiances** to function as supra-institutional economic frameworks.
 
-Each establishes its own **regulated �or unregulated� financial doctrine**, governed by one or more _Institutional Polities_, whose interactions �or lack thereof� shape gameplay dynamics:
+Each establishes its own **regulated —or unregulated— financial doctrine**, governed by one or more _Institutional Polities_, whose interactions —or lack thereof— shape gameplay dynamics:
 
 The most powerful maintain the system of **algorithmic stability**, such as the Third Imperium, with the Imperial Treasury and the Ministry of Commerce backing the MCr.
 
-Others, like client states, adopt dual issuance systems �MCr + local token� and some simply follow the flow of available reserves, with no guarantee of backing, thereby absorbing environmental volatility.
+Others, like client states, adopt dual issuance systems —MCr + local token— and some simply follow the flow of available reserves, with no guarantee of backing, thereby absorbing environmental volatility.
 
 Players interact with the financial system through the gameplay enabled by _Institutions_: reserves, staking, and contracts explicitly governed by artificial intelligence.
 
-These entities �regional banks, imperial funds, stabilization agencies, clearinghouses, etc.� have direct or indirect interfaces, exist in the economic model, and affect systems such as:
+These entities —regional banks, imperial funds, stabilization agencies, clearinghouses, etc.— have direct or indirect interfaces, exist in the economic model, and affect systems such as:
 
 * Silent MCr distribution as a result of zero-sum economic game cycles,
 * Available regional liquidity, which determines endogenous credit availability,
-* Indirect bailouts of key sectors and buffering of systemic shocks �e.g., stabilizing regions affected by wars, exoduses, or production failures.
+* Indirect bailouts of key sectors and buffering of systemic shocks —e.g., stabilizing regions affected by wars, exoduses, or production failures.
 
-Although some _Polities_ �like **colonial banks** or **investment funds**� may be operated by players with sufficient political and financial backing, the system is designed for the AI to **respond to aggregate imbalances** of the simulated universe as scalable, playable events.
+Although some _Polities_ —like **colonial banks** or **investment funds**— may be operated by players with sufficient political and financial backing, the system is designed for the AI to **respond to aggregate imbalances** of the simulated universe as scalable, playable events.
 
-The simulation�s scale allows major AI-controlled _Allegiances_ to absorb the impact of player activity and realistically redistribute it via algorithmic stabilization.
+The simulation's scale allows major AI-controlled _Allegiances_ to absorb the impact of player activity and realistically redistribute it via algorithmic stabilization.
 
 This logic is structural, observable through aggregate effects, and consistent with the game universe's scale and rules.
 
@@ -42,9 +42,9 @@ This logic is structural, observable through aggregate effects, and consistent w
 
 ***
 
-### Reserves and Risk �_Roguelike_
+### Reserves and Risk —_Roguelike_
 
-MCr stacks don�t just grant financial power � they also impose risks.
+MCr stacks don't just grant financial power —they also impose risks.
 
 A _Polity_ overexposed to unsupported operations can **go bankrupt**, introducing a '_roguelike_' difficulty layer through the resulting _asset liquidation_.
 
@@ -54,7 +54,7 @@ _Embargoes_, _freezes_, or _capital flight_ between blocs generate real instabil
 
 This emergent banking model allows for:
 
-* _Free-to-play_ via **economic subsidies** and **credit lines**, which shape initial financial exposure and future maneuverability �without compromising simulation coherence or introducing unfair advantages.
+* _Free-to-play_ via **economic subsidies** and **credit lines**, which shape initial financial exposure and future maneuverability —without compromising simulation coherence or introducing unfair advantages.
 * Managing **financial cycles** as playable event sets representing **liquidity crises**, _defaults_, bailouts, and recoveries.
 * Designing fiscal, investment, and monetary manipulation strategies within a technically verifiable framework.
 
