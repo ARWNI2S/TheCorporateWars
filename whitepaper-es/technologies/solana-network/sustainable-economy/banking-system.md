@@ -1,6 +1,23 @@
 ---
-cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
+cover: ../../../.gitbook/assets/tcw-economy-financial.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Sistemas Financieros
@@ -23,13 +40,13 @@ Las más poderosas mantienen el sistema de **estabilidad algorítmica**, como el
 
 Otras, como los estados cliente, adoptan sistemas de emisión dual —MCr + token local—, y otras simplemente se rigen por el flujo de reservas disponibles, sin ninguna garantía de respaldo, absorbiendo así la volatilidad del entorno.
 
-Los jugadores interactúan con el sistema financiero a través de la jugabilidad que ofrecen las _Instituciones_: reservas, *staking* y contratos explícitamente gobernados por inteligencia artificial.
+Los jugadores interactúan con el sistema financiero a través de la jugabilidad que ofrecen las _Instituciones_: reservas, _staking_ y contratos explícitamente gobernados por inteligencia artificial.
 
 Estas entidades —bancos regionales, fondos imperiales, agencias de estabilización, cámaras de compensación, etc.— tienen interfaz directa o indirecta, existen en el modelo económico y afectan a sistemas como:
 
-- La distribución silenciosa del MCr como resultado de los ciclos del juego económico de suma cero,
-- La liquidez regional disponible, de la cual depende la disponibilidad de crédito endógeno,
-- El rescate indirecto de sectores clave y la amortiguación de *shocks* sistémicos —por ejemplo, estabilizando regiones afectadas por guerras, éxodos o fallos de producción.
+* La distribución silenciosa del MCr como resultado de los ciclos del juego económico de suma cero,
+* La liquidez regional disponible, de la cual depende la disponibilidad de crédito endógeno,
+* El rescate indirecto de sectores clave y la amortiguación de _shocks_ sistémicos —por ejemplo, estabilizando regiones afectadas por guerras, éxodos o fallos de producción.
 
 Aunque algunas _Políticas_, como **bancos coloniales** o **fondos de inversión**, pueden ser operadas por jugadores con suficiente respaldo político y económico, el sistema está diseñado para que la IA **reaccione a los desequilibrios agregados** del universo simulado como eventos jugables y escalables.
 
@@ -37,7 +54,7 @@ La escala de la simulación permite a las grandes _Lealtades_ controladas por la
 
 Esta lógica es estructural, verificable desde los efectos agregados y coherente con la escala y las reglas del universo de juego.
 
-> Como en los mercados reales, el jugador nunca ve la totalidad del sistema:  
+> Como en los mercados reales, el jugador nunca ve la totalidad del sistema:\
 > interpreta señales, reacciona a eventos y aprende a jugar con la incertidumbre.
 
 ***
@@ -54,9 +71,9 @@ Los _embargos_, _congelaciones_ o _fugas de capital_ entre bloques generan diná
 
 Este modelo bancario emergente permite:
 
-- _Free-to-Play_ mediante **subsidios económicos** y **líneas de crédito**, que condicionan la exposición financiera inicial y la capacidad de maniobra futura, sin comprometer la coherencia de la simulación ni convertirlo en una ventaja injusta.
-- Manejar los **ciclos financieros** como conjuntos de eventos jugables que representan **crisis de liquidez**, _defaults_, rescates y recuperaciones.
-- Diseñar estrategias de jugabilidad fiscal, de inversión y de manipulación monetaria dentro de un marco técnico verificable.
+* _Free-to-Play_ mediante **subsidios económicos** y **líneas de crédito**, que condicionan la exposición financiera inicial y la capacidad de maniobra futura, sin comprometer la coherencia de la simulación ni convertirlo en una ventaja injusta.
+* Manejar los **ciclos financieros** como conjuntos de eventos jugables que representan **crisis de liquidez**, _defaults_, rescates y recuperaciones.
+* Diseñar estrategias de jugabilidad fiscal, de inversión y de manipulación monetaria dentro de un marco técnico verificable.
 
 Cuando las reservas caen por debajo de ciertos umbrales, las _Políticas_ afectadas pierden acceso a funciones avanzadas: los programas latentes dejan de desplegarse, las comunicaciones se enlentecen, y los datos de bajo uso pueden ser archivados o degradados.
 
