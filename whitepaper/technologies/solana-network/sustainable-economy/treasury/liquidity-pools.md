@@ -13,7 +13,7 @@ Rather than being centralized in a single vault, the funds are organized by func
 
 When the ecosystem generates more resources than it consumes, part of the surplus may be assigned to structural backup reserves. These reserves allow, for example, maintaining minimum services, sustaining degraded regions, or ensuring development continuity during periods of recession.
 
-In more advanced phases, certain funds may channel part of their liquidity into external interaction mechanisms —such as the conversion of MCr in markets— as long as the economic autonomy and technical sustainability of the system are not compromised.
+In more advanced phases, certain funds may channel part of their liquidity into external interaction mechanisms â€”such as the conversion of MCr in marketsï¿½ as long as the economic autonomy and technical sustainability of the system are not compromised.
 
 Each fund is integrated into the economic architecture as an autonomous subsystem, regulated by configurable parameters and supervised by the programmatic logic of the Treasury.
 

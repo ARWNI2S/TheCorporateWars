@@ -9,7 +9,7 @@ coverY: 0
 
 They are designed to circulate freely both inside and outside the game, stored in external wallets, transferred between users, and used in smart contracts deployed on the Solana network.
 
-Within the simulated universe, their existence is justified as a financial instrument issued by the **Interstellar Stock Exchange (ISE)** and integrated into the game�s rules as a long-range economic resource � macroeconomic � that _Allegiances_ use to support their financial _Institutions_.
+Within the simulated universe, their existence is justified as a financial instrument issued by the **Interstellar Stock Exchange (ISE)** and integrated into the game�s rules as a long-range economic resource —macroeconomic— that _Allegiances_ use to support their financial _Institutions_.
 
 ## Community Participation
 
