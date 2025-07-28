@@ -30,15 +30,17 @@ Estas unidades no se asignan de forma dinámica, sino que forman parte de la con
 
 Su distribución obedece a un modelo de suma cero: la cantidad total de RU en el sistema es constante, y solo puede redistribuirse —o transformarse— como resultado de eventos internos.
 
+***
+
 ### Referencia de Valor Interno
 
-Las RU no están pensadas para salir del sistema.
+> **Las RU no están pensadas para salir del sistema:** No están diseñadas para circular entre usuarios ni para operar como moneda de intercambio.
 
-> No están diseñadas para circular entre usuarios ni para operar como moneda de intercambio.
+{% hint style="success" %}
+Están directamente vinculadas a los mundos, y solo pueden ser _instrumentalizadas_ mediante el sistema de juego.
+{% endhint %}
 
 Aunque técnicamente son tokens SPL y podrían transferirse, el diseño del juego impone restricciones explícitas: no se comercializan, no se transfieren entre jugadores y no se utilizan en mercados.
-
-Están directamente vinculadas a los mundos, y solo pueden ser instrumentalizadas mediante el sistema financiero del juego.
 
 {% hint style="danger" %}
 **Advertencia**: las RU no tienen ni tendrán liquidez de mercado.\
@@ -50,9 +52,9 @@ Dentro del sistema, las RU permiten modelar el flujo de riqueza, calcular el imp
 
 Además, las RU están ancladas a una realidad técnica concreta: **cada unidad está respaldada por el SOL efectivamente depositado como&#x20;**_**rent**_**&#x20;al desplegar los mundos y rutas que la sostienen.**
 
-Durante los eventos de Despliegue Histórico, las aportaciones comunitarias no solo activan mundos y rutas: construyen el universo con una base económica tangible.
+Durante los eventos de [Despliegue Histórico](../../../../roadmap/deployment/), las aportaciones comunitarias no solo activan mundos y rutas: construyen el universo con una base económica tangible.
 
-> **Cada RU representa una fracción de esa inversión, y su existencia garantiza que, al menos, ese valor técnico se encuentra ahí.**
+> **Cada RU representa una fracción de esa aportación, y su existencia garantiza que, al menos, ese valor técnico se encuentra ahí.**
 
 El sistema reconoce esa huella como un respaldo mínimo real y no permitimos que RU cotice en mercados porque —de forma extrañamente poética— **representa el** _**SOL**_ **que mantiene la galaxia entera encendida.**
 
@@ -60,7 +62,7 @@ El sistema reconoce esa huella como un respaldo mínimo real y no permitimos que
 
 ## Función en la Simulación
 
-Las RU representan el peso estructural de un mundo dentro del universo simulado.
+> Las RU representan el peso estructural de un mundo dentro del universo simulado.
 
 Emergen directamente de los valores reales del mundo en el sistema de juego: un mundo con perfil _Importante_ vincula —por definición— rutas de salto principales que generan _actividad_.
 
@@ -78,9 +80,9 @@ Las RU actúan como memoria económica estructural del universo simulado, tanto 
 
 ## Proporción y Distribución
 
-El número total de RU es finito y determinado por el propio universo desplegado.
+> El número total de RU es finito y determinado por el propio universo desplegado.
 
-Distribuir —o redistribuir— RU requiere **eventos de escala mayor**: la expansión exploratoria del Tercer Imperio —Milieu 0 y Second Survey— contemplada en el Despliegue Histórico, las mecánicas de exploración de mundos desconocidos basadas en el **Tercer Censo (Third Survey)**, implementación de nuevos contenidos —parches o expansiones— y narrativas jugables de alto nivel —guerras fronterizas, colapsos o reconstrucciones regionales.
+Distribuir —o redistribuir— RU requiere **eventos de escala mayor**: la expansión exploratoria del Tercer Imperio —[Milieu 0](../../../../roadmap/deployment/first-survey/) y [Second Survey](../../../../roadmap/deployment/second-survey.md)— contemplada en el [Despliegue Histórico](../../../../roadmap/deployment/), las mecánicas de exploración de mundos desconocidos basadas en el **Tercer Censo (Third Survey)**, implementación de nuevos contenidos —parches o expansiones— y narrativas jugables de alto nivel —guerras fronterizas, colapsos o reconstrucciones regionales.
 
 Las RU disponibles existen en su totalidad: el número de RU emitidos es el máximo permitido por la red Solana.
 
@@ -102,10 +104,14 @@ $$
 \frac{46,\!116\ \text{RU/estrella}}{6.5\ \text{planetas/estrella}} \approx 7,\!094\ \text{RU/planeta}
 $$
 
-> CASUALMENTE: Un resultado muy aproximado a los 'máximos relativos' que se dan en la versión de Marc Miller's Traveller™ —5ª Edición.\
+> **CASUALMENTE:** Un resultado muy aproximado a los 'máximos relativos' que se dan en la versión de Marc Miller's Traveller™ —5ª Edición.\
 > —...y sí, de un modo u otro, todo el material de Traveller™ ha servido de inspiración para cada una de las etapas del diseño de **The Corporate Wars**
 
-Este número de RU 'por planeta' nos garantiza que cada **mundo** —abstracción de sistema estelar— de la galaxia dispone de suficientes RU —$$\approx 46,\!116\ \text{RU/mundo}$$— como para ser explotado intensivamente en Niveles Tecnológicos muy superiores —_anillos y esferas Dyson_—, sin sobrepasar el límite permitido por la red.
+{% hint style="success" %}
+Este número de RU 'por planeta' nos garantiza que cada **mundo** —abstracción de sistema estelar— de la galaxia dispone de suficientes RU —$$\approx 46,\!116\ RU/mundo$$— como para ser explotado intensivamente en Niveles Tecnológicos muy superiores —_anillos y esferas Dyson_—, sin sobrepasar el límite permitido por la red.
+{% endhint %}
+
+***
 
 ### Distribución Real
 
@@ -116,18 +122,20 @@ Aunque solo podemos aproximar una cifra, el Espacio Conocido en el año 1201 del
 Esto representa una reserva —orientativa— de RU máximos asignables:
 
 $$
-46,\!116\ \text{RU/mundo} \times 80,\!000\ \text{mundos} = 3,\!689,\!280,\!000\ \text{RU_{asignables}}
+46,\!116\ RU/mundo \times 80,\!000\ mundos = 3,\!689,\!280,\!000\ RU_{asignables}
 $$
 
 Lo cual implica una mínima fracción del total:
 
 $$
-\frac{3,\!689,\!280,\!000}{18,\!446,\!744,\!073,\!709,\!551,\!615} \times 100 \approx 0.00002\%
+\frac{3,\!689,\!280,\!000 RU_{asignables}}{18,\!446,\!744,\!073,\!709,\!551,\!615 RU_{max}} \times 100 \approx 0.00002\% \text{ del total}
 $$
 
 Esto refuerza la enorme escala de una galaxia aún inexplorada, y es proporcional a los recursos aún disponibles en la simulación y el universo de juego.
 
 No todos los mundos estarán cartografiados exhaustivamente, ni todos habrán sido registrados por una única _Institución_ o _Lealtad_, pero todos ellos _existen_ en la simulación y, junto a las rutas de salto que los conectan, son _actores estructurales_ del **juego económico de suma cero**.
+
+***
 
 ### "_Minería_ de RU"
 
