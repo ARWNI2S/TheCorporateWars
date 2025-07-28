@@ -32,6 +32,8 @@ En este modelo, cada actor —ya sea una IA, una corporación dirigida por jugad
 Estas no representan escalones jerárquicos clásicos, sino dimensiones de autoridad que operan de forma simultánea y que definen el alcance y la naturaleza de cada decisión.
 {% endhint %}
 
+***
+
 ### La **Capa Global**
 
 Establece los fundamentos del universo simulado.
@@ -42,6 +44,8 @@ Esta capa está enteramente bajo control de la IA del juego, y constituye el esq
 
 No es negociable ni manipulable, pero sí observable, predecible y utilizable por los jugadores más avanzados.
 
+***
+
 ### La **Capa de Agregados de Gobernanza**
 
 Engloba a todas aquellas entidades colectivas que representan poder institucional, político o doctrinal sobre múltiples actores.
@@ -51,6 +55,8 @@ Engloba a todas aquellas entidades colectivas que representan poder instituciona
 En su mayoría, son gobernados por la IA, aunque pueden ser influenciados desde dentro a través de estructuras meritocráticas o por presión externa.
 
 Los agregados modulan y median la acción de las entidades individuales, estableciendo doctrinas, regulaciones y jerarquías de acceso al poder, al conocimiento o al capital.
+
+***
 
 ### La **Capa Individual**
 
