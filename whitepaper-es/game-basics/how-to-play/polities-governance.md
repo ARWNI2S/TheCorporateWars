@@ -23,19 +23,27 @@ layout:
 
 # Políticas y Governanza
 
-Una corporación no opera en el vacío.
+Las corporaciones están sujetas a leyes, interactúan con gobiernos planetarios, influyen en cámaras sectoriales y, en ciertos casos, intervienen en estructuras de poder interestelar.
 
-Está sujeta a leyes, interactúa con gobiernos planetarios, influye en cámaras sectoriales y, en ciertos casos, interviene en estructuras de poder interestelar.
+Desde establecimientos privados en galerias comerciales, hasta corporaciones que operan en el vacío del espacio profundo, todas estan sometidas al sistema —legal y burocrático— de las _Lealtades_ y otras _Políticas_ territoriales.
 
-Esta capa del juego no trata de producir ni de comerciar, sino de navegar el ecosistema político, adaptarse a su lógica… o moldearlo.
+Esta capa del juego no trata de producir ni de comerciar, sino de navegar el ecosistema político, adaptarse a su lógica… o moldearlo estrategicamente.
 
-Las reglas del juego no son siempre estables.
-
-Algunas pueden reescribirse.
+> Las leyes y los gobiernos no son siempre estables.\
+> Algunas leyes pueden reescribirse.\
+> Algunos gobiernos deben conquistarse.\
+> Todo depende del precio al que pueden comprarse.\
+> —Proverbio Vilani
 
 ***
 
-En **The Corporate Wars**, las corporaciones pueden afiliarse a Lealtades, aceptar jurisdicciones locales, participar en asambleas, financiar candidaturas o presionar para la modificación de normativas.
+
+Las _Políticas_ —_Lealtades_, gobiernos, _instituciones_— regulan y tratan de controlar —y beneficiarse de— cada aspecto de la vida corporativa en sus territorios.
+
+
+
+En **The Corporate Wars**, las corporaciones pueden afiliarse a _Lealtades_, asumir jurisdicciones locales, participar en asambleas, financiar candidaturas o presionar para la modificación de normativas.
+
 
 Todo acto político tiene un precio, y casi siempre, una consecuencia indirecta.
 
