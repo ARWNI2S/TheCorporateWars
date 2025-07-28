@@ -32,7 +32,7 @@ Esto se traduce en un ecosistema de simulación económica donde la estabilidad 
 Los tokens estabilizados algorítmicamente son tecnología experimental, en desarrollo, y aunque existe una amplia base teórica, hay pocos ejemplos prácticos.\
 El **supuesto** _riesgo_ de los proyectos de **stablecoin algorítmicas** y similares es, en términos prácticos, comparable al de participar en el mercado de cualquier criptomoneda: se percibe como mayor porque no existe la capitalización piramidal característica de tokens sin un proyecto con costes reales.
 
-El beneficio, es el _éxito_ del proyecto, **no una promesa de rentabilidad** (que solo se podría garantizar mediante sistema de aportaciones piramidales).
+El beneficio, es el _éxito_ del proyecto, **no una promesa de rentabilidad** —que solo se podría garantizar mediante sistema de aportaciones piramidales.
 {% endhint %}
 
 ***
