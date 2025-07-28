@@ -22,7 +22,7 @@ layout:
 
 # Despliegue Comunitario
 
-La arquitectura del sistema de **The Corporate Wars** se basa en principios de sistemas complejos, aplicando modelos académicos consolidados que permiten un despliegue del entorno _blockchain stateless_ de forma progresiva, modular y desacoplada entre etapas.
+La arquitectura del sistema de **The Corporate Wars** se basa en principios de [sistemas complejos](https://es.wikipedia.org/wiki/Sistema_complejo), aplicando modelos académicos consolidados que permiten un despliegue del entorno _blockchain stateless_ de forma progresiva, modular y desacoplada entre etapas.
 
 La participación comunitaria impulsa este proceso, integrando capas de interacción que no alteran los fundamentos predefinidos del universo, sino que los activan y contextualizan según la disponibilidad y el avance de los participantes.
 
@@ -40,4 +40,4 @@ Así, el despliegue no solo activa mundos, rutas y estructuras de poder: constru
 
 Define las _lealtades_ y sus jerarquías; en una línea temporal persistente que será interactiva en el juego.
 
-Los participantes de la etapas de despliegue no solo ocupan un lugar relevante en el juego, sino en la memoria viva de su evolución.
+Los participantes de la [etapas de despliegue](../../roadmap/deployment/) no solo ocupan un lugar relevante en el juego, sino en la memoria viva de su evolución.
