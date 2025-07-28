@@ -36,11 +36,11 @@ The Multilayer Governance system based on _Polities_ allows **Allegiances** to f
 
 Each establishes its own **regulated —or unregulated— financial doctrine**, governed by one or more _Institutional Polities_, whose interactions —or lack thereof— shape gameplay dynamics:
 
-The most powerful maintain the system of **algorithmic stability**, such as the Third Imperium, with the Imperial Treasury and the Ministry of Commerce backing the MCr.
+The most powerful maintain the **algorithmical balance** system, such as the Third Imperium, with the Imperial Treasury and the Ministry of Commerce backed by MCr from the Interstellar Stock Exchange.
 
-Others, like client states, adopt dual issuance systems —MCr + local token— and some simply follow the flow of available reserves, with no guarantee of backing, thereby absorbing environmental volatility.
+Others, like _client states_, adopt dual issuance systems —MCr + local token— and some simply follow the flow of available reserves, with no guarantee of backing, thereby absorbing environmental volatility.
 
-Players interact with the financial system through the gameplay enabled by _Institutions_: reserves, staking, and contracts explicitly governed by artificial intelligence.
+Players interact with the financial system through the gameplay enabled by _Institutions_: reserves, _staking_, and contracts explicitly governed by artificial intelligence.
 
 These entities —regional banks, imperial funds, stabilization agencies, clearinghouses, etc.— have direct or indirect interfaces, exist in the economic model, and affect systems such as:
 
