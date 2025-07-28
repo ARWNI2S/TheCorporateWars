@@ -42,8 +42,7 @@ En esto se apoya el [modelo de información desfasada](outdated-information-mode
 
 A diferencia de otros ecosistemas, Solana opera con **programas stateless** y almacenamiento basado en claves derivadas.
 
-Esto permite modelar estructuras complejas mediante nomenclaturas implícitas.\
-Una `key` principal, asociada a una `foreign key`, define relaciones de datos **sin necesidad de SQL ni tablas**.
+Esto permite modelar estructuras complejas mediante nomenclaturas implícitas: una `key` principal, asociada a una `foreign key` derivada, define relaciones de datos **sin necesidad de SQL ni tablas**.
 
 En esencia, se trata de un mapa estructural activo donde las relaciones están codificadas en el diseño de las claves, reduciendo la dependencia de modelos relacionales clásicos.
 
