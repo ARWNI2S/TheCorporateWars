@@ -32,6 +32,8 @@ It defines what exists, what is connected, and who can exert authority over what
 
 This behavior is not a narrative device, but a direct consequence of the model: worlds, routes, and power structures are stored, processed, and updated within program-derived accounts (PDA), anchored to specific programs.
 
+***
+
 ## Worlds as dynamic nodes
 
 Each world is a program-derived account (PDA), whose contents are compressed into a Merkle Tree representing a **dehydrated profile** of the planet: essential data encoded in an efficient and verifiable manner.
@@ -41,6 +43,8 @@ This includes population, tech level, legal regime, estimated GDP, government ty
 Moreover, each world maintains a **version history**. Instead of overwriting its state, each change is stored as a _diff_ from the previous version, allowing precise reconstruction of its evolution at any point in the past.
 
 These worlds do not exist in isolation: they are linked by routes that determine not only physical transit, but also access to updated information, valid orders, and applicable authority.
+
+***
 
 ## Routes, visibility, and governance
 
