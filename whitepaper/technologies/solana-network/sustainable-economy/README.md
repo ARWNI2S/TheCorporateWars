@@ -32,6 +32,8 @@ Throughout the life cycle of a video game —except perhaps in its initial desig
 
 This means that the system's economy —both in terms of in-game function and technical operation— must be capable of financing itself without relying on speculative methods.
 
+***
+
 ### Real Economic Sustainability
 
 The volume of maintenance and operational requirements is not infinite, but quantifiable and scalable: the actual activity of users determines the system's current needs.
