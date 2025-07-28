@@ -42,8 +42,7 @@ This is the backbone of the [outdated information model](outdated-information-mo
 
 Unlike other ecosystems, Solana operates with **stateless programs** and storage based on derived keys.
 
-This enables modeling of complex structures through implicit naming schemes.\
-A main `key`, associated with a `foreign key`, defines data relationships **without the need for SQL or tables**.
+This enables modeling of complex structures through implicit naming schemes: a main `key`, associated with a derived `foreign key`, defines data relationships **without the need for SQL or tables**.
 
 Essentially, it's an active structural map where relationships are encoded in the key design itself, reducing dependence on traditional relational models.
 
@@ -67,7 +66,7 @@ This approach surpasses the limitations of existing NFT standards in Solana, avo
 Instead, it leverages Solana’s flexibility as a reusable-program ecosystem to model relationships, governance, and dynamic structures within a persistent universe.
 
 {% hint style="warning" %}
-### What’s the problem with pNFTs and “normal” NFTs on Solana?
+#### What’s the problem with pNFTs and “normal” NFTs on Solana?
 
 **pNFTs** (and traditional NFTs) are not developed directly by Solana Labs nor are they part of the **official SPL**: they are an initiative by **Metaplex**, an independent foundation that controls the NFT system on Solana.
 
