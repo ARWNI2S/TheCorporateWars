@@ -22,7 +22,7 @@ layout:
 
 # Interactive Causality
 
-In game theory, interactive causality describes systems where individual decisions not only produce immediate effects but also propagate over time, modifying the context, available strategies, and collective dynamics.
+In [game theory](./), interactive causality describes systems where individual decisions not only produce immediate effects but also propagate over time, modifying the context, available strategies, and collective dynamics.
 
 This approach allows for modeling not only isolated outcomes but also trajectories of interaction, adaptation, and persistence.
 
@@ -41,7 +41,11 @@ In learning games, actors do not have perfect or complete information about envi
 
 Instead, they build expectations and adapt their decisions based on partial observations, indirect signals, perceived patterns, and accumulated outcomes.
 
+{% hint style="success" %}
 This type of model allows for analyzing how dynamics of adjustment, exploration, and refinement emerge in systems where total knowledge is unattainable.
+{% endhint %}
+
+***
 
 ## Modeling and Implementation
 
@@ -57,4 +61,4 @@ Available information circulates and is retransmitted asymmetrically and partial
 
 _Polities_ do not respond to a perfect image of the environment but to fragments, echoes, and interpretations they receive, process, and use to define their moves.
 
-This layer of uncertainty turns each decision not just into a response to the known but into continuous learning in the face of the unknown.
+The [outdated information model](../solana-network/outdated-information-model.md) represents this layer of uncertainty, turning each decision not just into a response to what is known, but into a continuous process of learning in the face of the unknown.

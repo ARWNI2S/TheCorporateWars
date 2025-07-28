@@ -22,7 +22,7 @@ layout:
 
 # Community-Driven Deployment
 
-The architecture of **The Corporate Wars** system is based on complex systems principles, applying consolidated academic models that enable the progressive, modular, and decoupled deployment of the _stateless blockchain_ environment across stages.
+The architecture of **The Corporate Wars** system is based on [complex systems](https://en.wikipedia.org/wiki/Complex_system) principles, applying consolidated academic models that enable the progressive, modular, and decoupled deployment of the _stateless blockchain_ environment across stages.
 
 Community participation drives this process, integrating layers of interaction that do not alter the universe's predefined foundations but activate and contextualize them according to participant availability and progression.
 
@@ -40,4 +40,4 @@ Thus, deployment not only activates worlds, routes, and power structures: it bui
 
 It defines allegiances and hierarchies, within a persistent timeline that will remain interactive in-game.
 
-Participants in the deployment stages do not merely hold a place in the game, but in the living memory of its evolution.
+Participants in the [deployment stages](../../roadmap/deployment/) do not merely hold a place in the game, but in the living memory of its evolution.
