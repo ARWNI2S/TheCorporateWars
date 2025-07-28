@@ -66,7 +66,7 @@ Este enfoque supera las limitaciones de los estándares NFT existentes en Solana
 En su lugar, aprovechamos la flexibilidad de Solana como ecosistema de programas reusables para modelar relaciones, gobernanza y estructuras dinámicas dentro de un universo persistente.
 
 {% hint style="warning" %}
-#### ¿Qué problema hay con los pNFT y los NFT "normales" de Solana?
+**¿Qué problema hay con los pNFT y los NFT "normales" de Solana?**
 
 Los **pNFT** (y los NFT tradicionales) no son desarrollados directamente por Solana Labs ni forman parte del **SPL oficial**: son una iniciativa de **Metaplex**, una fundación independiente que controla el sistema de NFT en Solana.
 
@@ -105,18 +105,18 @@ Lo micro, por jugador, dinámico, derivable desde semillas y de interpretación 
 
 Solana resuelve desafíos que colapsarían muchas arquitecturas no-SQL a gran escala:
 
-- **Seguridad de altísimo grado:** gracias al modelo de firmas y cuentas programáticas, cada operación está verificada criptográficamente.
-- **Ledger temporal:** todas las transacciones quedan registradas con precisión histórica, permitiendo trazabilidad completa y versiones válidas en el tiempo.
-- **Fuente de verdad única:** aunque cada jugador perciba un estado diferente (por latencia), todos comparten una base común e inmutable. Esto asegura coherencia y equilibrio estratégico.
-- **Modelado de gobernanza distribuida:** usando firmas múltiples (`multisig`), cuentas autorizadas y validaciones en `accounts`, se pueden implementar desde permisos simples hasta sistemas complejos de toma de decisiones.
-- **Coste radicalmente inferior:**  
-  Comparado con servicios en la nube, almacenar y replicar datos en Solana es mucho más barato a largo plazo:
-  
-  - Una base de datos cloud con replicación, disponibilidad y rendimiento _equivalentes_ cuesta **300–500 €/mes**, solo en infraestructura.
-  - Si además quieres capa de ejecución (triggers, validación, lógica de negocio), el coste sube, o te limitas a bases como MySQL, NoSQL, Tables, sin ejecución activa.
-  - A gran escala (ej. 100.000 mundos simulados), el coste por almacenamiento y cómputo se vuelve crítico: pagas por mega, por CPU, por IOPS.
-  - En Solana, aunque el _rent_ inicial no es trivial, **se paga una vez**: no hay pagos mensuales continuos.
-  
-  Para un juego con un ciclo de vida de 10 años, los costes en la nube rondarían entre **62.000 € y 144.000 €** como mínimo, sin contar la complejidad operativa ni los límites técnicos.
+* **Seguridad de altísimo grado:** gracias al modelo de firmas y cuentas programáticas, cada operación está verificada criptográficamente.
+* **Ledger temporal:** todas las transacciones quedan registradas con precisión histórica, permitiendo trazabilidad completa y versiones válidas en el tiempo.
+* **Fuente de verdad única:** aunque cada jugador perciba un estado diferente (por latencia), todos comparten una base común e inmutable. Esto asegura coherencia y equilibrio estratégico.
+* **Modelado de gobernanza distribuida:** usando firmas múltiples (`multisig`), cuentas autorizadas y validaciones en `accounts`, se pueden implementar desde permisos simples hasta sistemas complejos de toma de decisiones.
+*   **Coste radicalmente inferior:**\
+    Comparado con servicios en la nube, almacenar y replicar datos en Solana es mucho más barato a largo plazo:
 
-**Solana permite construir simulaciones complejas, persistentes y verificables, sin depender de infraestructura externa ni modelos propietarios.**
+    * Una base de datos cloud con replicación, disponibilidad y rendimiento _equivalentes_ cuesta **300–500 €/mes**, solo en infraestructura.
+    * Si además quieres capa de ejecución (triggers, validación, lógica de negocio), el coste sube, o te limitas a bases como MySQL, NoSQL, Tables, sin ejecución activa.
+    * A gran escala (ej. 100.000 mundos simulados), el coste por almacenamiento y cómputo se vuelve crítico: pagas por mega, por CPU, por IOPS.
+    * En Solana, aunque el _rent_ inicial no es trivial, **se paga una vez**: no hay pagos mensuales continuos.
+
+    Para un juego con un ciclo de vida de 10 años, los costes en la nube rondarían entre **62.000 € y 144.000 €** como mínimo, sin contar la complejidad operativa ni los límites técnicos.
+
+**Solana permite construir estructuras de almacenamiento con relaciones complejas, persistentes y verificables, sin depender de infraestructura externa ni modelos propietarios.**
