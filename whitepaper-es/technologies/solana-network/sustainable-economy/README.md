@@ -32,6 +32,8 @@ Durante todo el ciclo de vida de un videojuego —salvo quizás en las fases ini
 
 Esto implica que la economía del sistema —tanto en términos de funcionamiento interno del juego, como de operación técnica— debe ser capaz de financiarse a sí misma sin necesidad de métodos especulativos.
 
+***
+
 ### Sostenibilidad económica real
 
 El volumen de requisitos de mantenimiento y operación, no es ni mucho menos infinito, sino cuantificable y escalable: la actividad real de los usuarios determina las necesidades actuales del sistema.
