@@ -34,7 +34,7 @@ Solana implementa un sistema de **proof-of-history (PoH)**, donde cada bloque y 
 
 Los Merkle trees permiten comprimir y validar estos estados de forma eficiente, sirviendo como un ledger histórico de cambios que puede ser auditado y referenciado en cualquier momento pasado.
 
-Este es el fundamento del [modelo de información desfasada](outdated-information-model.md).
+En esto se apoya el [modelo de información desfasada](outdated-information-model.md).
 
 ***
 
@@ -67,7 +67,7 @@ Este enfoque supera las limitaciones de los estándares NFT existentes en Solana
 En su lugar, aprovechamos la flexibilidad de Solana como ecosistema de programas reusables para modelar relaciones, gobernanza y estructuras dinámicas dentro de un universo persistente.
 
 {% hint style="warning" %}
-### ¿Qué problema hay con los pNFT y los NFT "normales" de Solana?
+#### ¿Qué problema hay con los pNFT y los NFT "normales" de Solana?
 
 Los **pNFT** (y los NFT tradicionales) no son desarrollados directamente por Solana Labs ni forman parte del **SPL oficial**: son una iniciativa de **Metaplex**, una fundación independiente que controla el sistema de NFT en Solana.
 
@@ -79,9 +79,9 @@ Se ha priorizado el ecosistema visual/comercial (_NFT-as-asset_) en lugar de dis
 
 Metaplex ha adaptado los pNFT a Token-2022 **desde fuera hacia dentro**, mientras que una solución verdaderamente eficiente para juegos o simuladores requeriría:
 
-- usar directamente `spl-token-2022`,  
-- diseñar lógica sobre extensiones como `TransferHook`, `MintCloseAuthority`, etc.,  
-- evitar capas externas como `mpl-token-metadata`.
+* usar directamente `spl-token-2022`,
+* diseñar lógica sobre extensiones como `TransferHook`, `MintCloseAuthority`, etc.,
+* evitar capas externas como `mpl-token-metadata`.
 {% endhint %}
 
 ***
@@ -93,6 +93,7 @@ Solo lo mínimo necesario:
 {% hint style="success" %}
 Lo macro, estructural, poco mutable y de alcance global, vive **on-chain**;
 {% endhint %}
+
 {% hint style="danger" %}
 Lo micro, por jugador, dinámico, derivable desde semillas y de interpretación rápida, vive **off-chain**.
 {% endhint %}
