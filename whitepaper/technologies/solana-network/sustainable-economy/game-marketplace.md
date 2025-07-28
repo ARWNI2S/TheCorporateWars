@@ -35,7 +35,9 @@ The catalog is extensive, intended to offer possibilities comparable to any comp
 
 However, everything that can be acquired is tied to the general economic system: no element is external or isolated.
 
-> Every acquisition has a place, a cost, and an effect within the game's balance.
+{% hint style="success" %}
+Every acquisition has a place, a cost, and an effect within the game's balance.
+{% endhint %}
 
 ***
 
@@ -43,9 +45,11 @@ However, everything that can be acquired is tied to the general economic system:
 
 Resource inflow into the system occurs through gameplay-integrated means and is justified within the universe: concessions, institutional agreements, covert investment, strategic backing, or participation in pre-existing structures.
 
+{% hint style="success" %}
 The market does not function as a source of arbitrary advantages, but as another layer of economic interaction.
+{% endhint %}
 
-Once integrated into the system, this economic interaction allows game AI subsystems to adjust their Community Participation strategies to cover the system Treasury's operational needs.
+Once weighted and integrated into the system, this economic interaction allows game AI subsystems to adjust their Community Participation strategies to cover the system Treasury's operational needs.
 
 The available offers will be affected both by the system's financial state and by the actual simulation state and in-game progression of each player.
 
@@ -64,6 +68,6 @@ Disparities in the players' _real purchasing power_ often disrupt the game's sys
 
 Players may aspire to embody great _Allegiances_, but their scale is so vast that it would be impossible for a single player to efficiently manage all assets in line with the simulation's level of detail.
 
-Reaching operational levels comparable to major galactic entities isn't impossible —but it requires global vision, long-term coordination among players, and persistence across multiple fronts.
+Reaching operational levels comparable to any big galactic structure isn't impossible —but it requires global vision, long-term coordination among players, and persistence across multiple fronts.
 
 What matters isn't how much is acquired, but how it integrates into an ecosystem that reacts, adjusts, and evolves with every move.

@@ -7,7 +7,9 @@ coverY: 0
 
 In addition to the system's structural tokens, **The Corporate Wars** envisions the existence of other currencies across various levels of the simulated universe.
 
-The _Imperial Credit_, for example, is the official currency of the **Third Imperium**, and is originally defined in terms of the **MCr** —a financial instrument of the Interstellar Stock Exchange— backing interstellar economic transactions.
+> The _Imperial Credit_, for example, is the official currency of the **Third Imperium**, and is originally defined in terms of the **MCr** —a financial instrument of the Interstellar Stock Exchange— backing interstellar economic transactions.
+
+***
 
 ### Financial Multipolarity
 
@@ -28,11 +30,13 @@ These currencies may:
 > The financial ecosystem of _The Corporate Wars_ does not enforce a single standard.\
 > **Each** _**Allegiance**_ **defines its own monetary policy based on its resources, economic doctrine, and position within the galactic theater.**
 
-The currencies issued by financial _Institutions_ of the _Allegiances_ are managed exclusively within the game.
-
 To function within the economic-financial system of the game, they must be backed by MCr in _stake_ within the ISE. However, they are **not** represented as SPL tokens —they are part of the narrative system and internal simulation economy, with no direct interface to the Solana network.
 
 The mechanisms for converting between local currencies and MCr are regulated by the ISE and the financial _Institutions_ of the _Allegiances_, based on factors such as available liquidity, local solvency index, and the _allegiance_ and _compliance_ of the issuing entity.
+
+{% hint style="warning" %}
+The currencies issued by financial _Institutions_ from any _Allegiance_ are managed exclusively within the game.
+{% endhint %}
 
 ***
 
