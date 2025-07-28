@@ -77,4 +77,6 @@ Este modelo bancario emergente permite:
 
 Cuando las reservas caen por debajo de ciertos umbrales, las _Políticas_ afectadas pierden acceso a funciones avanzadas: los programas latentes dejan de desplegarse, las comunicaciones se enlentecen, y los datos de bajo uso pueden ser archivados o degradados.
 
+{% hint style="success" %}
 Esta lógica de degradación progresiva está diseñada para simular el declive estructural de los sistemas financieros sin romper el juego, y generar oportunidades estratégicas para jugadores u otras facciones de ganar _control_ en el **metajuego político**.
+{% endhint %}
