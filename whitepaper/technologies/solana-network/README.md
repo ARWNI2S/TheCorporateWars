@@ -66,7 +66,7 @@ This approach surpasses the limitations of existing NFT standards in Solana, avo
 Instead, it leverages Solana’s flexibility as a reusable-program ecosystem to model relationships, governance, and dynamic structures within a persistent universe.
 
 {% hint style="warning" %}
-#### What’s the problem with pNFTs and “normal” NFTs on Solana?
+**What’s the problem with pNFTs and “normal” NFTs on Solana?**
 
 **pNFTs** (and traditional NFTs) are not developed directly by Solana Labs nor are they part of the **official SPL**: they are an initiative by **Metaplex**, an independent foundation that controls the NFT system on Solana.
 
@@ -105,18 +105,18 @@ The micro, player-specific, dynamic, seed-derivable and fast-to-interpret data l
 
 Solana addresses challenges that would overwhelm many large-scale no-SQL architectures:
 
-- **High-grade security:** thanks to the signature model and programmatic accounts, every operation is cryptographically verified.
-- **Temporal ledger:** all transactions are recorded with historical precision, allowing full traceability and valid state versions over time.
-- **Single source of truth:** even if each player perceives a different state (due to latency), all share a common, immutable foundation. This ensures coherence and strategic fairness.
-- **Distributed governance modeling:** using multisignature (`multisig`), authorized signer accounts, and validations through `accounts`, it’s possible to implement everything from simple permissions to complex decision-making systems.
-- **Radically lower cost:**  
-  Compared to cloud services, storing and replicating data on Solana is significantly cheaper in the long run:
-  
-  - A cloud database with _equivalent_ replication, availability, and performance costs **€300–500/month** in infrastructure alone.
-  - If you need an execution layer (triggers, validation, business logic), costs increase — or you're limited to systems like MySQL, NoSQL, or Tables, with no active logic.
-  - At scale (e.g. simulating 100,000 worlds), storage and compute costs become critical: you pay per megabyte, per CPU, per IOPS.
-  - In Solana, although the initial _rent_ isn't trivial, **you pay once** — there are no ongoing monthly costs.
-  
-  For a game with a 10-year lifecycle, cloud costs would range from **€62,000 to €144,000**, not including operational complexity or technical ceilings.
+* **High-grade security:** thanks to the signature model and programmatic accounts, every operation is cryptographically verified.
+* **Temporal ledger:** all transactions are recorded with historical precision, allowing full traceability and valid state versions over time.
+* **Single source of truth:** even if each player perceives a different state (due to latency), all share a common, immutable foundation. This ensures coherence and strategic fairness.
+* **Distributed governance modeling:** using multisignature (`multisig`), authorized signer accounts, and validations through `accounts`, it’s possible to implement everything from simple permissions to complex decision-making systems.
+*   **Radically lower cost:**\
+    Compared to cloud services, storing and replicating data on Solana is significantly cheaper in the long run:
 
-**Solana enables the construction of complex, persistent, and verifiable simulations — without relying on external infrastructure or proprietary models.**
+    * A cloud database with _equivalent_ replication, availability, and performance costs **€300–500/month** in infrastructure alone.
+    * If you need an execution layer (triggers, validation, business logic), costs increase — or you're limited to systems like MySQL, NoSQL, or Tables, with no active logic.
+    * At scale (e.g. simulating 100,000 worlds), storage and compute costs become critical: you pay per megabyte, per CPU, per IOPS.
+    * In Solana, although the initial _rent_ isn't trivial, **you pay once** — there are no ongoing monthly costs.
+
+    For a game with a 10-year lifecycle, cloud costs would range from **€62,000 to €144,000**, not including operational complexity or technical ceilings.
+
+**Solana enables the construction of complex, persistent, and verifiable storage structures — without relying on external infrastructure or proprietary models.**
