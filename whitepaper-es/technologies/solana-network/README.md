@@ -34,6 +34,8 @@ Solana implementa un sistema de **proof-of-history (PoH)**, donde cada bloque y 
 
 Los Merkle trees permiten comprimir y validar estos estados de forma eficiente, sirviendo como un ledger histórico de cambios que puede ser auditado y referenciado en cualquier momento pasado.
 
+Este es el fundamento del [modelo de información desfasada](outdated-information-model.md).
+
 ***
 
 ### Programas stateless y claves derivadas
@@ -63,6 +65,24 @@ Aquí, los llamados "noNFTs" son registros de gobernanza en PDAs asignadas a las
 Este enfoque supera las limitaciones de los estándares NFT existentes en Solana, evitando depender de esquemas que imitan ERC-XXX.
 
 En su lugar, aprovechamos la flexibilidad de Solana como ecosistema de programas reusables para modelar relaciones, gobernanza y estructuras dinámicas dentro de un universo persistente.
+
+{% hint style="warning" %}
+#### ¿Que problema hay con los pNFT y NFT "normales" de Solana?
+
+Los **pNFT** (y NFTs) no son desarrollados directamente por Solana Labs ni forman parte del **SPL oficial:** son una iniciativa de **Metaplex**, una fundación y equipo separado que controla el sistema de NFT en Solana.
+
+Aunque Solana es un entorno completamente distinto, intentan replicar la experiencia de Ethereum: se ha forzado un modelo **incompatible con la filosofía de cuentas ligeras y ejecutables** de Solana, intentando emular ERC-721.
+
+Se ha priorizado el ecosistema visual/comercial (NFT-as-asset) en vez de diseñar **un token no fungible nativo y eficiente para Solana como red**. De hecho, **Token-2022** ofrece mejores mecanismos, pero no se integran completamente con los pNFT.
+
+**En 2025 hay integración parcial, pero no es eficaz ni canónica para Solana como red.**
+
+Metaplex ha adaptado pNFT a Token-2022 **desde fuera hacia dentro**, mientras que una solución verdaderamente eficiente para juegos o simuladores como el tuyo requeriría:
+
+* usar directamente `spl-token-2022`,
+* diseñar lógica sobre `TransferHook`, `MintCloseAuthority`, etc.,
+* evitar capas externas tipo `mpl-token-metadata`.
+{% endhint %}
 
 ***
 

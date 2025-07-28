@@ -22,7 +22,7 @@ layout:
 
 # Individualismo Colaborativo
 
-En teoría de juegos, el individualismo colaborativo se refiere a modelos donde actores racionales, persiguiendo objetivos propios, reconocen que ciertas formas de coordinación táctica pueden mejorar sus resultados inmediatos.
+En [teoría de juegos](./), el individualismo colaborativo se refiere a modelos donde actores racionales, persiguiendo objetivos propios, reconocen que ciertas formas de coordinación táctica pueden mejorar sus resultados inmediatos.
 
 > No implica disolución de intereses ni compromiso a largo plazo, sino alineamientos parciales dentro de estructuras competitivas.
 

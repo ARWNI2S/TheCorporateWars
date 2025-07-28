@@ -22,7 +22,7 @@ layout:
 
 # Causalidad Interactiva
 
-En teoría de juegos, la causalidad interactiva describe sistemas donde las decisiones individuales no solo producen efectos inmediatos, sino que se propagan a lo largo del tiempo, modificando el contexto, las estrategias disponibles y las dinámicas colectivas.
+En [teoría de juegos](./), la causalidad interactiva describe sistemas donde las decisiones individuales no solo producen efectos inmediatos, sino que se propagan a lo largo del tiempo, modificando el contexto, las estrategias disponibles y las dinámicas colectivas.
 
 Este enfoque permite modelar no solo resultados aislados, sino trayectorias de interacción, adaptación y persistencia.
 
@@ -41,7 +41,11 @@ En los juegos de aprendizaje, los actores no cuentan con información perfecta n
 
 En su lugar, construyen expectativas y adaptan sus decisiones a partir de observaciones parciales, señales indirectas, patrones percibidos y resultados acumulados.
 
+{% hint style="success" %}
 Este tipo de modelos permite analizar cómo surgen dinámicas de ajuste, exploración y refinamiento en sistemas donde el conocimiento total es inalcanzable.
+{% endhint %}
+
+***
 
 ## Modelado e Implementación
 
@@ -57,4 +61,4 @@ La información disponible circula y se retransmite de forma asimétrica y parci
 
 Las _Políticas_ no reaccionan a una imagen perfecta del entorno, sino a fragmentos, ecos e interpretaciones que reciben, interpretan y utilizan para definir sus movimientos.
 
-Esta capa de incertidumbre convierte cada decisión no solo en una respuesta a lo conocido, sino en un aprendizaje continuo frente a lo desconocido.
+El [modelo de información desfasada](../solana-network/outdated-information-model.md) representa esta capa de incertidumbre, que convierte cada decisión no solo en una respuesta a lo conocido, sino en un aprendizaje continuo frente a lo desconocido.
