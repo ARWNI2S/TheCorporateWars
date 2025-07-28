@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# Blockchain Stateless
+# Stateless Blockchain
 
 The choice of **Solana** as the technological foundation of **The Corporate Wars** is no coincidence: its architectural design solves key challenges for building a persistent, distributed, and temporally asymmetric universe.
 
@@ -33,6 +33,8 @@ Below, we outline the reasons, advantages, and challenges of this integration.
 Solana implements a **proof-of-history (PoH)** system, where each block and transaction is anchored to a verifiable temporal sequence. This enables the construction of **versioned states differentiated over time**, where each game update contains a `hash_root` acting as a unique timestamp.
 
 Merkle trees allow these states to be compressed and validated efficiently, serving as a historical ledger of changes that can be audited and referenced at any point in the past.
+
+This is the backbone of the [outdated information model](outdated-information-model.md).
 
 ***
 
@@ -60,7 +62,7 @@ Here, the so-called "noNFTs" are governance records within PDAs assigned to spec
 * capable of representing dynamic in-game assets,
 * while minimizing _rent_ deposits.
 
-This approach surpasses the limitations of existing NFT standards in Solana, avoiding reliance on schemes that emulate ERC-XXX.
+This approach surpasses the limitations of existing NFT standards in Solana, avoiding reliance on schemes that emulate ERC-XXX .
 
 Instead, it leverages Solana’s flexibility as a reusable-program ecosystem to model relationships, governance, and dynamic structures within a persistent universe.
 
@@ -77,9 +79,9 @@ The visual/commercial ecosystem (_NFT-as-asset_) has been prioritized instead of
 
 Metaplex has adapted pNFTs to Token-2022 **from the outside in**, whereas a truly efficient solution for games or simulations would require:
 
-- using `spl-token-2022` directly,  
-- designing logic around extensions like `TransferHook`, `MintCloseAuthority`, etc.,  
-- avoiding external layers like `mpl-token-metadata`.
+* using `spl-token-2022` directly,
+* designing logic around extensions like `TransferHook`, `MintCloseAuthority`, etc.,
+* avoiding external layers like `mpl-token-metadata`.
 {% endhint %}
 
 ***
@@ -91,6 +93,7 @@ Only what’s strictly necessary:
 {% hint style="success" %}
 The macro, structural, infrequently mutable, and global-scope data lives **on-chain**;
 {% endhint %}
+
 {% hint style="danger" %}
 The micro, player-specific, dynamic, seed-derivable and fast-to-interpret data lives **off-chain**.
 {% endhint %}

@@ -22,7 +22,7 @@ layout:
 
 # Collaborative Individualism
 
-In game theory, collaborative individualism refers to models where rational actors, pursuing their own objectives, recognize that certain forms of tactical coordination can improve their immediate outcomes.
+In [game theory](./), collaborative individualism refers to models where rational actors, pursuing their own objectives, recognize that certain forms of tactical coordination can improve their immediate outcomes.
 
 > It does not imply a dissolution of interests or a long-term commitment, but rather partial alignments within competitive structures.
 
