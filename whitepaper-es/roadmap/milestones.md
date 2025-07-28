@@ -11,6 +11,7 @@ _**1-1-2025**_ — Año nuevo, proyecto nuevo. Las ideas maduran y la tecnologí
 **Publicación de este Documento**
 
 _**31-3-2025**_ — Completada la ardua tarea de reflejar los conceptos de forma inteligible para la mayoría de humanos.
+Publicamos este documento técnico, como una entidad viva, abierta a correcciones y modificaciones de diseño.
 {% endstep %}
 
 {% step %}

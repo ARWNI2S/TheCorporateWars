@@ -11,6 +11,7 @@ _**1-1-2025**_ — New year, new project. The ideas have matured, the technology
 **Publication of This Document**
 
 _**31-3-2025**_ — The arduous task of making the concepts intelligible to most humans is finally complete.
+We publish this technical document as a living entity, open to corrections and design changes.
 {% endstep %}
 
 {% step %}
