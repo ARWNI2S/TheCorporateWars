@@ -64,14 +64,36 @@ This approach surpasses the limitations of existing NFT standards in Solana, avo
 
 Instead, it leverages Solana’s flexibility as a reusable-program ecosystem to model relationships, governance, and dynamic structures within a persistent universe.
 
+{% hint style="warning" %}
+#### What’s the problem with pNFTs and “normal” NFTs on Solana?
+
+**pNFTs** (and traditional NFTs) are not developed directly by Solana Labs nor are they part of the **official SPL**: they are an initiative by **Metaplex**, an independent foundation that controls the NFT system on Solana.
+
+Although Solana is a fundamentally different environment, Metaplex tries to replicate the Ethereum experience: it has forced a model **incompatible with Solana’s philosophy of lightweight and executable accounts**, attempting to emulate ERC-721.
+
+The visual/commercial ecosystem (_NFT-as-asset_) has been prioritized instead of designing **a truly native and efficient non-fungible token standard for the Solana network**. In fact, **Token-2022** offers superior mechanisms, but it is not fully integrated with pNFTs.
+
+**As of 2025, integration is partial — but it remains neither efficient nor canonical for Solana.**
+
+Metaplex has adapted pNFTs to Token-2022 **from the outside in**, whereas a truly efficient solution for games or simulations would require:
+
+- using `spl-token-2022` directly,  
+- designing logic around extensions like `TransferHook`, `MintCloseAuthority`, etc.,  
+- avoiding external layers like `mpl-token-metadata`.
+{% endhint %}
+
 ***
 
 ### What do we store on-chain?
 
 Only what’s strictly necessary:
 
-* the macro, structural, infrequently mutable, and global-scope data lives **on-chain**;
-* the micro, player-specific, dynamic, seed-derivable and fast-to-interpret data lives **off-chain**.
+{% hint style="success" %}
+The macro, structural, infrequently mutable, and global-scope data lives **on-chain**;
+{% endhint %}
+{% hint style="danger" %}
+The micro, player-specific, dynamic, seed-derivable and fast-to-interpret data lives **off-chain**.
+{% endhint %}
 
 The blockchain holds only **dehydrated and ultra-compressed data**; the backend keeps sessions alive, interpreting, hydrating, and caching in real-time.
 

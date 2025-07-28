@@ -67,21 +67,21 @@ Este enfoque supera las limitaciones de los estándares NFT existentes en Solana
 En su lugar, aprovechamos la flexibilidad de Solana como ecosistema de programas reusables para modelar relaciones, gobernanza y estructuras dinámicas dentro de un universo persistente.
 
 {% hint style="warning" %}
-#### ¿Que problema hay con los pNFT y NFT "normales" de Solana?
+#### ¿Qué problema hay con los pNFT y los NFT "normales" de Solana?
 
-Los **pNFT** (y NFTs) no son desarrollados directamente por Solana Labs ni forman parte del **SPL oficial:** son una iniciativa de **Metaplex**, una fundación y equipo separado que controla el sistema de NFT en Solana.
+Los **pNFT** (y los NFT tradicionales) no son desarrollados directamente por Solana Labs ni forman parte del **SPL oficial**: son una iniciativa de **Metaplex**, una fundación independiente que controla el sistema de NFT en Solana.
 
-Aunque Solana es un entorno completamente distinto, intentan replicar la experiencia de Ethereum: se ha forzado un modelo **incompatible con la filosofía de cuentas ligeras y ejecutables** de Solana, intentando emular ERC-721.
+Aunque Solana es un entorno completamente distinto, Metaplex intenta replicar la experiencia de Ethereum: se ha forzado un modelo **incompatible con la filosofía de cuentas ligeras y ejecutables** de Solana, intentando emular ERC-721.
 
-Se ha priorizado el ecosistema visual/comercial (NFT-as-asset) en vez de diseñar **un token no fungible nativo y eficiente para Solana como red**. De hecho, **Token-2022** ofrece mejores mecanismos, pero no se integran completamente con los pNFT.
+Se ha priorizado el ecosistema visual/comercial (_NFT-as-asset_) en lugar de diseñar **un token no fungible nativo y eficiente para la red Solana**. De hecho, **Token-2022** ofrece mecanismos superiores, pero no se integran completamente con los pNFT.
 
-**En 2025 hay integración parcial, pero no es eficaz ni canónica para Solana como red.**
+**En 2025 existe integración parcial, pero no es eficaz ni canónica para Solana como red.**
 
-Metaplex ha adaptado pNFT a Token-2022 **desde fuera hacia dentro**, mientras que una solución verdaderamente eficiente para juegos o simuladores como el tuyo requeriría:
+Metaplex ha adaptado los pNFT a Token-2022 **desde fuera hacia dentro**, mientras que una solución verdaderamente eficiente para juegos o simuladores requeriría:
 
-* usar directamente `spl-token-2022`,
-* diseñar lógica sobre `TransferHook`, `MintCloseAuthority`, etc.,
-* evitar capas externas tipo `mpl-token-metadata`.
+- usar directamente `spl-token-2022`,  
+- diseñar lógica sobre extensiones como `TransferHook`, `MintCloseAuthority`, etc.,  
+- evitar capas externas como `mpl-token-metadata`.
 {% endhint %}
 
 ***
@@ -90,8 +90,12 @@ Metaplex ha adaptado pNFT a Token-2022 **desde fuera hacia dentro**, mientras qu
 
 Solo lo mínimo necesario:
 
-* lo macro, estructural, poco mutable y de alcance global, vive **on-chain**;
-* lo micro, por jugador, dinámico, derivable desde semillas y de interpretación rápida, vive **off-chain**.
+{% hint style="success" %}
+Lo macro, estructural, poco mutable y de alcance global, vive **on-chain**;
+{% endhint %}
+{% hint style="danger" %}
+Lo micro, por jugador, dinámico, derivable desde semillas y de interpretación rápida, vive **off-chain**.
+{% endhint %}
 
 La blockchain guarda solo **datos deshidratados y ultracomprimidos**; el backend mantiene vivas las sesiones, interpretando, hidratando y cacheando en tiempo real.
 
