@@ -87,7 +87,9 @@ Metaplex has adapted pNFTs to Token-2022 **from the outside in**, whereas a trul
 
 ### What do we store on-chain?
 
-Only what’s strictly necessary:
+The blockchain holds only **dehydrated and ultra-compressed data**; the backend keeps sessions alive, interpreting, hydrating, and caching in real-time.
+
+Meanwhile, programs deployed on the Solana network natively handle queries, management, and administration, facilitating access for both client and backend.
 
 {% hint style="success" %}
 The macro, structural, infrequently mutable, and global-scope data lives **on-chain**;
@@ -97,17 +99,24 @@ The macro, structural, infrequently mutable, and global-scope data lives **on-ch
 The micro, player-specific, dynamic, seed-derivable and fast-to-interpret data lives **off-chain**.
 {% endhint %}
 
-The blockchain holds only **dehydrated and ultra-compressed data**; the backend keeps sessions alive, interpreting, hydrating, and caching in real-time.
-
-Meanwhile, programs deployed on the Solana network natively handle queries, management, and administration, facilitating access for both client and backend.
-
 ***
 
-## Problems it solves
+## Problems It Solves
 
-Solana addresses challenges that would traditionally collapse large-scale non-SQL databases:
+Solana addresses challenges that would overwhelm many large-scale no-SQL architectures:
 
-* Extremely high-grade security.
-* Versioned ledger over time, ensuring traceability.
-* Single source of truth: even if information is outdated, it’s correct at some point in time for **all players** (critical for maintaining coherence and strategic equality).
-* Governance complexity: using native multisig, varied signer accounts, and `accounts` contexts, it’s possible to model everything from basic permissions to distributed decision systems.
+- **High-grade security:** thanks to the signature model and programmatic accounts, every operation is cryptographically verified.
+- **Temporal ledger:** all transactions are recorded with historical precision, allowing full traceability and valid state versions over time.
+- **Single source of truth:** even if each player perceives a different state (due to latency), all share a common, immutable foundation. This ensures coherence and strategic fairness.
+- **Distributed governance modeling:** using multisignature (`multisig`), authorized signer accounts, and validations through `accounts`, it’s possible to implement everything from simple permissions to complex decision-making systems.
+- **Radically lower cost:**  
+  Compared to cloud services, storing and replicating data on Solana is significantly cheaper in the long run:
+  
+  - A cloud database with _equivalent_ replication, availability, and performance costs **€300–500/month** in infrastructure alone.
+  - If you need an execution layer (triggers, validation, business logic), costs increase — or you're limited to systems like MySQL, NoSQL, or Tables, with no active logic.
+  - At scale (e.g. simulating 100,000 worlds), storage and compute costs become critical: you pay per megabyte, per CPU, per IOPS.
+  - In Solana, although the initial _rent_ isn't trivial, **you pay once** — there are no ongoing monthly costs.
+  
+  For a game with a 10-year lifecycle, cloud costs would range from **€62,000 to €144,000**, not including operational complexity or technical ceilings.
+
+**Solana enables the construction of complex, persistent, and verifiable simulations — without relying on external infrastructure or proprietary models.**
