@@ -31,8 +31,10 @@ This translates into an economic simulation ecosystem where monetary stability i
 It is not a direct gameplay mechanism nor an exploitable resource: it is the ground upon which the entire universe breathes.
 
 {% hint style="danger" %}
-Algorithmically stabilized tokens are experimental technology, still under development, and although there is a substantial theoretical foundation, there are few practical examples.\
-The supposed "risk" of **algorithmic stablecoin** projects and similar models is, in practical terms, comparable to participating in the memecoin market: it is perceived as greater because it lacks the pyramid-like capitalization typical of tokens without a project with real operating costs.
+Algorithmically stabilized tokens are an experimental and evolving technology. While a solid theoretical foundation exists, there are few practical implementations.\
+The **perceived** risk of **algorithmic stablecoin** projects —and similar mechanisms— is, in practical terms, comparable to participating in any cryptocurrency market: it appears higher only because these systems lack the pyramidal capitalization typical of tokens without a real project or underlying costs.
+
+The benefit lies in the _success_ of the project itself, **not in a promised return** —which could only be guaranteed through a pyramid-based contribution scheme.
 {% endhint %}
 
 ***
