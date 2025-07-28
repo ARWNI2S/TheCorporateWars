@@ -32,6 +32,8 @@ In this model, each actor —whether an AI, a player-run corporation, or a trans
 These are not traditional hierarchical levels, but dimensions of authority that operate simultaneously and define the scope and nature of every decision.
 {% endhint %}
 
+***
+
 ### The **Global Layer**
 
 Establishes the foundational laws of the simulated universe.
@@ -42,6 +44,8 @@ This layer is entirely controlled by the game AI and forms the invisible skeleto
 
 It is not negotiable nor manipulable, but it is observable, predictable, and usable by advanced players.
 
+***
+
 ### The **Aggregate Governance Layer**
 
 Encompasses all collective entities that represent institutional, political, or doctrinal power over multiple actors.
@@ -51,6 +55,8 @@ Encompasses all collective entities that represent institutional, political, or 
 Most are governed by the AI, though they can be influenced internally through meritocratic structures or external pressure.
 
 Aggregates modulate and mediate the action of individual entities, setting doctrines, regulations, and hierarchies of access to power, knowledge, or capital.
+
+***
 
 ### The **Individual Layer**
 
