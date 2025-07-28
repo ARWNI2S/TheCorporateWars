@@ -77,4 +77,6 @@ This emergent banking model allows for:
 
 When reserves fall below certain thresholds, affected _Polities_ lose access to advanced features: latent programs cease to deploy, communications slow, and low-use data may be archived or degraded.
 
+{% hint style="success" %}
 This progressive degradation logic simulates the structural decline of financial systems without breaking the game, while generating strategic opportunities for players or factions to gain _control_ in the **political metagame**.
+{% endhint %}

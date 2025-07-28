@@ -28,9 +28,9 @@ It manages the SOL funds required to operate on the Solana network —including 
 
 This includes cloud servers, local environments, integration tools, and —especially relevant— the work of the people building the project: programmers, designers, artists, validators, and collaborators.
 
-It is integrated as a programmatic entity within the game contracts, but its impact extends to the entire system: a well-funded treasury allows the system to scale, adjusting to user activity in real time.
+It is integrated as a programmatic entity within the game _programs_, but its impact extends to the entire system: a well-funded treasury allows the system to scale, adjusting to user activity in real time.
 
-The Treasury interprets the universe's activity as a set of objective metrics (number of active players, transaction volume, route usage, economic cycles, etc.) and adjusts resources dynamically.
+The Treasury _interprets_ the universe's activity as a set of objective metrics (number of active players, transaction volume, route usage, economic cycles, etc.) and adjusts resources dynamically.
 
 More activity, more resource allocation; less activity, secondary systems are deactivated, processing frequencies are reduced, or higher-use nodes are prioritized: the system does not collapse immediately, but degrades progressively following controlled patterns.
 
@@ -40,13 +40,15 @@ Community participation is the main inflow of SOL to the Treasury; it consists o
 
 Each relevant action —such as exploring a world, registering a trade route, modifying a _Policy_ or founding an _Allegiance_— generates inflows that are redirected to the Treasury.
 
-Some of these flows come from the _marketplace_, with temporary effects, consumables, and redistributable assets through algorithmic stabilization.
+Some of these flows come from the _marketplace_, some persisted, many with temporary effects, consumables, and redistributable assets through algorithmic stabilization.
 
-Others come from community events, such as historical deployment phases, which build technical databases on the Solana network while generating persistent historical background for participants.
+Others come from community events, such as [historical deployment stages](../../../../roadmap/deployment/), which build technical databases on the Solana network while generating persistent historical background for participants.
 
 The inflows are programmatically allocated to configurable prioritized reserves, determining how much is needed, for what, and with what frequency and relevance.
 
-All surpluses are redirected to a technical _liquidity reserve_ fund for the whole.
+{% hint style="success" %}
+All surpluses are redirected to a technical _liquidity reserve_ fund for the whole sustainability.
+{% endhint %}
 
 ***
 
