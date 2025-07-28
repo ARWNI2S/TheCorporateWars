@@ -36,9 +36,9 @@ El sistema de Gobernanza Multicapa basado en _Políticas_ permite a las **Lealta
 
 Cada una establece su propia **doctrina financiera** regulada —o no— por una o más _Políticas Institucionales_, cuya interacción —o ausencia de ella— modela dinámicas jugables:
 
-Las más poderosas mantienen el sistema de **estabilidad algorítmica**, como el Tercer Imperio, con la Tesorería Imperial y el Ministerio de Comercio respaldando el MCr.
+Las más poderosas mantienen el sistema de **estabilidad algorítmica**, como el Tercer Imperio, con la Tesorería Imperial y el Ministerio de Comercio respaldados por MCr del Mercado de Valores Interestelar.
 
-Otras, como los estados cliente, adoptan sistemas de emisión dual —MCr + token local—, y otras simplemente se rigen por el flujo de reservas disponibles, sin ninguna garantía de respaldo, absorbiendo así la volatilidad del entorno.
+Otras, como los _estados cliente_, adoptan sistemas de emisión dual —MCr + token local—, y otras simplemente se rigen por el flujo de reservas disponibles, sin ninguna garantía de respaldo, absorbiendo así la volatilidad del entorno.
 
 Los jugadores interactúan con el sistema financiero a través de la jugabilidad que ofrecen las _Instituciones_: reservas, _staking_ y contratos explícitamente gobernados por inteligencia artificial.
 
