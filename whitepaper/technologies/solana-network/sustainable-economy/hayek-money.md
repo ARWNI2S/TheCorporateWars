@@ -53,7 +53,7 @@ There is no predefined global equilibrium: each star system reacts to its own su
 
 {% hint style="success" %}
 This approach fits perfectly with the monetary philosophy of the Third Imperium, a direct heir to the Vilani practices of the Ziru Sirka.\
-The Imperium does not seek to impose absolute centralized control but to maintain a common reference framework—like the MegaCredit (MCr)—that allows diverse worlds to interact, trade, and compete under the same economic architecture.
+&#xNAN;_&#x41;lliegances_ does not seek to impose absolute centralized control but to maintain a common reference framework —like the MegaCredit (MCr)— that allows diverse worlds to interact, trade, and compete under the same economic architecture.
 {% endhint %}
 
 ### Market Flows
