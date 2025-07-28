@@ -35,7 +35,9 @@ El catálogo es amplio, con la intención de ofrecer posibilidades comparables a
 
 Sin embargo, todo lo que puede adquirirse está vinculado al sistema económico general: ningún elemento es externo o aislado.
 
-> Cada adquisición tiene un lugar, un coste y un efecto dentro del equilibrio del juego.
+{% hint style="success" %}
+Cada adquisición tiene un lugar, un coste y un efecto dentro del equilibrio del juego.
+{% endhint %}
 
 ***
 
@@ -43,7 +45,9 @@ Sin embargo, todo lo que puede adquirirse está vinculado al sistema económico 
 
 La entrada de recursos al sistema se produce a través de medios integrados en el gameplay y justificados en el mundo: concesiones, acuerdos institucionales, inversión encubierta, respaldo estratégico o participación en estructuras preexistentes.
 
+{% hint style="success" %}
 El mercado no funciona como una fuente de ventajas arbitrarias, sino como una capa más de interacción económica.
+{% endhint %}
 
 Esta interacción económica, una vez ponderada dentro del sistema, permite a subsistemas de la IA del juego ajustar sus estrategias de Participación Comunitaria, con el objetivo de cubrir las necesidades de la Tesorería del sistema.
 

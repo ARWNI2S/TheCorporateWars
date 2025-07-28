@@ -7,7 +7,9 @@ coverY: 0
 
 Además de los tokens estructurales del sistema, **The Corporate Wars** contempla la existencia de otras divisas en distintos niveles del universo simulado.
 
-El _Crédito Imperial_, por ejemplo, es la divisa oficial del **Tercer Imperio**, y se define originalmente en el **MCr** —un instrumento financiero del Mercado de Valores Interestelar— que respalda las transacciones economicas interestelares.
+> El _Crédito Imperial_, por ejemplo, es la divisa oficial del **Tercer Imperio**, y se define originalmente en el **MCr** —un instrumento financiero del Mercado de Valores Interestelar— que respalda las transacciones economicas interestelares.
+
+***
 
 ### Multipolaridad financiera
 
@@ -21,18 +23,20 @@ En muchos mundos, especialmente aquellos con bajo nivel tecnológico (TL<6) o en
 
 Estas divisas pueden:
 
-- Convertirse parcialmente a MCr con tasas de cambio y comisiones variables.
-- Estar sujetas a restricciones, controles de cambio o _mercados negros_.
-- Ser aceptadas o rechazadas dinámicamente por otras _Políticas_, según contexto, reputación o alineamiento estratégico.
+* Convertirse parcialmente a MCr con tasas de cambio y comisiones variables.
+* Estar sujetas a restricciones, controles de cambio o _mercados negros_.
+* Ser aceptadas o rechazadas dinámicamente por otras _Políticas_, según contexto, reputación o alineamiento estratégico.
 
 > El ecosistema financiero de _The Corporate Wars_ no impone un patrón único.\
-> **Cada _Lealtad_ define su _Política_ monetaria según sus recursos, su doctrina económica y su posición en el teatro galáctico.**
+> **Cada&#x20;**_**Lealtad**_**&#x20;define su&#x20;**_**Política**_**&#x20;monetaria según sus recursos, su doctrina económica y su posición en el teatro galáctico.**
 
-Las divisas emitidas por las _instituciones_ financieras de las _Lealtades_ se gestionan exclusivamente dentro del juego.
-
-Aunque para que sean funcionales dentro del sistema economico-financiero del juego deben estar respaldadas mediante MCr en _stake_ en el MVI; no están representadas como tokens SPL y forman parte del sistema narrativo y de la simaulación económica interna, sin interfaz directa con la red Solana.
+Para que sean funcionales dentro del sistema economico-financiero del juego deben estar respaldadas mediante MCr en _stake_ en el MVI; no están representadas como tokens SPL y forman parte del sistema narrativo y de la simaulación económica interna, sin interfaz directa con la red Solana.
 
 Los mecanismos de conversión entre monedas locales y MCr están regulados por el MVI y las _Instituciones_ financieras de las _Lealtades_, respondiendo a factores como la liquidez disponible, el índice de solvencia local y la _lealtad_ y _cumplimiento_ de la entidad emisora.
+
+{% hint style="warning" %}
+Las divisas emitidas por las _instituciones_ financieras de las _Lealtades_ se gestionan exclusivamente dentro del juego.
+{% endhint %}
 
 ***
 
