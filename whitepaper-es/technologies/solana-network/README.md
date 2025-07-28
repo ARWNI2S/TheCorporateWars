@@ -67,7 +67,7 @@ Este enfoque supera las limitaciones de los estándares NFT existentes en Solana
 En su lugar, aprovechamos la flexibilidad de Solana como ecosistema de programas reusables para modelar relaciones, gobernanza y estructuras dinámicas dentro de un universo persistente.
 
 {% hint style="warning" %}
-#### ¿Qué problema hay con los pNFT y los NFT "normales" de Solana?
+### ¿Qué problema hay con los pNFT y los NFT "normales" de Solana?
 
 Los **pNFT** (y los NFT tradicionales) no son desarrollados directamente por Solana Labs ni forman parte del **SPL oficial**: son una iniciativa de **Metaplex**, una fundación independiente que controla el sistema de NFT en Solana.
 

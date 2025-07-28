@@ -65,7 +65,7 @@ This approach surpasses the limitations of existing NFT standards in Solana, avo
 Instead, it leverages Solana’s flexibility as a reusable-program ecosystem to model relationships, governance, and dynamic structures within a persistent universe.
 
 {% hint style="warning" %}
-#### What’s the problem with pNFTs and “normal” NFTs on Solana?
+### What’s the problem with pNFTs and “normal” NFTs on Solana?
 
 **pNFTs** (and traditional NFTs) are not developed directly by Solana Labs nor are they part of the **official SPL**: they are an initiative by **Metaplex**, an independent foundation that controls the NFT system on Solana.
 
