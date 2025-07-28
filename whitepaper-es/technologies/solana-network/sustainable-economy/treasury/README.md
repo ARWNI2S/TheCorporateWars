@@ -28,9 +28,9 @@ Administra los fondos en SOL necesarios para operar sobre la red Solana —inclu
 
 Esto incluye servidores en la nube, entornos locales, herramientas de integración y —de forma especialmente relevante— el trabajo de las personas que construyen el proyecto: programadores, diseñadores, artistas, validadores y colaboradores.
 
-Está integrada como una entidad programática dentro de los contratos del juego, pero su impacto se extiende al conjunto del sistema: una tesorería aprovisionada permite escalar el sistema, ajustándose a la actividad de los usuarios en tiempo real.
+Está integrada como una entidad programática dentro de los _programas_ del juego, pero su impacto se extiende al conjunto del sistema: una tesorería aprovisionada permite escalar el sistema, ajustándose a la actividad de los usuarios en tiempo real.
 
-La Tesorería interpreta la actividad del universo como un conjunto de métricas objetivas (número de jugadores activos, volumen de transacciones, uso de rutas, ciclos económicos, etc.) y ajusta los recursos de forma dinámica.
+La Tesorería _interpreta_ la actividad del universo como un conjunto de métricas objetivas (número de jugadores activos, volumen de transacciones, uso de rutas, ciclos económicos, etc.) y ajusta los recursos de forma dinámica.
 
 A mayor actividad, mayor asignación de recursos; a menor actividad, se desactivan sistemas secundarios, se reducen frecuencias de procesamiento, o se priorizan nodos de mayor uso: el sistema no colapsa inmediatamente, sino que se degrada progresivamente siguiendo patrones controlados.
 
@@ -40,13 +40,15 @@ La participación comunitaria es el principal flujo de entrada de SOL en la Teso
 
 Cada acción relevante —como explorar un mundo, registrar una ruta comercial, modificar una _Política_ o fundar una _Lealtad_— genera flujos de entrada que se redirigen hacia la Tesorería.
 
-Parte de estos flujos provienen del _marketplace_, con efectos temporales, consumibles y redistribuibles mediante estabilización algorítmica.
+Parte de estos flujos provienen del _marketplace_, algunos persistentes, muchos con efectos temporales, consumibles y redistribuibles mediante estabilización algorítmica.
 
-Otros provienen de eventos comunitarios, como las etapas de despliegue histórico, que construyen las bases de datos técnicas en la red Solana, al tiempo que generan un trasfondo histórico persistente para los participantes.
+Otros provienen de eventos comunitarios, como las etapas de [despliegue histórico](../../../../roadmap/deployment/), que construyen las bases de datos técnicas en la red Solana, al tiempo que generan un trasfondo histórico persistente para los participantes.
 
 Los flujos de entrada se asignan de forma programática a reservas priorizadas configurables, que determinan cuánto y para qué se necesitan y destinan los fondos, con qué periodicidad y relevancia.
 
-Todos los excedentes se redirigen a un fondo de _reserva técnica_ de liquidez para el conjunto.
+{% hint style="success" %}
+Todos los excedentes se redirigen a un fondo de _reserva técnica_ de liquidez para el sostener conjunto.
+{% endhint %}
 
 ***
 
