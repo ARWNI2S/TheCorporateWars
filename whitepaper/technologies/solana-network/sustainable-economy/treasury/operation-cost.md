@@ -11,7 +11,11 @@ At the _blockchain level_, it includes maintaining active accounts and programs,
 
 But beyond the Solana network, the system requires a permanent technical base: cloud servers, databases, auxiliary storage, authentication services, web servers, APIs, event processing, orchestration tools, monitoring, security, backups, and more.
 
+{% hint style="success" %}
 Without this operational layer, the universe would not be accessible, stable, or functional.
+{% endhint %}
+
+***
 
 ### Economic Reality
 
@@ -34,11 +38,15 @@ If the deposit covers 2 years of _rent_, the account is considered _rent-exempt_
 > For each account on Solana —whether user, program, PDA, or data account— rent must be deposited, proportional to the number of occupied bytes.\
 > The larger the state, the higher the deposit.
 
+{% hint style="success" %}
 There is also **controlled** account _closure_, which allows recovering the _rent_; but this mechanism must be implemented in each program explicitly.
+{% endhint %}
 
 This becomes especially relevant in a system like **The Corporate Wars**, where we intend to deploy complex information structures: planets, sectors, trade routes, corporate holdings...
 
-Unoptimized storage can cost 0.3 SOL per star system or more, making scaling to a galactic sector or a network of 11,000 worlds unfeasible.
+{% hint style="danger" %}
+Unoptimized storage can cost 0.3 SOL per star system or more, making scaling to a galactic sector or a network of 11,000 worlds unfeasible without a solid deployment plan.
+{% endhint %}
 
 ***
 
@@ -47,6 +55,8 @@ All these elements have a real and sustained cost, which must be regularly cover
 The Treasury is designed to continuously support this structural expense, channeling part of the received funds into infrastructure maintenance and general operations.
 
 > If the universe keeps running when no one is playing, it's because there's a real system keeping it on.
+
+***
 
 ### Simulated Recession
 

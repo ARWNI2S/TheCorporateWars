@@ -29,7 +29,7 @@ These tokens represent two very different types of value within the system:
 * **RU** —Resource Units— are structural SPL tokens that represent the _macroeconomic weight_ of worlds, and are not designed to be transferred outside the game system.
 * **MCr** —MegaCredits— are designed to circulate freely among users as an in-game currency.
 
-The system, in its economic simulation based on **zero-sum games** and **Hayekian algorithmic stabilization**, is structurally translated into a route graph that uses SPL tokens —economic-financial instruments— as nodal weights, modulating the system's dynamics: where RU is deposited, there is exploitable structural wealth; where **MCr** is staked, there is immediate financial liquidity.
+> The system, in its economic simulation based on **zero-sum games** and **Hayekian algorithmic stabilization**, is structurally translated into a route graph that uses SPL tokens —economic-financial instruments— as nodal weights, modulating the system's dynamics: where RU is deposited, there is exploitable structural wealth; where **MCr** is staked, there is immediate financial liquidity.
 
 They share the same technical infrastructure: both are standard SPL assets on the Solana network.
 
