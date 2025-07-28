@@ -32,6 +32,8 @@ Define qué existe, qué está conectado y quién puede ejercer autoridad sobre 
 
 Este comportamiento no es un artificio narrativo, sino una consecuencia directa del modelo: mundos, rutas y estructuras de poder se almacenan, procesan y actualizan dentro de cuentas programáticas derivadas (PDA), ancladas a programas específicos.
 
+***
+
 ## Mundos como nodos dinámicos
 
 Cada mundo es una cuenta programática derivada (PDA), cuyo contenido está comprimido en un Merkle Tree que representa un **perfil deshidratado** del planeta: datos esenciales codificados de forma eficiente y verificable.
@@ -41,6 +43,8 @@ Esto incluye población, nivel tecnológico, régimen jurídico, PIB estimado, t
 Además, cada mundo mantiene un **historial de versiones**. En lugar de sobrescribir su estado, cada cambio se almacena como una diferencia (_diff_) sobre la versión anterior, permitiendo reconstruir su evolución con precisión en cualquier momento del pasado.
 
 Estos mundos no existen en aislamiento: están enlazados por rutas que determinan no solo el tránsito físico, sino también el acceso a información actualizada, órdenes válidas y autoridad aplicable.
+
+***
 
 ## Rutas, visibilidad y gobernanza
 
