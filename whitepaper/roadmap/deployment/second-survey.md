@@ -2,7 +2,7 @@
 
 With the conclusion of the **Milieu 0** event, the system now has a functional, economic, and technical structural foundation: the initial _Policies_ have been deployed, the main routes established, and the first worlds structurally backed.
 
-From here, a new historical and developmental phase begins — one that coincides with the **Second Survey**, encompassing the full *Traveller™* setting, not just the Third Imperium, but all the other _Allegiances_ of Known Space.
+From here, a new historical and developmental phase begins — one that coincides with the **Second Survey**, encompassing the full *Traveller™* setting, not just the Third Imperium, but all the other _Allegiances_ of Charted Space.
 
 > The **Second Survey** represents the systematic effort to chart the entirety of the Third Imperium and register the worlds not yet formally integrated into the central system.
 
@@ -28,7 +28,7 @@ This client will serve as the foundation upon which the rest of the gameplay sys
 
 ## Second Survey
 
-During the **Second Survey**, the process of registering all the worlds of Known Space is completed.  
+During the **Second Survey**, the process of registering all the worlds of Charted Space is completed.  
 This includes:
 
 - structural inclusion of worlds to complete the galactic map,
