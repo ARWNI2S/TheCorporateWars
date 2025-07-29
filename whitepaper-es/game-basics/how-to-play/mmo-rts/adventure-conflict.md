@@ -23,42 +23,26 @@ layout:
 
 # Aventura y Conflicto
 
-No todo se resuelve con tratados, balances y mercados.
+Durante los ciclos narrativos, el sistema despliega múltiples mecanismos de generación de contenido: desde misiones emergentes, hasta encargos directos de entidades institucionales y tramas que escalan de forma autónoma; incluso las corporaciones de otros jugadores pueden emitir contratos, encargos específicos o solicitudes de intervención.
 
-En el trasfondo de **The Corporate Wars**, muchas cuentas se ajustan con acciones encubiertas, choques tácticos o intervenciones no autorizadas.
+Desde eventos públicamente patrocinados hasta operaciones encubiertas, choques tácticos o intervenciones no autorizadas, cada rumor perseguido o contacto en un puerto espacial puede convertirse —literalmente— en un portal a la aventura.
 
-En esta dimensión, el juego da paso a la iniciativa, el riesgo y la improvisación.
+Los jugadores se arriesgan a perder tripulaciones —o flotas enteras— a cambio de grandes, aunque inciertas, recompensas.
 
-El conflicto no es siempre abierto ni formal.
+El fracaso no es inocuo: la reputación de una corporación que falla en sus cometidos puede verse severamente dañada, especialmente si el encargo proviene de entidades de alto nivel. A mayor prestigio del patrocinador, mayor recompensa… pero también mayores consecuencias.
 
-A menudo, se trata de una guerra silenciosa entre agendas, donde el movimiento correcto en el momento oportuno puede tener más impacto que una flota entera.
+> Militares, nobles, políticos y organizaciones criminales: ninguno ve con buenos ojos la indiscreción, el fracaso reiterado o la oposición directa a sus intereses.
 
-### Misiones especiales
+***
 
-Las corporaciones no solo compiten por contratos: compiten por información, influencia y ventaja.
+Cada acción del jugador tiene un doble impacto: afecta tanto a su gestión interna y relaciones corporativas —_Lealtades_, _Instituciones_, alianzas— como a los adversarios naturales de esas _Políticas_.
 
-A través de misiones especiales, los jugadores pueden intervenir en situaciones sensibles que requieren habilidad, discreción o audacia.
+Una corporación alineada con el Tercer Imperio puede operar con ventajas en su territorio... pero enfrentará vetos, sanciones y escrutinio en espacio Solomani; los Dos Mil Mundos tienen prohibido operar en la Federación, pero una miríada de comerciantes independientes trafican con ambos bandos...
 
-Operaciones de sabotaje industrial, infiltraciones en centros de datos, extracción de ejecutivos, chantajes, alteración de contratos, rescates encubiertos o manipulación de sistemas logísticos forman parte de este repertorio.
+Tomar partido en un conflicto interestelar puede resultar catastrófico para una corporación, especialmente si escoge el bando equivocado.
 
-Cada misión responde a un contexto, y su ejecución puede cambiar radicalmente la situación en un sistema.
+Las batallas espaciales o en superficie tienen costes elevados, en vidas, armamento y municiones; la logística del despliegue consume recursos a escala: a veces ni la victoria resulta rentable y la opción sensata es frenar la escalada.
 
-El éxito depende de los agentes seleccionados, de su preparación, del apoyo logístico y del conocimiento previo del entorno.
+El éxito, sin embargo, implica promoción, fama y riqueza —nuevos adversarios y enemigos resentidos.
 
-No hay fórmulas fijas: cada intervención es única, y sus consecuencias se proyectan más allá del objetivo inmediato.
-
-## Conflicto militar o paramilitar
-
-Cuando las tensiones superan ciertos umbrales, el conflicto adopta formas más directas.
-
-Aunque las corporaciones no poseen ejércitos en sentido clásico, sí cuentan con unidades de seguridad, contratos con fuerzas mercenarias, licencias de protección armada o acuerdos de asistencia defensiva.
-
-Estos recursos pueden utilizarse para intervenir en zonas disputadas, proteger rutas críticas, bloquear operaciones rivales o ejecutar represalias.
-
-En algunos casos, incluso pueden actuar como fuerza de estabilización en sistemas sin autoridad clara.
-
-La línea entre legalidad y _corsarismo_ es delgada, y muchas acciones militares se amparan en vacíos jurídicos, interpretaciones contractuales o lealtades flexibles.
-
-Algunas corporaciones convierten el conflicto armado en parte estructural de su estrategia.
-
-El campo de batalla en **The Corporate Wars** no está lleno de banderas: está lleno de cláusulas, discretas autorizaciones y movimientos calculados.
+Pocas civilizaciones tienen memoria holística: las sociedades de los mundos pierden rápidamente el contexto de los hechos, las noticias se diluyen en el ruido cotidiano y, al final, todo —éxitos y fracasos— cae en el olvido.
