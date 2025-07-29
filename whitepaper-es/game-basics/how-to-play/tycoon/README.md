@@ -23,6 +23,39 @@ layout:
 
 # Tycoon
 
+
+***
+
+### Conflicto Económico y Astropolítico
+
+A medida que las corporaciones expanden su red de operaciones, surgen inevitables zonas de fricción.
+
+Competencia por recursos estratégicos, disputas sobre rutas de salto, enfrentamientos por licencias exclusivas o diferencias ideológicas entre _Lealtades_ pueden derivar en conflictos abiertos o tensiones latentes.
+
+Los nodos económicos se convierten en puntos calientes, donde el equilibrio puede mantenerse mediante acuerdos... o romperse con una sola provocación.
+
+Algunas corporaciones prosperan en la estabilidad; otras, en el caos.
+
+### Ciclos Narrativos
+
+El juego tiene un desarrollo basado en ciclos narrativos que representan el desempeño corporativo: establecimiento, expansión, contracción y quiebra o rescate, entre otros.
+
+La duración de estos ciclos narrativos es variable, depende del rendimiento real de los activos corporativos en el juego, y su orden de aparición depende de en cuál de ellos recae el estado de la corporación.
+
+Durante el desarrollo de estos ciclos narrativos, el jugador deberá ajustar sus estrategias, orientado por los eventos narrativos, con la intención de optimizar su desempeño corporativo: cumpliendo con los plazos, contratos, obligaciones fiscales y beneficios, progresando hacia el siguiente escenario narrativo lógico.
+
+**The Corporate Wars** no requiere una presencia constante ni sesiones prolongadas para progresar.
+
+El jugador puede participar activamente con sesiones breves, centrándose en tomar decisiones críticas, ajustar sus operaciones o responder a eventos clave: lo importante no es la cantidad de acciones realizadas, sino su calidad estratégica dentro del marco temporal del universo.
+
+
+
+
+
+
+
+
+
 Debajo de cada operación visible, detrás de cada ruta trazada o tratado firmado, late la estructura interna de la corporación.
 
 Es aqué donde se decide el verdadero destino de la empresa: en la gestión, la planificación y la eficiencia.
