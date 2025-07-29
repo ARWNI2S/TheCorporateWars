@@ -38,7 +38,7 @@ The game blends economic simulation, territorial strategy, and emergent narrativ
 
 A game of **The Corporate Wars** is a real-time experience played in a shared and persistent universe, where time continues even when players are offline, and events unfold independently of any given session.
 
-Players register a corporate _Policy_ affiliated with one of the _Allegiances_—major powers, alliances, or other factions—of known space.
+Players register a corporate _Policy_ affiliated with one of the _Allegiances_—major powers, alliances, or other factions—of Charted Space.
 
 Authorized with one or more operational _licenses_ to establish themselves in specific _facilities_, the _Policy_ must manage them efficiently: players must balance costs and revenues, face risks, collect profits, and absorb losses.
 

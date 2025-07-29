@@ -10,7 +10,7 @@ For this reason, we will subject the system to all kinds of stress tests and mak
 
 ### The Third Interstellar Survey
 
-> This is a collaborative initiative led by the **Imperial Interstellar Scout Service**, together with interstellar entities such as the **Hakyeahtaorl**, the **Driantia Dazhia**, **SolSec**, and even the **Two Thousand Worlds**, alongside the private sector: a joint operation aimed at mapping not only known space, but also marginal worlds, forgotten frontiers, and the enclaves left behind during the Long Night.
+> This is a collaborative initiative led by the **Imperial Interstellar Scout Service**, together with interstellar entities such as the **Hakyeahtaorl**, the **Driantia Dazhia**, **SolSec**, and even the **Two Thousand Worlds**, alongside the private sector: a joint operation aimed at mapping not only Charted Space, but also marginal worlds, forgotten frontiers, and the enclaves left behind during the Long Night.
 
 At this stage of deployment, we are finalizing the details —leaving the system ready to play, with a AAA-quality client, high-performance services, robust bandwidth, and reinforced security.
 

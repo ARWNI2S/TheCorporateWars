@@ -31,7 +31,7 @@ The **Second Survey** has been a systematic update, which has redefined the main
 
 And now, in the present, the **Third Survey** has begun:
 
-A monumental initiative of the Imperial Interstellar Exploration Service in collaboration with the private sector, the **Hakyeahtaorl**, the **Driantia Dazhia**, the **Two Thousand Worlds**, and even **SolSec**, to chart not only known space, but also the marginal worlds, the forgotten frontiers, and the enclaves left behind in the Long Night.
+A monumental initiative of the Imperial Interstellar Exploration Service in collaboration with the private sector, the **Hakyeahtaorl**, the **Driantia Dazhia**, the **Two Thousand Worlds**, and even **SolSec**, to chart not only Charted Space, but also the marginal worlds, the forgotten frontiers, and the enclaves left behind in the Long Night.
 
 ***
 

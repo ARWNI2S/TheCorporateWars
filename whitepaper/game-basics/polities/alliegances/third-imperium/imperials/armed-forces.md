@@ -23,7 +23,7 @@ layout:
 
 # Imperial Armed Forces
 
-The Armed Forces of the Third Imperium are the military instrument through which imperial hegemony is protected, projected, and preserved across known space.
+The Armed Forces of the Third Imperium are the military instrument through which imperial hegemony is protected, projected, and preserved across Charted Space.
 
 Their structure reflects the technocratic and decentralized character of the Imperium, acting more as guardians of interstellar stability than as a direct occupation force over individual worlds.
 
