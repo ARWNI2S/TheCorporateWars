@@ -23,4 +23,6 @@ layout:
 
 # Polities and Governance
 
-Bla
+In **The Corporate Wars**, corporations are affiliated with _Allegiances_ and operate under their jurisdiction, tax obligations, and legal frameworks.
+
+When interacting with planetary governments, they are subject to local laws, restrictions, and tariffs — but effective compliance allows them to participate in assemblies, fund candidacies, or lobby for regulatory changes.
