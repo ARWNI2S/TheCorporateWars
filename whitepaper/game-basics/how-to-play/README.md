@@ -1,6 +1,23 @@
 ---
 cover: ../../.gitbook/assets/tcw-game.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Gameplay
@@ -25,11 +42,11 @@ The decisions a player makes affect their trade network, allies, enemies, and th
 
 Every action carries weight, and each strategic move triggers consequences on a regional or galactic scale.
 
-_Policies_ —_Allegiances_, governments, _institutions_— regulate and seek to control —and benefit from— every aspect of corporate life within their territories.
+_Policies_ ï¿½_Allegiances_, governments, _institutions_ï¿½ regulate and seek to control ï¿½and benefit fromï¿½ every aspect of corporate life within their territories.
 
 Bureaucracy is not just narrative flavor; it is an operational layer that determines what each corporation can do, where and under what conditions; what is legal and what is not, and under which jurisdictions.
 
-Players must navigate a maze of bureaucratic regulations —licenses, concessions, permits, commissions, fees, and taxes— to maintain their _public image_ and _political relations_ intact.
+Players must navigate a maze of bureaucratic regulations ï¿½licenses, concessions, permits, commissions, fees, and taxesï¿½ to maintain their _public image_ and _political relations_ intact.
 
 ***
 
@@ -37,4 +54,4 @@ Commercial operations intertwine with territorial strategy, technological resear
 
 Resource management, agent deployment, expansion into new systems, and establishing key relationships with local or greater powers are central to progress.
 
-> The player doesn’t just grow a corporation — they shape its place in galactic history.
+> The player doesnï¿½t just grow a corporation ï¿½ they shape its place in galactic history.
