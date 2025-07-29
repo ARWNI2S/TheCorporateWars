@@ -122,6 +122,8 @@
     * [Mercado de Valores Interestelar](game-basics/polities/institutions/ise.md)
   * [Otras Políticas](game-basics/polities/other-polities/README.md)
     * [Clanes y Alianzas](game-basics/polities/other-polities/guilds.md)
+* [Mecánicas Avanzadas](game-basics/mecanicas-avanzadas/README.md)
+  * [Page 1](game-basics/mecanicas-avanzadas/page-1.md)
 
 ## Tecnología Implicada <a href="#technologies" id="technologies"></a>
 
