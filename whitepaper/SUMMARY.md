@@ -38,8 +38,6 @@
       * [Hostile Environments](foundations/charted-space/stars-worlds/planets-moons/atmopheres.md)
     * [Gas Giants](foundations/charted-space/stars-worlds/gas-giants.md)
     * [Asteroid Belts](foundations/charted-space/stars-worlds/asteroid-belts.md)
-* [Advanced Mechanics](game-basics/advanced-mechanics/README.md)
-  * [Page 1](game-basics/advanced-mechanics/page-1.md)
 
 ## Game Mechanics <a href="#game-basics" id="game-basics"></a>
 
@@ -124,6 +122,8 @@
     * [Interstellar Stock Exchange](game-basics/polities/institutions/ise.md)
   * [Other Polities](game-basics/polities/other-polities/README.md)
     * [Guilds](game-basics/polities/other-polities/guilds.md)
+* [Advanced Mechanics](game-basics/advanced-mechanics/README.md)
+  * [Page 1](game-basics/advanced-mechanics/page-1.md)
 
 ## Tecnologies Involved <a href="#technologies" id="technologies"></a>
 
