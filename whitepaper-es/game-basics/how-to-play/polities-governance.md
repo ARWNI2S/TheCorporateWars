@@ -32,18 +32,13 @@ En **The Corporate Wars** las corporaciones estan afiliadas a _Lealtades_, asume
 > Zigirush amduugshuggi an shashdugi.\
 > Kibugshi tamgishri agh kushdu tamkuzagi.\
 > —Iikimazhu Bilanidin
-
-
 {% endcolumn %}
-
 {% column %}
 > Las leyes y los gobiernos no son siempre estables.\
 > Algunas leyes pueden reescribirse.\
 > Algunos gobiernos deben conquistarse.\
 > Todo depende del precio al que pueden comprarse.\
 > —Poema Vilani
-
-
 {% endcolumn %}
 {% endcolumns %}
 

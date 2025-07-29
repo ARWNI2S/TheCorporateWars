@@ -32,17 +32,13 @@ In **The Corporate Wars**, corporations are affiliated with _Allegiances_ and op
 > Zigirush amduugshuggi an shashdugi.\
 > Kibugshi tamgishri agh kushdu tamkuzagi.\
 > —Iikimazhu Bilanidin
-
-
 {% endcolumn %}
-
 {% column %}
 > Laws and governments are not always stable.\
 > Some laws may be rewritten.\
 > Some governments must be conquered.\
 > Everything depends on the price for which they can be bought.\
 > —Vilani Poem
-
 {% endcolumn %}
 {% endcolumns %}
 
