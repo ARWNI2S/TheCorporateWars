@@ -1,5 +1,4 @@
 ---
-icon: user-helmet-safety
 cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
@@ -29,30 +28,22 @@ Esta sección del juego se centra en lo tangible, lo que se construye, se mejora
 
 Desde la primera planta orbital hasta complejas redes industriales interplanetarias, el desarrollo estructural define la capacidad real de una corporación.
 
-### Construcción de infraestructuras
+***
 
-El entorno galáctico ofrece oportunidades, pero también impone limitaciones físicas.
+### Redes de Producción
 
-Superarlas exige infraestructura: fábricas especializadas, estaciones de refinado, laboratorios autónomos, centros de datos protegidos, almacenes distribuidos o complejos industriales completos.
+Desde centros de extracción planetaria hasta nodos de ensamblaje orbital, cada elemento de la red debe conectarse con cadenas logísticas y su eficiencia puede ser la diferencia entre un contrato cumplido o una crisis de reputación.
 
-Cada instalación responde a una necesidad concreta y puede personalizarse según el tipo de operaciones, el nivel tecnológico disponible y la zona donde se construya.
+La ubicación, el tipo de instalación, los niveles de automatización y la protección ante contingencias determinan su rendimiento.
 
-Algunos entornos requieren adaptación extrema; otros ofrecen ventajas logísticas o fiscales.
-
-El espacio no se conquista con flotas, sino con estructuras bien posicionadas.
+En algunos casos, una fábrica mal ubicada puede resultar más cara que no tener ninguna.
 
 ***
 
-## Proyectos tecnológicos
+### Investigación y Desarrollo
 
-La innovación no es solo investigación: es transformación.
+Las corporaciones pueden invertir en mejoras tecnológicas, patentes exclusivas, técnicas de producción avanzadas o modelos de inteligencia económica.
 
-Los proyectos tecnológicos permiten desbloquear mejoras en la eficiencia operativa, desarrollar productos únicos, obtener ventajas tácticas o redefinir procesos enteros.
+Aunque los beneficios pueden ser incalculables, la I+D también atrae riesgos: filtraciones, sabotajes o disputas por propiedad intelectual; los proyectos deben equilibrar tiempo, coste y riesgo.
 
-Desde nuevos tipos de motores hasta algoritmos de predicción de mercado, pasando por materiales compuestos o inteligencia logística, cada línea de desarrollo puede marcar la diferencia entre ser líder o quedar obsoleto.
-
-Algunos proyectos son incrementales.
-
-Otros, disruptivos.
-
-Saber cuál priorizar —y cuándo— es parte del juego.
+Algunas tecnologías pueden tardar ciclos enteros en dar resultados, pero su impacto puede redefinir una industria o asegurar ventaja frente a la competencia.
