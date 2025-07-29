@@ -1,5 +1,4 @@
 ---
-icon: user-helmet-safety
 cover: ../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
@@ -23,14 +22,12 @@ layout:
 
 # Políticas y Gobernanza
 
-En **The Corporate Wars** las corporaciones estan afiliadas a _Lealtades_, asumen su jurisdiccion, cumplimiento fiscal y regulaciones legales.
-
 {% columns fullWidth="true" %}
 {% column %}
-> Kigurzashash an zigirush tamahesh amugga amgitarru.\
-> Kigurzashash amduugshuggi an zashrirani.\
-> Zigirush amduugshuggi an shashdugi.\
-> Kibugshi tamgishri agh kushdu tamkuzagi.\
+> Amgitarushuggi zigirush tamahesh.\
+> Azashrirushuggi kigurzashash.\
+> Amshashdugushuggi zigirush.\
+> Tamkuzagi kibugshi agh kushdu tamgishri.\
 > —Iikimazhu Bilanidin
 {% endcolumn %}
 {% column %}
@@ -42,28 +39,26 @@ En **The Corporate Wars** las corporaciones estan afiliadas a _Lealtades_, asume
 {% endcolumn %}
 {% endcolumns %}
 
-Al interactúar con gobiernos planetarios, están sujetas a leyes, restricciones y areanceles locales, pero su cumplimiento efectivo les permitirá participar en asambleas, financiar candidaturas o presionar para la modificación de normativas.
+Las _Políticas_ son entidades organizadas con un interés colectivo; aunque muchas veces se trata de gobiernos, también pueden ser instituciones, grupos culturales, consejos interestelares, redes de influencia informales… y, por supuesto, corporaciones.
 
-***
+Las _Políticas_ se agrupan según su escala y grado de organización: desde subpolíticas —como provincias, colonias o corporaciones subordinadas— hasta supra-políticas, que engloban múltiples entidades bajo una coordinación superior.
 
-, influyen en cámaras sectoriales y, en ciertos casos, intervienen en estructuras de poder interestelar.
+Una _Política_ puede ser tan pequeña como un carguero independiente o tan vasta como el Tercer Imperio, y no necesita ser soberana para actuar como tal.
 
-Desde establecimientos privados en galerias comerciales, hasta corporaciones que operan en el vacío del espacio profundo, todas estan sometidas al sistema —legal y burocrático— de las _Lealtades_ y otras _Políticas_ territoriales.
+Las grandes _Lealtades_ suelen estar formadas por redes de _Políticas_ alineadas cultural, histórica, geográfica o religiosamente, organizadas para cooperar o resistir a potencias mayores sin perder su identidad funcional.
 
-Esta capa del juego no trata de producir ni de comerciar, sino de navegar el ecosistema político, adaptarse a su lógica… o moldearlo estrategicamente.
+En **The Corporate Wars**, las corporaciones están afiliadas a _Lealtades_; asumen su jurisdicción, cumplimiento fiscal y regulaciones legales.
 
-Las _Políticas_ —_Lealtades_, gobiernos, _instituciones_— regulan y tratan de controlar —y beneficiarse de— cada aspecto de la vida corporativa en sus territorios.
+## Gobernanza en el Juego
 
-Todo acto político tiene un precio, y casi siempre, una consecuencia indirecta.
+En The Corporate Wars, la gobernanza está integrada directamente en la arquitectura del juego: todas las entidades relevantes —contratos, licencias, autorizaciones o sanciones— quedan registradas en la red Solana, vinculadas a una cadena de firmas validable que refleja la jerarquía legal y política del universo simulado.
 
-Un contrato renegociado, una patente revalidada o una sanción evitada pueden valer más que un almacén entero.
+Cada interacción corporativa genera una traza de cumplimiento: operar en un mundo requiere validaciones legales ascendentes, desde el nivel local hasta la _Lealtad_ correspondiente.
 
-La gobernanza no es solo administración: es estrategia a largo plazo.
+Las capas institucionales condicionan permisos, imponen restricciones y actúan como filtro obligatorio para cualquier actividad significativa.
 
-En ciertos mundos, una corporación poderosa puede convertirse en actor de peso, incluso por encima de los gobiernos locales.
+El incumplimiento, si se detecta, activa respuestas descendentes: sanciones, embargos, revocación de privilegios o deterioro reputacional.
 
-En otros, será apenas tolerada, obligada a operar desde la sombra o a través de intermediarios.
+La reacción depende de la gravedad de la infracción, del alcance de la entidad afectada, pero también de las capacidades —o **voluntad**— de autoridades locales para hacer cumplir la ley y perseguir criminales.
 
-La política define lo posible.
-
-Entenderla —o manipularla— es parte del dominio del juego.
+La **infraestructura** _blockchain_ articula jurídicamente el juego, creando un marco verificable donde cada decisión legal, económica o estratégica tiene trazabilidad estructural.
