@@ -48,9 +48,11 @@ However, all actions must be taken with partial information, subject to delays, 
 
 ***
 
-**The Corporate Wars** is not just a massive strategy game, but a political-economic simulation with uniquely deep mechanics. This section summarizes the aspects that clearly distinguish it from other MMORTS titles—not just in terms of setting or architecture, but in how they directly affect gameplay.
+**The Corporate Wars** is not just a massive strategy game, but a political-economic simulation with uniquely deep mechanics.
 
 Each of these mechanics influences how players perceive the universe, make decisions, and position themselves against the dynamic environment, other players, and the system's institutions.
+
+***
 
 ### 🛰️ Real Operational Latency
 
@@ -64,7 +66,7 @@ Orders and updates are not instantaneous: distance, traffic, and context determi
 
 Operations are structured through contracts with legal terms and narrative consequences. Failing to deliver or arriving late affects reputation and may trigger penalties, audits, or intervention.
 
-> *“You accept a transport contract from the IISS. If you fail to fulfill it, you lose access to Imperial ports for a cycle.”*
+> *“You accept a transport contract from the IISS. If you fail to fulfill it, your reputation suffer and you won’t be able to operate freely in Imperial ports for a while.”*
 
 ***
 
@@ -72,15 +74,15 @@ Operations are structured through contracts with legal terms and narrative conse
 
 The universe responds organically to player success. If a corporation dominates a sector, Allegiances or powers may impose tariffs, oversight, or strategic countermeasures.
 
-> *“Your pharmaceutical company controls five worlds: the SPA triples tariffs and a rival alliance funds local insurgents.”*
+> *“Your pharmaceutical subsidiary holds a monopoly over five major worlds: the SPA triples tariffs, and a rival alliance funds local insurgency.”*
 
 ***
 
 ### 🧩 Modular Corporate Design
 
-Corporations are not generic entities: each player must define their functional structure (commercial, logistical, covert, scientific...). You can't do everything.
+Corporations are not generic entities: each player must define their functional structure — commercial, logistical, covert, scientific... You can’t do everything, not everywhere, not all at once, and not under the same conditions.
 
-> *“You're a financial firm. You can invest in ships but can't build or operate them directly.”*
+> *“Your corporation holds a logistics license and commercial access in the region, but lacks industrial authorization: you can subcontract production, acquire modules on the market, or invest in the licenses required to expand.”*
 
 ***
 

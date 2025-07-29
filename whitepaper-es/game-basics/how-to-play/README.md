@@ -48,9 +48,11 @@ Sin embargo, toda acción debe realizarse con información parcial, sujeta a ret
 
 ***
 
-**The Corporate Wars** no es solo un juego de estrategia masiva, sino una simulación político-económica con capas de profundidad únicas. Esta sección resume los aspectos que lo distinguen claramente de otros títulos MMORTS, no solo por su ambientación o arquitectura, sino por su impacto directo en la experiencia de juego.
+**The Corporate Wars** no es solo un juego de estrategia masiva, sino una simulación político-económica con capas de profundidad únicas.
 
 Cada una de estas mecánicas influye en cómo el jugador percibe el universo, toma decisiones y se posiciona frente al entorno dinámico, a otros jugadores y a las instituciones del sistema.
+
+***
 
 ### 🛰️ Latencia Operativa Real
 
@@ -62,25 +64,25 @@ Las órdenes y actualizaciones no son instantáneas: la distancia, el tráfico y
 
 ### 🧾 Contratos Vinculantes y Reputación
 
-Las operaciones se articulan mediante contratos con condiciones legales y consecuencias narrativas. Fallar en un suministro o retrasarse afecta la reputación y puede acarrear sanciones, auditorías o intervención.
+Las operaciones se articulan mediante contratos con condiciones legales y consecuencias narrativas: fallar en un suministro o retrasarse afecta la reputación y puede acarrear sanciones, auditorías o intervención.
 
-> *“Aceptas un contrato de transporte con la IISS. Si no lo cumples, no podrás operar en puertos imperiales durante un ciclo.”*
+> *“Aceptas un contrato de transporte con el IISS. Si no lo cumples, tu reputación se resiente y no podrás operar con libertad en puertos imperiales durante un tiempo.”*
 
 ***
 
 ### 🧠 Entorno Reactivo
 
-El universo responde de forma orgánica al éxito de los jugadores. Si una corporación domina un sector, las Lealtades o potencias pueden imponer trabas, fiscalización o contrapesos estratégicos.
+El universo responde de forma orgánica al éxito de los jugadores: si una corporación domina un sector, las Lealtades o potencias pueden imponer trabas, fiscalización o contrapesos estratégicos.
 
-> *“Tu empresa farmacéutica domina cinco mundos: la SPA triplica los aranceles y una alianza rival financia insurgencia local.”*
+> *“Tu subsisdiaria farmacéutica monopoliza cinco mundos importantes: la AAP triplica los aranceles y una alianza rival financia insurgencia local.”*
 
 ***
 
 ### 🧩 Diseño Corporativo Modular
 
-Las corporaciones no son entes genéricos: cada jugador debe definir su estructura funcional (comercial, logística, encubierta, científica...). No se puede hacer todo.
+Las corporaciones no son entes genéricos: cada jugador debe definir su estructura funcional —comercial, logística, encubierta, científica... No se puede hacer todo, ni en todas partes, ni al mismo tiempo ni bajo las mismas condiciones.
 
-> *“Eres una firma financiera. Puedes invertir en naves, pero no construirlas ni operarlas directamente.”*
+> *“Tu corporación tiene licencia logística y acceso comercial en la región, pero carece de autorización industrial: puedes subcontratar la producción, adquirir módulos en mercado, o invertir en las licencias necesarias para expandirte.”*
 
 ***
 
