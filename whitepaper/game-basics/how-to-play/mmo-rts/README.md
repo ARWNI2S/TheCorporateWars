@@ -43,7 +43,7 @@ Every action must be performed within the constraints of the simulated universe:
 
 Although **The Corporate Wars** unfolds in real time, the system uses an internal turn structure to organize the processes of the simulated universe and maintain coherence.
 
-The base scale is the so-called **strategic turn**, equivalent to one week of simulation.
+The base scale is the so-called **strategic turn**, equivalent to one week  —approximately 168 hours— of simulated time.
 
 This rhythm marks the general progression of the universe and determines, among other things, economic growth, political change, and the cumulative effects across the overall scenario.
 

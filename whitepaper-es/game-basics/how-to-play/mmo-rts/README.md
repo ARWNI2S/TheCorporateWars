@@ -43,7 +43,7 @@ Cada acción debe ejecutarse dentro de las condiciones que impone el universo si
 
 Aunque **The Corporate Wars** se desarrolla en tiempo real, el sistema emplea una estructura interna de turnos para organizar los procesos del universo simulado y asegurar su coherencia.
 
-La escala base es el llamado **turno estratégico**, que equivale a una semana de simulación.
+La escala base es el llamado **turno estratégico**, que equivale a una semana —unas 168 horas— de tiempo simulado.
 
 Este ritmo marca el avance general del universo y es el que determina, entre otras cosas, el progreso económico, los cambios políticos y los efectos acumulativos sobre el escenario general.
 
