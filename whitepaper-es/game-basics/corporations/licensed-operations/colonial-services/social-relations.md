@@ -30,8 +30,10 @@ Una corporación percibida como responsable, eficiente y respetuosa con las comu
 
 Del mismo modo, una buena imagen proyectada a nivel interestelar puede permitir acceso a zonas restringidas, mejorar la posición en tratados multilaterales o incluso bloquear a competidores mediante presión diplomática indirecta.
 
+***
+
 > Gestión de crisis, inversión en servicios públicos, programas sociales, cumplimiento normativo y presencia mediática son algunos de los mecanismos utilizados para construir —o restaurar— la imagen pública.
 
 {% hint style="danger" %}
-Una corporación que descuida este aspecto se expone a boicots, revocación de licencias, protestas populares o sabotajes impulsados por _políticas_ hostiles.
+Una corporación que descuida este aspecto se expone a boicots, revocación de licencias, protestas populares o sabotajes impulsados por _Políticas_ hostiles.
 {% endhint %}

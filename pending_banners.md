@@ -30,7 +30,7 @@
       - [ ] Free Trader License
     - [ ] Colonial Services
       - [ ] Public Image
-      - [ ] Govern Relationship
+      - [ ] Government Relations
     - [ ] Enforcement and Security
       - [ ] COACC
     - [ ] Grant Exploitation
