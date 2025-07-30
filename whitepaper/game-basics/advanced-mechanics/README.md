@@ -12,7 +12,6 @@ These mechanics include systems for emergent narrative, structural evolution of 
 
 The implementation of these features is modular and progressive, allowing each system to be refined and integrated as it becomes part of the overall game ecosystem.
 
-{% hint style="info" %}
+{% hint style="danger" %}
 This section will expand with new subsections as advanced mechanics are ready to be documented, tested, or deployed in production.
 {% endhint %}
-
