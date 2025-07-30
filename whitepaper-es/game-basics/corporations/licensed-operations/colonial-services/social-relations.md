@@ -1,5 +1,4 @@
 ---
-icon: user-helmet-safety
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
@@ -33,4 +32,6 @@ Del mismo modo, una buena imagen proyectada a nivel interestelar puede permitir 
 
 > Gestión de crisis, inversión en servicios públicos, programas sociales, cumplimiento normativo y presencia mediática son algunos de los mecanismos utilizados para construir —o restaurar— la imagen pública.
 
-Una corporación que descuida este aspecto se expone a boicots, revocación de licencias, protestas populares o sabotajes impulsados por actores políticos hostiles.
+{% hint style="danger" %}
+Una corporación que descuida este aspecto se expone a boicots, revocación de licencias, protestas populares o sabotajes impulsados por _políticas_ hostiles.
+{% endhint %}
