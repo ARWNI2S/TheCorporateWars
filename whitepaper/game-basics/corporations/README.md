@@ -38,7 +38,16 @@ Success lies in a mix of business vision, aggressive tactics, and adaptability i
 
 ## Universal Corporate Profile
 
-> #### First Bank of Rhylanor
+Corporate profiles are dehydrated data stored directly on the Solana network as minimalist PDAs representing active corporations in the game.
+
+These data are used in the resolution of the **strategic turn**, and as governance, compliance, and traceability variables within the game ecosystem.
+
+{% hint style="warning" %}
+This module is still under active development, and the descriptions provided below are temporary.\
+—They have been directly imported from [101 Corporations](https://www.drivethrurpg.com/en/product/121552/101-corporations) as examples.
+{% endhint %}
+
+> **First Bank of Rhylanor**
 >
 > Spin.H.0603.Im.Rhylanor1st\
 > **335344C8176565**
