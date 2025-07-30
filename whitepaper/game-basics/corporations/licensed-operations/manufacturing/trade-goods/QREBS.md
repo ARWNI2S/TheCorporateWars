@@ -38,4 +38,9 @@ From an orbital station coffeemaker to a jump-cruise navigation system, every co
 Corporations that master this metric don't just sell more —they define standards, accumulate production licenses, and in many cases, impose their technological culture on entire worlds.
 {% endhint %}
 
-> The QREBS system used in **The Corporate Wars** is directly inspired by the original framework introduced in [_Traveller_](https://www.drivethrurpg.com/en/product/150646/t5-traveller5-core-rules-3-book-set)[_™_](https://www.drivethrurpg.com/en/product/150646/t5-traveller5-core-rules-3-book-set)[ _5_](https://www.drivethrurpg.com/en/product/150646/t5-traveller5-core-rules-3-book-set). While it employs different mechanics, it remains grounded in the same fundamental principles.
+***
+
+{% hint style="warning" %}
+This module is still under active development, and the descriptions provided are temporary.\
+—The QREBS system used in **The Corporate Wars** is directly inspired by the original framework introduced in [_Traveller™ 5_](https://www.drivethrurpg.com/en/product/150646/t5-traveller5-core-rules-3-book-set). While it employs different mechanics, it remains grounded in the same fundamental principles.
+{% endhint %}

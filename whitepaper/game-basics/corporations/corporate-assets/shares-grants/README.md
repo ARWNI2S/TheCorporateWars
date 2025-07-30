@@ -1,6 +1,5 @@
 ---
 description: Legal permissions and ownership rights governing operations.
-icon: user-helmet-safety
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
@@ -24,6 +23,12 @@ layout:
 
 # Grants and Shares
 
-Grants and licenses represent exclusive rights granted by regulatory entities or governments, allowing corporations to exploit resources, operate in strategic sectors, or establish facilities in key locations. Obtaining and maintaining these permits is essential to access new economic opportunities and avoid regulatory sanctions.
+Grants and shares represent exclusive rights granted by regulatory authorities or political entities, allowing corporations to extract resources, operate in strategic sectors, or establish facilities in key locations.
 
-Corporations can acquire these rights through negotiations, bidding, or polítical influence, and controlling them can determine a company’s success or failure in fiercely competitive sectors. The management of grants is a strategic tool, as it allows corporations to block rivals and secure exclusive access to specific markets.
+Obtaining and maintaining these rights is essential for accessing economic opportunities and avoiding regulatory penalties.
+
+Corporations may acquire them through negotiations, tenders, or political influence. Their control often determines the success or failure of a company operating in highly competitive sectors.
+
+{% hint style="success" %}
+Managing grants is a strategic tool: it allows corporations to block rivals and secure exclusive access to specific markets.
+{% endhint %}

@@ -1,6 +1,5 @@
 ---
 description: Tangible assets, raw materials, and claims under corporate control.
-icon: user-helmet-safety
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
@@ -24,6 +23,10 @@ layout:
 
 # Resources and Holdings
 
-The resources and properties controlled by a corporation represent its tangible wealth and its ability to generate income. These assets include raw material reserves, transport fleets, industrial complexes, and territories acquired through grants.
+The resources and holdings controlled by a corporation represent its tangible wealth and its ability to generate revenue.
 
-Controlling large volumes of resources allows a corporation to sustain production, negotiate from a position of strength, and establish monopolies over key materials essential to the interstellar economy. Efficient management of these assets is crucial to avoid losses due to obsolescence, speculation, or conflicts with other market players.
+These assets include reserves of raw materials, transport fleets, industrial complexes, and territories acquired through concessions.
+
+Controlling large volumes of resources enables sustained production, strengthens negotiation positions, and allows for monopolies over key materials in the interstellar economy.
+
+Efficient management of these assets is essential to avoid losses due to obsolescence, speculation, or conflicts with other market players.

@@ -38,4 +38,9 @@ Desde una cafetera de estación orbital hasta un sistema de navegación para cru
 Las corporaciones que dominan esta métrica no solo venden más, sino que definen estándares, acumulan licencias de producción y, en muchos casos, imponen su cultura tecnológica sobre mundos enteros.
 {% endhint %}
 
-> CFMES está directamente inspirado en el sistema QREBS de [_Traveller™ 5_](https://www.drivethrurpg.com/en/product/150646/t5-traveller5-core-rules-3-book-set). Aunque no emplea las mismas reglas, se basa en los mismos principios.
+***
+
+{% hint style="warning" %}
+This module is still under active development, and the descriptions provided are temporary.\
+—CFMES está directamente inspirado en el sistema QREBS de [_Traveller™ 5_](https://www.drivethrurpg.com/en/product/150646/t5-traveller5-core-rules-3-book-set). Aunque no emplea las mismas reglas, se basa en los mismos principios.
+{% endhint %}

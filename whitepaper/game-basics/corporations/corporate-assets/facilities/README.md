@@ -1,6 +1,5 @@
 ---
 description: Operational hubs and production centers essential for expansion and logistics.
-icon: user-helmet-safety
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
@@ -24,6 +23,10 @@ layout:
 
 # Facilities
 
-Facilities are the operational core of every corporation. They include factories, refineries, space stations, logistics centers, starports, and research laboratories. Their location and efficiency determine the company’s production capacity and potential for expansion, and their development requires investment in infrastructure, security, and technology.
+Facilities include factories, refineries, space stations, logistics hubs, starports, and research laboratories; they are the operational core of every corporation.
 
-Each type of facility plays a specific role within the corporation’s operational chain — whether in manufacturing, resource exploitation, trade, or defense. Proper management allows corporations to scale production, optimize costs, and increase their responsiveness to market opportunities or threats.
+Each type of facility plays a specific role within the corporation's operational chain—whether in manufacturing, resource exploitation, trade, or defense.
+
+Their location and efficiency determine the company's productive capacity and ability to expand, and their development requires investment in infrastructure, security, and technology.
+
+Proper management allows for scaling production, optimizing costs, and improving responsiveness to market opportunities or threats.
