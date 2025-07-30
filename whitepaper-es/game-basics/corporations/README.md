@@ -2,7 +2,6 @@
 description: >-
   Forjando el futuro a través de la estrategia, la expansión y la gestión en una
   economía interestelar en constante evolución.
-icon: user-helmet-safety
 cover: ../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:

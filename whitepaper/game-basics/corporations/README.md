@@ -2,7 +2,6 @@
 description: >-
   Shaping the future through strategy, expansion, and management in an evolving
   interstellar economy.
-icon: user-helmet-safety
 cover: ../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
@@ -70,8 +69,8 @@ Each corporation includes the following dehydrated metrics:
   from 0 — public enemy, to A — public favorite.
 * **Nature**: primary type of operation, according to relative eHex coding in dominant function.
 * **Classification**: operational sector, according to relative eHex coding in dominant function.
-* **R&D**: research involvement, according to eHex scale.\
-  from 0 — no R&D, to A — research institute.
+* **R\&D**: research involvement, according to eHex scale.\
+  from 0 — no R\&D, to A — research institute.
 * **Tradition**: operational style, according to eHex scale.\
   from 0 — no tradition, to A — rigid institutional legacy.
 * **Centralization**: command structure, according to eHex scale.\
