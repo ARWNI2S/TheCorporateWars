@@ -28,6 +28,8 @@ Este tipo de operación es flexible, adaptable y potencialmente muy rentable, pe
 
 Un jugador con esta licencia puede asumir contratos comerciales —con responsabilidad directa sobre la mercancía— o actuar como comerciante independiente, comprando y vendiendo por cuenta propia según las condiciones del mercado local.
 
+***
+
 La clave del éxito está en la reputación: cumplir plazos, proteger las cargas y mantener relaciones estables con corredores y autoridades abre nuevas rutas y oportunidades.
 
 Fallar puede cerrar puertas y marcar a la corporación como poco fiable, algo difícil de revertir en los circuitos comerciales del Espacio Conocido.
