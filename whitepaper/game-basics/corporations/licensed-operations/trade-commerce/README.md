@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# Trade
+# Trade and Commerce
 
 Interstellar trade connects economies, cultures, and corporate strategies, defining which worlds thrive, which routes consolidate, and which regions are left behind in development.
 
@@ -28,9 +28,9 @@ Specialized corporations operate trade networks, dealing in common, exotic, or s
 
 Markets shift with politics, conflicts, and local agreements; they demand tactical vision, adaptability, and a constant balance between risk and reward.
 
-The trade of consumer goods —whether essential or simply desired by the local population— can enhance a corporation’s public image; however, unpopular decisions or exploitative practices may have the opposite effect.
+The trade of consumer goods â€”whether essential or simply desired by the local populationâ€” can enhance a corporation's public image; however, unpopular decisions or exploitative practices may have the opposite effect.
 
-That’s why trade doesn’t just move MCr: it exerts influence, opens societies, and reshapes cultural borders—without firing a single shot.
+That's why trade doesn't just move MCr: it exerts influence, opens societies, and reshapes cultural borders â€”without firing a single shot.
 
 ***
 

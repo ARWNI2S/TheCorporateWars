@@ -26,8 +26,10 @@ Available as a starting license in many _Alliegances_, the _Free Trade License_ 
 
 This type of operation is flexible, adaptable, and potentially very profitable, but it also involves constant risks and a fiercely competitive environment.
 
-A player holding this license can take on trade contracts —with direct responsibility for the cargo— or operate as an independent trader, buying and selling on their own according to local market conditions.
+A player holding this license can take on trade contracts â€”with direct responsibility for the cargoâ€” or operate as an independent trader, buying and selling on their own according to local market conditions.
+
+***
 
 The key to success lies in reputation: meeting deadlines, protecting shipments, and maintaining stable relationships with brokers and authorities opens up new routes and opportunities.
 
-Failure can close doors and mark the corporation as unreliable—something difficult to reverse in the commercial circuits of Known Space.
+Failure can close doors and mark the corporation as unreliable â€”something difficult to reverse in the commercial circuits of Known Space.
