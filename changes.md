@@ -77,7 +77,7 @@
       - [ ] Efficient Management
     - [ ] Grants and Shares
       - [ ] Land Grants
-      - [ ] Share Market
+      - [ ] Stock Market
       - [ ] High Finance
 - [ ] Polities
   - [ ] Corporations are Polities

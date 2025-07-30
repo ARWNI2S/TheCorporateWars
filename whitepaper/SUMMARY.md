@@ -79,7 +79,7 @@
       * [Efficient Management](game-basics/corporations/corporate-assets/holding-resources/management.md)
     * [Grants and Shares](game-basics/corporations/corporate-assets/shares-grants/README.md)
       * [Land Grants](game-basics/corporations/corporate-assets/shares-grants/land-grants.md)
-      * [Share Market](game-basics/corporations/corporate-assets/shares-grants/share-market.md)
+      * [Stock Market](game-basics/corporations/corporate-assets/shares-grants/share-market.md)
       * [High Finance](game-basics/corporations/corporate-assets/shares-grants/high-finance.md)
 * [Polities](game-basics/polities/README.md)
   * [Corporations are Polities](game-basics/polities/players.md)
