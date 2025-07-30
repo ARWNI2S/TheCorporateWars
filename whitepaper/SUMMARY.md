@@ -64,7 +64,7 @@
       * [Raw Materials](game-basics/corporations/licensed-operations/manufacturing/materials.md)
       * [Trade Goods](game-basics/corporations/licensed-operations/manufacturing/trade-goods/README.md)
         * [QREBS](game-basics/corporations/licensed-operations/manufacturing/trade-goods/QREBS.md)
-    * [Mercantile and Freight](game-basics/corporations/licensed-operations/mercantile-freight/README.md)
+    * [Freight Transport](game-basics/corporations/licensed-operations/mercantile-freight/README.md)
       * [Route Brokers](game-basics/corporations/licensed-operations/mercantile-freight/trade-routes.md)
       * [Import-Export](game-basics/corporations/licensed-operations/mercantile-freight/import-export.md)
   * [Corporate Assets](game-basics/corporations/corporate-assets/README.md)

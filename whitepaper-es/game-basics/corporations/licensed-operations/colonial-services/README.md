@@ -26,13 +26,13 @@ layout:
 
 # Servicios Coloniales
 
-Los mundos en desarrollo, los recién contactados y las nuevas colonias requieren infraestructura y servicios esenciales para operar de manera eficiente.
+_Los mundos en desarrollo_, los recién contactados y las nuevas colonias requieren infraestructura y servicios esenciales para operar de manera eficiente.
 
-Los mundos con climas extremos, atmosferas exoticas o escasos de recursos requieren de importaciones tecnologicas, implantacion, gestion, mantenimiento y administracion de servicios multiples servicios para garantizar la supervivencia de la colonia.
+_Los mundos con climas extremos_, atmósferas exóticas o escasos de recursos requieren importaciones tecnológicas, implantación, gestión, mantenimiento y administración de múltiples servicios para garantizar la supervivencia de la colonia.
 
-En los mundos desarrollados de toda el Espacio Conocido, los gobiernos practican extensamente la subcontratacion de servicios desde las eras pre-estelares.
+En _los mundos desarrollados_ del Espacio Conocido, los gobiernos practican extensamente la subcontratación de servicios desde las eras preestelares.
 
-Estos servicios incluyen suministro de energía, gestión de residuos, distribución de agua potable, soporte vital, comunicaciones y logística, entre otras muchas necesidades especificas.
+Estos servicios incluyen suministro de energía, gestión de residuos, distribución de agua potable, soporte vital, comunicaciones y logística, entre otras muchas necesidades específicas.
 
 Las corporaciones ofrecen estos servicios a comunidades coloniales independientes que prefieren centrarse en su actividad principal, como la producción agrícola, industrial o minera, sin asumir la carga de la gestión administrativa y operativa de la colonia.
 
@@ -43,5 +43,5 @@ Controlar estos servicios permite a las corporaciones establecer relaciones de d
 ***
 
 {% hint style="success" %}
-Escoger una corporación que opera en el ámbito de los servicios coloniales es una opción adecuada para jugadores que prefieren empezar el juego con relaciones políticas solidas y una fuente de ingresos constante.
+Escoger una corporación que opere en el ámbito de los servicios coloniales es una opción adecuada para jugadores que prefieren empezar el juego con relaciones políticas sólidas y una fuente de ingresos constante.
 {% endhint %}

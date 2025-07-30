@@ -1,5 +1,4 @@
 ---
-icon: user-helmet-safety
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
@@ -25,16 +24,16 @@ layout:
 
 El comercio interestelar conecta economías, culturas y estrategias corporativas, definiendo qué mundos prosperan, qué rutas se consolidan y qué regiones quedan al margen del desarrollo.
 
-Las corporaciones especializadas operan redes de transporte, logística y cambio, negociando bienes comunes, exóticos o estratégicos.
+Las corporaciones especializadas operan redes comerciales, negociando bienes comunes, exóticos o estratégicos.
 
-Un mercado rentable exige visión téctica, adaptación y equilibrio entre riesgo y beneficio.
+Los mercados cambian con la política, los conflictos y los acuerdos locales; exigen visión táctica, adaptación y un equilibrio constante entre riesgo y beneficio.
 
-Las condiciones del mercado cambian con la política, los conflictos y los acuerdos locales.
+El comercio de bienes de consumo —necesarios o deseados por la población local— puede mejorar la imagen pública de una corporación; sin embargo, decisiones impopulares o prácticas abusivas pueden provocar el efecto contrario.
 
-Por eso, el comercio no solo mueve productos: ejerce influencia, abre territorios y redefine fronteras sin necesidad de disparar un arma.
+Por eso, el comercio no solo mueve MCr: ejerce influencia, abre sociedades y redefine fronteras culturales sin necesidad de disparar un arma.
 
 ***
 
 {% hint style="success" %}
-Operar en el comercio interestelar es el ámbito mas adecuado para jugadores que prefieren la exploración, la búsqueda de nuevas oportunidades y enfrentar desafíos con recursos limitados.
+Operar en el comercio interestelar es el ámbito más adecuado para jugadores que prefieren la exploración, la búsqueda de nuevas oportunidades y enfrentar desafíos con recursos limitados.
 {% endhint %}
