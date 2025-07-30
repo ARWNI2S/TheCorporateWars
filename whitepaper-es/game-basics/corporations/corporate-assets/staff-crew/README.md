@@ -29,4 +29,4 @@ El capital humano es un componente crítico en cualquier operación corporativa:
 
 La moral, la lealtad y la capacitación de los trabajadores afectan directamente el rendimiento de las operaciones, y en situaciones de crisis, contar con un equipo experimentado puede marcar la diferencia entre la estabilidad y el colapso empresarial.
 
-Las corporaciones deben gestionar la contratación, formación y retención de talento, asegurando que cada área cuente con el personal adecuado.
+> Las corporaciones deben gestionar la contratación, formación y retención de talento, asegurando que cada área cuente con el personal adecuado.

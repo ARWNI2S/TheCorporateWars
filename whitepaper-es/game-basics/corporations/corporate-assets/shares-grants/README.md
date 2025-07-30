@@ -30,5 +30,5 @@ Obtener y mantener estos permisos es esencial para acceder a nuevas oportunidade
 Las corporaciones pueden adquirir estos derechos mediante negociaciones, licitaciones o influencia política, y su control puede definir el éxito o fracaso de una empresa en sectores donde la competencia es feroz.
 
 {% hint style="success" %}
-La administración de concesiones es una herramienta estratégica, ya que permite bloquear a rivales y garantizar el acceso exclusivo a mercados específicos.
+La administración de concesiones y participaciones es una herramienta estratégica, ya que permite bloquear a rivales y garantizar el acceso exclusivo a mercados específicos.
 {% endhint %}

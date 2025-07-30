@@ -29,4 +29,6 @@ Estos activos incluyen reservas de materias primas, flotas de transporte, comple
 
 Controlar grandes volúmenes de recursos permite mantener la producción, negociar desde una posición de fuerza y establecer monopolios sobre materiales clave para la economía interestelar.
 
+{% hint style="success" %}
 La administración eficiente de estos activos es fundamental para evitar pérdidas por obsolescencia, especulación o conflictos con otros actores del mercado.
+{% endhint %}
