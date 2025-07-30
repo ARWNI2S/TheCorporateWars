@@ -1,5 +1,4 @@
 ---
-icon: user-helmet-safety
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
@@ -23,22 +22,12 @@ layout:
 
 # Agentes y Corredores
 
-En el comercio interestelar, cada carga tiene su urgencia, su valor y su destino.
+Los **agentes y corredores** son operadores especializados en el tráfico interplanetario de mercancías. Su función es gestionar los envíos entre sistemas, coordinando transportes, rutas, cargamentos y entregas bajo condiciones cambiantes.
 
-Los agentes y corredores no operan como simples intermediarios: son operadores logísticos de alta especialización, capaces de gestionar flujos de mercancías en entornos dinámicos y volútiles.
+En **The Corporate Wars**, estos servicios pueden estar integrados dentro de la corporación, subcontratados a terceros, o prestados por _instituciones_ como el MVI, la AAP o incluso por otras corporaciones logísticas.
 
-Un cargamento de piezas críticas debe llegar antes de que se detenga una cadena de producción.
+Su actividad consiste en asignar cargamentos a naves disponibles, elegir rutas seguras y rentables, coordinar puertos, plazos, permisos y negociar tarifas con transportistas y autoridades.
 
-Una remesa de alimentos perecederos debe redirigirse ante un bloqueo orbital.
+Son un componente esencial del ecosistema logístico: mantienen el flujo de bienes operando con agilidad, adaptabilidad y criterio económico.
 
-Un lote de bienes restringidos debe cruzar zonas grises sin levantar sospechas.
-
-En cada caso, el corredor adecuado no solo encuentra la nave correcta, sino el momento preciso, la ruta posible y la tarifa viable.
-
-Estos agentes viven conectados a flotas, puertos, corredores de tránsito y alertas políticas.
-
-Recalibran rutas en tiempo real, desvían transportes sobre la marcha y redistribuyen cargas para minimizar pérdidas y maximizar eficiencia.
-
-En **The Corporate Wars**, operar sin un buen corredor es exponerse al caos.
-
-Confiar en uno —o convertirse en uno— puede ser la diferencia entre perder una inversión o controlar el flujo de bienes de un sistema entero.
+Una corporación con acceso a buenos corredores reduce riesgos, optimiza beneficios y fortalece su capacidad de respuesta en un mercado dinámico y competitivo.

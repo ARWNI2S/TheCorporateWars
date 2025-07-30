@@ -51,7 +51,7 @@
 * [Corporations](game-basics/corporations/README.md)
   * [Licensed Operations](game-basics/corporations/licensed-operations/README.md)
     * [Trade and Commerce](game-basics/corporations/licensed-operations/trade-commerce/README.md)
-      * [Free Trader License](game-basics/corporations/licensed-operations/trade-commerce/free-trader.md)
+      * [Free Trade License](game-basics/corporations/licensed-operations/trade-commerce/free-trader.md)
     * [Colonial Services](game-basics/corporations/licensed-operations/colonial-services/README.md)
       * [Public Image](game-basics/corporations/licensed-operations/colonial-services/social-relations.md)
       * [Govern Relationship](game-basics/corporations/licensed-operations/colonial-services/political-relations.md)
