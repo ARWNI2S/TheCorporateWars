@@ -32,7 +32,7 @@ Likewise, a strong image projected at the interstellar level can provide access 
 
 ***
 
-> Crisis management, investment in public services, social programs, regulatory compliance, and media presence are some of the mechanisms used to build —or restore— public image.
+> Crisis management, investment in public services, social programs, regulatory compliance, and media presence are some of the mechanisms used to build â€”or restoreâ€” public image.
 
 {% hint style="danger" %}
 A corporation that neglects this aspect is exposed to boycotts, license revocations, public protests, or sabotage driven by hostile _Polities_.
