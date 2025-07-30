@@ -42,10 +42,12 @@ Los perfiles corporativos son datos deshidratados almacenados directamente en la
 
 Los datos se emplean en la resolución del **turno estratégico** y como variables de gobernanza, cumplimiento y trazabilidad dentro del ecosistema del juego.
 
+{% hint style="warning" %}
 Este módulo aún se encuentra en desarrollo activo y las descripciones proporcionadas a continuacion son temporales.\
-Han sido directamente importadas de 101 Corporations como ejemplo.
+—Han sido directamente importadas de [101 Corporations](https://www.drivethrurpg.com/en/product/121552/101-corporations) como ejemplo.
+{% endhint %}
 
-> #### First Bank of Rhylanor
+> **First Bank of Rhylanor**
 >
 > Spin.H.0603.Im.Rhylanor1st\
 > **335344C8176565**
