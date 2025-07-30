@@ -38,9 +38,7 @@ Success lies in a mix of business vision, aggressive tactics, and adaptability i
 
 ## Universal Corporate Profile
 
-Los perfiles corporativos son datos deshidratados que se almacenan en la red Solana, y se utilizan tanto para resolver los ciclos de resolución de primer nivel (LOD0), como para actuar como variables de gobernanza, cumplimiento y trazabilidad dentro del ecosistema del juego. Este sistema aún se encuentra en desarrollo activo, y su implementación progresiva permitirá integrar la toma de decisiones, la supervisión operativa y la interoperabilidad entre plataformas de forma segura, verificable y descentralizada.
-
-Los perfiles corporativos son datos deshidratados almacenados directamente en la red Solana como PDA minimalistas.
+Los perfiles corporativos son datos deshidratados almacenados directamente en la red Solana como PDA minimalistas que representan las corporaciones activas en el juego.
 
 Los datos se emplean en la resolución del **turno estratégico** y como variables de gobernanza, cumplimiento y trazabilidad dentro del ecosistema del juego.
 
