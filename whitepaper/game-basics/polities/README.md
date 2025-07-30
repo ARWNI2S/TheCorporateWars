@@ -1,5 +1,4 @@
 ---
-icon: user-helmet-safety
 cover: ../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
@@ -39,4 +38,4 @@ Most high-level polities are primarily governed by artificial intelligence. Howe
 
 The governance structures are designed to allow influence in both directions: bottom-up pressure can impact higher-scale decisions, while top-down directives shape the strategic environment in which players act.
 
-From this dynamic emerges **Collaborative Individualism** in the form of a global political metagame: systemic reform, subversion, collaboration, or the coordinated drafting of regulations —turning the political metagame into a living, responsive layer of the simulation.
+From this dynamic emerges [**Collaborative Individualism**](../../technologies/gameplay/compete-collaborate.md) in the form of a global political metagame: systemic reform, subversion, collaboration, or the coordinated drafting of regulations —turning the political metagame into a living, responsive layer of the simulation.
