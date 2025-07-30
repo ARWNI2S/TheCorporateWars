@@ -33,9 +33,9 @@ Las corporaciones operan en diversos ámbitos del mercado que requieren de activ
 
 La variedad de activos disponibles es enorme, y depende de los jugadores trazar estrategias de adquisición, mantenimiento, financiación e implementación de los activos de su corporación.
 
-> Una sobreadquisición de activos puede descapitalizar la operación a corto plazo; por otro lado, operar sin reservas de activos adecuadas puede provocar problemas en períodos de escasez.
+> Una sobre adquisición de activos puede descapitalizar la operación a corto plazo; por otro lado, operar sin reservas de activos adecuadas puede provocar problemas en períodos de escasez.
 
 {% hint style="info" %}
 Todas las corporaciones tienen asignado un paquete de activos iniciales, imprescindibles para la operación.\
-Los jugadores pueden adquirir activos en el mercado del juego o aportar tokens MCr desde sus billeteras. [Leer más...](../../../tokenomics/tokens-no-fungibles-nft/)
+Los jugadores pueden adquirir activos en el mercado del juego o aportar tokens MCr desde sus billeteras. [Leer más...](../../../technologies/solana-network/sustainable-economy/game-marketplace.md)
 {% endhint %}
