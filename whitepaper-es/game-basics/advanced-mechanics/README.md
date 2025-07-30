@@ -12,6 +12,6 @@ Estas mecánicas incluyen sistemas de narrativa emergente, evolución estructura
 
 La implementación de estas funcionalidades se realiza de forma modular y progresiva, permitiendo ajustar y perfeccionar cada sistema a medida que se integra en el ecosistema general del juego.
 
-{% hint style="info" %}
+{% hint style="danger" %}
 Esta sección se ampliará con nuevas subsecciones a medida que las mecánicas avanzadas estén listas para ser documentadas, testeadas o desplegadas en producción.
 {% endhint %}
