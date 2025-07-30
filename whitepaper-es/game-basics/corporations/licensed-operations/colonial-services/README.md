@@ -2,7 +2,6 @@
 description: >-
   Construcción, gestión y operación de infraestructuras coloniales y servicios
   esenciales.
-icon: user-helmet-safety
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
@@ -30,9 +29,11 @@ _Los mundos en desarrollo_, los recién contactados y las nuevas colonias requie
 
 _Los mundos con climas extremos_, atmósferas exóticas o escasos de recursos requieren importaciones tecnológicas, implantación, gestión, mantenimiento y administración de múltiples servicios para garantizar la supervivencia de la colonia.
 
-En _los mundos desarrollados_ del Espacio Conocido, los gobiernos practican extensamente la subcontratación de servicios desde las eras preestelares.
+En _los mundos desarrollados_ del Espacio Conocido, los gobiernos practican extensamente la subcontratación de servicios desde las eras pre-estelares.
 
 Estos servicios incluyen suministro de energía, gestión de residuos, distribución de agua potable, soporte vital, comunicaciones y logística, entre otras muchas necesidades específicas.
+
+***
 
 Las corporaciones ofrecen estos servicios a comunidades coloniales independientes que prefieren centrarse en su actividad principal, como la producción agrícola, industrial o minera, sin asumir la carga de la gestión administrativa y operativa de la colonia.
 

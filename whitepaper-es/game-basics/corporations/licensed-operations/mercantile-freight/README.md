@@ -29,6 +29,8 @@ El transporte de mercancías es la columna vertebral de la economía interestela
 
 Las corporaciones especializadas se encargan de conectar mercados, distribuir productos manufacturados y mantener operativas las rutas de comunicaciones clave, gestionando flotas de cargueros, estaciones de intercambio y redes logísticas.
 
+***
+
 Las corporaciones deben optimizar sus rutas de transporte, asegurar la protección de sus convoyes y establecer acuerdos comerciales con clientes y socios estratégicos.
 
 Una infraestructura de transporte bien gestionada no solo permite el flujo eficiente de bienes, sino que también puede ser utilizada para monopolizar mercados, controlar precios y ejercer influencia sobre economías emergentes.

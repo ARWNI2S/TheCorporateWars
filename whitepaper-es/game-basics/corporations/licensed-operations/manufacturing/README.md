@@ -29,6 +29,8 @@ La manufactura, o fabricación, es el proceso mediante el cual las materias prim
 
 Es una actividad central para el desarrollo económico de cualquier corporación, ya que permite escalar la producción, generar ingresos y fortalecer la infraestructura interna.
 
+***
+
 Las corporaciones construyen y optimizan fábricas, líneas de ensamblaje y centros de distribución.
 
 Deben gestionar eficientemente la cadena de producción, asegurando un flujo constante de recursos desde la explotación de concesiones hasta la entrega del producto final.

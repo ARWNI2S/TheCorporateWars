@@ -24,13 +24,12 @@ layout:
 
 Toda economía planetaria, por autosuficiente que parezca, depende de flujos externos:
 
-- La **importación** garantiza acceso a tecnologías superiores, materias primas escasas o bienes culturales de alta demanda.
-
-- La **exportación** permite insertar la producción local en redes más amplias, obtener divisas, prestigio o influencia.
+* La **importación** garantiza acceso a tecnologías superiores, materias primas escasas o bienes culturales de alta demanda.
+* La **exportación** permite insertar la producción local en redes más amplias, obtener divisas, prestigio o influencia.
 
 Una corporación que opera en este ámbito debe comprender no solo la logística, sino la política económica de cada mundo: aranceles, cuotas, subsidios, controles fitosanitarios, preferencias tecnológicas o restricciones culturales.
 
-Importar un medicamento puede requerir aprobación consular; exportar una aleación puede estar condicionado por tratados interplanetarios o _Lealtades_ enfrentadas.
+> Importar un medicamento puede requerir aprobación consular; exportar una aleación puede estar condicionado por tratados interplanetarios o _Lealtades_ enfrentadas.
 
 Además, el mercado interno es sensible: una importación masiva puede destruir a un productor local; una exportación priorizada puede generar desabastecimiento crítico.
 
