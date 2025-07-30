@@ -20,33 +20,33 @@
       - [X] Sistema de Generación de Sofontes
   - [X] Niveles Tecnológicos
     - [X] Pre-Estelar
+    - [X] El Impulsor de Salto
     - [X] Nivel Cero
 - [X] El Espacio Conocido
   - [X] Estrellas y Mundos
     - [X] Planetas y Lunas
       - [X] Auditar Mundos
       - [X] Entornos Hostiles
-    - [ ] Gigantes de Gas
-    - [ ] Cinturones de Asteroides
-  - [ ] Viaje Espacial
-    - [ ] El Impulsor de Salto
-    - [ ] Astronaves y Espacionaves
-      - [ ] Sistema de Arquitectura Naval
-    - [ ] Rutas de Salto
-      - [ ] Rutas Comerciales
-      - [ ] Corredores de Información
-    - [ ] Astropuertos
+    - [X] Gigantes de Gas
+    - [X] Cinturones de Asteroides
+  - [X] Viaje Espacial
+    - [X] Astronaves y Espacionaves
+      - [X] Sistema de Arquitectura Naval
+    - [X] Rutas de Salto
+      - [X] Rutas Comerciales
+      - [X] Corredores de Información
+    - [X] Astropuertos
 
 ## El Juego
 
-- [ ] Jugabilidad
-  - [ ] MMORTS
-    - [ ] Exploración y Comercio
-    - [ ] Aventura y Conflicto
-  - [ ] Tycoon
-    - [ ] Gestión y Desarrollo
-  - [ ] Políticas y Gobernanza
-- [ ] Corporaciones
+- [X] Jugabilidad
+  - [X] MMORTS
+    - [X] Exploración y Comercio
+    - [X] Aventura y Conflicto
+  - [X] Tycoon
+    - [X] Gestión y Desarrollo
+  - [X] Políticas y Gobernanza
+- [X] Corporaciones
   - [ ] Operaciones Autorizadas
     - [ ] Comercio
       - [ ] Licencia de Libre Comercio
@@ -128,38 +128,38 @@
   - [X] Individualismo Colaborativo
   - [X] Causalidad Interactiva
   - [X] Despliegue Comunitario
-- [ ] Blockchain Stateless
-  - [ ] Base de Datos del Tercer Censo
-  - [ ] El Modelo de Información Desfasada
-  - [ ] Capas de Gobernanza
-  - [ ] Economía Autosostenible
-    - [ ] Estabilización Algorítmica
-    - [ ] Sistemas Financieros
-    - [ ] Tesorería
-      - [ ] Coste Operativo
-      - [ ] Financiación del Desarrollo
-      - [ ] Fondos de Liquidez
-    - [ ] Tokens SPL
-      - [ ] Unidades de Recursos
-      - [ ] MegaCréditos
-      - [ ] Otras Divisas
-    - [ ] Mercado del Juego
-    - [ ] Mercados Externos
+- [X] Blockchain Stateless
+  - [X] Base de Datos del Tercer Censo
+  - [X] El Modelo de Información Desfasada
+  - [X] Capas de Gobernanza
+  - [X] Economía Autosostenible
+    - [X] Estabilización Algorítmica
+    - [X] Sistemas Financieros
+    - [X] Tesorería
+      - [X] Coste Operativo
+      - [X] Financiación del Desarrollo
+      - [X] Fondos de Liquidez
+    - [X] Tokens SPL
+      - [X] Unidades de Recursos
+      - [X] MegaCréditos
+      - [X] Otras Divisas
+    - [X] Mercado del Juego
+    - [X] Mercados Externos
 - [X] Unreal Engine
-- [ ] Servicios Propios
-  - [ ] Simulación Distribuida
-  - [ ] AI LOD
-  - [ ] Servicios Solana
+- [X] Servicios Propios
+  - [X] Simulación Distribuida
+  - [X] AI LOD
+  - [X] Servicios Solana
 
 ## Proceso de Desarrollo
 
-- [ ] Hoja de Ruta
-- [ ] Despliegue Histórico
-  - [ ] Milieu 0
+- [X] Hoja de Ruta
+- [X] Despliegue Histórico
+  - [X] Milieu 0
     - [ ] Políticas Implementadas
-  - [ ] Traveller™
-  - [ ] The Corporate Wars
-- [ ] Hitos
+  - [X] Traveller™
+  - [X] The Corporate Wars
+- [X] Hitos
 - [X] Posibilidades Futuras
 
 ## Términos de Licencia y Copyright

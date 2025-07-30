@@ -20,33 +20,33 @@
       - [X] Sophont Generation System
   - [X] Technological Levels
     - [X] Pre-Stellar
+    - [X] The Jump Drive
     - [X] Tech Zero
 - [X] The Charted Space
   - [X] Stars and Worlds
     - [X] Planets and Moons
       - [X] World Survey
       - [X] Hostile Environments
-    - [ ] Gas Giants
-    - [ ] Asteroid Belts
-  - [ ] Space Travel
-    - [ ] The Jump Drive
-    - [ ] Starships and Spacecraft
-      - [ ] Naval Architecture System
-    - [ ] Jump Routes
-      - [ ] Trade Routes
-      - [ ] Information Lanes
-    - [ ] Starports
+    - [X] Gas Giants
+    - [X] Asteroid Belts
+  - [X] Space Travel
+    - [X] Starships and Spacecraft
+      - [X] Naval Architecture System
+    - [X] Jump Routes
+      - [X] Trade Routes
+      - [X] Information Lanes
+    - [X] Starports
 
 ## Game Mechanics
 
-- [ ] Gameplay
-  - [ ] MMORTS
-    - [ ] Explore and Trade
-    - [ ] Adventure and Conflict
-  - [ ] Tycoon
-    - [ ] Manage and Develop
-  - [ ] Polities and Governance
-- [ ] Corporations
+- [X] Gameplay
+  - [X] MMORTS
+    - [X] Explore and Trade
+    - [X] Adventure and Conflict
+  - [X] Tycoon
+    - [X] Manage and Develop
+  - [X] Polities and Governance
+- [X] Corporations
   - [ ] Licensed Operations
     - [ ] Trade and Commerce
       - [ ] Free Trader License
@@ -128,38 +128,38 @@
   - [X] Collaborative Individualism
   - [X] Interactive Causality
   - [X] Community-Driven Deployment
-- [ ] Stateless Blockchain
-  - [ ] Third Survey Database
-  - [ ] The Outdated Information Model
-  - [ ] Governance Layers
-  - [ ] Self-Sustainable Economy
-    - [ ] Algorithmical Balance
-    - [ ] Financial Systems
-    - [ ] Game Treasury
-      - [ ] Operational Costs
-      - [ ] Development Funding
-      - [ ] Liquidity Pools
-    - [ ] SPL Tokens
-      - [ ] Resource Units
-      - [ ] MegaCredits
-      - [ ] Other Currencies
-    - [ ] Game Marketplace
-    - [ ] External Markets
+- [X] Stateless Blockchain
+  - [X] Third Survey Database
+  - [X] The Outdated Information Model
+  - [X] Governance Layers
+  - [X] Self-Sustainable Economy
+    - [X] Algorithmical Balance
+    - [X] Financial Systems
+    - [X] Game Treasury
+      - [X] Operational Costs
+      - [X] Development Funding
+      - [X] Liquidity Pools
+    - [X] SPL Tokens
+      - [X] Resource Units
+      - [X] MegaCredits
+      - [X] Other Currencies
+    - [X] Game Marketplace
+    - [X] External Markets
 - [X] Unreal Engine
-- [ ] Custom Services
-  - [ ] Distributed Simulation
-  - [ ] AI LOD
-  - [ ] Solana Services
+- [X] Custom Services
+  - [X] Distributed Simulation
+  - [X] AI LOD
+  - [X] Solana Services
 
 ## Development Roadmap
 
-- [ ] Roadmap
-- [ ] Historical Deployment Stages
-  - [ ] Milieu 0
+- [X] Roadmap
+- [X] Historical Deployment Stages
+  - [X] Milieu 0
     - [ ] Deployed Polities
-  - [ ] Traveller™
-  - [ ] The Corporate Wars
-- [ ] Milestones
+  - [X] Traveller™
+  - [X] The Corporate Wars
+- [X] Milestones
 - [X] Future Development
 
 ## License Terms & Copyright
