@@ -57,30 +57,30 @@ Format derived using the seed:\
 
 Each corporation includes the following dehydrated metrics:
 
-* **Employees**: number of employees using the eHex scale (powers of ten).\
-  From 0 — $$< 10\ employees$$, to A — $$> 10^{10}\ employees$$, or more.
-* **Reach**: defines operational extension using the eHex scale.\
-  From 0 — local, to A — transgalactic.
-* **Revenue**: percentage of the local GMP, calculated via eHex and divided by $$10^7$$.
-* **Risk**: for investors, based on the eHex index of the MVI.\
-  From 0 — risk-free or guaranteed, to A — red-zone exposure.
-* **Influence**: on local _Polities_, using the eHex scale.\
-  From 0 — no influence, to A — total control.
-* **Public Image**: using the eHex scale.\
-  From 0 — public enemy, to A — people’s favorite.
-* **Nature**: primary type of operation, coded using a dominant-relative eHex classification.
-* **Classification**: operational sector, coded using a dominant-relative eHex classification.
-* **R&D**: research involvement, using the eHex scale.\
-  From 0 — no R&D, to A — research institute.
-* **Tradition**: operational style, using the eHex scale.\
-  From 0 — no tradition, to A — rigid institutional legacy.
-* **Centralization**: command structure, using the eHex scale.\
-  From 0 — fully horizontal, to A — absolute monolith.
-* **Unity**: internal cohesion, using the eHex scale.\
-  From 0 — fragmented, to A — radically unified vision.
-* **Privacy**: information policy, using the eHex scale.\
-  From 0 — fully transparent, to A — tightly controlled and opaque.
-* **Employee Relations**: using the eHex scale.\
-  From 0 — antagonistic, to A — deeply paternalistic.
+* **Employees**: number of employees in eHex scale of powers of ten.\
+  from 0 — $$< 10\ employees$$, to A — $$> 10^{10}\ employees$$, or higher.
+* **Reach**: defines operational extension in eHex scale.\
+  from 0 — local, to A — transgalactic.
+* **Revenue**: determined by % of GMP as eHex scale of powers, divided by $$10^7$$.
+* **Risk**: for investors, according to the eHex index of the MVI.\
+  from 0 — risk-free or guaranteed, to A — red-zone risks.
+* **Influence**: on local _Polities_, according to eHex scale.\
+  from 0 — no influence, to A — total control.
+* **Public Image**: according to eHex scale.\
+  from 0 — public enemy, to A — public favorite.
+* **Nature**: primary type of operation, according to relative eHex coding in dominant function.
+* **Classification**: operational sector, according to relative eHex coding in dominant function.
+* **R&D**: research involvement, according to eHex scale.\
+  from 0 — no R&D, to A — research institute.
+* **Tradition**: operational style, according to eHex scale.\
+  from 0 — no tradition, to A — rigid institutional legacy.
+* **Centralization**: command structure, according to eHex scale.\
+  from 0 — fully horizontal, to A — absolutely monolithic.
+* **Unity**: internal coherence, according to eHex scale.\
+  from 0 — fragmented, to A — radically unified vision.
+* **Privacy**: information policy, according to eHex scale.\
+  from 0 — fully transparent, to A — strict control and opacity.
+* **Employee Relations**: according to eHex scale.\
+  from 0 — antagonistic, to A — deeply paternalistic.
 
 ***
