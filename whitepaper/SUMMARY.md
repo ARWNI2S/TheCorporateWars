@@ -58,7 +58,7 @@
     * [Enforcement and Security](game-basics/corporations/licensed-operations/enforcement-security/README.md)
       * [COACC](game-basics/corporations/licensed-operations/enforcement-security/COACC.md)
     * [Grant Exploitation](game-basics/corporations/licensed-operations/grant-exploitation/README.md)
-      * [Ore Mining Industry](game-basics/corporations/licensed-operations/grant-exploitation/mining.md)
+      * [Ore Mining](game-basics/corporations/licensed-operations/grant-exploitation/mining.md)
       * [Farming and Livestock](game-basics/corporations/licensed-operations/grant-exploitation/farming.md)
     * [Manufacturing](game-basics/corporations/licensed-operations/manufacturing/README.md)
       * [Raw Materials](game-basics/corporations/licensed-operations/manufacturing/materials.md)
