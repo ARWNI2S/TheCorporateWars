@@ -2,7 +2,6 @@
 description: >-
   Construction, management, and operation of colonial infrastructures and
   essential services.
-icon: user-helmet-safety
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
@@ -33,6 +32,8 @@ _Worlds with extreme climates_, exotic atmospheres, or limited resources depend 
 In _developed worlds_ of Known Space, governments have extensively practiced service outsourcing since pre-stellar eras.
 
 These services include power supply, waste management, potable water distribution, life support, communications, and logistics, among many other specific needs.
+
+***
 
 Corporations provide these services to independent colonial communities that prefer to focus on their core activities—such as agriculture, industry, or mining—without taking on the burden of administrative and operational management.
 

@@ -29,6 +29,8 @@ Manufacturing is the process by which raw materials are transformed into finishe
 
 It is a central activity for the economic development of any corporation, as it enables production scaling, revenue generation, and the strengthening of internal infrastructure.
 
+***
+
 Corporations build and optimize factories, assembly lines, and distribution centers.
 
 They must efficiently manage the production chain, ensuring a constant flow of resources from extraction sites to final product delivery.

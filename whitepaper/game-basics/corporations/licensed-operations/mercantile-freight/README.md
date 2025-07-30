@@ -29,6 +29,8 @@ Freight transport is the backbone of the interstellar economy: the ability to mo
 
 Specialized corporations are responsible for connecting markets, distributing manufactured products, and keeping key communication routes operational by managing fleets of freighters, exchange stations, and logistical networks.
 
+***
+
 Corporations must optimize their transport routes, ensure convoy protection, and establish trade agreements with clients and strategic partners.
 
 A well-managed transport infrastructure not only enables the efficient flow of goods but can also be used to monopolize markets, control prices, and exert influence over emerging economies.

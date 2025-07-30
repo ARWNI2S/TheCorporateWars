@@ -28,6 +28,8 @@ In **The Corporate Wars**, these services may be integrated within a corporation
 
 Their job is to assign cargo to available ships, select safe and profitable routes, coordinate ports, deadlines, permits, and negotiate rates with carriers and authorities.
 
-They are a vital part of the logistical ecosystem: keeping the flow of goods moving with agility, adaptability, and economic sense.
+> They are a vital part of the logistical ecosystem: keeping the flow of goods moving with agility, adaptability, and economic sense.
 
+{% hint style="success" %}
 A corporation with access to good brokers reduces risk, optimizes profits, and strengthens its responsiveness in a dynamic and competitive market.
+{% endhint %}

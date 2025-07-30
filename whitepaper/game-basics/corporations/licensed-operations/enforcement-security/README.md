@@ -23,13 +23,15 @@ layout:
     visible: true
 ---
 
-# Police and Security
+# Enforcement and Security
 
 Ensuring safety in settlements, trade routes, and strategic assets requires constant investment in technology, training, and personnel deployment.
 
 Corporations specialized in Police and Security relieve this burden for governments, colonies, and other corporations by offering comprehensive solutions for asset protection and operational stability.
 
 These corporations provide trained personnel, tactical equipment, surveillance systems, defense protocols, and risk management strategies.
+
+***
 
 This activity translates into the construction and maintenance of security infrastructure, optimization of protection unit deployment, and management of resources allocated to defense.
 
