@@ -27,7 +27,7 @@ layout:
 
 A corporation’s assets are the foundation upon which its economic, commercial, and military strategies are built. Proper management is key to long-term sustainability and growth.
 
-Corporations operate across various market sectors, each requiring specific assets to function: facilities, vehicles and machinery, owned resources, warehouses and energy access, licenses, concessions, liquidity—and, of course, skilled labor and specialized personnel.
+Corporations operate across various market sectors, each requiring specific assets to function: facilities, vehicles and machinery, owned resources, warehouses and energy access, licenses, concessions, liquidity —and, of course, skilled labor and specialized personnel.
 
 ***
 

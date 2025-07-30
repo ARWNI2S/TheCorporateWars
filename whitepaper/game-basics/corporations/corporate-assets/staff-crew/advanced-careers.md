@@ -24,7 +24,7 @@ layout:
 
 Some characters are individuals with a unique background, uncommon training, or experience in high-impact roles that go beyond conventional professional careers.
 
-Veteran captains, imperial spies, double agents, repentant corsairs, disgraced nobles, or executives with a military past — all represent exceptional profiles, difficult to recruit but with disruptive potential.
+Veteran captains, imperial spies, double agents, repentant corsairs, disgraced nobles, or executives with a military past â€”all represent exceptional profiles, difficult to recruit but with disruptive potential.
 
 ***
 
