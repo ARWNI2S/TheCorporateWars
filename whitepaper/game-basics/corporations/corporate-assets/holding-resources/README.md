@@ -29,4 +29,6 @@ These assets include reserves of raw materials, transport fleets, industrial com
 
 Controlling large volumes of resources enables sustained production, strengthens negotiation positions, and allows for monopolies over key materials in the interstellar economy.
 
+{% hint style="success" %}
 Efficient management of these assets is essential to avoid losses due to obsolescence, speculation, or conflicts with other market players.
+{% endhint %}

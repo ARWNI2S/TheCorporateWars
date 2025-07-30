@@ -29,4 +29,6 @@ Each type of facility plays a specific role within the corporation's operational
 
 Their location and efficiency determine the company's productive capacity and ability to expand, and their development requires investment in infrastructure, security, and technology.
 
+{% hint style="success" %}
 Proper management allows for scaling production, optimizing costs, and improving responsiveness to market opportunities or threats.
+{% endhint %}

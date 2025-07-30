@@ -27,4 +27,4 @@ Human capital is a critical component of any corporate operation: from executive
 
 Morale, loyalty, and training directly impact operational performance, and in times of crisis, having an experienced team can make the difference between stability and corporate collapse.
 
-Corporations must manage hiring, training, and talent retention, ensuring that each area has the right personnel in place.
+> Corporations must manage hiring, training, and talent retention, ensuring that each area has the right personnel in place.
