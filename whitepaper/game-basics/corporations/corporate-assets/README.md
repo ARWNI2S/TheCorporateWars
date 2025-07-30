@@ -2,6 +2,7 @@
 description: >-
   Infrastructure, holdings, and personnel critical for expansion and
   sustainability.
+icon: user-helmet-safety
 cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
@@ -37,5 +38,5 @@ The range of available assets is vast, and it is up to the players to define acq
 
 {% hint style="info" %}
 All corporations are assigned an initial package of core assets, essential for operations.\
-Players can acquire additional assets through the in-game market or contribute MCr tokens from their wallets. [Read more...](../../../tokenomics/tokens-no-fungibles-nft/)
+Players can acquire additional assets through the in-game market or contribute MCr tokens from their wallets. [Read more...](../../../technologies/solana-network/sustainable-economy/game-marketplace.md)
 {% endhint %}

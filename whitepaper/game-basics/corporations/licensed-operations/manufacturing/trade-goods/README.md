@@ -22,7 +22,7 @@ layout:
 
 # Trade Goods
 
-The production of trade goods is directly determined by the available technology level: each product requires infrastructure, a degree of expertise, and materials compatible with its Tech Level—making technology both a limiting and differentiating factor.
+The production of trade goods is directly determined by the available technology level: each product requires infrastructure, a degree of expertise, and materials compatible with its Tech Level â€”making technology both a limiting and differentiating factor.
 
 A low-tech world may assemble simple tools but will never replicate interstellar navigation components or advanced medical devices.
 
