@@ -38,13 +38,6 @@ Success lies in a mix of business vision, aggressive tactics, and adaptability i
 
 ## Universal Corporate Profile
 
-Los perfiles corporativos son datos deshidratados almacenados directamente en la red Solana como PDA minimalistas que representan las corporaciones activas en el juego.
-
-Los datos se emplean en la resolución del **turno estratégico** y como variables de gobernanza, cumplimiento y trazabilidad dentro del ecosistema del juego.
-
-Este módulo aún se encuentra en desarrollo activo y las descripciones proporcionadas a continuacion son temporales.\
-Han sido directamente importadas de 101 Corporations como ejemplo.
-
 > #### First Bank of Rhylanor
 >
 > Spin.H.0603.Im.Rhylanor1st\
