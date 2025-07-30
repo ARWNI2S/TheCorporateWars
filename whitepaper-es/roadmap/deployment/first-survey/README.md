@@ -21,7 +21,7 @@ Baterías de test validan la efectividad del código, y pruebas cerradas de expe
 
 Para ello disponemos de un MVP que contiene los siguientes sistemas:
 
-- gestión administrativa del mapa de la galaxia,
+- gestión administrativa del mapa del Espacio Conocido,
 - tesorería del sistema económico,
 - la estructura de gobernanza multicapa,
 - las _Políticas_ como entidades de juego y gobernanza,

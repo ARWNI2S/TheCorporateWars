@@ -22,7 +22,7 @@ layout:
 
 # Aslan
 
-Los **Aslan** son una de las potencias mayores de la galaxia, conocidos por su estructura social jerárquica y profundamente territorial.
+Los **Aslan** son una de las potencias mayores del Espacio Conocido, conocidos por su estructura social jerárquica y profundamente territorial.
 
 Originarios del planeta _Kuzu_, los Aslan forman el **Tlaukhu** (_Jerarcado Aslan_), una red de clanes gobernados por **Ahriy'i** (_matriarcas_), donde el honor, la expansión territorial y el linaje son pilares fundamentales.
 

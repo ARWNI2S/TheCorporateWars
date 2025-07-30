@@ -54,7 +54,7 @@ Although ships can jump between the stars, no technology is known that can send 
 
 The enormous distances between the stars make instant communication unfeasible, and governments and interstellar powers must rely on physical systems to transport information.
 
-From automated mail lines to independent freighters, private yachts, and military transports, all interstellar ships in the galaxy have at some point been part of the intricate flow of interstellar messaging.
+From automated mail lines to independent freighters, private yachts, and military transports, all interstellar ships in the Charted Space have at some point been part of the intricate flow of interstellar messaging.
 
 This presents an additional challenge to players, who must handle the available information, arriving at facilities on different worlds in an asymmetrical, fragmented, and outdated manner —testing their ability to design commercial strategies and maintain logistics systems in an environment where the “fog of war” extends to knowledge itself.
 

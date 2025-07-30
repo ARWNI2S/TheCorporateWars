@@ -12,7 +12,7 @@ Los requisitos se acumulan, la red Solana no es gratis, y el volumen de informac
 
 El plan de despliegue se diseñó inicialmente para soportar la provisión de _rent_ de la red Solana, integrándose con la economía autosostenible del sistema de juego.
 
-La idea original era desplegar los mundos progresivamente, autofinanciando al principio el despliegue de un sector o subsector, y abriendo luego la expansión a la comunidad: ofreciéndoles participar de algún modo, tanto en el despliegue de la galaxia como en el respaldo de la economía del juego.
+La idea original era desplegar los mundos progresivamente, autofinanciando al principio el despliegue de un sector o subsector, y abriendo luego la expansión a la comunidad: ofreciéndoles participar de algún modo, tanto en el despliegue del Espacio Conocido como en el respaldo de la economía del juego.
 
 > ...y ahí, en ese momento, la expansión de _Milieu 0_ (_T4_), con su 'minijuego' de la _First Survey_. —Zas! En toda la boca!\
 > ...más o menos algo así. :P\
@@ -31,4 +31,4 @@ Queremos que la participación de la comunidad en el despliegue del sistema refl
 - de las _megacorporaciones_,
 - y de las _Políticas_ históricamente relevantes.
 
-La participación en el despliegue inicial de los sistemas se representa con actores reales dentro del sistema de juego: los activos de las grandes potencias e instituciones de la galaxia.
+La participación en el despliegue inicial de los sistemas se representa con actores reales dentro del sistema de juego: los activos de las grandes potencias e instituciones del Espacio Conocido.

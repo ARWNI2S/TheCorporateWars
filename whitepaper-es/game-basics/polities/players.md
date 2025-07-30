@@ -25,7 +25,7 @@ layout:
 
 En **The Corporate Wars**, las corporaciones no son simples entidades comerciales: son _**Políticas**_ en pleno derecho.
 
-Esto significa que operan como actores soberanos dentro del entramado político y estratégico de la galaxia.
+Esto significa que operan como actores soberanos dentro del entramado político y estratégico del Espacio Conocido.
 
 Pueden **gobernar mundos**, establecer **holdings**, crear y controlar **subsidiarias**, y participar activamente en el equilibrio de poder entre sectores y regiones.
 

@@ -44,7 +44,7 @@ The fundamental principles for designing the simulation and its interactions are
 
 Building on this solid foundation, the project will gradually incorporate additional game systems:
 
-* 3D visualization of the galaxy map, with high-density LOD and dynamic level streaming.
+* 3D visualization of the Charted Space map, with high-density LOD and dynamic level streaming.
 * Highly detailed planetary surfaces and installations.
 * Product design systems in general, ship architecture, manufacturing, R\&D.
 * Interior editing modes.

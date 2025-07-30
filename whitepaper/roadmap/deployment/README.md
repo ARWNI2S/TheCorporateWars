@@ -12,7 +12,7 @@ The requirements keep piling up, the Solana network isn't free, and the volume o
 
 The deployment plan was initially designed to support the provision of _rent_ on the Solana network, integrating with the game's self-sustaining economy.
 
-The original idea was to progressively roll out the worlds, initially self-funding the deployment of a sector or subsector, and later opening the expansion to the community: offering them ways to participate both in the unfolding of the galaxy and in supporting the game's economy.
+The original idea was to progressively roll out the worlds, initially self-funding the deployment of a sector or subsector, and later opening the expansion to the community: offering them ways to participate both in the unfolding of the Charted Space and in supporting the game's economy.
 
 > ...and right there, at that moment, the expansion of _Milieu 0_ (_T4_), with its 'mini-game' of the _First Survey_. Bam! Right in the face!\
 > ...more or less something like that. :P\
@@ -31,4 +31,4 @@ We want the community's participation in the system's deployment to reflect:
 - of the _megacorporations_,
 - and of the historically relevant _Polities_.
 
-Participation in the initial deployment of the systems is represented by real actors within the game system: the assets of the galaxy's major powers and institutions.
+Participation in the initial deployment of the systems is represented by real actors within the game system: the assets of the Charted Space's major powers and institutions.

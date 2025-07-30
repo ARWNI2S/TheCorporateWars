@@ -21,7 +21,7 @@ Test suites validate code effectiveness, and closed UX testing validates the pro
 
 For this, we rely on an MVP containing the following systems:
 
-* administrative management of the galactic map,
+* administrative management of the Charted Space map,
 * treasury for the economic system,
 * the multi-layer governance structure,
 * _Policies_ as game and governance entities,

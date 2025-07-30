@@ -2,7 +2,7 @@
 
 La fase final de despliegue corresponde a la **Beta Cerrada**.
 
-El evento **Traveller**™ finaliza con un mapa de la galaxia que incluye varias decenas de miles de sistemas estelares, estrellas, cientos de miles de planetas, y un número geométricamente proporcional de rutas estelares.
+El evento **Traveller**™ finaliza con un mapa del Espacio Conocido que incluye varias decenas de miles de sistemas estelares, estrellas, cientos de miles de planetas, y un número geométricamente proporcional de rutas estelares.
 
 Aunque las entidades del juego se rigen por reglas simples, los sistemas complejos a menudo presentan comportamientos inesperados que emergen de variables mínimas acumuladas en el tiempo.
 

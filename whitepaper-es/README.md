@@ -54,7 +54,7 @@ Aunque los navíos saltan entre las estrellas, no se conoce ninguna tecnología 
 
 Las enormes distancias entre las estrellas hace inviable la comunicación instantánea, y los gobiernos y poderes interestelares deben confiar en sistemas físicos de transporte de la información.
 
-Desde líneas de correo automatizadas, hasta cargueros independientes, yates privados y transportes militares, todos los navíos interestelares de la galaxia han formado parte alguna vez del intrincado flujo de mensajería interestelar.
+Desde líneas de correo automatizadas, hasta cargueros independientes, yates privados y transportes militares, todos los navíos interestelares del Espacio Conocido han formado parte alguna vez del intrincado flujo de mensajería interestelar.
 
 > Esto presenta un desafío adicional a los jugadores, que deben manejar la información disponible, que llega a instalaciones en distintos mundos, de forma asimétrica, fragmentada y desactualizada, poniendo a prueba su capacidad para diseñar estrategias comerciales y mantener sistemas logísticos en un entorno donde la "niebla de la guerra" se extiende al conocimiento.
 

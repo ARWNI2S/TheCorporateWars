@@ -22,7 +22,7 @@ layout:
 
 # Aslan
 
-The **Aslan** are one of the major powers of the galaxy, known for their hierarchical and deeply territorial social structure.
+The **Aslan** are one of the major powers of the Charted Space, known for their hierarchical and deeply territorial social structure.
 
 Originating from the planet _Kuzu_, the Aslan form the **Tlaukhu** —_Aslan Hierate_, a network of clans ruled by **Ahriy'i** —_matriarchs_, where honor, territorial expansion, and lineage are fundamental pillars.
 

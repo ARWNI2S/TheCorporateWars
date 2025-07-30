@@ -2,7 +2,7 @@
 
 The final deployment phase corresponds to the **Closed Beta**.
 
-The **Traveller**™ event concludes with a map of the galaxy featuring several tens of thousands of star systems, stars, hundreds of thousands of planets, and a geometrically proportional number of jump routes.
+The **Traveller**™ event concludes with a map of the Charted Space featuring several tens of thousands of star systems, stars, hundreds of thousands of planets, and a geometrically proportional number of jump routes.
 
 Although the game's entities follow simple rules, complex systems often exhibit unexpected behavior that emerges from minimal variables compounded over time.
 

@@ -22,7 +22,7 @@ layout:
 
 # Hivers
 
-Among the sophonts of the galaxy, the most _alien_ are the **Hivers**.
+Among the sophonts of the Charted Space, the most _alien_ are the **Hivers**.
 
 Known primarily as founding members of **The Federation**, Hivers are an enigmatic yet diplomatically accessible species, often appearing in Federal delegations, commercial crews, and mixed embassies.
 

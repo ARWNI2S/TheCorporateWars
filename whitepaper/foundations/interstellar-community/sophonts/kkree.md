@@ -22,7 +22,7 @@ layout:
 
 # k'Kree
 
-The **k'Kree** are one of the major species of the galaxy, recognizable by their centauroid form, strongly gregarious society, and extreme vegan ideology.
+The **k'Kree** are one of the major species of the Charted Space, recognizable by their centauroid form, strongly gregarious society, and extreme vegan ideology.
 
 Originating from the planet _Kirur_, the k'Kree have built a vast interstellar empire known as the **Two Thousand Worlds**, driven by an expansive ideology centered on herbivore purity.
 

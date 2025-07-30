@@ -28,7 +28,7 @@ The game universe features a dedicated system for the creation of sophonts: inte
 
 ***
 
-As the map of the galaxy expands, each newly explored corner brings with it unique cultures, unpredictable challenges, and unforeseen opportunities, enriching both the game content and player experience.
+As the Charted Space expands, each newly explored corner brings with it unique cultures, unpredictable challenges, and unforeseen opportunities, enriching both the game content and player experience.
 
 {% hint style="success" %}
 Thanks to this approach, each created sophont is integrated organically into the galactic ecosystem, ensuring that its culture, economy, and relationships are believable and playable within the universe of **The Corporate Wars**.
