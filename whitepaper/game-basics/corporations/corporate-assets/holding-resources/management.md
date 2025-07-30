@@ -30,7 +30,7 @@ Optimizing resources means lowering costs, anticipating operational needs, and a
 
 Mistakes in station maintenance, staff assignment, or license payments can create bottlenecks that are hard to fix.
 
-The conditions of each world — from taxes to support infrastructure — directly affect operational efficiency.
+The conditions of each world â€”from taxes to support infrastructureâ€” directly affect operational efficiency.
 
 {% hint style="success" %}
 A good administrator must read these factors and constantly adjust their operational model.
