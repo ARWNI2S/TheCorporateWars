@@ -35,7 +35,7 @@ These services include power supply, waste management, potable water distributio
 
 ***
 
-Corporations provide these services to independent colonial communities that prefer to focus on their core activities—such as agriculture, industry, or mining—without taking on the burden of administrative and operational management.
+Corporations provide these services to independent colonial communities that prefer to focus on their core activities —such as agriculture, industry, or mining— without taking on the burden of administrative and operational management.
 
 Corporations operating in this sector act as support providers for settlements, relying on the interstellar market to ensure colonies can focus on their activities without worrying about structural necessities.
 

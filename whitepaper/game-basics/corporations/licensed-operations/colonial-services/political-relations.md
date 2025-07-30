@@ -22,7 +22,7 @@ layout:
 
 # Government Relations
 
-Corporations must establish solid, legal, and operational ties with planetary governments—the actors who define rules, regulate trade, and grant concessions.
+Corporations must establish solid, legal, and operational ties with planetary governmentsï¿½the actors who define rules, regulate trade, and grant concessions.
 
 Each planetary government has its own structure, ideology, needs, and constraints.
 
@@ -34,10 +34,10 @@ Negotiating access, taxes, permits, and operational zones is part of the game.
 
 Sometimes, a good public image helps build these relationships.
 
-But other times, there may be a strategic dissonance: a corporation popular among the population may be seen as a threat by the local government—especially if its actions challenge the established order or attract influence from rival _Allegiances_.
+But other times, there may be a strategic dissonance: a corporation popular among the population may be seen as a threat by the local government â€”especially if its actions challenge the established order or attract influence from rival _Allegiances_.
 
 The opposite can also occur: governments quietly favoring certain corporations aligned with their interests, even if these lack public support.
 
 {% hint style="success" %}
-The ability to navigate these scenarios—through diplomacy, bribery, legal pressure, or strategic alliances—determines access to key opportunities: public service contracts, infrastructure grants, industrial zones, or even support in local conflicts.
+The ability to navigate these scenarios â€”through diplomacy, bribery, legal pressure, or strategic alliancesâ€” determines access to key opportunities: public service contracts, infrastructure grants, industrial zones, or even support in local conflicts.
 {% endhint %}
