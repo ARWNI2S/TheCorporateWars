@@ -32,7 +32,7 @@ They serve both as engines of development and instruments of influence, used by 
 
 Corporations have the power to define the galaxy’s future—whether through cooperation, ruthless competition, or strategic market manipulation.
 
-Success lies in a mix of business vision, aggressive tactics, and adaptability in an ever-changing universe.
+Success lies in a combination of business vision, aggressive tactics, and adaptability in an ever-changing universe.
 
 ***
 
@@ -40,7 +40,7 @@ Success lies in a mix of business vision, aggressive tactics, and adaptability i
 
 Corporate profiles are dehydrated data stored directly on the Solana network as minimalist PDAs representing active corporations in the game.
 
-These data are used in the resolution of the **strategic turn**, and as governance, compliance, and traceability variables within the game ecosystem.
+These data are used for resolving the **strategic turn**, and as variables for governance, compliance, and traceability within the game ecosystem.
 
 {% hint style="warning" %}
 This module is still under active development, and the descriptions provided below are temporary.\
@@ -61,15 +61,15 @@ Each corporation includes the following dehydrated metrics:
   From 0 — $$< 10\ employees$$, to A — $$> 10^{10}\ employees$$, or more.
 * **Reach**: defines operational extension using the eHex scale.\
   From 0 — local, to A — transgalactic.
-* **Revenue**: determined as a percentage of the local GMP using the eHex scale, divided by $$10^7$$.
+* **Revenue**: percentage of the local GMP, calculated via eHex and divided by $$10^7$$.
 * **Risk**: for investors, based on the eHex index of the MVI.\
-  From 0 — risk-free or guaranteed, to A — red zone exposure.
+  From 0 — risk-free or guaranteed, to A — red-zone exposure.
 * **Influence**: on local _Polities_, using the eHex scale.\
   From 0 — no influence, to A — total control.
 * **Public Image**: using the eHex scale.\
   From 0 — public enemy, to A — people’s favorite.
-* **Nature**: primary type of operation, coded using a relative eHex classification.
-* **Classification**: operational sector, coded using a relative eHex classification.
+* **Nature**: primary type of operation, coded using a dominant-relative eHex classification.
+* **Classification**: operational sector, coded using a dominant-relative eHex classification.
 * **R&D**: research involvement, using the eHex scale.\
   From 0 — no R&D, to A — research institute.
 * **Tradition**: operational style, using the eHex scale.\
