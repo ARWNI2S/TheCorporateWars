@@ -83,6 +83,8 @@
       * [High Finance](game-basics/corporations/corporate-assets/shares-grants/high-finance.md)
 * [Polities](game-basics/polities/README.md)
   * [Corporations are Polities](game-basics/polities/players.md)
+  * [Hierarchical Polities](game-basics/polities/other-polities/README.md)
+    * [Guilds](game-basics/polities/other-polities/guilds.md)
   * [Alliegances](game-basics/polities/alliegances/README.md)
     * [Third Imperium](game-basics/polities/alliegances/third-imperium/README.md)
       * [Imperial Institutions](game-basics/polities/alliegances/third-imperium/imperials/README.md)
@@ -120,8 +122,6 @@
   * [Established Institutions](game-basics/polities/institutions/README.md)
     * [Galactic Council of Sciences](game-basics/polities/institutions/science-council.md)
     * [Interstellar Stock Exchange](game-basics/polities/institutions/ise.md)
-  * [Other Polities](game-basics/polities/other-polities/README.md)
-    * [Guilds](game-basics/polities/other-polities/guilds.md)
 * [Advanced Mechanics](game-basics/advanced-mechanics/README.md)
 
 ## Tecnologies Involved <a href="#technologies" id="technologies"></a>

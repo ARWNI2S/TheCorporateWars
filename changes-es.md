@@ -118,7 +118,7 @@
   - [ ] Instituciones Establecidas
     - [ ] Concilio Galáctico de las Ciencias
     - [ ] Mercado de Valores Interestelar
-  - [ ] Otras Políticas
+  - [ ] Jerarquías Políticas
     - [ ] Clanes y Alianzas
 
 ## Tecnología Implicada

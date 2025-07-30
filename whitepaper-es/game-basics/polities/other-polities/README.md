@@ -1,5 +1,4 @@
 ---
-icon: user-helmet-safety
 cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
@@ -21,13 +20,13 @@ layout:
     visible: true
 ---
 
-# Otras Políticas
+# Jerarquías Políticas
 
 Además de los _gobiernos_ formales, las _corporaciones_ reconocidas, las _instituciones_ establecidas y las grandes _lealtades_, existen estructuras políticas menores que ejercen influencia real en el espacio conocido.
 
 Son holdings, trusts, coaliciones religiosas, movimientos culturales, sindicatos transestelares, órdenes filosóficas, linajes hereditarios o simples facciones bien organizadas.
 
-No tienen estatus soberano ni control administrativo formal sobre territorios enteros, pero su capacidad para coordinar recursos, personas e ideas les otorga peso político.
+No tienen estatus soberano ni control administrativo formal sobre territorios enteros, pero su capacidad para coordinar recursos, personas e ideas les otorga peso político en el juego.
 
 Estas entidades operan en paralelo a las jerarquías tradicionales, a menudo incrustadas dentro de ellas.
 

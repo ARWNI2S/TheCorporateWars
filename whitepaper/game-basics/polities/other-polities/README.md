@@ -21,6 +21,6 @@ layout:
     visible: true
 ---
 
-# Other Polities
+# Hierarchical Polities
 
 Bla

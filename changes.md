@@ -118,7 +118,7 @@
   - [ ] Established Institutions
     - [ ] Galactic Council of Sciences
     - [ ] Interstellar Stock Exchange
-  - [ ] Other Polities
+  - [ ] Hierarchical Polities
     - [ ] Guilds
 
 ## Technologies Involved
