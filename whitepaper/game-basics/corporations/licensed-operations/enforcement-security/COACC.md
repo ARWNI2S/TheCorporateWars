@@ -32,7 +32,7 @@ However, it's not uncommon for its execution to be delegated to specialized corp
 
 ***
 
-Effective COACC management requires both technical capability —orbital sensors, traffic protocols, interception armament— and political legitimacy, as decisions regarding transit, access, or exclusion affect diplomatic and commercial interests.
+Effective COACC management requires both technical capability â€”orbital sensors, traffic protocols, interception armamentâ€” and political legitimacy, as decisions regarding transit, access, or exclusion affect diplomatic and commercial interests.
 
 > A corporation operating in this field must strike a delicate balance: exercising authority without sparking tensions, ensuring security without obstructing economic flow, and defending without unnecessarily escalating conflicts.
 
