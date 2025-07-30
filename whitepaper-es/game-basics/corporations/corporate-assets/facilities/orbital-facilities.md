@@ -30,4 +30,4 @@ A diferencia de las instalaciones planetarias, las estructuras orbitales permite
 
 Pueden gestionar el tránsito de mercancías sin depender de la superficie, facilitar lanzamientos y aterrizajes, servir como nodos de telecomunicaciones o actuar como bases para operaciones de seguridad y exploración.
 
-Su construcción y mantenimiento requieren inversiones considerables y autorizaciones legales, a menudo sujetas a regulaciones del gobierno local o de las _Lealtades_ imperiales.
+Su construcción y mantenimiento requieren inversiones considerables y autorizaciones legales, a menudo sujetas a regulaciones del gobierno local o de _Lealtades_.
