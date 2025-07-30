@@ -31,4 +31,6 @@ Cada tipo de instalación cumple un rol específico dentro de la cadena operativ
 
 Su ubicación y eficiencia determinan la capacidad productiva y de expansión de la empresa, y su desarrollo requiere inversión en infraestructura, seguridad y tecnología.
 
+{% hint style="success" %}
 Gestionarlas correctamente permite escalar la producción, optimizar costes y aumentar la capacidad de respuesta ante oportunidades o amenazas del mercado.
+{% endhint %}
