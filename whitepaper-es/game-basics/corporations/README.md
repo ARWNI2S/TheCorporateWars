@@ -40,50 +40,38 @@ La clave del éxito reside en una combinación de visión empresarial, tácticas
 
 > #### First Bank of Rhylanor
 >
-> Spin.H.0603.Im.FirstBankofRhylanor\
+> Spin.H.0603.Im.Rhylanor1st\
 > **335344C8176565**
 
 Formato derivado con la semilla:\
-`Sector.Subsector.Hex.Lealtad.NombreCorporativo`
+`Sector.Subsector.Hex.Lealtad.Identificador`
 
 Cada corporación incluye las siguientes métricas deshidratadas:
 
-* **Empleados**: numero de empleado escala eHex en potencias de diez.\
-  0 — $$< 10\ empleados$$ / A — $$10^{10}\ empleados$$.
-* **Alcance**: escala eHex.\
-  &#xNAN;_&#x44;efine la extensión operativa; 0 = local, A = intersectorial._
-* **Ingresos**: eHex dividido por 10^7 como % del GRP del sistema base.
-* **Riesgo** (para inversores):\
-  &#xNAN;_&#x30; = sin riesgo / A = zona de guerra._
-* **Influencia** (en política local):\
-  &#xNAN;_&#x30; = sin influencia / A = control total._
-* **Imagen pública**:\
-  &#xNAN;_&#x30; = enemigo público / A = favorito del pueblo._
-* **Naturaleza**: tipo primario de actividad.
-* **Clasificación**: función dominante (producción, finanzas, logística...).
-* **I+D**: implicación en investigación.\
-  &#xNAN;_&#x30; = sin I+D / A = instituto de investigación._
-* **Tradición**: estilo operativo.\
-  &#xNAN;_&#x30; = sin tradición / A = rígida herencia institucional._
-* **Centralización**: estructura de mando.\
-  &#xNAN;_&#x30; = horizontal / A = autocrática._
-* **Unidad**: coherencia interna.\
-  &#xNAN;_&#x30; = fragmentada / A = visión unificada._
-* **Privacidad**: política informativa.\
-  &#xNAN;_&#x30; = completamente abierta / A = totalmente opaca._
-* **Relación con empleados**:\
-  &#xNAN;_&#x30; = conflictiva / A = paternalista total._
-
-Employees - eHex Powers of Tens Range - 0 = Local ... Revenue - eHex Powers of Tens divided by 10000000 as % GRP Risk - for investors > 0 risk free ... A true warzone risk
-
-Influence - on politics 0 no influent ... A total control Public Image - on people 0 public enemy ... A peoples' favorite
-
-Nature - various, primary/dominant type
-
-Classification - various, primary/dominant type
-
-R\&D - interest on 0 no R\&D ... A research institute Tradition - styles and changes on 0 no tradition ... A completely hirebound Centralisation - authority and reponsability 0 full horizontal ... A full executive Unity - opinion and thinking 0 personal opinion chaos ... A single united vision
-
-Privacy - company information policies from 0 totally open to A totally controlled Employee Relations - relations with staff and crew 0 antagonic / very poor to A totally paternalistic
+* **Empleados**: numero de empleados en escala eHex de potencias de diez.\
+  desde 0 — $$< 10\ empleados$$, a A — $$> 10^{10}\ empleados$$, o superior.
+* **Alcance**: define la extensión operativa en escala eHex.\
+  desde 0 — local, hasta A — transgaláctica.
+* **Ingresos**: determinado por el % del PBM como escala eHex de potencias, dividido por $$10^7$$.
+* **Riesgo**: para inversores, segun el índice eHex del MVI\
+  desde 0 — sin riesgo o garantizado, hasta A — riesgos de zona roja.
+* **Influencia**: en las _políticas_ locales, según la escala eHex.\
+  desde 0 — sin influencia, hasta A — control total.
+* **Imagen pública**: según la escala eHex.\
+  desde 0 — enemigo público, hasta A — favorito del público.
+* **Naturaleza**: tipo primario de operación, según codificacion eHex relativa, en función dominante.
+* **Clasificación**: sector operativo, según codificacion eHex relativa, en función dominante.
+* **I+D**: implicación en investigación, según la escala eHex.\
+  desde 0 — sin I+D, hasta A — instituto de investigación.
+* **Tradición**: estilo operativo, según la escala eHex.\
+  desde 0 — sin tradición, hasta A = rígida herencia institucional.
+* **Centralización**: de las estructuras de mando, según la escala eHex.\
+  desde 0 — totalmente horizontal, hasta A — absolutamente monolítica.
+* **Unidad**: coherencia interna, según la escala eHex.\
+  desde 0 — fragmentada, hasta A — visión radicalmente unificada.
+* **Privacidad**: política informativa, según la escala eHex.\
+  desde 0 — completamente abierta, hasta A — estricto control y opacidad.
+* **Relación con empleados**: según la escala eHex.\
+  desde 0 — conflictiva, hasta A — profundamente paternalista.
 
 ***

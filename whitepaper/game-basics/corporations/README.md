@@ -26,10 +26,61 @@ layout:
 
 # Corporations
 
-In a setting where instant communication is not viable, corporations represent the core of economic activity, interstellar expansion, and resource management. They are both engines of development and weapons of influence, used to shape the balance of power across the galaxy.
+In a setting where instantaneous communication is not viable, corporations represent the core of economic activity, interstellar expansion, and planetary resource management.
 
-Players can own and manage their own corporations, expanding their influence through various strategies — from resource exploitation, manufacturing, and goods trading to providing security or financial services. Every business decision has consequences for the interstellar economy, polítical relations, and territorial control.
+They serve both as engines of development and instruments of influence, used by _Polities_ and _Allegiances_ to shape the balance of power across the galaxy.
 
-Players must constantly assess their economic strategies and polítical relationships. Whether operating a planet or commanding an independent fleet, the success of their corporation depends as much on internal management as on their ability to thrive in the markets, navigating the challenges imposed by governments and regulatory entities.
+Corporations have the power to define the galaxy’s future—whether through cooperation, ruthless competition, or strategic market manipulation.
 
-Corporations have the power to define the future of the galaxy — through cooperation, ruthless competition, or strategic market manipulation. The key to success lies in a combination of business vision, aggressive tactics, and adaptability in a constantly changing universe.
+Success lies in a mix of business vision, aggressive tactics, and adaptability in an ever-changing universe.
+
+***
+
+## Universal Corporate Profile
+
+Los perfiles corporativos son datos deshidratados que se almacenan en la red Solana, y se utilizan tanto para resolver los ciclos de resolución de primer nivel (LOD0), como para actuar como variables de gobernanza, cumplimiento y trazabilidad dentro del ecosistema del juego. Este sistema aún se encuentra en desarrollo activo, y su implementación progresiva permitirá integrar la toma de decisiones, la supervisión operativa y la interoperabilidad entre plataformas de forma segura, verificable y descentralizada.
+
+Los perfiles corporativos son datos deshidratados almacenados directamente en la red Solana como PDA minimalistas.
+
+Los datos se emplean en la resolución del **turno estratégico** y como variables de gobernanza, cumplimiento y trazabilidad dentro del ecosistema del juego.
+
+Este módulo aún se encuentra en desarrollo activo y las descripciones proporcionadas a continuacion son temporales.\
+Han sido directamente importadas de 101 Corporations como ejemplo.
+
+> #### First Bank of Rhylanor
+>
+> Spin.H.0603.Im.Rhylanor1st\
+> **335344C8176565**
+
+Format derived using the seed:\
+`Sector.Subsector.Hex.Allegiance.Identifier`
+
+Each corporation includes the following dehydrated metrics:
+
+* **Employees**: number of employees using the eHex scale (powers of ten).\
+  From 0 — $$< 10\ employees$$, to A — $$> 10^{10}\ employees$$, or more.
+* **Reach**: defines operational extension using the eHex scale.\
+  From 0 — local, to A — transgalactic.
+* **Revenue**: determined as a percentage of the local GMP using the eHex scale, divided by $$10^7$$.
+* **Risk**: for investors, based on the eHex index of the MVI.\
+  From 0 — risk-free or guaranteed, to A — red zone exposure.
+* **Influence**: on local _Polities_, using the eHex scale.\
+  From 0 — no influence, to A — total control.
+* **Public Image**: using the eHex scale.\
+  From 0 — public enemy, to A — people’s favorite.
+* **Nature**: primary type of operation, coded using a relative eHex classification.
+* **Classification**: operational sector, coded using a relative eHex classification.
+* **R&D**: research involvement, using the eHex scale.\
+  From 0 — no R&D, to A — research institute.
+* **Tradition**: operational style, using the eHex scale.\
+  From 0 — no tradition, to A — rigid institutional legacy.
+* **Centralization**: command structure, using the eHex scale.\
+  From 0 — fully horizontal, to A — absolute monolith.
+* **Unity**: internal cohesion, using the eHex scale.\
+  From 0 — fragmented, to A — radically unified vision.
+* **Privacy**: information policy, using the eHex scale.\
+  From 0 — fully transparent, to A — tightly controlled and opaque.
+* **Employee Relations**: using the eHex scale.\
+  From 0 — antagonistic, to A — deeply paternalistic.
+
+***
