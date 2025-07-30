@@ -123,7 +123,6 @@
   * [Other Polities](game-basics/polities/other-polities/README.md)
     * [Guilds](game-basics/polities/other-polities/guilds.md)
 * [Advanced Mechanics](game-basics/advanced-mechanics/README.md)
-  * [Page 1](game-basics/advanced-mechanics/page-1.md)
 
 ## Tecnologies Involved <a href="#technologies" id="technologies"></a>
 
