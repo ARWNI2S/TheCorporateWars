@@ -36,8 +36,80 @@ La clave del éxito reside en una combinación de visión empresarial, tácticas
 
 ***
 
-## Perfil Corporativo
+## Perfil Corporativo Universal
+
+> ### First Bank of Rhylanor
+> Spin.H.0603.Im.FirstBankofRhylanor\
+> **335344C8176565**
+
+Formato derivado con la semilla:  
+`Sector.Subsector.Hex.Lealtad.NombreCorporativo`
+
+Cada corporación incluye las siguientes métricas deshidratadas:
+
+- **Empleados**: numero de empleado escala eHex en potencias de diez.  
+  0 — menos de 10 empleados / A — $$10^10$$ empleados.
+
+- **Alcance**: escala eHex.  
+  *Define la extensión operativa; 0 = local, A = intersectorial.*
+
+- **Ingresos**: eHex dividido por 10^7 como % del GRP del sistema base.
+
+- **Riesgo** (para inversores):  
+  *0 = sin riesgo / A = zona de guerra.*
+
+- **Influencia** (en política local):  
+  *0 = sin influencia / A = control total.*
+
+- **Imagen pública**:  
+  *0 = enemigo público / A = favorito del pueblo.*
+
+- **Naturaleza**: tipo primario de actividad.
+
+- **Clasificación**: función dominante (producción, finanzas, logística...).
+
+- **I+D**: implicación en investigación.  
+  *0 = sin I+D / A = instituto de investigación.*
+
+- **Tradición**: estilo operativo.  
+  *0 = sin tradición / A = rígida herencia institucional.*
+
+- **Centralización**: estructura de mando.  
+  *0 = horizontal / A = autocrática.*
+
+- **Unidad**: coherencia interna.  
+  *0 = fragmentada / A = visión unificada.*
+
+- **Privacidad**: política informativa.  
+  *0 = completamente abierta / A = totalmente opaca.*
+
+- **Relación con empleados**:  
+  *0 = conflictiva / A = paternalista total.*
 
 
+
+
+
+
+
+Employees - eHex Powers of Tens
+Range - 0 = Local ...
+Revenue - eHex Powers of Tens divided by 10000000 as % GRP
+Risk - for investors > 0 risk free ... A true warzone risk
+
+Influence - on politics 0 no influent ... A total control
+Public Image - on people 0 public enemy ... A peoples' favorite
+
+Nature - various, primary/dominant type
+
+Classification - various, primary/dominant type
+
+R&D - interest on 0 no R&D ... A research institute
+Tradition - styles and changes on 0 no tradition ... A completely hirebound
+Centralisation - authority and reponsability 0 full horizontal ... A full executive
+Unity - opinion and thinking 0 personal opinion chaos ... A single united vision
+
+Privacy - company information policies from 0 totally open to A totally controlled
+Employee Relations - relations with staff and crew 0 antagonic / very poor to A totally paternalistic
 
 ***
