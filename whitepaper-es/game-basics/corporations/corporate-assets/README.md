@@ -36,5 +36,6 @@ La variedad de activos disponibles es enorme, y depende de los jugadores trazar 
 > Una sobreadquisición de activos puede descapitalizar la operación a corto plazo; por otro lado, operar sin reservas de activos adecuadas puede provocar problemas en períodos de escasez.
 
 {% hint style="info" %}
-Todas las corporaciones tienen asignado un paquete de activos iniciales, imprescindibles para la operación. Los jugadores pueden adquirir activos en el mercado, aportar capital (MCr o SOL) o tokens no fungibles (NFT) desde sus billeteras. [Leer más...](../../../tokenomics/tokens-no-fungibles-nft/)
+Todas las corporaciones tienen asignado un paquete de activos iniciales, imprescindibles para la operación.\
+Los jugadores pueden adquirir activos en el mercado del juego o aportar tokens MCr desde sus billeteras. [Leer más...](../../../tokenomics/tokens-no-fungibles-nft/)
 {% endhint %}

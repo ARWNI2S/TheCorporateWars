@@ -36,5 +36,6 @@ The range of available assets is vast, and it is up to the players to define acq
 > Overacquisition of assets can drain short-term capital, while operating without sufficient reserves can cause problems during periods of scarcity.
 
 {% hint style="info" %}
-All corporations are assigned an initial package of core assets, essential for basic operations. Players can acquire additional assets through the market, by contributing capital (MCr or SOL), or by transferring non-fungible tokens (NFTs) from their wallets. [Read more...](../../../tokenomics/tokens-no-fungibles-nft/)
+All corporations are assigned an initial package of core assets, essential for operations.\
+Players can acquire additional assets through the in-game market or contribute MCr tokens from their wallets. [Read more...](../../../tokenomics/tokens-no-fungibles-nft/)
 {% endhint %}
