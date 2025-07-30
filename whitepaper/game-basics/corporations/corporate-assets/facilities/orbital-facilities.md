@@ -30,4 +30,4 @@ Unlike planetary installations, orbital structures enable faster, safer, and mor
 
 They can manage cargo transit without relying on the surface, facilitate launches and landings, serve as telecommunications nodes, or function as bases for security and exploration operations.
 
-Their construction and maintenance require significant investment and legal authorization, often subject to regulations from local governments or Imperial _Allegiances_.
+Their construction and maintenance require significant investment and legal authorization, often subject to regulations from local governments or _Allegiances_.
