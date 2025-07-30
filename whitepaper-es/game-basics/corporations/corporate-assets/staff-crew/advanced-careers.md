@@ -1,5 +1,4 @@
 ---
-icon: user-helmet-safety
 cover: ../../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
@@ -23,13 +22,13 @@ layout:
 
 # Cargos Avanzados
 
-Algunos personajes van más allá de una carrera profesional convencional.
+Algunos personajes son individuos con una trayectoria única, formación poco común o experiencia en roles de alto impacto que van más allá de una carrera profesional convencional.
 
-Son individuos con trayectoria única, formación poco común o experiencia en roles de alto impacto.
+Capitanes veteranos, espías imperiales, agentes dobles, corsarios arrepentidos, nobles caídos en desgracia o ejecutivos con pasado militar: todos ellos representan perfiles excepcionales, difíciles de reclutar pero con un potencial disruptivo.
 
-Capitanes veteranos, espías imperiales, agentes dobles, corsarios arrepentidos, nobles caídos en desgracia o ejecutivos con pasado militar: todos ellos representan perfiles excepcionales, difíciles de reclutar, pero con potencial disruptivo.
+***
 
-Estos cargos avanzados ofrecen ventajas técticas, diplomáticas o logísticas que pueden cambiar el curso de una operación o reforzar significativamente una rama de la corporación.
+Los cargos avanzados ofrecen ventajas tácticas, diplomáticas o logísticas que pueden cambiar el curso de una operación o reforzar significativamente una rama de la corporación.
 
 Sin embargo, también traen consigo pasados complejos, lealtades difusas y riesgos inherentes.
 
