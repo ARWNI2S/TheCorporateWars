@@ -40,4 +40,6 @@ Regulan contratos, realizan arbitrajes o supervisan estándares industriales par
 
 Su grado de autoridad varía según la región, y en algunos casos, son poco más que figuras simbólicas sin capacidad real de hacer cumplir sus regulaciones sin el respaldo de _Lealtades_ y gobiernos.
 
+{% hint style="success" %}
 Cumplir con sus normativas y obtener su respaldo puede otorgar acceso a mercados exclusivos y protecciones legales, mientras que operar fuera de su marco implica riesgos significativos, desde sanciones hasta bloqueos comerciales o intervenciones directas.
+{% endhint %}

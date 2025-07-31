@@ -30,6 +30,8 @@ Some of these institutions originate from legacy agreements between _Allegiances
 
 Others have emerged from sustained practice, technical prestige, or the accumulated trust of their participants, consolidating themselves as legitimate actors without the need for formal backing.
 
+***
+
 ## In-Game Establishment
 
 For corporations in **The Corporate Wars**, these institutions can represent both a bureaucratic obstacle and a strategic tool.
@@ -38,4 +40,6 @@ They regulate contracts, conduct arbitration, or oversee industrial standards to
 
 Their degree of authority varies by region, and in some cases, they are little more than symbolic figures with no real enforcement capability without the support of _Allegiances_ and governments.
 
+{% hint style="success" %}
 Complying with their regulations and obtaining their endorsement can grant access to exclusive markets and legal protections, while operating outside their framework carries significant risks, ranging from sanctions to trade blockades or direct interventions.
+{% endhint %}
