@@ -77,6 +77,6 @@ Through its houses, corporations, and databanks, the Ziru Sirka can: fund initia
 
 For players, joining —or opposing— the Ziru Sirka is stepping into a chess game where every piece carries thousands of years of history, and where power is rarely exercised with direct violence, but always with definitive consequences.
 
-### Karamshidukagim (The Corporate Wars)
+### Karaamshidukagim (The Corporate Wars)
 
 The Vilani houses of the Ziru Sirka are reviving this ancient form of corporate conflict, invoking the war laws of the Third Imperium. Not as treason against the Imperium, but as its civilizing regulation.

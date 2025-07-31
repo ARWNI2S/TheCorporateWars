@@ -75,6 +75,6 @@ A través de sus casas, corporaciones y bancos de datos, el Ziru Sirka puede: fi
 
 Para los jugadores, formar parte del Ziru Sirka —o enfrentarse a él— es entrar en una partida de ajedrez en la que cada ficha tiene miles de años de historia, en la que el poder raramente se ejerce con violencia directa, pero siempre con consecuencias definitivas.
 
-### Karamshidukagim (Las Guerras Corporativas)
+### Karaamshidukagim (Las Guerras Corporativas)
 
 Las casas vilani del Ziru Sirka están reactivando esta antigua forma de conflicto corporativo, amparándose en las leyes de guerra del Tercer Imperio. No como traición al Tercer Imperio, sino como regulación -civilizadora- Imperial.
