@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# Corporations are _Polities_
+# Corporations are Polities
 
 Corporations operate as sovereign actors within the political and strategic fabric of Known Space.
 

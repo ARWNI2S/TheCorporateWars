@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# Corporaciones como _Políticas_
+# Corporaciones como Políticas
 
 Las corporaciones operan como actores soberanos dentro del entramado político y estratégico del Espacio Conocido.
 
