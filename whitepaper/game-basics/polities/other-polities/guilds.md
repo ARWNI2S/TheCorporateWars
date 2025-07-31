@@ -24,9 +24,9 @@ layout:
 
 Guilds are structured forms of cooperation that operate within the system as active _Polities_, with the same capabilities, rights, and consequences as any other in-game entity.
 
-By establishing themselves as _Polities_, guilds fully participate in the system’s hierarchical logic: they can aggregate or be aggregated by other _Polities_, control assets, exercise governance, and respond to dynamics of power, conflict, and cooperation.
+By establishing themselves as _Polities_, guilds fully participate in the system's hierarchical logic: they can aggregate or be aggregated by other _Polities_, control assets, exercise governance, and respond to dynamics of power, conflict, and cooperation.
 
-The internal structure of each guild is defined by its members—ranging from decentralized models based on cultural affinity or shared language to centralized systems with rotating leadership, operational councils, or frameworks inherited from previous organizations.
+The internal structure of each guild is defined by its members â€”ranging from decentralized models based on cultural affinity or shared language to centralized systems with rotating leadership, operational councils, or frameworks inherited from previous organizations.
 
 ***
 
