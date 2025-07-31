@@ -25,13 +25,13 @@ layout:
 
 El Mercado de Valores Interestelar es una institución milenaria que regula, centraliza y certifica la cotización de activos, participaciones y derivados financieros a escala intersistémica.
 
-Fundado en una era anterior, su origen exacto se ha perdido en la _Larga Noche_.
-
-Algunos registros lo sitúan en tiempos del Ziru Sirka, otros en periodos anteriores, incluso relacionados con mitos de los Precursores -_propaganda Vilani, dirian algunos_.
+> Fundado en una era anterior, su origen exacto se ha perdido en la _Larga Noche_. Algunos registros lo sitúan en tiempos del Ziru Sirka, otros en periodos anteriores, incluso relacionados con mitos de los Precursores —_propaganda vilani, según el DSI_.
 
 Opera desde hace milenios con jurisdicción reconocida en sectores conectados, y se sustenta en una red de agencias y cámaras de compensación distribuidas por las rutas comerciales vigentes.
 
 Su estructura está diseñada para mantener coherencia entre sistemas separados por semanas de tránsito, valiéndose de nodos de verificación, protocolos de replicación y agentes de arbitraje que viajan en rutas de salto.
+
+***
 
 A pesar de su antiguedad y alcance, el mercado funciona sobre datos inherentemente fragmentados y desfasados.
 
