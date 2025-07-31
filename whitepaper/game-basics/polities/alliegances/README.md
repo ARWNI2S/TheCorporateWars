@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# Allegiances
+# Alliegances
 
 **Allegiances** —the _factions_ of the political metagame— represent the interstellar powers of the universe.
 
@@ -30,7 +30,9 @@ An _Allegiance_ may have other minor _Allegiances_ under its orbit, either as af
 
 In addition to the great powers, there are _**pocket empires**_, **leagues**, **regional alliances**, and **client states**, among many others recognized as valid forms of _Allegiance_.
 
+{% hint style="warning" %}
 Every legitimate _Allegiance_ controls at least **two worlds and a jump route** between them, granting it territorial presence and operational capacity.
+{% endhint %}
 
 ***
 
