@@ -1,5 +1,4 @@
 ---
-icon: user-helmet-safety
 cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
@@ -31,10 +30,14 @@ En este entorno, la lealtad a la ley es a menudo una cuestión de pragmatismo, y
 
 ***
 
-Las leyes, en _The Corporate Wars_, emergen de la combinación entre Gobiernos, Lealtades e Instituciones. Los Gobiernos determinan qué tipo de autoridad impera en un sistema. Las Lealtades definen a quién responde esa autoridad. Las Instituciones —imperiales, locales o privadas— imponen reglas concretas que regulan el comercio, el tránsito y la propiedad.
+Las leyes, en _The Corporate Wars_, emergen de la combinación entre Gobiernos, _Lealtades_ e _Instituciones_.
 
-El resultado es un mosaico de sistemas legales, donde cada sector del espacio tiene sus propias normas sobre quién puede actuar, qué está permitido y qué se considera delito.
+Los Gobiernos determinan qué tipo de autoridad impera en un sistema; las _Lealtades_ definen a quién responde esa autoridad, y las _Instituciones_ —interestelares, locales o privadas— imponen reglas concretas que regulan el comercio, el tránsito y la propiedad.
 
-Incumplir estas reglas puede desencadenar consecuencias específicas: sanciones, embargos, confiscaciones, bloqueos aduaneros o intervención armada. Un contrato roto en un puerto puede convertirse en una orden de arresto en otro, o quedar impune si el jugador cruza a una jurisdicción sin tratado de extradición.
+El resultado es un mosaico de sistemas legales, donde cada mundo tiene sus propias normas sobre quién puede actuar, qué está permitido y qué se considera delito.
 
-Comprender y manipular estas dinámicas legales no es opcional: es parte del juego. Saber cuándo registrar una operación, cuándo sobornar a un burócrata o cuándo borrar un manifiesto de carga puede marcar la diferencia entre expandirse o ser desmantelado.
+Incumplir estas reglas puede desencadenar consecuencias específicas: sanciones, embargos, confiscaciones, bloqueos aduaneros o intervención armada.
+
+Un contrato roto en un puerto puede convertirse en una orden de arresto en otro, o quedar impune si cruza jurisdicciones sin tratados comunes.
+
+Comprender y manipular estas dinámicas legales es parte del juego: saber cuándo registrar una operación, cuándo sobornar a un burócrata o cuándo borrar un manifiesto de carga puede marcar la diferencia entre expandirse o ser desmantelado.
