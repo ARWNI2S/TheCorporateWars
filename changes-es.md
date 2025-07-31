@@ -80,7 +80,7 @@
       - [ ] Mercado de Valores
       - [ ] Grandes Inversiones
 - [ ] Políticas
-  - [ ] Las Corporaciones son Políticas
+  - [ ] Corporaciones como Políticas
   - [ ] Lealtades
     - [ ] El Tercer Imperio
       - [ ] Instituciones Imperiales

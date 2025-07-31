@@ -82,7 +82,7 @@
       * [Mercado de Valores](game-basics/corporations/corporate-assets/shares-grants/share-market.md)
       * [Grandes Inversiones](game-basics/corporations/corporate-assets/shares-grants/high-finance.md)
 * [Políticas](game-basics/polities/README.md)
-  * [Las Corporaciones son Políticas](game-basics/polities/players.md)
+  * [Corporaciones como Políticas](game-basics/polities/players.md)
   * [Jerarquías Políticas](game-basics/polities/other-polities/README.md)
     * [Clanes y Alianzas](game-basics/polities/other-polities/guilds.md)
   * [Lealtades](game-basics/polities/alliegances/README.md)

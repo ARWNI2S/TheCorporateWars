@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# Las Corporaciones son _Políticas_
+# Corporaciones como _Políticas_
 
 En **The Corporate Wars**, las corporaciones no son simples entidades comerciales: son _**Políticas**_ en pleno derecho.
 
