@@ -1,5 +1,4 @@
 ---
-icon: user-helmet-safety
 cover: ../../../.gitbook/assets/tcw-wip-banner.jpg
 coverY: 0
 layout:
@@ -25,9 +24,13 @@ layout:
 
 En **The Corporate Wars**, los gobiernos representan a las _Políticas_ con autoridad soberana sobre territorios, poblaciones y recursos.
 
-Su estructura y alcance varían desde pequeños estados resgionales hasta gobiernos interplanetarios que abarcan completamente su sistema estelar.
+Su estructura y alcance varían desde pequeños estados regionales hasta gobiernos interplanetarios que abarcan completamente su sistema estelar.
 
 Cada uno ejerce su poder mediante sistemas de leyes, fuerzas armadas y burocracias dedicadas a mantener el orden y gestionar sus dominios.
+
+***
+
+### Tipos de Gobierno
 
 La diversidad de formas de gobierno refleja las circunstancias históricas y culturales de cada mundo o coalición, desde monarquías heredadas hasta repúblicas funcionales o dictaduras militares.
 
@@ -45,7 +48,7 @@ Las corporaciones juegan un papel fundamental en esta ecuación.
 
 Muchas han adquirido derechos jurídicos que les permiten operar como estados de facto en territorios bajo su control, imponiendo sus propias normativas y regulaciones dentro de sus instalaciones, flotas y colonias.
 
-En algunos casos, las potencias galácticas delegan en ellas la administración de sistemas enteros, convirtióndolas en actores clave en la gestión del comercio, la seguridad y la diplomacia interestelar.
+En algunos casos, las potencias galácticas delegan en ellas la administración de sistemas enteros, convirtiéndolas en actores clave en la gestión del comercio, la seguridad y la diplomacia interestelar.
 
 ***
 
