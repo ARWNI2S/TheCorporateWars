@@ -28,15 +28,15 @@ Un nivel bajo implica tolerancia, dejadez o falta de medios; uno alto representa
 
 Sin embargo, la ley existe en todos los casos, se aplique más o menos: las infracciones pueden ser ignoradas por una autoridad local y perseguidas por otra.
 
-Las bases de datos compartidas, transmisiones interestelares y registros de tráfico permiten a las instituciones cruzar información y coordinar respuestas.
-
 ***
 
-En los mundos operan agentes, patrullas, inspectores y oficiales con autoridad legal.
+En los mundos operan agentes, patrullas, inspectores y oficiales con autoridad legal. Pueden detener, investigar, requisar o sancionar según el contexto. Algunos actúan por deber; otros, por contrato o encargo.
 
-Pueden detener, investigar, requisar o sancionar según el contexto. Algunos actúan por deber; otros, por contrato o encargo.
+Las bases de datos compartidas, transmisiones interestelares y registros de tráfico permiten a las instituciones cruzar información y coordinar respuestas.
 
+{% hint style="danger" %}
 Ser descubierto tiene consecuencias prácticas y estratégicas: sanciones, embargos, bloqueos, pérdida de reputación, revocación de licencias, detenciones o confiscación de bienes.
+{% endhint %}
 
 ***
 
