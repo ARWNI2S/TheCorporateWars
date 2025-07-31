@@ -115,7 +115,7 @@
     * [Hive Federation](game-basics/polities/alliegances/hive-federation/README.md)
       * [Psicohistory](game-basics/polities/alliegances/hive-federation/social-engineering.md)
   * [Governments](game-basics/polities/governments/README.md)
-    * [States and Sovereignty](game-basics/polities/governments/states.md)
+    * [Balkanizations](game-basics/polities/governments/states.md)
     * [Corporate Government](game-basics/polities/governments/corporate.md)
   * [Laws and Rules](game-basics/polities/governance/README.md)
     * [Compliance](game-basics/polities/governance/compliance.md)
