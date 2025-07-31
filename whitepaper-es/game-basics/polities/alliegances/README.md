@@ -30,7 +30,9 @@ Una _Lealtad_ puede tener bajo su órbita otras _Lealtades_ menores, ya sea como
 
 Además de las grandes potencias, existen _**imperios de bolsillo**_, **ligas**, **alianzas regionales** y **estados clientes**, entre muchos otros reconocidos como formas válidas de _Lealtad_.
 
+{% hint style="warning" %}
 Toda _Lealtad_ legítima controla al menos **dos mundos y una ruta de salto** entre ellos, lo que le otorga entidad territorial y capacidad operativa.
+{% endhint %}
 
 ***
 
