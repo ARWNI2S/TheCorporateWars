@@ -36,6 +36,6 @@ At the level of game governance, polities represent the abstraction of factions 
 
 Most high-level polities are primarily governed by artificial intelligence. However, players control lower-level entities —individual actors, corporations— that operate within the broader political ecosystem.
 
-The governance structures are designed to allow influence in both directions: bottom-up pressure can impact higher-scale decisions, while top-down directives shape the strategic environment in which players act.
+The system is designed to allow influence in both directions: bottom-up pressure can impact higher-scale decisions, while top-down directives shape the strategic environment in which players act.
 
-From this dynamic emerges [**Collaborative Individualism**](../../technologies/gameplay/compete-collaborate.md) in the form of a global political metagame: systemic reform, subversion, collaboration, or the coordinated drafting of regulations —turning the political metagame into a living, responsive layer of the simulation.
+From this dynamic emerges [**Collaborative Individualism**](../../technologies/gameplay/compete-collaborate.md) in the form of a global political metagame: systemic reform, subversion, collaboration, or the coordinated drafting of regulations —turning it into a living, responsive layer of the simulation.

@@ -34,8 +34,8 @@ Cada _Política_ actúa como un ente decisor: establece reglas, administra recur
 
 En el plano de gobernanza del juego, las _Políticas_ representan la abstracción de las facciones que los jugadores o la IA pueden manipular o integrar: desde consorcios corporativos hasta imperios interestelares, con capacidad para promulgar leyes, gestionar fronteras, intervenir en economías locales o liderar conflictos estratégicos.
 
-La mayoría de las políticas de alto nivel están gobernadas principalmente por inteligencia artificial. Sin embargo los jugadores controlan entidades de nivel inferior —actores individuales, corporaciones— que forman parte del ecosistema político más amplio.
+La mayoría de las políticas de alto nivel están gobernadas principalmente por inteligencia artificial. Los jugadores controlan entidades de nivel inferior —corporaciones como actores individuales— que forman parte del ecosistema político más amplio.
 
-Las estructuras de gobernanza están diseñadas para permitir la influencia en ambas direcciones: la presión desde abajo puede afectar las decisiones de escala mayor, mientras que las directivas desde arriba modelan el entorno estratégico en el que operan los jugadores.
+El sistema estan diseñado para permitir la influencia en ambas direcciones: la presión desde abajo puede afectar las decisiones de escala mayor, mientras que las directivas desde arriba modelan el entorno estratégico en el que operan los jugadores.
 
-De esta dinámica emerge el [Individualismo Colaborativo](../../technologies/gameplay/compete-collaborate.md) en forma de metajuego político global: reforma sistémica, subversión, colaboración o elaboración coordinada de regulaciones, convirtiendo al metajuego político en una dimensión viva y reactiva de la simulación.
+De esta dinámica emerge el [Individualismo Colaborativo](../../technologies/gameplay/compete-collaborate.md) en forma de metajuego político global: reforma sistémica, subversión, colaboración o elaboración coordinada de regulaciones, convirtiendolo en una dimensión viva y reactiva de la simulación.
