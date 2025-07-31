@@ -30,7 +30,7 @@ En este entorno, la lealtad a la ley es a menudo una cuestión de pragmatismo, y
 
 ***
 
-Las leyes, en _The Corporate Wars_, emergen de la combinación entre Gobiernos, _Lealtades_ e _Instituciones_.
+> Las leyes, en _The Corporate Wars_, emergen de la combinación entre Gobiernos, _Lealtades_ e _Instituciones_.
 
 Los Gobiernos determinan qué tipo de autoridad impera en un sistema; las _Lealtades_ definen a quién responde esa autoridad, y las _Instituciones_ —interestelares, locales o privadas— imponen reglas concretas que regulan el comercio, el tránsito y la propiedad.
 
@@ -40,4 +40,6 @@ Incumplir estas reglas puede desencadenar consecuencias específicas: sanciones,
 
 Un contrato roto en un puerto puede convertirse en una orden de arresto en otro, o quedar impune si cruza jurisdicciones sin tratados comunes.
 
+{% hint style="warning" %}
 Comprender y manipular estas dinámicas legales es parte del juego: saber cuándo registrar una operación, cuándo sobornar a un burócrata o cuándo borrar un manifiesto de carga puede marcar la diferencia entre expandirse o ser desmantelado.
+{% endhint %}
