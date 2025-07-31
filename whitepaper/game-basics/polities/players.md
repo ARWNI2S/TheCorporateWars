@@ -36,7 +36,7 @@ _Polities_ are the foundational entities through which we model gameplay: they s
 
 A corporation as a _Polity_ allows for the structural application of gameplay principles, logic, and mechanics, integrating all levels of metagame from this layer and enabling players to interact with the game universe via data visualization, tuning, and control interfaces.
 
-This design allows the AI to treat all _Polities_ as actors grouped into leadership hierarchies—factions, clans, groups, sides—with varying degrees of autonomy, responsibility, and governance, enabling the system to contextualize narrative cycles and adjust autonomous gameplay strategies based on player participation.
+This design allows the AI to treat all _Polities_ as actors grouped into leadership hierarchies —factions, clans, groups, sides— with varying degrees of autonomy, responsibility, and governance, enabling the system to contextualize narrative cycles and adjust autonomous gameplay strategies based on player participation.
 
 _Allegiances_ and _Institutions_ controlled by the system's AI aggregate numerous player-controlled corporations, which are treated as _assets_ in practical terms and participate in high-level strategies deployed by the AI for those factions.
 

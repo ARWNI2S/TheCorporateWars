@@ -20,12 +20,20 @@ layout:
     visible: true
 ---
 
-# Clanes y Alianzas
+# Alianzas de Jugadores
 
-Clanes y alianzas son agrupaciones de jugadores que operan como _políticas_ dentro del juego, con los mismos derechos, capacidades y consecuencias que cualquier otra estructura del sistema.
+Las alianzas de jugadores son formas estructuradas de cooperación que operan dentro del sistema como _Políticas_ activas, con las mismas capacidades, derechos y consecuencias que cualquier otra entidad del juego.
 
-Pueden adoptar formas reconocibles—consorcios, trusts, federaciones logísticas, comunidades religiosas, redes culturales o modelos híbridos— y desplegar su influencia en función de cómo estructuren su presencia en el entorno.
+Al constituirse como _Políticas_, estas alianzas participan plenamente de la lógica jerárquica del sistema: pueden agregar o ser agregadas por otras _Políticas_, controlar activos, ejercer gobernanza y responder ante dinámicas de poder, conflicto y cooperación.
 
-Estas organizaciones funcionan como cualquier otra _política_ operativa: controlan activos, establecen rutas, firman contratos, ejercen presión, se fragmentan o se consolidan según sus intereses y capacidades.
+La estructura interna de cada alianza es definida por sus miembros: desde modelos descentralizados basados en afinidad cultural o lenguaje compartido, hasta sistemas centralizados con liderazgo rotativo, consejos operativos o estructuras heredadas de organizaciones previas.
 
-Su forma interna depende de la voluntad de sus miembros. Su alcance, de su capacidad para actuar con continuidad y cohesión.
+***
+
+El sistema reconoce a estas agrupaciones como actores plenos dentro del ecosistema político y estratégico del juego, afectando el desarrollo de los ciclos narrativos de sus miembros y adaptando las estrategias de colaboración y competencia entre ellos.
+
+Pueden competir por influencia, establecer zonas de operación, intervenir en conflictos locales o negociar acuerdos con otras _Políticas_.
+
+{% hint style="success" %}
+La continuidad, cohesión y capacidad de acción colectiva de una alianza definen su relevancia y evolución como fuerza emergente dentro del Espacio Conocido.
+{% endhint %}

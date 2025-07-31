@@ -22,16 +22,23 @@ layout:
 
 # Jerarquías Políticas
 
-Además de los _gobiernos_ formales, las _corporaciones_ reconocidas, las _instituciones_ establecidas y las grandes _lealtades_, existen estructuras políticas menores que ejercen influencia real en el espacio conocido.
+Las _Políticas_ son estructuras orgánicas capaces de agrupar a otras _Políticas_ bajo su esfera de control.
 
-Son holdings, trusts, coaliciones religiosas, movimientos culturales, sindicatos transestelares, órdenes filosóficas, linajes hereditarios o simples facciones bien organizadas.
+Esta capacidad permite construir jerarquías funcionales: desde corporaciones con múltiples subsidiarias hasta alianzas interestelares formadas por planetas soberanos, como las _Lealtades_.
 
-No tienen estatus soberano ni control administrativo formal sobre territorios enteros, pero su capacidad para coordinar recursos, personas e ideas les otorga peso político en el juego.
+Las _Políticas_ agregadas quedan subordinadas a la _Política_ que las agrega, que define los parámetros de relación, su gobernanza, auditoría y cumplimiento conjunto.
 
-Estas entidades operan en paralelo a las jerarquías tradicionales, a menudo incrustadas dentro de ellas.
+Esta estructura modela un comportamiento colectivo emergente, estructurado a partir de principios de composición, integración y dependencia.
 
-Un holding puede controlar puertos sin gobernar un mundo; una religión puede marcar las decisiones de una población sin necesidad de leyes; una cultura extendida puede servir de red informal para el comercio, el espionaje o la migración.
+***
 
-En términos de juego, estas políticas menores son actores independientes con objetivos propios.
+> _Lealtades_, gobiernos planetarios, grupos religiosos, consorcios comerciales, partidos políticos, ejércitos revolucionarios, organizaciones criminales, redes de piratería, clanes nómadas, sectas tecnocráticas, federaciones mercantiles, fundaciones científicas o bloques sindicales…\
+> —son ejemplos de _Políticas_ que se articulan entre sí, formando ecosistemas dinámicos de poder, cooperación y conflicto.
 
-Pueden mediar, interferir o desestabilizar cualquier operación en curso, y ofrecer rutas de acceso que no dependen de la autoridad oficial.
+El sistema no impone una forma única de organización: permite desde la descentralización de _Lealtades_ —_Extensiones Vargr_— hasta hegemonías verticales —_Consulado Zhodani_.
+
+Las dinámicas internas resultan de la configuración específica de cada jerarquía: delegación de funciones, distribución de recursos, niveles de autonomía o mecanismos de auditoría.
+
+{% hint style="info" %}
+Esta lógica compositiva —basada en integración jerárquica— constituye el principio estructural del sistema de _Políticas_ y una de las claves para escalar la jugabilidad desde operaciones locales hasta estrategias de alcance interestelar.
+{% endhint %}

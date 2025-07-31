@@ -119,7 +119,7 @@
     - [ ] Concilio Galáctico de las Ciencias
     - [ ] Mercado de Valores Interestelar
   - [ ] Jerarquías Políticas
-    - [ ] Clanes y Alianzas
+    - [ ] Alianzas de Jugadores
 
 ## Tecnología Implicada
 
