@@ -135,7 +135,7 @@
   * [Third Survey Database](technologies/solana-network/third-survey-data.md)
   * [The Outdated Information Model](technologies/solana-network/outdated-information-model.md)
   * [Governance Layers](technologies/solana-network/multilayer-governance/README.md)
-    * [Scholarships](technologies/solana-network/multilayer-governance/scholarships.md)
+    * [Dynamic Dependencies](technologies/solana-network/multilayer-governance/scholarships.md)
   * [Self-Sustainable Economy](technologies/solana-network/sustainable-economy/README.md)
     * [Algorithmical Balance](technologies/solana-network/sustainable-economy/hayek-money.md)
     * [Financial Systems](technologies/solana-network/sustainable-economy/banking-system.md)

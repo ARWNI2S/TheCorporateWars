@@ -21,7 +21,7 @@ Por analogía e inspiración, podemos expresar las _dependencias dinámicas de g
 
 > Este modelo permite a jugadores nuevos o especializados integrarse en operaciones complejas sin requerir una inversión inicial propia.
 
-### Split
+#### Split
 
 En el modelo, **Split** representa el acuerdo de reparto de beneficios, y puede estructurarse de múltiples formas:
 
