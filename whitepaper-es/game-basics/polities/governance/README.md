@@ -26,7 +26,7 @@ A pesar de los intentos por mantener el orden, la inmensidad del espacio y las b
 
 En las fronteras más alejadas, la influencia de los grandes gobiernos se diluye, dando lugar a territorios donde la autoridad es disputada entre facciones, piratas, milicias y consorcios corporativos.
 
-En este entorno, la lealtad a la ley es a menudo una cuestión de pragmatismo, y la supervivencia depende de la capacidad para navegar las complejas dinámicas del poder interestelar.
+En este entorno, el cumplimiento de la ley es a menudo una cuestión de pragmatismo, y la supervivencia depende de la capacidad para navegar las complejas dinámicas del poder interestelar.
 
 ***
 
