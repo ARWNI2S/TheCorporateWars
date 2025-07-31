@@ -135,7 +135,7 @@
   * [Base de Datos del Tercer Censo](technologies/solana-network/third-survey-data.md)
   * [El Modelo de Información Desfasada](technologies/solana-network/outdated-information-model.md)
   * [Capas de Governanza](technologies/solana-network/multilayer-governance/README.md)
-    * [Scholarships](technologies/solana-network/multilayer-governance/scholarships.md)
+    * [Dependencias Dinámicas](technologies/solana-network/multilayer-governance/scholarships.md)
   * [Economía Autosostenible](technologies/solana-network/sustainable-economy/README.md)
     * [Estabilización Algorítmica](technologies/solana-network/sustainable-economy/hayek-money.md)
     * [Sistemas Financieros](technologies/solana-network/sustainable-economy/banking-system.md)
