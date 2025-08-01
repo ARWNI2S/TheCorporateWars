@@ -120,8 +120,8 @@
   * [Reglas y Leyes](game-basics/polities/governance/README.md)
     * [Cumplimiento](game-basics/polities/governance/compliance.md)
   * [Instituciones Establecidas](game-basics/polities/institutions/README.md)
-    * [Concilio Galáctico de las Ciencias](game-basics/polities/institutions/science-council.md)
     * [Mercado de Valores Interestelar](game-basics/polities/institutions/ise.md)
+    * [Concilio Galáctico de las Ciencias](game-basics/polities/institutions/science-council.md)
 * [Mecánicas Avanzadas](game-basics/advanced-mechanics/README.md)
 
 ## Tecnología Implicada <a href="#technologies" id="technologies"></a>
