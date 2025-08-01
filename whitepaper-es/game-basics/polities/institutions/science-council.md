@@ -40,7 +40,9 @@ En **The Corporate Wars**, el **Concilio Galáctico de las Ciencias** representa
 
 Los jugadores pueden interactuar con el Concilio para registrar descubrimientos, obtener patentes o validar tecnologías ante terceros.
 
-El reconocimiento del Concilio desbloquea beneficios mecánicos como bonificaciones a reputación académica, preferencia en licitaciones científicas, protección legal frente a disputas de propiedad intelectual, e incluso acceso a subvenciones o programas de colaboración transestelar.
+{% hint style="success" %}
+El reconocimiento del Concilio desbloquea beneficios mecánicos como bonificaciones a reputación académica, preferencia en licitaciones científicas, protección legal frente a disputas de propiedad intelectual, e incluso acceso a subvenciones o programas de colaboración interestelar.
+{% endhint %}
 
 Además, el Concilio puede servir como árbitro neutral en conflictos científicos o como fuente de contratos de investigación, permitiendo a los jugadores aprovechar logros técnicos como herramientas diplomáticas, propagandísticas o comerciales.
 
