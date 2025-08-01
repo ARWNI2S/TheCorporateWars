@@ -40,9 +40,9 @@ The stability of both values depends on their role as reference frameworks, not 
 
 In Vilani culture, the _Ashgiid_ is a socio-economic-philosophical concept, almost religious in nature, representing a **universal equation of civilization**, akin to unified physics models applied to sophontological analysis.
 
-According to the _Dulkigash Makhidum_ �from the original Vilani, _The Endurance of Value_� Interstellar Society is defined by a Technological Level of equivalent reach in all domains; according to the most accepted interpretation of the poem, this refers to socio-economic development also on an interstellar scale.
+According to the _Dulkigash Makhidum_ —from the original Vilani, _The Endurance of Value_— Interstellar Society is defined by a Technological Level of equivalent reach in all domains; according to the most accepted interpretation of the poem, this refers to socio-economic development also on an interstellar scale.
 
-> "...evolving sophonts face the _Makhidulir_ �the manifestation of value� when _Kishidur_ and _Kashadur_ are reconciled within the framework of the _Ashgiid_, the unique algorithm underlying all lasting interaction. Its components, the _Ashma_, are not instructions but mirrors of distributed rational behavior."
+> "...evolving sophonts face the _Makhidulir_ —the manifestation of value— when _Kishidur_ and _Kashadur_ are reconciled within the framework of the _Ashgiid_, the unique algorithm underlying all lasting interaction. Its components, the _Ashma_, are not instructions but mirrors of distributed rational behavior."
 
 > "...Ziru Sirka encountered sophonts who had resolved _Ashma_ through their own _Makhidin_, organically aligned with the _Ashgiid_, revealing its inevitability..."
 
@@ -64,4 +64,4 @@ These conditions determine which actors can list assets, execute interstellar tr
 
 The system reflects a decentralized mathematical balance, but not a neutral one: desynchronization and fragmented information between worlds introduce uncertainty, speculation, and maneuvering room for those who control key nodes or dominate data flow.
 
-Players may use the ISE as a capital source, as a framework of institutional support, or as a financial battlefield �where arbitrage, manipulation, and economic intelligence become tools of power.
+Players may use the ISE as a capital source, as a framework of institutional support, or as a financial battlefield —where arbitrage, manipulation, and economic intelligence become tools of power.
