@@ -64,4 +64,6 @@ These conditions determine which actors can list assets, execute interstellar tr
 
 The system reflects a decentralized mathematical balance, but not a neutral one: desynchronization and fragmented information between worlds introduce uncertainty, speculation, and maneuvering room for those who control key nodes or dominate data flow.
 
+{% hint style="success" %}
 Players may use the ISE as a capital source, as a framework of institutional support, or as a financial battlefield —where arbitrage, manipulation, and economic intelligence become tools of power.
+{% endhint %}
