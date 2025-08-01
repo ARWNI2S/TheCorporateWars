@@ -64,4 +64,6 @@ Estas condiciones definen qué actores tienen capacidad de cotizar activos, ejec
 
 El sistema refleja un equilibrio matemático descentralizado, pero no neutral: el desfase y la fragmentación informativa entre mundos introducen incertidumbre, especulación y margen de maniobra para quienes controlan los nodos clave o dominan el flujo de datos.
 
+{% hint style="success" %}
 Los jugadores pueden usar el MVI como fuente de capital, como red de respaldo institucional o como campo de juego financiero, donde el arbitraje, la manipulación y la inteligencia económica se convierten en herramientas de poder.
+{% endhint %}
