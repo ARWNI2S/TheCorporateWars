@@ -40,9 +40,10 @@ In **The Corporate Wars**, the **Galactic Council of Sciences** represents a sou
 
 Players can interact with the Council to register discoveries, secure patents, or validate technologies before third parties.
 
+{% hint style="success" %}
 Council recognition unlocks mechanical benefits such as bonuses to academic reputation, preference in scientific tenders, legal protection in intellectual property disputes, and even access to grants or transstellar research programs.
+{% endhint %}
 
 The Council may also act as a neutral arbiter in scientific conflicts or as a source of research contracts, enabling players to leverage technical achievements as tools for diplomacy, propaganda, or commerce.
 
 It holds no military or executive power, but its validation can tip the balance in large-scale political, economic, or epistemological disputes.
-
