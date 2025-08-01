@@ -22,7 +22,7 @@ layout:
 
 # Instituciones Establecidas
 
-En el Espacio Conocido existen **Instituciones Establecidas** que no se encuentran alineadas a ninguna _Lealtad_.
+En el Espacio Cartografiado existen **Instituciones Establecidas** que no se encuentran alineadas a ninguna _Lealtad_.
 
 Estas instituciones son atemporales y han sido mantenidas por las distintas civilizaciones a lo largo de la historia de la Sociedad Interestelar.
 

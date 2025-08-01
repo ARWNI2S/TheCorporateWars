@@ -25,7 +25,7 @@ layout:
 
 # Estrellas y Mundos
 
-El **Espacio Conocido** está compuesto por innumerables sistemas planetarios, cada uno con su propia combinación de estrellas, planetas, lunas y cuerpos menores.
+El **Espacio Cartografiado** está compuesto por innumerables sistemas planetarios, cada uno con su propia combinación de estrellas, planetas, lunas y cuerpos menores.
 
 ***
 

@@ -23,7 +23,7 @@ layout:
 
 # Fuerzas Armadas Imperiales
 
-Las Fuerzas Armadas del Tercer Imperio son el instrumento militar con el que se protege, proyecta y preserva la hegemonía imperial a lo largo del espacio conocido.
+Las Fuerzas Armadas del Tercer Imperio son el instrumento militar con el que se protege, proyecta y preserva la hegemonía imperial a lo largo del Espacio Cartografiado.
 
 Su estructura refleja el carácter tecnocrático y descentralizado del Imperio, actuando más como guardianes de la estabilidad interestelar que como fuerza de ocupación directa sobre los mundos.
 

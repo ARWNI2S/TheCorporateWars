@@ -22,7 +22,7 @@ layout:
 
 # k'Kree
 
-Los **k'Kree** son una de las especies mayores del Espacio Conocido, reconocibles por sus seis extremidades y apariencia de centauros, su sociedad fuertemente gregaria y su extrema ideología vegana.
+Los **k'Kree** son una de las especies mayores del Espacio Cartografiado, reconocibles por sus seis extremidades y apariencia de centauros, su sociedad fuertemente gregaria y su extrema ideología vegana.
 
 Originarios del planeta _Kirur_, los k'Kree han construido un vasto imperio interestelar conocido como **Los Dos Mil Mundos**, movidos por una ideología expansiva centrada en la pureza herbívora.
 

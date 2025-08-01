@@ -35,5 +35,5 @@ El sistema reconoce a estas agrupaciones como actores plenos dentro del ecosiste
 Pueden competir por influencia, establecer zonas de operación, intervenir en conflictos locales o negociar acuerdos con otras _Políticas_.
 
 {% hint style="success" %}
-La continuidad, cohesión y capacidad de acción colectiva de una alianza definen su relevancia y evolución como fuerza emergente dentro del Espacio Conocido.
+La continuidad, cohesión y capacidad de acción colectiva de una alianza definen su relevancia y evolución como fuerza emergente dentro del Espacio Cartografiado.
 {% endhint %}

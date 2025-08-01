@@ -22,7 +22,7 @@ layout:
 
 # Corporaciones como Políticas
 
-Las corporaciones operan como actores soberanos dentro del entramado político y estratégico del Espacio Conocido.
+Las corporaciones operan como actores soberanos dentro del entramado político y estratégico del Espacio Cartografiado.
 
 A medida que progresa el juego, las corporaciones pueden **gobernar mundos**, establecer **holdings**, financiar **subsidiarias** y participar progresivamente en sistemas de juego que, en un principio, no eran visibles, accesibles o se percibían como dominio exclusivo de la IA.
 

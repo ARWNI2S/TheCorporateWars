@@ -22,7 +22,7 @@ layout:
 
 # Auditar Mundos
 
-Auditar mundos forma parte del esfuerzo de _Políticas_ y _Lealtades_ para registrar, actualizar y publicar la información de los mundos dentro del Espacio Conocido.
+Auditar mundos forma parte del esfuerzo de _Políticas_ y _Lealtades_ para registrar, actualizar y publicar la información de los mundos dentro del Espacio Cartografiado.
 
 Esta auditoría no solo recoge datos técnicos, sino que busca entender cómo han evolucionado las sociedades planetarias, sus recursos, desafíos y oportunidades desde los anteriores censos.
 

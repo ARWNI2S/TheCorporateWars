@@ -24,7 +24,7 @@ layout:
 
 In an Empire of over eleven thousand worlds, where jump ships are the arteries connecting scattered civilizations, information **never** arrives instantly.
 
-No matter how advanced the technology, no civilization of the Third Imperium —nor any other _Allegiance_— has found a way to overcome a fundamental law of Charted Space:
+No matter how advanced the technology, no civilization of the Third Imperium —nor any other _Allegiance_— has found a way to overcome a fundamental law of the universe:
 
 > **Information cannot travel faster than light.**
 

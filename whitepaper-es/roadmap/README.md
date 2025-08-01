@@ -27,7 +27,7 @@ Los principios fundamentales para el diseño de la simulación y sus interaccion
 
 A partir de esta base sólida, el proyecto avanzará en la incorporación gradual de sistemas de juego:
 
-- Visualización 3D del mapa del Espacio Conocido, con LOD de alta densidad y level streaming dinámico.
+- Visualización 3D del mapa del Espacio Cartografiado, con LOD de alta densidad y level streaming dinámico.
 - Superdetallado de superficies planetarias e instalaciones.
 - Sistemas de diseño de productos en general, arquitectura naval, fabricación, I+D.
 - Modos de edición para interiores.

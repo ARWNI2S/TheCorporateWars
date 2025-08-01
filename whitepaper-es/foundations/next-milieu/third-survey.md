@@ -31,7 +31,7 @@ El **Segundo Censo (Second Survey)** ha sido una actualización sistemática, qu
 
 Y ahora, en el presente, el **Tercer Censo Estelar (Third Survey)** ha comenzado:
 
-Una iniciativa monumental del Servicio de Exploración Interestelar Imperial en colaboración con el sector privado, el **Hakyeahtaorl**, la **Driantia Dazhia**, los **Dos Mil Mundos**, e incluso **SolSec**, para cartografiar no solo el espacio conocido, sino también los mundos marginales, las fronteras olvidadas y los enclaves que quedaron atrás en la Larga Noche.
+Una iniciativa monumental del Servicio de Exploración Interestelar Imperial en colaboración con el sector privado, el **Hakyeahtaorl**, la **Driantia Dazhia**, los **Dos Mil Mundos**, e incluso **SolSec**, para cartografiar no solo el Espacio Cartografiado, sino también los mundos marginales, las fronteras olvidadas y los enclaves que quedaron atrás en la Larga Noche.
 
 ***
 

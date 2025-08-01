@@ -22,7 +22,7 @@
     - [X] Pre-Estelar
     - [X] El Impulsor de Salto
     - [X] Nivel Cero
-- [X] El Espacio Conocido
+- [X] El Espacio Cartografiado
   - [X] Estrellas y Mundos
     - [X] Planetas y Lunas
       - [X] Auditar Mundos

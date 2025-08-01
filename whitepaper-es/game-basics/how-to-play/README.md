@@ -38,7 +38,7 @@ El juego entrelaza simulación económica, estrategia territorial y narrativa em
 
 Una partida de **The Corporate Wars** es una experiencia de juego en tiempo real que se desarrolla en un universo compartido y persistente, en el que el tiempo transcurre aunque los jugadores no estén conectados y los eventos se dan independientemente del estado de la sesión.
 
-Los jugadores registran una _Política_ corporativa afiliada a una de las _Lealtades_ —grandes potencias, alianzas y demás facciones— del espacio conocido.
+Los jugadores registran una _Política_ corporativa afiliada a una de las _Lealtades_ —grandes potencias, alianzas y demás facciones— del Espacio Cartografiado.
 
 Autorizada con una _licencia_ operativa —o más— a establecerse en las _instalaciones_ desde las que realizará dicha operación, la _Política_ deberá gestionarlas de forma eficiente: el jugador equilibrará costes e ingresos, enfrentará riesgos, recogerá beneficios y asumirá pérdidas.
 

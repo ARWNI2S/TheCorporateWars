@@ -2,7 +2,7 @@
 
 Con el cierre del evento **Milieu 0**, el sistema ya dispone de una base estructural funcional, económica y técnica: las _Políticas_ iniciales han sido desplegadas, las rutas principales establecidas y los primeros mundos estructuralmente respaldados.
 
-A partir de aquí se abre una nueva etapa histórica y de desarrollo que coincidirá con el **Segundo Censo (Second Survey)**, abarcando el escenario completo de _Traveller™_, no solamente el Tercer Imperio, sino todas las demás _Lealtades_ del Espacio Conocido.
+A partir de aquí se abre una nueva etapa histórica y de desarrollo que coincidirá con el **Segundo Censo (Second Survey)**, abarcando el escenario completo de _Traveller™_, no solamente el Tercer Imperio, sino todas las demás _Lealtades_ del Espacio Cartografiado.
 
 > El **Segundo Censo (Second Survey)** representa el esfuerzo sistemático por cartografiar la totalidad del Tercer Imperio y registrar los mundos aún no integrados formalmente al sistema central.
 
@@ -28,7 +28,7 @@ Este cliente será la base sobre la cual se construirán los sistemas de gamepla
 
 ## Segundo Censo
 
-Durante el **Segundo Censo (Second Survey)** se completa el proceso de registro de todos los mundos del Espacio Conocido.\
+Durante el **Segundo Censo (Second Survey)** se completa el proceso de registro de todos los mundos del Espacio Cartografiado.\
 Esto implica:
 
 * inclusión estructural de mundos hasta completar el mapa galáctico,

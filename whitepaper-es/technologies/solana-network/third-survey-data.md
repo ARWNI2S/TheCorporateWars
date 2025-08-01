@@ -22,7 +22,7 @@ layout:
 
 # Base de Datos del Tercer Censo
 
-El Tercer Censo es el núcleo estructural del universo simulado en **The Corporate Wars**. No se trata de un simple catálogo de planetas ni de un mapa de rutas, sino de una base de datos activa, descentralizada y asincrónica, que modela los elementos físicos y lógicos del espacio conocido.
+El Tercer Censo es el núcleo estructural del universo simulado en **The Corporate Wars**. No se trata de un simple catálogo de planetas ni de un mapa de rutas, sino de una base de datos activa, descentralizada y asincrónica, que modela los elementos físicos y lógicos del Espacio Cartografiado.
 
 {% hint style="info" %}
 Define qué existe, qué está conectado y quién puede ejercer autoridad sobre qué.

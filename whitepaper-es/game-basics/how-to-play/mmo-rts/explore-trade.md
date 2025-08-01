@@ -22,7 +22,7 @@ layout:
 
 # Exploración y Comercio
 
-El espacio conocido no es estático: hay mundos por descubrir, rutas aún no reclamadas, nodos económicos sin conectar y regiones enteras que aún no están integradas en ninguna red corporativa.
+El Espacio Cartografiado no es estático: hay mundos por descubrir, rutas aún no reclamadas, nodos económicos sin conectar y regiones enteras que aún no están integradas en ninguna red corporativa.
 
 En esta capa del juego, los jugadores descubren, reclaman y conectan mundos, nodos y rutas, convirtiendo lo desconocido en parte de su red de operaciones.
 

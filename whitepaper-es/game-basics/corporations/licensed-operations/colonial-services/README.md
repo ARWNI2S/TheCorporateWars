@@ -29,7 +29,7 @@ _Los mundos en desarrollo_, los recién contactados y las nuevas colonias requie
 
 _Los mundos con climas extremos_, atmósferas exóticas o escasos de recursos requieren importaciones tecnológicas, implantación, gestión, mantenimiento y administración de múltiples servicios para garantizar la supervivencia de la colonia.
 
-En _los mundos desarrollados_ del Espacio Conocido, los gobiernos practican extensamente la subcontratación de servicios desde las eras pre-estelares.
+En _los mundos desarrollados_ del Espacio Cartografiado, los gobiernos practican extensamente la subcontratación de servicios desde las eras pre-estelares.
 
 Estos servicios incluyen suministro de energía, gestión de residuos, distribución de agua potable, soporte vital, comunicaciones y logística, entre otras muchas necesidades específicas.
 

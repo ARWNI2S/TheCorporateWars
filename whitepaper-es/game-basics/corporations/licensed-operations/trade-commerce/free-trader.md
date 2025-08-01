@@ -32,4 +32,4 @@ Un jugador con esta licencia puede asumir contratos comerciales —con responsab
 
 La clave del éxito está en la reputación: cumplir plazos, proteger las cargas y mantener relaciones estables con corredores y autoridades abre nuevas rutas y oportunidades.
 
-Fallar puede cerrar puertas y marcar a la corporación como poco fiable, algo difícil de revertir en los circuitos comerciales del Espacio Conocido.
+Fallar puede cerrar puertas y marcar a la corporación como poco fiable, algo difícil de revertir en los circuitos comerciales del Espacio Cartografiado.

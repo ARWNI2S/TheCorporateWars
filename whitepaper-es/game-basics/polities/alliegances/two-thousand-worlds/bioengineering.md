@@ -23,7 +23,7 @@ layout:
 
 # Bioingeniería
 
-La civilización K’kree ha desarrollado una de las tradiciones más avanzadas de **bioingeniería aplicada a terraformación** del espacio conocido. A diferencia de otros pueblos que modifican mundos para adaptarlos a sí mismos, los K’kree modifican mundos para cumplir con su doctrina.
+La civilización K’kree ha desarrollado una de las tradiciones más avanzadas de **bioingeniería aplicada a terraformación** del Espacio Cartografiado. A diferencia de otros pueblos que modifican mundos para adaptarlos a sí mismos, los K’kree modifican mundos para cumplir con su doctrina.
 
 Esta doctrina es clara: un mundo habitado debe ser herbívoro, respirable y sin presencia de carnívoros. Para ello, aplican una ingeniería biológica total: reconfiguran ecologías planetarias completas, extinguen especies, rediseñan cadenas tróficas, y si es necesario, modifican la genética vegetal para adaptarla a ecosistemas enteramente nuevos.
 

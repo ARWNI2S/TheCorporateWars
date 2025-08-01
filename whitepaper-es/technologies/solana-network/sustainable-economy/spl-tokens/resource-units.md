@@ -117,7 +117,7 @@ Este número de RU 'por planeta' nos garantiza que cada **mundo** —abstracció
 
 > Los cálculos efectuados representan los _límites_ del sistema, pero no son las cifras reales que el sistema va a manejar.
 
-Aunque solo podemos aproximar una cifra, el Espacio Conocido en el año 1201 del Tercer Imperio abarca alrededor de `80,000` mundos repartidos en unos 1.000 Sectores.
+Aunque solo podemos aproximar una cifra, el Espacio Cartografiado en el año 1201 del Tercer Imperio abarca alrededor de `80,000` mundos repartidos en unos 1.000 Sectores.
 
 Esto representa una reserva —orientativa— de RU máximos asignables:
 
@@ -139,7 +139,7 @@ No todos los mundos estarán cartografiados exhaustivamente, ni todos habrán si
 
 ### "_Minería_ de RU"
 
-Explorar las fronteras del espacio conocido implica el descubrimiento de nuevos mundos, el primer contacto con civilizaciones y otros elementos jugables.
+Explorar las fronteras del Espacio Cartografiado implica el descubrimiento de nuevos mundos, el primer contacto con civilizaciones y otros elementos jugables.
 
 Internamente, el sistema despliega procesos jugables que consumen MCr —directa o indirectamente— con el objetivo de establecer los **mínimos necesarios** para el registro del mundo descubierto en el **Tercer Censo (Third Survey)**.
 

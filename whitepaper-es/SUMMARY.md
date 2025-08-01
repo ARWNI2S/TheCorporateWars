@@ -24,7 +24,7 @@
     * [Pre-Estelar](foundations/interstellar-community/tech-levels/pre-stellar.md)
     * [El Impulsor de Salto](foundations/interstellar-community/tech-levels/jump-drive.md)
     * [Nivel Cero](foundations/interstellar-community/tech-levels/tech-zero.md)
-* [El Espacio Conocido](foundations/charted-space/README.md)
+* [El Espacio Cartografiado](foundations/charted-space/README.md)
   * [Viaje Espacial](foundations/charted-space/space-travel/README.md)
     * [Astronaves y Espacionaves](foundations/charted-space/space-travel/starships/README.md)
       * [Sistema de Arquitectura Naval](foundations/charted-space/space-travel/starships/naval-architect.md)

@@ -40,7 +40,7 @@ Algunos gobiernos promueven mercados abiertos, aplicando aranceles bajos y fomen
 
 En ciertos mundos, la ley es flexible y favorable a las inversiones extranjeras; en otros, la xenofobia o el aislamiento cultural dificultan cualquier trato con forasteros.
 
-Estas condiciones definen los riesgos y las oportunidades de operar en cada jurisdicción y convierten la navegación por el espacio conocido en un juego constante de diplomacia, adaptación y estrategia.
+Estas condiciones definen los riesgos y las oportunidades de operar en cada jurisdicción y convierten la navegación por el Espacio Cartografiado en un juego constante de diplomacia, adaptación y estrategia.
 
 ***
 

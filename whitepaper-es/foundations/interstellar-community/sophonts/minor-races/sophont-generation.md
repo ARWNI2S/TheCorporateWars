@@ -28,7 +28,7 @@ El universo de juego cuenta con un sistema dedicado a la creación de sofontes: 
 
 ***
 
-A medida que se amplía el mapa del Espacio Conocido, cada nuevo rincón explorado trae consigo culturas únicas, desafíos impredecibles y oportunidades inesperadas, enriqueciendo el contenido y la experiencia de juego.
+A medida que se amplía el mapa del Espacio Cartografiado, cada nuevo rincón explorado trae consigo culturas únicas, desafíos impredecibles y oportunidades inesperadas, enriqueciendo el contenido y la experiencia de juego.
 
 {% hint style="success" %}
 Gracias a este enfoque, cada sofonte creado se integra de manera orgánica al ecosistema galáctico, permitiendo que su cultura, economía y relaciones sean creíbles y jugables dentro del universo de **The Corporate Wars**.

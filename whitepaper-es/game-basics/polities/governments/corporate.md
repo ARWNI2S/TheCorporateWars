@@ -22,7 +22,7 @@ layout:
 
 # Gobierno Corporativo
 
-Entre las formas de gobierno del Espacio Conocido, destaca el **Gobierno Corporativo**, donde la administración y el poder político están directamente en manos de una corporación o consorcio empresarial.
+Entre las formas de gobierno del Espacio Cartografiado, destaca el **Gobierno Corporativo**, donde la administración y el poder político están directamente en manos de una corporación o consorcio empresarial.
 
 En este modelo, el consejo directivo o los accionistas reemplazan a los tradicionales órganos de gobierno, y las decisiones se toman bajo la lógica del beneficio y la expansión comercial.
 

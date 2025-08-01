@@ -53,7 +53,7 @@ No está claro si el Ziru Sirka fundó el Mercado de Valores Interestelar, si ya
 
 Lo que sí se sabe es que las casas y consorcios vilani vinculados al Ziru Sirka mantienen posiciones financieras estables, antiguas y enormemente rentables dentro de este sistema.
 
-Estas inversiones milenarias, transmitidas de generación en generación, han convertido al Ziru Sirka en un pilar económico, no solo del Imperio, sino de todo el Espacio Conocido.
+Estas inversiones milenarias, transmitidas de generación en generación, han convertido al Ziru Sirka en un pilar económico, no solo del Imperio, sino de todo el Espacio Cartografiado.
 
 Durante la Caída del Primer Imperio y el dominio terrano del Rule of Man, el Ziru Sirka sufrió pérdidas catastróficas. Su poder se fragmentó, muchas fortunas se evaporaron y su influencia institucional quedó relegada.
 
@@ -67,7 +67,7 @@ Este poder financiero explica por qué el Ziru Sirka nunca desaparece del tabler
 
 En The Corporate Wars, el Ziru Sirka no es simplemente una facción cultural: es una infraestructura de poder milenaria, viva y operativa dentro del Tercer Imperio.
 
-Interactuar con el Ziru Sirka significa tratar con la aristocracia vilani, los consorcios más antiguos, los lobbies más influyentes y las redes financieras más profundas del Espacio Conocido.
+Interactuar con el Ziru Sirka significa tratar con la aristocracia vilani, los consorcios más antiguos, los lobbies más influyentes y las redes financieras más profundas del Espacio Cartografiado.
 
 Sus actores pueden ser aliados valiosos para proyectos a gran escala —si se comparte su visión y se respeta su jerarquía— o un obstáculo insalvable para cualquier intento de innovación disruptiva o redistribución de poder.
 

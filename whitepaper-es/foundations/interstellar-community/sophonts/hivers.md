@@ -22,7 +22,7 @@ layout:
 
 # La Colmena
 
-De entre los sofontes del Espacio Conocido, los mas _alienígenas_ son **La Colmena**.
+De entre los sofontes del Espacio Cartografiado, los mas _alienígenas_ son **La Colmena**.
 
 Conocidos principalmente como miembros fundadores de **La Federación**, La Colmena es una especie enigmática pero diplomáticamente accesible: suelen aparecer en delegaciones Federales, tripulaciones comerciales y embajadas mixtas.
 

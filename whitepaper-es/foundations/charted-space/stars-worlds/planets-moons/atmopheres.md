@@ -22,7 +22,7 @@ layout:
 
 # Entornos Hostiles
 
-La mayoría de los mundos del Espacio Conocido son inhóspitos: temperaturas y presiones extremas, páramos helados, atmósferas tóxicas o corrosivas.
+La mayoría de los mundos del Espacio Cartografiado son inhóspitos: temperaturas y presiones extremas, páramos helados, atmósferas tóxicas o corrosivas.
 
 > Lluvias de metal fundido o cristal, vientos supersónicos, superficies de lava, radiaciones letales, océanos helados y otros fenómenos aún más exóticos.
 

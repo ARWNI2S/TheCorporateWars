@@ -27,7 +27,7 @@ layout:
 
 # Driantia Zhdantia
 
-El **Consulado Zhodani** es una de las grandes potencias del espacio conocido, y una de las más enigmáticas para el Tercer Imperio y otras civilizaciones humanas.
+El **Consulado Zhodani** es una de las grandes potencias del Espacio Cartografiado, y una de las más enigmáticas para el Tercer Imperio y otras civilizaciones humanas.
 
 Su historia comienza hace más de **tres mil años**, cuando un grupo de _humaniti_ desarrollaron una cultura profundamente influenciada por el uso y aceptación institucional de la **psiónica**.
 

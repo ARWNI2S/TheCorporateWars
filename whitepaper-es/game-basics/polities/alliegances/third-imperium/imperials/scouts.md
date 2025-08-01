@@ -29,7 +29,7 @@ Tras dar por completo el Segundo Censo Estelar, se dedico a fortalecer y moderni
 
 ## El Tercer Censo
 
-En la actualidad, el Servicio Imperial de Exploración Interestelar lidera el ambicioso proyecto del **Tercer Censo Interestelar**: una iniciativa de largo alcance que busca actualizar y validar todos los datos cartográficos, demográficos y económicos del Espacio Conocido.
+En la actualidad, el Servicio Imperial de Exploración Interestelar lidera el ambicioso proyecto del **Tercer Censo Interestelar**: una iniciativa de largo alcance que busca actualizar y validar todos los datos cartográficos, demográficos y económicos del Espacio Cartografiado.
 
 A diferencia de sus predecesores —centrados en el descubrimiento bruto y el mapeo inicial del Imperio—, el Tercer Censo se orienta a la consolidación administrativa y la interoperabilidad interestatal.
 
