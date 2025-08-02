@@ -23,20 +23,22 @@ layout:
 
 # Concilio de Terra
 
-El **Concilio de Terra** es el órgano supremo de la Confederación Solomani, tanto en términos administrativos como simbólicos. Su nombre recuerda la era en la que la Tierra era el centro político de la Confederación, y aunque actualmente opera desde el exilio, sigue ejerciendo su función como gobierno central y garante de la continuidad histórica.
+El **Concilio de Terra** es la máxima autoridad de la **Confederación Solomani** y encarna tanto su continuidad institucional como su misión histórica. Aunque su sede original en Sol fue perdida durante la Guerra de la Frontera, el Concilio continúa operando desde el exilio con plena legitimidad política, doctrinal y simbólica.
 
-El Concilio no solo administra; mantiene viva la narrativa de legitimidad. Su propia existencia refuerza la idea de que Terra fue arrebatada, no perdida, y que toda acción de la Confederación —diplomática, económica o militar— es parte de una estrategia de recuperación inevitable.
+Más que un mero órgano de gobierno, el Concilio de Terra es el custodio de la narrativa central del solomanismo: la humanidad originaria de la Tierra no fue derrotada, sino desposeída. Por tanto, cada acto de la Confederación —desde tratados diplomáticos hasta incursiones encubiertas— es parte de un proceso inevitable de restauración.
 
 ## Continuidad Histórica
 
-La historia del Concilio es la historia de la humanidad Solomani. Desde los primeros saltos desde Sol, pasando por la resistencia frente al dominio vilani durante la era del _Ziru Sirka_, la instauración de la **Ley del Hombre** durante las _Guerras Interestelares_, el colapso del Segundo Imperio y la resistencia durante la _Larga Noche_, hasta su reintegración parcial al Tercer Imperio.
+La existencia del Concilio se remonta a los albores del viaje estelar humano, con raíces que atraviesan el dominio vilani, la Ley del Hombre, y las guerras interestelares. Sobrevivió al colapso del Segundo Imperio y preservó la visión de una humanidad unificada bajo liderazgo terrano.
 
-Con la fundación de la Confederación en 871, el Concilio de Terra se convirtió en su núcleo político.
+Desde la fundación de la Confederación en 871, el Concilio ha sido su eje rector. Tras la pérdida de Sol en 1002, su papel se fortaleció como símbolo de resistencia y garante del proyecto histórico solomani.
 
-La Guerra de la Frontera Solomani (990—1002), que culminó con la pérdida de Sol, obligó a su reorganización institucional y al exilio físico, pero no simbólico. Desde entonces, el Concilio se ha transformado en una institución de resistencia cultural y restauración histórica.
-
-Es la voz que mantiene viva la narrativa de que la Confederación no es una potencia nueva, sino la heredera legítima del liderazgo humano estelar.
+Cada directiva, cada política, cada intervención refleja un solo objetivo: la reintegración total del legado de Sol.
 
 ## En el Juego
 
-En **The Corporate Wars**, el Concilio de Terra es una fuente de legitimidad, poder diplomático y dirección estratégica para las acciones de la Confederación. Cualquier interacción con sus enviados implica un peso histórico y doctrinal. Son los que dictan el marco de lo posible: las alianzas aceptables, los enemigos irredimibles, y los términos bajo los cuales un mundo puede ser considerado parte de la Esfera.
+En **The Corporate Wars**, el Concilio de Terra es la autoridad doctrinal suprema dentro de la _Lealtad_ Solomani. Define las líneas estratégicas, otorga legitimidad a las _Políticas_ subordinadas y dicta los parámetros éticos, culturales y geopolíticos aceptables.
+
+Toda corporación, mundo o agente alineado con la Confederación responde —directa o indirectamente— a sus lineamientos. Interactuar con sus emisarios implica navegar el peso de la historia, la ortodoxia solomanista y una visión restauradora del orden galáctico.
+
+Es, en esencia, la voz de Sol, incluso desde el exilio.

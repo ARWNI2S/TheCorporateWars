@@ -23,22 +23,34 @@ layout:
 
 # SolSec
 
-El **SolSec** —acrónimo de _Solomani Security_— es el aparato de inteligencia, contrainteligencia e ideología de la Confederación Solomani. Fundado como una agencia de seguridad estatal, se transformó con el tiempo en una institución transversal, cuya influencia penetra tanto las estructuras gubernamentales como las corporativas, civiles y militares.
+**SolSec** —abreviatura de *Solomani Security*— es el aparato de supervisión doctrinal, inteligencia estratégica y control ideológico de la _Lealtad_ Solomani.
 
-Más que una policía secreta, el SolSec actúa como garante doctrinal: protege la narrativa fundacional de la Confederación, vigila la pureza ideológica de sus élites y neutraliza amenazas internas y externas, sean políticas, culturales o biotecnológicas.
+Aunque se fundó como una agencia estatal durante los primeros siglos de la Confederación, hoy opera como una red descentralizada y autónoma con capacidad de actuar en todos los frentes del conflicto corporativo.
 
-En el año 1201, su poder se ejerce con precisión quirúrgica: no necesita reprimir visiblemente para dominar, basta con estar presente.
+En el ecosistema actual, el SolSec valida el cumplimiento de los principios fundacionales del solomanismo, sanciona desviaciones estratégicas o ideológicas, y comisiona directamente a corporaciones alineadas para ejecutar operaciones clave.
+
+Más que una policía secreta, SolSec es un *sistema nervioso doctrinal*: invisible, ubicuo, y absolutamente letal cuando se activa.
 
 ## Naturaleza y Funciones
 
-El SolSec opera bajo el mandato directo del **Concilio de Terra**, pero mantiene una autonomía operativa absoluta. Controla sus propias flotas, redes de datos, unidades encubiertas y sistemas de vigilancia. Está estructurado en departamentos funcionales: vigilancia exterior, control interior, neutralización, análisis doctrinal y operaciones extranjeras.
+SolSec depende formalmente del **Concilio de Terra**, pero actúa con total independencia operativa.
 
-Su doctrina es clara: todo aquello que debilite la visión restauradora de la Confederación es considerado una amenaza. Desde corporaciones que comercian con enemigos ideológicos, hasta científicos que cuestionan el origen humano de la hegemonía estelar: todo es susceptible de intervención.
+Mantiene flotas negras, IA clasificadas, redes de datos privadas, y células activas en múltiples sectores.
 
-El SolSec no se limita a proteger mundos: protege el relato. Su tarea principal no es la defensa de fronteras físicas, sino de los límites mentales de lo posible y lo aceptable.
+Su estructura interna responde a objetivos funcionales: _infiltración_, _vigilancia_, _rectificación_, _análisis doctrinal_ y _operaciones encubiertas_ en otros vectores de poder.
+
+Su foco no está en la defensa territorial sino en el control narrativo: garantizar que cada acción realizada en nombre de la Confederación, sea por un gobierno local o una empresa transnacional, refuerce la visión restauradora del solomanismo.
+
+Toda desviación —ética, cultural, tecnológica— puede ser intervenida si representa un riesgo para la continuidad doctrinal.
 
 ## SolSec en el Juego
 
-En **The Corporate Wars**, el SolSec es tanto un enemigo invisible como un aliado temido. Puede infiltrar corporaciones, manipular contratos, reprogramar inteligencias artificiales o interceptar tramas enteras antes de que se desarrollen. Los jugadores pueden ser contactados por agentes del SolSec para ejecutar misiones de sabotaje, contrainteligencia o —rectificación doctrinal—.
+En **The Corporate Wars**, **SolSec** puede intervenir directamente en la narrativa de los jugadores.
 
-Aceptar su ayuda implica someterse a cláusulas ideológicas. Oponerse, significa jugar contra una entidad que conoce tus movimientos antes de que los pienses. El SolSec no se enfrenta: se sobrevive, se negocia, o se elude.
+Es quien **valida** los pactos, **asigna misiones doctrinales** a corporaciones afines, y **castiga** desviaciones estratégicas.
+
+Puede infiltrar competidores, sabotear investigaciones, o forzar alineamientos políticos.
+
+Aceptar su apoyo implica adherirse a cláusulas ideológicas no negociables. Rechazarlo, significa operar bajo vigilancia constante.
+
+El SolSec no se enfrenta en campo abierto: se negocia con él, se sirve a sus fines... o se evade, si se puede.
