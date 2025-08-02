@@ -37,7 +37,7 @@ Though formally subordinate to the Emperor, in practice its admirals exercise si
 
 The Navy controls orbital stations, armories, academies, and bases at key transit points.
 
-### Imperial Marine Infantry
+### Imperial Marines
 
 The Imperial Marines are specialized forces trained for boarding actions, orbital assaults, rapid response, and the control of strategic installations.
 
@@ -47,7 +47,7 @@ They travel aboard Navy vessels and are deployed in situations that demand direc
 
 ### The Army
 
-The Imperial Army, unlike the Marine Infantry, is designed for extended ground operations.
+The Imperial Army, unlike Marines, is designed for extended ground operations.
 
 Its mission is not to conquer worlds, but to stabilize regions, support loyal governments, secure critical infrastructure, and serve as a temporary occupation force in high-risk scenarios.
 
