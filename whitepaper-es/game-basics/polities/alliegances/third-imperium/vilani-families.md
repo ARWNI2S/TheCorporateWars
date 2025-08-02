@@ -77,4 +77,4 @@ Para los jugadores, formar parte del Ziru Sirka —o enfrentarse a él— es ent
 
 ### Karaamshidukagim (Las Guerras Corporativas)
 
-Las casas vilani del Ziru Sirka están reactivando esta antigua forma de conflicto corporativo, amparándose en las leyes de guerra del Tercer Imperio. No como traición al Tercer Imperio, sino como regulación -civilizadora- Imperial.
+Las casas vilani del Ziru Sirka están reactivando esta antigua forma de conflicto corporativo, amparándose en las leyes de guerra del Tercer Imperio. No como traición al Tercer Imperio, sino como regulación —civilizadora— Imperial.

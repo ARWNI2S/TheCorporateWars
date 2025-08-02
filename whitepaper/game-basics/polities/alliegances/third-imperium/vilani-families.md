@@ -79,4 +79,4 @@ For players, joining —or opposing— the Ziru Sirka is stepping into a chess g
 
 ### Karaamshidukagim (The Corporate Wars)
 
-The Vilani houses of the Ziru Sirka are reviving this ancient form of corporate conflict, invoking the war laws of the Third Imperium. Not as treason against the Imperium, but as its civilizing regulation.
+The Vilani houses of the Ziru Sirka are reviving this ancient form of corporate conflict, invoking the war laws of the Third Imperium. Not as treason against the Imperium, but as a civilizing regulation.

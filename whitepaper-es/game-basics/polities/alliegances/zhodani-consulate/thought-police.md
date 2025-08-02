@@ -66,7 +66,7 @@ En **The Corporate Wars**, el Tavrchedl' representa un tipo de poder sutil, no b
 
 Los jugadores pueden cruzarse con sus agentes en misiones de diplomacia, mediación o investigación cultural.
 
-Su presencia puede generar tensión en personajes ajenos al Consulado, especialmente aquellos con secretos, traumas o intenciones ocultas.
+Su presencia puede generar tensión en _Políticas_ ajenas al Consulado, especialmente aquellas con secretos o intenciones ocultas.
 
 Interactuar con el Tavrchedl' no significa enfrentarse a una amenaza directa, pero sí quedar expuesto a un escrutinio mental que pocos están preparados para resistir.
 
