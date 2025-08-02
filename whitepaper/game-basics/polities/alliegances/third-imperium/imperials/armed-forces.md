@@ -37,7 +37,7 @@ Though formally subordinate to the Emperor, in practice its admirals exercise si
 
 The Navy controls orbital stations, armories, academies, and bases at key transit points.
 
-### Imperial Marine Infantry
+### Imperial Marines
 
 The Imperial Marines are specialized forces trained for boarding actions, orbital assaults, rapid response, and the control of strategic installations.
 
