@@ -27,7 +27,7 @@ The **k'Kree** civilization has developed one of the most advanced and radical t
 
 That doctrine is uncompromising: any inhabited world must be herbivorous, breathable, and free of carnivores. To enforce this, the k'Kree implement full biological reconfiguration: redesigning entire ecosystems, altering food chains, deploying engineered plant species, and eradicating any hostile genetic traces.
 
-This process is not merely technical—it is **liturgical**. Each planetary conversion is ritualized as an act of purification. Transformed worlds become living temples, and their surviving populations are converted, subdued, or reeducated.
+This process is not merely technical â€”it is **liturgical**. Each planetary conversion is ritualized as an act of purification. Transformed worlds become living temples, and their surviving populations are converted, subdued, or reeducated.
 
 In frontier regions, partial terraforming has been documented as a pressure tactic: altered climates, invasive flora, and controlled rainfall. The entire environment becomes an ideological message.
 
@@ -35,10 +35,10 @@ In frontier regions, partial terraforming has been documented as a pressure tact
 
 ## Bioengineering in the Game
 
-In **The Corporate Wars**, k’Kree bioengineering is not a technology—it’s a gameplay system. _Polities_ of this _Allegiance_ operate through **ethical terraforming**, **ecological manipulation**, and **biological colonization**.
+In **The Corporate Wars**, k'Kree bioengineering is not a technology â€”it's a gameplay system. _Polities_ of this _Allegiance_ operate through **ethical terraforming**, **ecological manipulation**, and **biological colonization**.
 
 Players adopting this approach can irreversibly alter planets, reshape local economies by transforming food sources, and block access routes by modifying the environment itself.
 
-Interacting with this mechanic is never neutral: ecological choices are doctrinal statements. Accepting k’Kree assistance means embracing their worldview. Refusing it may trigger slow, systemic—but inescapable—responses.
+Interacting with this mechanic is never neutral: ecological choices are doctrinal statements. Accepting k'Kree assistance means embracing their worldview. Refusing it may trigger slow, systemic â€”but inescapableâ€” responses.
 
-To play with bioengineering is to wield the environment as ideological language. Where others build, the k’Kree cultivate. Where others negotiate, they purify. And they never ask permission.
+To play with bioengineering is to wield the environment as ideological language. Where others build, the k'Kree cultivate. Where others negotiate, they purify. And they never ask permission.

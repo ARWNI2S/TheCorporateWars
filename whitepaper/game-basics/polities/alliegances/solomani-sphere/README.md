@@ -25,7 +25,7 @@ layout:
 
 The **Solomani Confederation** is an interstellar power bound by a political and cultural doctrine that upholds the primacy of humanity originating from Earth.
 
-Despite being defeated in the last _Imperial War_ —known in the Third Imperium as the _Solomani Rim War_— and losing control over Sol, the Confederation not only survived: it rebuilt its sphere of influence through a mix of pragmatism, ideology, and strategic presence.
+Despite being defeated in the last _Imperial War_ â€”known in the Third Imperium as the _Solomani Rim War_â€” and losing control over Sol, the Confederation not only survived: it rebuilt its sphere of influence through a mix of pragmatism, ideology, and strategic presence.
 
 By the year 1201, it maintains a federal bloc of worlds aligned with its vision, an evolving institutional structure, and a doctrinal apparatus capable of projecting power beyond its recognized borders.
 
@@ -51,9 +51,9 @@ In **The Corporate Wars**, the Solomani Confederation operates as a commercial c
 
 Its tools of projection include doctrinal pacts, cultural alignment programs, and **SolSec** operations that infiltrate, manipulate, or sustain key actors without the need for direct control.
 
-A corporation aligned with Solomanism not only gains access to resources and protection—it adopts a historical mission.
+A corporation aligned with Solomanism not only gains access to resources and protection â€”it adopts a historical mission.
 
-The benefits are real —preferential bids, support networks, coordinated campaigns, influence trafficking— but always framed within a larger narrative that justifies every action as part of a restorative process.
+The benefits are real â€”preferential bids, support networks, coordinated campaigns, influence traffickingâ€” but always framed within a larger narrative that justifies every action as part of a restorative process.
 
 From the perspective of other _Allegiances_, the Solomani Confederation commands respect, distrust, or admiration.
 

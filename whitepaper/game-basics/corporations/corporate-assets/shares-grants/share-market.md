@@ -22,11 +22,11 @@ layout:
 
 # Stock Market
 
-Corporate shares are tools for investment, speculation, and control. They represent partial ownership and indirect participation —either accountable or anonymous— in corporate activities.
+Corporate shares are tools for investment, speculation, and control. They represent partial ownership and indirect participation â€”either accountable or anonymousâ€” in corporate activities.
 
 In **The Corporate Wars**, corporations can issue, trade, and buy back shares on local or interstellar markets.
 
-The value of these shares fluctuates based on the corporation’s performance, reputation, and strategic decisions.
+The value of these shares fluctuates based on the corporation's performance, reputation, and strategic decisions.
 
 Acquiring shares in other corporations allows players to influence their direction, gain access to privileged information, or even sabotage them from within.
 

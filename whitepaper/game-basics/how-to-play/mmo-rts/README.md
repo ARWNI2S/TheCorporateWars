@@ -42,7 +42,7 @@ Every action must be performed within the constraints of the simulated universe:
 
 Although **The Corporate Wars** unfolds in real time, the system uses an internal turn structure to organize the processes of the simulated universe and maintain coherence.
 
-The base scale is the so-called **strategic turn**, equivalent to one week  —approximately 168 hours— of simulated time.
+The base scale is the so-called **strategic turn**, equivalent to one week â€”approximately 168 hoursâ€” of simulated time.
 
 This rhythm marks the general progression of the universe and determines, among other things, economic growth, political change, and the cumulative effects across the overall scenario.
 
@@ -58,15 +58,15 @@ Corporations adapt or disappear, prices shift, political balances change, and ne
 
 ***
 
-### Informational Fog — _Infog of War_
+### Informational Fog â€”_Infog of War_
 
 In **The Corporate Wars**, players have a partial and outdated view of the game: only _licensed_ operational _facilities_, or those with appropriate assigned _characters_, have access to local real-time information and the capacity to issue orders.
 
-The rest of the _facilities_—whether owned or foreign—are seen with delays due to communication latency, showing the "version" corresponding to the latest available update.
+The rest of the _facilities_ â€”whether owned or foreignâ€” are seen with delays due to communication latency, showing the "version" corresponding to the latest available update.
 
 The frequency of these updates depends on the traffic of interstellar routes between the observer's world and the observed world.
 
-> Nearby worlds with little direct traffic rely on indirect routes—traveled more frequently—for informational updates, optimizing latency but increasing desynchronization.
+> Nearby worlds with little direct traffic rely on indirect routes â€”traveled more frequentlyâ€” for informational updates, optimizing latency but increasing desynchronization.
 
 Likewise, orders travel in the opposite direction: _licensed_ facilities or assigned _characters_ can issue orders locally in real time; otherwise, any instruction must be generated locally and sent through the same logistical network, with the same resulting delay.
 

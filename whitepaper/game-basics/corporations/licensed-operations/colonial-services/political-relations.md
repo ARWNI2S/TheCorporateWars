@@ -22,7 +22,7 @@ layout:
 
 # Government Relations
 
-Corporations must establish solid, legal, and operational ties with planetary governments�the actors who define rules, regulate trade, and grant concessions.
+Corporations must establish solid, legal, and operational ties with planetary governments —the actors who define rules, regulate trade, and grant concessions.
 
 Each planetary government has its own structure, ideology, needs, and constraints.
 

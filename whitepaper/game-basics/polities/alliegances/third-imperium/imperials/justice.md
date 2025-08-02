@@ -25,7 +25,7 @@ layout:
 
 The Imperial Ministry of Justice is the institution responsible for enforcing and upholding Imperial law throughout the territory controlled by the Third Imperium.
 
-Unlike local courts—which rule according to their respective planetary laws—the Ministry acts as a **supralegal authority**, tasked with resolving interstellar disputes, cases involving Imperial jurisdiction, and conflicts that transcend the scope of a single world.
+Unlike local courts â€”which rule according to their respective planetary lawsâ€” the Ministry acts as a **supralegal authority**, tasked with resolving interstellar disputes, cases involving Imperial jurisdiction, and conflicts that transcend the scope of a single world.
 
 The Ministry does not maintain a physical court system on every planet.
 
@@ -49,4 +49,4 @@ It can be a bureaucratic ally, an inflexible obstacle, or a legal sword that fal
 
 In the game, the Ministry becomes a key actor: a place where players may defend their interests... or lose everything in a single ruling.
 
-In **The Corporate Wars**, Imperial justice isn’t always fair —but it’s always final.
+In **The Corporate Wars**, Imperial justice isn't always fair â€”but it's always final.

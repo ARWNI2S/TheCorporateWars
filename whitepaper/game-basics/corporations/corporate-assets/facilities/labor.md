@@ -22,9 +22,9 @@ layout:
 
 # Labor Force
 
-Every operational facility requires a labor force composed of personnel, tools, and machinery —or fully automated systems.
+Every operational facility requires a labor force composed of personnel, tools, and machinery â€”or fully automated systems.
 
-The labor force is one of the pillars of a corporation’s industrial and operational performance, representing a significant economic, logistical, and political cost.
+The labor force is one of the pillars of a corporationï¿½s industrial and operational performance, representing a significant economic, logistical, and political cost.
 
 ***
 

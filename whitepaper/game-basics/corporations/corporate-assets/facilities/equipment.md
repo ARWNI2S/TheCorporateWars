@@ -36,4 +36,4 @@ Beyond boosting productivity, improvements can reduce material wear, minimize hu
 
 Not all upgrades are available on every world: access depends on local tech levels, trade relations, and interplanetary logistics.
 
-> Upgrading equipment is not an isolated decision, but part of an industrial strategy that aligns with each corporation’s long-term planning.
+> Upgrading equipment is not an isolated decision, but part of an industrial strategy that aligns with each corporation's long-term planning.

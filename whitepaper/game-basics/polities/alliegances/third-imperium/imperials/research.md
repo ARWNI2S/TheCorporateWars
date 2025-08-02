@@ -23,13 +23,13 @@ layout:
 
 # Imperial Research and Development Institutes
 
-The Imperial Research and Development Institutes (IRDI) are the scientific authority of the Third Imperium, responsible for supervising, validating, and —when necessary— promoting or restricting technological advancements within Imperial space.
+The Imperial Research and Development Institutes (IRDI) are the scientific authority of the Third Imperium, responsible for supervising, validating, and â€”when necessaryâ€” promoting or restricting technological advancements within Imperial space.
 
 More than a network of laboratories, the IRDI function as a **legal and epistemological framework**: they define what constitutes valid science, which technologies may be distributed, and under what conditions sensitive discoveries may be implemented.
 
 The Institutes maintain partnerships with Imperial universities, sector laboratories, and private innovation centers.
 
-It is also common for them to collaborate —or compete— with tech corporations, especially in fields such as AI, advanced weaponry, genetic engineering, or experimental navigation.
+It is also common for them to collaborate â€”or competeâ€” with tech corporations, especially in fields such as AI, advanced weaponry, genetic engineering, or experimental navigation.
 
 In exceptional cases, they may exercise their Imperial right of **technological confiscation**, citing strategic risks or threats to the stability of the interstellar order.
 
@@ -41,7 +41,7 @@ Their representatives may act as scientific auditors, patent evaluators, project
 
 ## The IRDI in the Game
 
-In **The Corporate Wars**, the IRDI are a powerful and ambiguous institution: they can be a springboard to innovation… or an impenetrable barrier.
+In **The Corporate Wars**, the IRDI are a powerful and ambiguous institution: they can be a springboard to innovation â€”or an impenetrable barrier.
 
 Players may approach them to validate technologies, secure research grants, or partner with Imperial academics.
 
@@ -49,5 +49,4 @@ But they may also face restrictions, confiscations, or accusations of forbidden 
 
 Any technology with strategic potential is on their radar.
 
-And in the Imperium, **unauthorized innovation… is _technically_ treason**.
-
+And in the Imperium, **unauthorized innovation... is&#x20;**_**technically**_**&#x20;treason**.

@@ -21,13 +21,13 @@ layout:
     visible: true
 ---
 
-# Psychohistory
+# Psicohistory
 
 Beneath the civilized and cooperative surface of the Federation lies a machinery of galaxy-scale social manipulation: **Psychohistory**, a discipline maintained and refined by _the Hive_ over millennia.
 
 Unlike other species, _the Hive_ does not impose its will through fleets or economies. Its main tool is the **redesign of civilizations**.
 
-They apply psychohistorical models based on cultural cycles, collective behavior, social genetics, and long-term prediction to guide—or divert—the evolution of entire cultures.
+They apply psychohistorical models based on cultural cycles, collective behavior, social genetics, and long-term prediction to guide â€”or divertâ€” the evolution of entire cultures.
 
 They do not hide it, but neither do they announce it.
 
@@ -37,7 +37,7 @@ Psychohistory operates on a scale of centuries: a philosophical doctrine spread 
 
 Its goal is not domination, but **the prevention of collapse**.
 
-The Hive believes civilizations tend to self-destruct if not redesigned—and assumes the responsibility of correcting, stabilizing, or redirecting entire cultures if it prevents future catastrophes.
+The Hive believes civilizations tend to self-destruct if not redesigned â€”and assumes the responsibility of correcting, stabilizing, or redirecting entire cultures if it prevents future catastrophes.
 
 ***
 
@@ -49,12 +49,12 @@ No one plays as it. No one negotiates with it. But its effects are everywhere.
 
 Observant players may uncover strange patterns: rebellions that never erupted, reforms that happened without leaders, doctrines spreading without advocates.
 
-Understanding psychohistory may offer **critical strategic advantages**. But it may also reveal an unsettling truth: many decisions we think of as ours… were never truly our own.
+Understanding psychohistory may offer **critical strategic advantages**. But it may also reveal an unsettling truth: many decisions we think of as ours â€”were never truly our own.
 
 ***
 
 For Federation players, psychohistory acts as a **guide, oracle, goal, or hidden adversary**.
 
-It is not a system to control—only one to detect.
+It is not a system to control â€”only one to detect.
 
-And once detected, each _Policy_ must decide whether to accept it, resist it… or harness it.
+And once detected, each _Policy_ must decide whether to accept it, resist it... or harness it.

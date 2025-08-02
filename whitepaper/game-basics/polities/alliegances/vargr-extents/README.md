@@ -27,13 +27,13 @@ The **Vargr Extents** are not a state, a federation, or even a defined bloc with
 
 At the heart of their civilization lies no legal code, but **charisma**: a force of personal authority blending prestige, cunning, victory, presence, and recognition.
 
-Each vargr community organizes itself around those who radiate such charisma—and disbands when it fades. This makes the Extents a fluid, unpredictable, chaotic, and profoundly vibrant space.
+Each vargr community organizes itself around those who radiate such charisma â€”and disbands when it fades. This makes the Extents a fluid, unpredictable, chaotic, and profoundly vibrant space.
 
 There is no single voice, no singular flag. There are trends, rumors, floating clans, black market networks, and fleeting hegemonies.
 
-Some regions maintain stable relations with the Imperium and the Consulate—or a stable hostility with the Two Thousand Worlds—while others shift allegiances each cycle.
+Some regions maintain stable relations with the Imperium and the Consulate â€”or a stable hostility with the Two Thousand Worldsâ€” while others shift allegiances each cycle.
 
-Vargr diplomacy isn’t based on lasting treaties, but on the momentum of the moment and the leader’s prestige.
+Vargr diplomacy isn't based on lasting treaties, but on the momentum of the moment and the leader's prestige.
 
 By 1201, many zones within the Extents are becoming more professionalized: mobile corporations, security protocols, foreign missions. Yet even these structures are subject to the ebb and flow of charisma and collective assent. Nothing is permanent. Everything is in play.
 
@@ -41,7 +41,7 @@ By 1201, many zones within the Extents are becoming more professionalized: mobil
 
 ## The Vargr Extents in the Game
 
-In **The Corporate Wars**, the Extents represent a decentralized, mobile form of power—perfect for players who seek freedom, adaptability, and personal dominance.
+In **The Corporate Wars**, the Extents represent a decentralized, mobile form of power â€”perfect for players who seek freedom, adaptability, and personal dominance.
 
 Vargr _Polities_ may take the form of nomadic clans, corsair fleets, family-run firms, smuggling networks, orbital micronations, or opportunistic alliances.
 
@@ -49,6 +49,6 @@ Their power hinges on the reputation of their leaders, their ability to negotiat
 
 Playing under this _Allegiance_ grants access to illegal routes, unique opportunities, and high-stakes tactical partnerships. But it also means living on the edge of collapse or betrayal. What is an ally today may challenge you tomorrow for leadership, influence, or loot.
 
-There are no institutions to back you—only your charisma. No structure to shield you—only your skill. No legacy to justify you—only your present.
+There are no institutions to back you â€”only your charisma. No structure to shield you â€”only your skill. No legacy to justify you â€”only your present.
 
-Being vargr isn’t about having a lineage: it’s about **earning it every day**.
+Being vargr isn't about having a lineage: it's about **earning it every day**.

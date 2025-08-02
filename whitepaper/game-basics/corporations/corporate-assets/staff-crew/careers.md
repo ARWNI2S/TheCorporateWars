@@ -32,4 +32,4 @@ Each professional career —military, technical, scientific, executive, medical,
 
 Recruiting a character with experience in a given career not only improves performance in their area of expertise, but may also unlock new tactical, contractual, or development options within the game.
 
-Their origin, training, and ideological alignment can be either an asset or a liability, depending on the political environment and the corporation�s _Allegiance_.
+Their origin, training, and ideological alignment can be either an asset or a liability, depending on the political environment and the corporation's _Allegiance_.

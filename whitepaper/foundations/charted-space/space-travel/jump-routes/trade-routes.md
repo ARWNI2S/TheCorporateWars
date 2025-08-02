@@ -30,6 +30,6 @@ While most trade routes rely on existing jump corridors, not all jump routes are
 
 Some trade routes bypass technically possible paths in favor of those that offer safer conditions, better infrastructure, or more favorable trade terms.
 
-Trade routes are dynamic —they shift with political influence, technological developments, and economic pressure.
+Trade routes are dynamic â€”they shift with political influence, technological developments, and economic pressure.
 
 Major corporations, regional alliances, and local actors constantly renegotiate their control and usage, turning trade into both a logistical network and a strategic battlefield.

@@ -37,7 +37,7 @@ Beyond its educational function, the Imperial University plays a key role in loc
 
 ## The University in the Game
 
-In **The Corporate Wars**, educational systems —especially the presence of the Imperial University— have a direct impact on local development.
+In **The Corporate Wars**, educational systems â€”especially the presence of the Imperial Universityâ€” have a direct impact on local development.
 
 A world with access to accredited education produces more qualified labor, improving industrial efficiency, reducing costs, and accelerating Tech Level advancement without relying on imported experts or equipment.
 

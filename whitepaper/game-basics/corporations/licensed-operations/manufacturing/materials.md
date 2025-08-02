@@ -33,5 +33,5 @@ But in specialized or high-tech regions, importing from distant worlds can be mo
 > Dominating this sector requires efficiency in refining, foresight in supply chains, and the ability to respond to shortages, trade blockades, or shifts in galactic demand.
 
 {% hint style="success" %}
-A corporation that controls materials controls the pace of production�and with it, the opportunities of an entire region.
+A corporation that controls materials controls the pace of production —and with it, the opportunities of an entire region.
 {% endhint %}
