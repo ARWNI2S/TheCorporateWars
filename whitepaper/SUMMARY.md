@@ -112,7 +112,7 @@
       * [Iloahktahe](game-basics/polities/alliegances/aslan-hierate/outcast-clans.md)
     * [Two Thousand Worlds](game-basics/polities/alliegances/two-thousand-worlds/README.md)
       * [Bioengineering](game-basics/polities/alliegances/two-thousand-worlds/bioengineering.md)
-    * [Hive Federation](game-basics/polities/alliegances/hive-federation/README.md)
+    * [The Federation](game-basics/polities/alliegances/hive-federation/README.md)
       * [Psicohistory](game-basics/polities/alliegances/hive-federation/social-engineering.md)
   * [Governments](game-basics/polities/governments/README.md)
     * [Balkanizations](game-basics/polities/governments/states.md)

@@ -29,19 +29,19 @@ layout:
 
 El **Consulado Zhodani** es una de las grandes potencias del Espacio Cartografiado, y una de las más enigmáticas para el Tercer Imperio y otras civilizaciones humanas.
 
-Su historia comienza hace más de **tres mil años**, cuando un grupo de _humaniti_ desarrollaron una cultura profundamente influenciada por el uso y aceptación institucional de la **psiónica**.
+Su historia comienza hace más de **tres mil años**, cuando un grupo de _humaniti_ desarrolló una cultura profundamente influenciada por el uso y la aceptación institucional de la **psiónica**.
 
 El resultado fue una sociedad tecnocrática y jerarquizada, donde la **gobernanza mental** y la armonía colectiva se volvieron pilares fundamentales.
 
 ### Estructura y Gobierno
 
-El gobierno del Consulado Zhodani está en manos de los _Driant_, una **nobleza psiónica**, "_Cónsules_" o "_Delegados_" que forman una clase dirigente tanto política como _espiritual_.
+El gobierno del Consulado Zhodani está en manos de los _Driant_, una **nobleza psiónica**, "_Cónsules_" o "_Delegados_", que conforman una clase dirigente tanto política como _espiritual_.
 
 Estos individuos poseen entrenamiento y habilidades telepáticas que les permiten detectar mentiras, tensiones internas y desviaciones ideológicas, lo que les otorga una capacidad de liderazgo percibida como benevolente y eficiente por la mayoría de su población.
 
-El sistema político es una **meritocracia psiónica**, donde el ascenso social está condicionado por la capacidad y disciplina mental.
+El sistema político es una **meritocracia psiónica**, donde el ascenso social está condicionado por la capacidad y la disciplina mental.
 
-La élite política es supervisada por órganos superiores como el _Drianzhentshe_ -**Comité de Consenso**-, encargado de mantener la cohesión mental y social a través de prácticas de ajuste psicológico y educación continua.
+La élite política es supervisada por órganos superiores como el _Drianzhentshe_ —**Comité de Consenso**—, encargado de mantener la cohesión mental y social mediante prácticas de ajuste psicológico y educación continua.
 
 ### Sociedad y Cultura
 
@@ -53,7 +53,7 @@ Por el contrario, se valora la claridad emocional y la ausencia de conflictos in
 
 La disidencia abierta es infrecuente, no por represión violenta, sino porque los mecanismos de intervención temprana (psicoterapia psiónica, ajuste educativo, realineación social) actúan antes de que las tensiones lleguen a explotar.
 
-Los ciudadanos viven en un entorno de relativa seguridad y bienestar, aunque desde una perspectiva imperial, esto se percibe como una forma de **totalitarismo benévolo**.
+Los ciudadanos viven en un entorno de relativa seguridad y bienestar, aunque desde una perspectiva imperial esto se percibe como una forma de **totalitarismo benévolo**.
 
 ### Relaciones Exteriores
 
@@ -69,14 +69,16 @@ El espionaje psiónico, la manipulación indirecta y los conflictos por influenc
 
 ## Driantia Zhdantia en el Juego
 
-En **The Corporate Wars**, el Consulado Zhodani es una facción poderosa y sutil.
+En **The Corporate Wars**, el **Consulado Zhodani** no solo representa una _Lealtad_: es una forma radicalmente distinta de entender la organización, la autoridad y la información.
 
-Su dominio sobre la psiónica les permite manipular información, influencias y hasta emociones en el teatro galáctico.
+Las corporaciones Zhodani son extensiones conscientes del tejido mental de su civilización: gobernadas por élites psiónicas, se alinean sinérgicamente; para sus ejecutivos, toda operación es una expresión de equilibrio mental y cohesión estructural.
 
-Los jugadores que interactúan con los Zhodani encontrarán aliados sofisticados, pero también peligrosamente invasivos.
+Aquellos jugadores que adopten esta _Lealtad_ accederán a herramientas sutiles, eficaces, incluso inquietantes.
 
-Tratar con ellos requiere preparación mental, códigos de protección de pensamiento, y habilidades diplomáticas avanzadas.
+Verán el juego desde ángulos velados para otros y operarán con una precisión que no se basa en datos, sino en la certeza interna de la _precognición_.
 
-Cooperar con el Consulado puede traer grandes beneficios —acceso a tecnologías psiónicas, rutas comerciales estables, y respaldo diplomático— pero también implica un riesgo constante a la **pérdida de autonomía** personal o institucional.
+Pero el precio de la armonía es la transparencia, y donde otros ocultan, los Zhodani se exponen. La opinión de los sofontes es volátil frente a la honestidad empírica de las sociedades psiónicas: algunos ven sinceridad, otros pragmatismo deshumanizado y algunos, planes ocultos detrás de una falsa verdad.
 
-Es un equilibrio entre poder y dependencia, libertad e integración.
+Frente a otras _Lealtades_, el Consulado genera fascinación y recelo. Las alianzas son posibles, pero rara vez cómodas para los no Zhodani; siempre existe la sospecha de que, incluso en cooperación, están guiando algo más que un contrato.
+
+Jugar una corporación Zhodani es encarnar un ideal sofisticado y alienígena de eficiencia, donde cada decisión no solo afecta al mercado, sino a la mente colectiva de toda la _Lealtad_.

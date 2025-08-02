@@ -23,38 +23,46 @@ layout:
 
 # Third Imperium
 
-The **Third Imperium**, founded in year 0 of the Imperial Calendar, represents the greatest effort of civilizational unification in known history.
+The **Third Imperium**, founded in Year 0 of the Imperial Calendar, represents the greatest civilizational unification effort in known history.
 
-Heir to earlier structures —the Vilani _Ziru Sirka_ and the Solomani _Rule of Man_— the Third Imperium stands upon a synthesis of tradition, pragmatism, and technological supremacy.
+Heir to previous structures —the Vilani _Ziru Sirka_ and the Solomani _Rule of Man_—, the Third Imperium is built on a synthesis of tradition, pragmatism, and technological supremacy.
 
-At its core lies a feudal technocracy: the **Emperor** delegates authority to a vast network of nobles, bureaucrats, and institutions that regulate trade, law, and interstellar warfare, maintaining a delicate balance between imperial centralization and planetary autonomy.
+At its core lies a feudal technocracy: the **Emperor** delegates authority to a vast network of nobles, bureaucrats, and institutions that regulate interstellar trade, law, and warfare, maintaining a delicate balance between imperial centralization and planetary autonomy.
 
 ### Structure and Governance
 
-Each world within the Third Imperium governs itself according to its own laws and customs, provided it acknowledges the Emperor as sovereign, pays its agreed tribute, and allows imperial presence where strategically necessary.
+Each world within the Third Imperium governs itself according to its own laws and customs, provided it recognizes the Emperor as sovereign, pays the agreed tribute, and allows imperial structures to operate wherever strategically necessary.
 
-This autonomy is aligned with an imperial institutional network that exerts influence between worlds —a structure invisible in the void, yet present at every port, along every jump route, and at every key node.
+This autonomy is harmonized through an imperial institutional network that exerts influence across worlds —an invisible framework in the void, but present at every port, jump route, and critical node.
 
-Developed worlds, sector capitals, or industrial enclaves often host permanent seats of these institutions, becoming focal points where the Third Imperium manifests visibly and directly.
+Developed worlds, sector capitals, and industrial enclaves often host permanent offices of these institutions, becoming focal points where the Imperium manifests directly and tangibly.
 
 ### Imperial Culture
 
-Imperial society is divided into functional layers. At the base are local citizens, governed by the laws of their homeworld.
+Imperial society is structured into functional layers: at the base are local citizens, subject to their native world’s governance.
 
-Above them, imperial subjects enjoy common rights and responsibilities across interstellar space.
+Above them are **Imperial subjects**, who enjoy shared rights and duties across interstellar space.
 
-The nobility, holding legal and economic authority, manages territories, titles, and resources.
+The **Nobiliti**, wielding legal and economic authority, administers territories, titles, and resources. This chain of command is based on responsibility and performance: titles endure through results.
 
-Beyond this classical hierarchy, corporations have been elevated to the status of political entities, operating with interstate autonomy within the legal framework of the Imperium.
+Beyond this classical hierarchy, **corporations** have been elevated to the status of _polities_, operating with interstate autonomy within the legal framework of the Imperium.
 
-Although the Third Imperium is built upon a rigid hierarchical structure, it permits remarkable cultural and religious diversity —so long as it does not threaten institutional cohesion or the flow of information, trade, and power.
+Although built upon a rigid hierarchical structure, the Third Imperium allows surprising cultural and religious diversity, so long as it does not threaten institutional integrity or the flow of information, commerce, and power.
 
 ***
 
 ## The Third Imperium in the Game
 
-In _The Corporate Wars_, the Third Imperium is a setting, not a controllable actor. Its power is not directly enforced, but its influence is everywhere.
+In _The Corporate Wars_, the **Third Imperium** is not a playable faction: it is the setting. Its power is not imposed directly, but it shapes everything.
 
-Interactions with it take the form of contracts with its institutions, diplomatic disputes between recognized worlds, battles over subsidized routes, covert operations to preserve stability, or efforts to gain recognition, licenses, or favor from its bureaucracy.
+Imperial institutions act as regulatory frameworks that stabilize the game: they define transit laws, exchange norms, operating licenses, and technological thresholds —all under the Emperor’s beneplacitum.
 
-Even the most powerful actors do not control the Third Imperium —but all operate in its shadow, seeking to influence it, avoid it, or survive beneath its gaze.
+Interactions with the Imperium manifest through contracts, subsidies, diplomatic missions, regulations, hearings, or disputes over the legitimacy of titles and patents.
+
+The **Nobiliti** forms a chain of responsibility stretching across domains and sectors, delegating power and authority in exchange for verifiable outcomes.
+
+Controlling a fief, an imperial office, or a concession requires meeting established objectives: within the Imperium, all power is conditional on performance.
+
+Playing within the imperial framework means operating in a structured environment, with access to legal advantages, institutional support, and formal networks of power.
+
+But it also means being held accountable, maintaining prestige, and proving efficacy before a civilization that measures centuries by its capacity to endure.
