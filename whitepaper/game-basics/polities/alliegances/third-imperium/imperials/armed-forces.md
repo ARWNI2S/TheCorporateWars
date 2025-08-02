@@ -47,7 +47,7 @@ They travel aboard Navy vessels and are deployed in situations that demand direc
 
 ### The Army
 
-The Imperial Army, unlike the Marine Infantry, is designed for extended ground operations.
+The Imperial Army, unlike Marines, is designed for extended ground operations.
 
 Its mission is not to conquer worlds, but to stabilize regions, support loyal governments, secure critical infrastructure, and serve as a temporary occupation force in high-risk scenarios.
 
