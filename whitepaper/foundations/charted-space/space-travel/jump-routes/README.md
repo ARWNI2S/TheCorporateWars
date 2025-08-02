@@ -28,7 +28,7 @@ Jump routes define the structured pathways for interstellar travel, shaped by st
 
 ## Main Routes
 
-Main routes are stable, high-volume jump corridors connecting major worlds and system hubs.
+Main routes are stable, high-volume jump corridors connecting major worlds and sector hubs.
 
 Maintained through collective interest, they form the backbone of mobility, trade, and information flow within the interstellar community.
 
