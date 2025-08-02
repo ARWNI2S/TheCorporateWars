@@ -23,16 +23,28 @@ layout:
 
 # Clanes Corsarios
 
-Los **Clanes Corsarios Vargr** son la manifestación más visible —y temida— de la cultura vargr en el espacio intermedio. No son simples piratas: son estructuras sociales móviles, con jerarquéas internas, doctrinas heredadas y códigos de conducta tan rigurosos como impredecibles.
+Los **Clanes Corsarios Vargr** son la manifestación más visible —y temida— de la cultura vargr en las zonas intermedias del Espacio Extendido. No se trata de simples piratas, sino de estructuras móviles de poder basadas en la jerarquía carismática, la violencia ritual y el control económico informal.
 
-Un clan corsario puede estar compuesto por una sola nave con una tripulación extendida, o por una flotilla completa que controla mundos, rutas y enclaves dispersos. Algunos actúan por encargo, otros por necesidad, y los más sofisticados como brazo militar de agendas políticas mayores.
+Un clan corsario puede estar compuesto por una única nave insignia con su tripulación extendida, o por una flotilla entera que opera como manada coordinada, controlando rutas, enclaves y territorios difusos.
 
-Su legitimidad se basa en el carisma del líder y la capacidad del clan para sostener sus éxitos. Si fracasan, se disuelven. Si vencen, dictan reglas. Es un sistema darwinista, pero altamente funcional.
+Algunos actúan como mercenarios contratados por potencias mayores. Otros extorsionan, comercian y protegen a comunidades bajo su dominio, estableciendo sistemas de “tributo voluntario” a cambio de protección.
 
-Aunque operan fuera de las leyes imperiales o solomani, muchos corsarios vargr mantienen relaciones estables con potencias regionales, a cambio de servicios concretos: sabotaje, transporte encubierto, protección asimétrica o guerra proxy.
+Su legitimidad se basa en el **carisma** del líder: su capacidad de inspirar, comandar y sostener el éxito. Si lo pierde, el clan se fragmenta o es absorbido por rivales. Es una dinámica darwinista, sí, pero profundamente funcional.
+
+***
 
 ## Clanes Corsarios en el Juego
 
-En **The Corporate Wars**, los clanes corsarios pueden ser aliados letales, intermediarios oportunistas o enemigos ineludibles. Su presencia puede definir la seguridad de una ruta, el éxito de una operación o la supervivencia de una estación aislada.
+En **The Corporate Wars**, los clanes corsarios son tanto amenaza como oportunidad.
 
-Los jugadores que traten con ellos deben entender su código interno, respetar su jerarquéa y nunca subestimar su adaptabilidad. En el espacio vargr, la reputación es la moneda más estable.
+Pueden aparecer como **fuerzas intermedias**, capaces de inclinar conflictos, cerrar rutas o establecer feudos móviles donde impera la ley del más fuerte —pero también la del más inteligente.
+
+Las _Políticas_ jugables pueden aliarse con ellos, subcontratarlos o enfrentarlos, pero nunca ignorarlos. Una operación cercana a su influencia sin su aprobación puede considerarse una provocación.
+
+Algunas _Políticas_ vargr son en sí mismas clanes corsarios: flotas autónomas con sus propios códigos, que recaudan tributos, gestionan mercados clandestinos y disputan prestigio entre iguales.
+
+En sus dominios no hay contratos: hay **sumisión o tolerancia**. Quien desafía sin carisma suficiente, pierde.
+
+Jugar con —o contra— clanes corsarios es aceptar que el orden es una ilusión temporal, sostenida por la reputación, la violencia estratégica y la audacia de un líder.
+
+Nada es permanente. Todo se negocia. Todos observan.

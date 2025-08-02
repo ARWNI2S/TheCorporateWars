@@ -23,16 +23,22 @@ layout:
 
 # Bioingeniería
 
-La civilización K’kree ha desarrollado una de las tradiciones más avanzadas de **bioingeniería aplicada a terraformación** del Espacio Cartografiado. A diferencia de otros pueblos que modifican mundos para adaptarlos a sí mismos, los K’kree modifican mundos para cumplir con su doctrina.
+La civilización **k'Kree** ha desarrollado una de las tradiciones más avanzadas y radicales de **bioingeniería aplicada a terraformación** del Espacio Cartografiado. A diferencia de otras culturas que adaptan mundos a sus necesidades, los k'Kree reconfiguran mundos para que encajen en su doctrina.
 
-Esta doctrina es clara: un mundo habitado debe ser herbívoro, respirable y sin presencia de carnívoros. Para ello, aplican una ingeniería biológica total: reconfiguran ecologías planetarias completas, extinguen especies, rediseñan cadenas tróficas, y si es necesario, modifican la genética vegetal para adaptarla a ecosistemas enteramente nuevos.
+Esa doctrina es intransigente: todo mundo habitado debe ser herbívoro, respirable y libre de carnívoros. Para cumplirla, los k'Kree ejecutan una terraformación biológica integral: rediseñan ecosistemas enteros, modifican cadenas tróficas, extienden especies vegetales modificadas y erradican cualquier vestigio genético hostil.
 
-La terraformación no es un proceso técnico. Es un ritual. Cada conversión planetaria forma parte de una liturgia tecno-religiosa. Los mundos purificados se convierten en santuarios, y sus habitantes, si han sobrevivido, en conversos o siervos reeducados.
+Este proceso no es meramente técnico, sino **litúrgico**. Cada conversión planetaria se ritualiza como un acto de purificación. Los mundos así transformados se convierten en templos vivientes, y sus poblaciones, si sobreviven, son convertidas, sometidas o reeducadas.
 
-En regiones fronterizas, se han documentado casos de terraformación parcial como forma de presión: el clima alterado, la flora adaptada, las lluvias controladas… todo el entorno se convierte en un mensaje ideológico.
+En zonas fronterizas, la terraformación parcial se utiliza como arma de presión: climas alterados, lluvias controladas, flora invasiva. Todo el medio ambiente se convierte en un mensaje ideológico.
+
+***
 
 ## Bioingeniería en el Juego
 
-En **The Corporate Wars**, la bioingeniería K’kree puede representar un desafío logístico, un riesgo ambiental o una oportunidad tecnológica. Las corporaciones que intentan operar en mundos bajo su influencia pueden encontrar estructuras biotecnológicas que no siguen ningún principio humano: fábricas vivas, ecosistemas sintéticos, cultivos inteligentes que rechazan ciertas especies.
+En **The Corporate Wars**, la bioingeniería k’Kree es un sistema de juego completo. Las _Políticas_ de esta _Lealtad_ operan a través de **terraformación ética**, **manipulación ecológica** y **colonización biológica**.
 
-Algunos jugadores pueden enfrentarse a la terraformación como una amenaza total. Otros, pueden aprender de ella… si están dispuestos a aceptar sus términos sagrados.
+Los jugadores que adopten esta vía pueden alterar planetas de forma irreversible, modificar economías locales al cambiar las bases alimentarias, y bloquear rutas mediante la transformación del entorno.
+
+Interactuar con esta mecánica no es neutral: las decisiones ecológicas son también doctrinales. Aceptar asistencia k’Kree implica aceptar su visión. Rechazarla puede provocar respuestas sistémicas y lentas... pero ineludibles.
+
+Jugar con la bioingeniería es dominar el entorno como un lenguaje ideológico. Donde otros construyen, los k’Kree cultivan. Donde otros negocian, ellos purifican. Y lo hacen sin pedir permiso.

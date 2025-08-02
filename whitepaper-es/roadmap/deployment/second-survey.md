@@ -39,7 +39,7 @@ Al mismo tiempo, se inicia el despliegue gradual de las grandes _Lealtades_ exte
 
 * **Tlaukhu (Jerarcado Aslan)**,
 * **Confederación Solomani** —For Terra!,
-* **Los Dos Mil Mundos (K’kree)**,
+* **Los Dos Mil Mundos (k'Kree)**,
 * **Driantia Zhdantia (Consulado Zhodani)**,
 * **La Federación (La Colmena)**,
 * **Las Extensiones Vargr**,

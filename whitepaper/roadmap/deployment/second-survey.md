@@ -39,7 +39,7 @@ At the same time, the gradual rollout of the major _Allegiances_ beyond the Thir
 
 - **Tlaukhu (Aslan Hierate)**,
 - **Solomani Confederation** —For Terra!,
-- **The Two Thousand Worlds (K’kree)**,
+- **The Two Thousand Worlds (k'Kree)**,
 - **Driantia Zhdantia (Zhodani Consulate)**,
 - **The Federation (The Hive)**,
 - **The Vargr Extents**,  

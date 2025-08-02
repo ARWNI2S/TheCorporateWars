@@ -37,7 +37,7 @@ This tension —often latent— defines the Ziru Sirka as an **internal faction*
 
 ## Structure and Power
 
-The Ziru Sirka is organized around **extended families functioning as lineage&#x20;**_**consortia**_**&#x20;and megacorporations**.
+The Ziru Sirka is organized around **extended families functioning as lineage** _**consortia**_ **and megacorporations**.
 
 These groups control key trade routes, logistical infrastructure, and cultural hubs.
 

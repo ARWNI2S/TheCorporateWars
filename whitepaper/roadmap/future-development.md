@@ -1,5 +1,30 @@
 # Future Development
 
+Beyond the current canon, there are multiple speculative and potential lines that could be explored in future phases of **The Corporate Wars** development. These are not announcements nor part of the immediate design, but open ideas for interpretation, analysis, and perhaps, implementation.
+
+## Playable Droyne
+
+Until now, the **Droyne** have served as a narrative element in the background of the universe. However, their ancestry, biological modularity, and direct connection to the Ancients make them ideal candidates to develop a completely different _Loyalty_, focused on ritual gameplay, genetic memory, and collective decisions.
+
+> What if they were more than just an archaeological mystery?
+
+## Pocket Empires
+
+Inspired by classic mechanics, **Pocket Empires** proposes a modular expansion where players not only manage a _Politics_, but also build and scale their own _Loyalty_: with doctrines, symbols, hierarchical structures, and internal conflicts.
+
+> A sandbox of personalized empires, where lore is written from the bottom up.
+
+## Long Night
+
+What happens if the game world enters a recession? If players abandon entire regions?  
+**The Long Night** is a systemic possibility: an era of disuse simulated as economic collapse, imperial decline, or cultural rupture.
+
+> It’s not a failure. It’s a scenario. One that can give rise to campaigns of restoration, interstellar archaeology, or rebirth from the ruins.
+
+***
+
+## Experiments
+
 The blockchain-based infrastructure opens the door to exploring development paths that go far beyond mere state recording. Among the most advanced technical possibilities we are considering:
 
 {% hint style="danger" %}
