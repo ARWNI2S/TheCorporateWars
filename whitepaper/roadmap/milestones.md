@@ -55,7 +55,7 @@ Additional gameplay modules are developed incrementally.
 {% step %}
 **The Corporate Wars – Closed Beta**
 
-_**TBD 2027**_ — Restricted testing stage with selected players.
+_**TBD 2027**_-28 — Restricted testing stage with selected players.
 
 The complete system is tested in a production-grade environment: playable economy, real-time services, security, performance, and distributed synchronization.
 
@@ -65,7 +65,7 @@ Includes full visualization, stellar navigation, basic economy modules, and init
 {% step %}
 **Open Beta**
 
-_**TBD 2027**_ — Public access for all players, with persistent progression.
+_**TBD 2027**_-28 — Public access for all players, with persistent progression.
 
 The full system enters massive stress testing: interstellar logistics, functional corporations, decentralized governance, and active deep-space exploration.
 {% endstep %}
@@ -73,7 +73,7 @@ The full system enters massive stress testing: interstellar logistics, functiona
 {% step %}
 **Official Launch**
 
-_**TBD 2027**_ — Full deployment of **The Corporate Wars** with integrated gameplay, live services, and real governance activation.
+_**TBD 2027**_-28 — Full deployment of **The Corporate Wars** with integrated gameplay, live services, and real governance activation.
 
 The living economy begins, with players acting as full corporate entities within the interstellar economic system.
 {% endstep %}
