@@ -10,8 +10,7 @@ _**1-1-2025**_ — New year, new project. The ideas have matured, the technology
 {% step %}
 **Publication of This Document**
 
-_**31-3-2025**_ — The arduous task of making the concepts intelligible to most humans is finally complete.
-We publish this technical document as a living entity, open to corrections and design changes.
+_**31-3-2025**_ — The arduous task of making the concepts intelligible to most humans is finally complete. We publish this technical document as a living entity, open to corrections and design changes.
 {% endstep %}
 
 {% step %}
@@ -25,13 +24,13 @@ The project’s legal architecture is consolidated and ready for audits, store p
 {% step %}
 **Traveller™ Adaptation**
 
-_**Q2 2025**_ — Having inspired the entire design process, with key elements directly adopted from conventional structures of tabletop mechanics, adapting **The Corporate Wars** to the _next milieu_ has been remarkably smooth.
+_**Q3 2025**_ — Having inspired the entire design process, with key elements directly adopted from conventional structures of tabletop mechanics, adapting **The Corporate Wars** to the _next milieu_ has been remarkably smooth.
 {% endstep %}
 
 {% step %}
-#### **Milieu 0 – First Survey**
+**Milieu 0 – First Survey**
 
-_**Q3 2025**_ — Launch of the **First Survey**, consolidation of the initial **Políticas**, and activation of the base economy.
+_**Q4 2025**_ — Launch of the **First Survey**, consolidation of the initial **Políticas**, and activation of the base economy.
 
 This phase represents the system’s **foundational fundraising**, aligned with governance logic and economic simulation.\
 The first **MCr** are distributed, the legal architecture is defined, and key contracts are deployed on **Solana**.\
@@ -39,7 +38,7 @@ In parallel, the **client framework** is developed in **Unreal Engine 5**, focus
 {% endstep %}
 
 {% step %}
-#### **Traveller™ – Second Survey**
+**Traveller™ – Second Survey**
 
 Stage focused on visual deployment, art, interfaces, effects, and the interactive client.
 
@@ -54,7 +53,7 @@ Additional gameplay modules are developed incrementally.
 {% endstep %}
 
 {% step %}
-#### **The Corporate Wars – Closed Beta**
+**The Corporate Wars – Closed Beta**
 
 _**TBD 2027**_ — Restricted testing stage with selected players.
 
@@ -64,7 +63,7 @@ Includes full visualization, stellar navigation, basic economy modules, and init
 {% endstep %}
 
 {% step %}
-#### **Open Beta**
+**Open Beta**
 
 _**TBD 2027**_ — Public access for all players, with persistent progression.
 
@@ -72,7 +71,7 @@ The full system enters massive stress testing: interstellar logistics, functiona
 {% endstep %}
 
 {% step %}
-#### **Official Launch**
+**Official Launch**
 
 _**TBD 2027**_ — Full deployment of **The Corporate Wars** with integrated gameplay, live services, and real governance activation.
 
