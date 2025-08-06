@@ -30,7 +30,7 @@ _**Q3 2025**_ — Having inspired the entire design process, with key elements d
 {% step %}
 **Milieu 0 – First Survey**
 
-_**Q4 2025**_ — Launch of the **First Survey**, consolidation of the initial **Políticas**, and activation of the base economy.
+_**Q4 2025**_ — Launch of the **First Survey**, consolidation of the initial **Polities**, and activation of the base economy.
 
 This phase represents the system’s **foundational fundraising**, aligned with governance logic and economic simulation.\
 The first **MCr** are distributed, the legal architecture is defined, and key contracts are deployed on **Solana**.\
