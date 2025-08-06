@@ -42,7 +42,7 @@ In parallel, the **client framework** is developed in **Unreal Engine 5**, focus
 
 Stage focused on visual deployment, art, interfaces, effects, and the interactive client.
 
-Worlds, routes, Políticas, and economies external to the Third Imperium are integrated.\
+Worlds, routes, Polities, and economies external to the Third Imperium are integrated.\
 The service network is deployed and real testing begins on complex environments.
 
 Minimum gameplay mechanics are activated, along with interstellar navigation and structural data inspection.\
