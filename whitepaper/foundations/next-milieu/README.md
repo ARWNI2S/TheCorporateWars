@@ -34,7 +34,7 @@ layout:
 
 <p align="center">T’t’kha rra 7788 K’reek kharr.</p>
 
-<p align="center">It is the honorable 20123 Federation Year.</p>
+<p align="center">It is the honorable 1582 Federation Year.</p>
 
 <p align="center">Vagh'rra! Rroezhakha <strong>100'k'rrr</strong> nurghrra'rrr.</p>
 

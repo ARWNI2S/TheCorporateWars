@@ -34,7 +34,7 @@ layout:
 
 <p align="center">T’t’kha rra 7788 K’reek kharr.</p>
 
-<p align="center">Es el honorable año 20123 de La Federación.</p>
+<p align="center">Es el honorable año 1582 de La Federación.</p>
 
 <p align="center">Vagh'rra! Rroezhakha <strong>100'k'rrr</strong> nurghrra'rrr.</p>
 
