@@ -23,7 +23,7 @@ layout:
 
 # The Federation
 
-Commonly known simply as the **Federation**, this interstellar political entity is a complex alliance of species, cultures, and civilizations committed to technological cooperation, mutual understanding, and conflict prevention. Its formal name is the **Hive Federation**, though that full designation is rarely used outside diplomatic contexts.
+Commonly known simply as the **Federation**, this interstellar political entity is a complex alliance of species, cultures, and civilizations committed to technological cooperation, mutual understanding, and conflict prevention.
 
 The Federation stands as one of the galaxy's few successful experiments in multi-species governance. Its structure is decentralized: each member retains full internal autonomy, while federal organs operate through forums, committees, and multilateral treaties.
 
