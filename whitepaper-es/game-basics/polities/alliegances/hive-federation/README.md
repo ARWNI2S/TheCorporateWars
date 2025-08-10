@@ -23,7 +23,7 @@ layout:
 
 # La Federación
 
-La llamada **Federación** es una entidad política interestelar compleja, establecida como una unión de especies, culturas y civilizaciones orientadas a la cooperación tecnológica, el conocimiento mutuo y la prevención de conflictos. Su nombre formal es **Federación Colmena**, aunque pocas veces se utiliza este término completo fuera de contextos diplomáticos.
+La llamada **Federación** es una entidad política interestelar compleja, establecida como una unión de especies, culturas y civilizaciones orientadas a la cooperación tecnológica, el conocimiento mutuo y la prevención de conflictos.
 
 La Federación se presenta como uno de los pocos experimentos exitosos de gobernanza multi-especies en la historia galáctica. Su estructura es descentralizada: cada miembro conserva plena autonomía interna, mientras los órganos federativos operan mediante foros, comités y tratados multilaterales.
 
