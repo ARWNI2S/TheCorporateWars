@@ -2,7 +2,7 @@
 description: Copyright © 2025 Alternate Reality Worlds. Todos los Derechos Reservados.
 ---
 
-# **The Corporate Wars**
+# The Corporate Wars
 
 ### Propiedad Intelectual
 
@@ -14,7 +14,7 @@ description: Copyright © 2025 Alternate Reality Worlds. Todos los Derechos Rese
 
 Todos los componentes de software de _**The Corporate Wars**_, incluyendo, entre otros, programas on-chain, contratos inteligentes, APIs y aplicaciones frontend, se publican bajo la siguiente licencia, salvo que se especifique lo contrario en los repositorios individuales:
 
-> #### **Licencia MIT**
+> **Licencia MIT**
 >
 > Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados (el "Software"), para utilizar el Software sin restricción, incluyendo sin limitación los derechos a usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a quienes se proporcione el Software que hagan lo mismo, sujeto a las siguientes condiciones:
 >
@@ -38,6 +38,20 @@ La moneda del juego, **“MCr” (MegaCrédito)**, y otros activos digitales uti
 
 ***
 
+### **Declaración de Cumplimiento MiCA**
+
+**(Adaptada a la Arquitectura Hayek-Money)**
+
+_The Corporate Wars_ opera como una infraestructura digital híbrida basada en la red Solana, donde todas las entidades económicas están representadas por cuentas derivadas de programa (PDA) que conforman el **Grafo Hayek-Money**: un sistema algorítmico autónomo para el equilibrio monetario, la validación de autoridad y el trazado de latencias informativas.\
+Los depósitos de los usuarios en SOL o stablecoins (como USDT) se emplean exclusivamente como **canales de entrada y salida** para acceder o abandonar la economía interna del juego.\
+Dentro del sistema, dichos fondos se transforman en tokens de utilidad internos (MCr, RU) que rigen el estado económico de la simulación y **no pueden circular fuera del entorno del juego**.\
+La redención en SOL o stablecoins es posible **únicamente a través de las pasarelas y proveedores de pago oficiales del juego**, reflejando una **conversión funcional interna** y no un derecho financiero de reembolso.\
+El sistema no facilita ni promueve la creación de liquidez ni pares de intercambio en mercados externos (DEX/CEX).\
+Todos los flujos económicos se registran de forma transparente en la blockchain, y los costes operativos (incluyendo desarrollo e infraestructura cloud) están verificados y contabilizados.\
+En consecuencia, _The Corporate Wars_ **no constituye un emisor de tokens referenciados a activos (ART) ni de dinero electrónico (EMT)** según el Reglamento (UE) 2023/1114 (MiCA), ya que todas las funciones monetarias permanecen confinadas dentro de su marco algorítmico y de jugabilidad cerrada.
+
+***
+
 ### Exención de Responsabilidad
 
 _**The Corporate Wars**_ es una obra de ficción. Cualquier parecido con corporaciones reales, eventos, personas o sistemas — pasados, presentes o futuros — es pura coincidencia o bien utilizado con fines satíricos, educativos o artísticos.
@@ -50,7 +64,7 @@ _**The Corporate Wars**_ es una obra de ficción. Cualquier parecido con corpora
 
 Para consultas relacionadas con licencias, asociaciones, propiedad intelectual o cumplimiento legal:
 
-**Alternate Reality Worlds – **The Corporate Wars** – Departamento Legal**\
-📧 [support@thecorporatewars.com](mailto:support@thecorporatewars.com)  
-🌐 [Condiciones de Uso](https://www.thecorporatewars.com/terms-of-use)  
+**Alternate Reality Worlds – The Corporate Wars – Departamento Legal**\
+📧 [support@thecorporatewars.com](mailto:support@thecorporatewars.com)\
+🌐 [Condiciones de Uso](https://www.thecorporatewars.com/terms-of-use)\
 🌐 [Política de Privacidad](https://www.thecorporatewars.com/privacy-policy)
