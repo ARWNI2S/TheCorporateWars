@@ -2,7 +2,7 @@
 description: Copyright © 2025 Alternate Reality Worlds. All rights reserved.
 ---
 
-# **The Corporate Wars**
+# The Corporate Wars
 
 ### Intellectual Property
 
@@ -14,7 +14,7 @@ _**The Corporate Wars**_ is an original multimedia project created and developed
 
 All software components of _**The Corporate Wars**_, including but not limited to on-chain programs, smart contracts, APIs, and frontend applications, are released under the following license unless otherwise specified in individual repositories:
 
-> #### MIT License
+> **MIT License**
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy\
 > of this software and associated documentation files (the "Software"), to deal\
@@ -50,6 +50,20 @@ The in-game currency “MCr” (MegaCredit) and other digital assets used within
 
 ***
 
+### **MiCA Compliance Statement**
+
+**(Revised for Hayek-Money Architecture)**
+
+_The Corporate Wars_ operates as a hybrid digital infrastructure built on the Solana blockchain, where all economic entities are represented by program-derived accounts (PDAs) forming the **Hayek-Money Graph** — an autonomous algorithmic system for monetary equilibrium, governance validation, and informational latency tracing.\
+User deposits in SOL or stablecoins (such as USDT) are used exclusively as **entry and exit channels** to access or leave the in-game economy.\
+Within the system, these funds are transformed into internal utility tokens (MCr, RU) that govern the simulation’s economic state and cannot circulate outside the game environment.\
+Redemption in SOL or stablecoins is possible **only through the game’s official gateways and payment providers**, reflecting a **functional in-system conversion** rather than a financial redemption right.\
+No external market making, trading pairs, or liquidity provision on DEX/CEX is facilitated by the system or its operators.\
+All economic flows are transparently recorded on-chain, and operational costs (including development and cloud infrastructure) are verifiably accounted for.\
+Accordingly, _The Corporate Wars_ does **not** constitute an issuer of asset-referenced tokens (ART) or e-money tokens (EMT) under Regulation (EU) 2023/1114 (MiCA), as all monetary functions remain confined within its closed algorithmic and gameplay framework.
+
+***
+
 ### Disclaimers
 
 _**The Corporate Wars**_ is a work of fiction. Any resemblance to real corporations, events, persons, or systems — past, present, or future — is purely coincidental or used for satire, educational, or artistic purposes.
@@ -62,7 +76,7 @@ Alternate Reality Worlds does not guarantee the continued availability of servic
 
 For inquiries regarding licensing, partnerships, intellectual property, or compliance:
 
-**Alternate Reality Worlds - **The Corporate Wars** - Legal Department**\
-📧 [support@thecorporatewars.com](mailto:support@thecorporatewars.com)  
-🌐 [Terms of Use](https://www.thecorporatewars.com/terms-of-use)  
+**Alternate Reality Worlds - The Corporate Wars - Legal Department**\
+📧 [support@thecorporatewars.com](mailto:support@thecorporatewars.com)\
+🌐 [Terms of Use](https://www.thecorporatewars.com/terms-of-use)\
 🌐 [Privacy Policy](https://www.thecorporatewars.com/privacy-policy)
